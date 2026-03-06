@@ -1,13 +1,17 @@
+using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviour, ITakeDamage
 {
     [Header("Input System")]
     [SerializeField] InputActionReference moveAction;
 
     [Header("Refs")]
     [SerializeField] Rigidbody2D rb;
+    [SerializeField] SpriteRenderer spr;
+    [SerializeField] Sprite deathSprite;
 
     [Header("Movement")]
     [SerializeField] float moveSpeed = 6f;
@@ -18,12 +22,24 @@ public class PlayerController : MonoBehaviour
     Vector2 desiredVelocity;
     Vector2 velSmoothRef;
 
+    [Header("Stats")]
+    [SerializeField] int maxHP = 3;
+    int currentHP;
+
+    [SerializeField] float damageFlashTime = 0.08f;
+
+    Color originalColor;
+    Coroutine flashRoutine;
+
+    bool bDead;
+
     void Reset()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
+        rb.linearVelocity = Vector2.zero;
     }
 
     void Awake()
@@ -35,6 +51,9 @@ public class PlayerController : MonoBehaviour
 
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
+
+        currentHP = maxHP;
+        originalColor = spr.color;
     }
 
     void OnEnable()
@@ -55,6 +74,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (bDead) return;
+
         if (moveAction == null)
         {
             moveInput = Vector2.zero;
@@ -71,6 +92,8 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (bDead) return;
+
         desiredVelocity = moveInput * moveSpeed;
 
         float accel = (moveInput.sqrMagnitude > 0f) ? acceleration : deceleration;
@@ -84,5 +107,53 @@ public class PlayerController : MonoBehaviour
 
         rb.linearVelocity = newVel;
 
+    }
+
+    public void TakeDamage(int amount)
+    {
+        if (bDead) return;
+
+        GameInstance.Instance.ShakeCamera(0.05f, 0.1f);
+        currentHP = Math.Clamp(currentHP - amount, 0, maxHP);
+        print("New Player HP: " + currentHP.ToString());
+        if (currentHP <= 0)
+        {
+            Die();
+        }
+
+        if (flashRoutine != null)
+        {
+            StopCoroutine(flashRoutine);
+        }
+
+        flashRoutine = StartCoroutine(DamageFlash());
+
+    }
+
+    public void Heal(int amount)
+    {
+        if (bDead) return;
+
+        currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
+    }
+
+    public void Die()
+    {
+        rb.linearVelocity = Vector2.zero;
+        spr.sprite = deathSprite;
+        bDead = true;
+    }
+
+    IEnumerator DamageFlash()
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            spr.color = Color.red;
+            yield return new WaitForSeconds(0.03f);
+            spr.color = originalColor;
+            yield return new WaitForSeconds(0.03f);
+        }
+
+        flashRoutine = null;
     }
 }
