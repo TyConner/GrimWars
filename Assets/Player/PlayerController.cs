@@ -26,7 +26,10 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [SerializeField] int maxHP = 3;
     int currentHP;
 
+    [Header("Player Feedback")]
     [SerializeField] float damageFlashTime = 0.08f;
+    [SerializeField] float damageCameraShakeDuration = 0.2f;
+    [SerializeField] float damageCameraShakeAmplitude = 0.02f;
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -113,7 +116,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     {
         if (bDead) return;
 
-        GameInstance.Instance.ShakeCamera(0.05f, 0.1f);
+        GameInstance.Instance.ShakeCamera(damageCameraShakeDuration, damageCameraShakeAmplitude);
         currentHP = Math.Clamp(currentHP - amount, 0, maxHP);
         print("New Player HP: " + currentHP.ToString());
         if (currentHP <= 0)
