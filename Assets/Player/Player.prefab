@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6867167808447230893}
   - component: {fileID: 579560831940334851}
   - component: {fileID: 4318200315868966830}
+  - component: {fileID: 7561833675127181588}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -82,9 +83,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -8670252604052892731, guid: 1a4929797b49d5c4e81770382478d0a5, type: 3}
+  m_Sprite: {fileID: 8159891127022863514, guid: 1a28619684db33c46a5729cd4f90129d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -110,10 +111,14 @@ MonoBehaviour:
   rb: {fileID: 579560831940334851}
   spr: {fileID: 6985723806104357933}
   deathSprite: {fileID: 2991978148252989052, guid: 1a4929797b49d5c4e81770382478d0a5, type: 3}
-  moveSpeed: 6
+  moveSpeed: 4
   acceleration: 60
   deceleration: 80
   maxHP: 3
+  damageFlashTime: 0.08
+  damageCameraShakeDuration: 0.2
+  damageCameraShakeAmplitude: 0.05
+  anim: {fileID: 7561833675127181588}
 --- !u!50 &579560831940334851
 Rigidbody2D:
   serializedVersion: 5
@@ -178,3 +183,25 @@ CapsuleCollider2D:
   m_Offset: {x: -0.05, y: -0.35}
   m_Size: {x: 0.6, y: 0.2}
   m_Direction: 1
+--- !u!95 &7561833675127181588
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3027872983339938515}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e803af4b4073bfa49bebefcfcd9860b6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

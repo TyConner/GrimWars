@@ -31,6 +31,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [SerializeField] float damageCameraShakeDuration = 0.2f;
     [SerializeField] float damageCameraShakeAmplitude = 0.02f;
 
+    [SerializeField] Animator anim;
+
     Color originalColor;
     Coroutine flashRoutine;
 
@@ -87,10 +89,27 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
         moveInput = moveAction.action.ReadValue<Vector2>();
 
-        if (moveInput.sqrMagnitude > 1f)
+        if (moveInput.sqrMagnitude > 0f)
         {
+            anim.SetFloat("LastInputX", moveInput.x);
+            anim.SetFloat("LastInputY", moveInput.y);
+            anim.SetBool("bIsMoving", true);
             moveInput = moveInput.normalized;
+            if (moveInput.x < 0)
+            {
+                spr.flipX = true;
+            }
+            else if (moveInput.x != 0)
+            {
+                spr.flipX = false;
+            }
         }
+        else
+        {
+            anim.SetBool("bIsMoving", false);
+        }
+
+
     }
 
     void FixedUpdate()
@@ -145,6 +164,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.linearVelocity = Vector2.zero;
         spr.sprite = deathSprite;
         bDead = true;
+        anim.SetBool("bIsDead", true);
     }
 
     IEnumerator DamageFlash()

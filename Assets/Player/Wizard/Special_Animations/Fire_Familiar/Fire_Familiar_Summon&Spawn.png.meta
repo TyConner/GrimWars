@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 4dfc363f81f9daa4198e71e00551c019
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7730274193092747018
+    second: Fire_Familiar_Summon&Spawn_0
+  - first:
+      213: 6199328771166197197
+    second: Fire_Familiar_Summon&Spawn_1
+  - first:
+      213: 122698993712665729
+    second: Fire_Familiar_Summon&Spawn_2
+  - first:
+      213: -1546980224720966107
+    second: Fire_Familiar_Summon&Spawn_3
+  - first:
+      213: 628444906084600279
+    second: Fire_Familiar_Summon&Spawn_4
+  - first:
+      213: -1524602363826232932
+    second: Fire_Familiar_Summon&Spawn_5
+  - first:
+      213: 404997574238621677
+    second: Fire_Familiar_Summon&Spawn_6
+  - first:
+      213: -3246256620346307620
+    second: Fire_Familiar_Summon&Spawn_7
+  - first:
+      213: -8699723368814062514
+    second: Fire_Familiar_Summon&Spawn_8
+  - first:
+      213: 1627599913622472376
+    second: Fire_Familiar_Summon&Spawn_9
+  - first:
+      213: 6191598561264353687
+    second: Fire_Familiar_Summon&Spawn_10
+  - first:
+      213: 6176591089175034578
+    second: Fire_Familiar_Summon&Spawn_11
+  - first:
+      213: 2555239149265714943
+    second: Fire_Familiar_Summon&Spawn_12
+  - first:
+      213: -4281341828775260478
+    second: Fire_Familiar_Summon&Spawn_13
+  - first:
+      213: -2618218209319312883
+    second: Fire_Familiar_Summon&Spawn_14
+  - first:
+      213: 5360925805386286122
+    second: Fire_Familiar_Summon&Spawn_15
+  - first:
+      213: -2494913043787904947
+    second: Fire_Familiar_Summon&Spawn_16
+  - first:
+      213: 4975024093002008105
+    second: Fire_Familiar_Summon&Spawn_17
+  - first:
+      213: 7192718320837499340
+    second: Fire_Familiar_Summon&Spawn_18
+  - first:
+      213: -5203896829196663198
+    second: Fire_Familiar_Summon&Spawn_19
+  - first:
+      213: 4798221091805810653
+    second: Fire_Familiar_Summon&Spawn_20
+  - first:
+      213: -3486038547687407344
+    second: Fire_Familiar_Summon&Spawn_21
+  - first:
+      213: 6146667226671379086
+    second: Fire_Familiar_Summon&Spawn_22
+  - first:
+      213: 1150455487875997750
+    second: Fire_Familiar_Summon&Spawn_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 10
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06650049c88b490800000000000000
+      internalID: -7730274193092747018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc558330ca0780650800000000000000
+      internalID: 6199328771166197197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1849a8ea51ae3b100800000000000000
+      internalID: 122698993712665729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 10
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee3fe8ea5088ae0800000000000000
+      internalID: -1546980224720966107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9831cff4fa8b800800000000000000
+      internalID: 628444906084600279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 10
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91aa605a3687dae0800000000000000
+      internalID: -1524602363826232932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4363e527de9500800000000000000
+      internalID: 404997574238621677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 8
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb8f7e9dcaf2f2d0800000000000000
+      internalID: -3246256620346307620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 8
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445cad60bf544780800000000000000
+      internalID: -8699723368814062514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68cef7f75669610800000000000000
+      internalID: 1627599913622472376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 8
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7914bf3461afce550800000000000000
+      internalID: 6191598561264353687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 8
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafe11eed8a7b550800000000000000
+      internalID: 6176591089175034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7720d778067320800000000000000
+      internalID: 2555239149265714943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 8
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce44dd4a4e9594c0800000000000000
+      internalID: -4281341828775260478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 8
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02201919683aabd0800000000000000
+      internalID: -2618218209319312883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a244649dd95d56a40800000000000000
+      internalID: 5360925805386286122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 17
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4888872ec9406dd0800000000000000
+      internalID: -2494913043787904947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 9
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260564cd06da0540800000000000000
+      internalID: 4975024093002008105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 18
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc996f2443ba1d360800000000000000
+      internalID: 7192718320837499340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 9
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26683ffb76b08c7b0800000000000000
+      internalID: -5203896829196663198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 18
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4fd239a4b69240800000000000000
+      internalID: 4798221091805810653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 10
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01106c3296a1f9fc0800000000000000
+      internalID: -3486038547687407344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 13
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827846b6495d4550800000000000000
+      internalID: 6146667226671379086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Summon&Spawn_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6306fbcbb2d37ff00800000000000000
+      internalID: 1150455487875997750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Familiar_Summon&Spawn_0: -7730274193092747018
+      Fire_Familiar_Summon&Spawn_1: 6199328771166197197
+      Fire_Familiar_Summon&Spawn_10: 6191598561264353687
+      Fire_Familiar_Summon&Spawn_11: 6176591089175034578
+      Fire_Familiar_Summon&Spawn_12: 2555239149265714943
+      Fire_Familiar_Summon&Spawn_13: -4281341828775260478
+      Fire_Familiar_Summon&Spawn_14: -2618218209319312883
+      Fire_Familiar_Summon&Spawn_15: 5360925805386286122
+      Fire_Familiar_Summon&Spawn_16: -2494913043787904947
+      Fire_Familiar_Summon&Spawn_17: 4975024093002008105
+      Fire_Familiar_Summon&Spawn_18: 7192718320837499340
+      Fire_Familiar_Summon&Spawn_19: -5203896829196663198
+      Fire_Familiar_Summon&Spawn_2: 122698993712665729
+      Fire_Familiar_Summon&Spawn_20: 4798221091805810653
+      Fire_Familiar_Summon&Spawn_21: -3486038547687407344
+      Fire_Familiar_Summon&Spawn_22: 6146667226671379086
+      Fire_Familiar_Summon&Spawn_23: 1150455487875997750
+      Fire_Familiar_Summon&Spawn_3: -1546980224720966107
+      Fire_Familiar_Summon&Spawn_4: 628444906084600279
+      Fire_Familiar_Summon&Spawn_5: -1524602363826232932
+      Fire_Familiar_Summon&Spawn_6: 404997574238621677
+      Fire_Familiar_Summon&Spawn_7: -3246256620346307620
+      Fire_Familiar_Summon&Spawn_8: -8699723368814062514
+      Fire_Familiar_Summon&Spawn_9: 1627599913622472376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
