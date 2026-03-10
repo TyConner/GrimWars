@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 7e1dacb541ca47c498215a6dddbe6d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4155615854049657132
+    second: Wizard_Teleport_Start_Diagonal_0
+  - first:
+      213: -7553311398573315531
+    second: Wizard_Teleport_Start_Diagonal_1
+  - first:
+      213: 2858003610322932481
+    second: Wizard_Teleport_Start_Diagonal_2
+  - first:
+      213: -6199531828789462630
+    second: Wizard_Teleport_Start_Diagonal_3
+  - first:
+      213: 820049876493396634
+    second: Wizard_Teleport_Start_Diagonal_4
+  - first:
+      213: -4564519612563736599
+    second: Wizard_Teleport_Start_Diagonal_5
+  - first:
+      213: -9184112671427285561
+    second: Wizard_Teleport_Start_Diagonal_6
+  - first:
+      213: 4374478574035196140
+    second: Wizard_Teleport_Start_Diagonal_7
+  - first:
+      213: -3138919423710451399
+    second: Wizard_Teleport_Start_Diagonal_8
+  - first:
+      213: -6700710259644427127
+    second: Wizard_Teleport_Start_Diagonal_9
+  - first:
+      213: 7393831972616290142
+    second: Wizard_Teleport_Start_Diagonal_10
+  - first:
+      213: -6830823485080071534
+    second: Wizard_Teleport_Start_Diagonal_11
+  - first:
+      213: 4696624692213378728
+    second: Wizard_Teleport_Start_Diagonal_12
+  - first:
+      213: -3308852160152476244
+    second: Wizard_Teleport_Start_Diagonal_13
+  - first:
+      213: 6553574788933077072
+    second: Wizard_Teleport_Start_Diagonal_14
+  - first:
+      213: -2414337086764165690
+    second: Wizard_Teleport_Start_Diagonal_15
+  - first:
+      213: 7961252756560880565
+    second: Wizard_Teleport_Start_Diagonal_16
+  - first:
+      213: 4613431659700375805
+    second: Wizard_Teleport_Start_Diagonal_17
+  - first:
+      213: -5614256202458203829
+    second: Wizard_Teleport_Start_Diagonal_18
+  - first:
+      213: 3956594539712458465
+    second: Wizard_Teleport_Start_Diagonal_19
+  - first:
+      213: 1257653757051373898
+    second: Wizard_Teleport_Start_Diagonal_20
+  - first:
+      213: 9218330671505517092
+    second: Wizard_Teleport_Start_Diagonal_21
+  - first:
+      213: 1015679333124872205
+    second: Wizard_Teleport_Start_Diagonal_22
+  - first:
+      213: 6382139060415364571
+    second: Wizard_Teleport_Start_Diagonal_23
+  - first:
+      213: 4128020274327664485
+    second: Wizard_Teleport_Start_Diagonal_24
+  - first:
+      213: 343015405573055114
+    second: Wizard_Teleport_Start_Diagonal_25
+  - first:
+      213: -953890355962443342
+    second: Wizard_Teleport_Start_Diagonal_26
+  - first:
+      213: 4301523531521521697
+    second: Wizard_Teleport_Start_Diagonal_27
+  - first:
+      213: 2739844996197721359
+    second: Wizard_Teleport_Start_Diagonal_28
+  - first:
+      213: -2071644424291680499
+    second: Wizard_Teleport_Start_Diagonal_29
+  - first:
+      213: -6688071540439037777
+    second: Wizard_Teleport_Start_Diagonal_30
+  - first:
+      213: 3952586925555213587
+    second: Wizard_Teleport_Start_Diagonal_31
+  - first:
+      213: 3241544155867697608
+    second: Wizard_Teleport_Start_Diagonal_32
+  - first:
+      213: -2303443661245340932
+    second: Wizard_Teleport_Start_Diagonal_33
+  - first:
+      213: 882594978315849537
+    second: Wizard_Teleport_Start_Diagonal_34
+  - first:
+      213: 847532659146082369
+    second: Wizard_Teleport_Start_Diagonal_35
+  - first:
+      213: -8058276423218948048
+    second: Wizard_Teleport_Start_Diagonal_36
+  - first:
+      213: -7056155795990339952
+    second: Wizard_Teleport_Start_Diagonal_37
+  - first:
+      213: -378306143311920441
+    second: Wizard_Teleport_Start_Diagonal_38
+  - first:
+      213: -5219440130489359012
+    second: Wizard_Teleport_Start_Diagonal_39
+  - first:
+      213: 1403054915374645781
+    second: Wizard_Teleport_Start_Diagonal_40
+  - first:
+      213: 3284444364354832612
+    second: Wizard_Teleport_Start_Diagonal_41
+  - first:
+      213: -1459993003373127508
+    second: Wizard_Teleport_Start_Diagonal_42
+  - first:
+      213: 7609360456948029304
+    second: Wizard_Teleport_Start_Diagonal_43
+  - first:
+      213: 4752504938500600652
+    second: Wizard_Teleport_Start_Diagonal_44
+  - first:
+      213: 5017010525425226777
+    second: Wizard_Teleport_Start_Diagonal_45
+  - first:
+      213: -4625088508866163492
+    second: Wizard_Teleport_Start_Diagonal_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 105
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de736ce5694456c0800000000000000
+      internalID: -4155615854049657132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 105
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ae02a5d4f3d2790800000000000000
+      internalID: -7553311398573315531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1031518242ba9a720800000000000000
+      internalID: 2858003610322932481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b643f5a6d6f9a0800000000000000
+      internalID: -6199531828789462630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aed729407616b00800000000000000
+      internalID: 820049876493396634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7b5d2a89197a0c0800000000000000
+      internalID: -4564519612563736599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 112
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda9625f2a7b8080800000000000000
+      internalID: -9184112671427285561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 112
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dcea061545bc30800000000000000
+      internalID: 4374478574035196140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392a233a615074d0800000000000000
+      internalID: -3138919423710451399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984141f458b4203a0800000000000000
+      internalID: -6700710259644427127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f38b0410b2c9660800000000000000
+      internalID: 7393831972616290142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 95
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29218684b3a0431a0800000000000000
+      internalID: -6830823485080071534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee4b61643cd2140800000000000000
+      internalID: 4696624692213378728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e3dbcd789412d0800000000000000
+      internalID: -3308852160152476244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058cf475c89f2fa50800000000000000
+      internalID: 6553574788933077072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5de57163d8e7ed0800000000000000
+      internalID: -2414337086764165690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 79
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b329e9933d0c7e60800000000000000
+      internalID: 7961252756560880565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05bf7c6a3360040800000000000000
+      internalID: 4613431659700375805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49f17ebab72612b0800000000000000
+      internalID: -5614256202458203829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 80
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeafcb55c5a8e630800000000000000
+      internalID: 3956594539712458465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498b7fbd65147110800000000000000
+      internalID: 1257653757051373898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aac29a7e61eef70800000000000000
+      internalID: 9218330671505517092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081d90e8fa681e00800000000000000
+      internalID: 1015679333124872205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddf33359a9e19850800000000000000
+      internalID: 6382139060415364571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 52
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56739ec719ca94930800000000000000
+      internalID: 4128020274327664485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 27
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822ba9a1b2a2c400800000000000000
+      internalID: 343015405573055114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9003276c913c2f0800000000000000
+      internalID: -953890355962443342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f2598cd412bb30800000000000000
+      internalID: 4301523531521521697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052ff9f182e50620800000000000000
+      internalID: 2739844996197721359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffc254f5a0043e0800000000000000
+      internalID: -2071644424291680499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 47
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84bbf6e523f23a0800000000000000
+      internalID: -6688071540439037777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156299fdd86ad630800000000000000
+      internalID: 3952586925555213587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1dc3e3c374cfc20800000000000000
+      internalID: 3241544155867697608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 48
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a85bb1368800e0800000000000000
+      internalID: -2303443661245340932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 47
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f4f03e47b9f3c00800000000000000
+      internalID: 882594978315849537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c1fb867a03cb00800000000000000
+      internalID: 847532659146082369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381124a9404b2090800000000000000
+      internalID: -8058276423218948048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 16
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e9e2c40bf731e90800000000000000
+      internalID: -7056155795990339952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 16
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28b87219cffbaf0800000000000000
+      internalID: -378306143311920441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 15
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5563c7ead2d097b0800000000000000
+      internalID: -5219440130489359012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51285470307a87310800000000000000
+      internalID: 1403054915374645781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e847e56fb0b49d20800000000000000
+      internalID: 3284444364354832612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8936b49101dbbe0800000000000000
+      internalID: -1459993003373127508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779a4cf401e99960800000000000000
+      internalID: 7609360456948029304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433e9ccf0a44f140800000000000000
+      internalID: 4752504938500600652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914dd5add7000a540800000000000000
+      internalID: 5017010525425226777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Teleport_Start_Diagonal_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc8a46818260dfb0800000000000000
+      internalID: -4625088508866163492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wizard_Teleport_Start_Diagonal_0: -4155615854049657132
+      Wizard_Teleport_Start_Diagonal_1: -7553311398573315531
+      Wizard_Teleport_Start_Diagonal_10: 7393831972616290142
+      Wizard_Teleport_Start_Diagonal_11: -6830823485080071534
+      Wizard_Teleport_Start_Diagonal_12: 4696624692213378728
+      Wizard_Teleport_Start_Diagonal_13: -3308852160152476244
+      Wizard_Teleport_Start_Diagonal_14: 6553574788933077072
+      Wizard_Teleport_Start_Diagonal_15: -2414337086764165690
+      Wizard_Teleport_Start_Diagonal_16: 7961252756560880565
+      Wizard_Teleport_Start_Diagonal_17: 4613431659700375805
+      Wizard_Teleport_Start_Diagonal_18: -5614256202458203829
+      Wizard_Teleport_Start_Diagonal_19: 3956594539712458465
+      Wizard_Teleport_Start_Diagonal_2: 2858003610322932481
+      Wizard_Teleport_Start_Diagonal_20: 1257653757051373898
+      Wizard_Teleport_Start_Diagonal_21: 9218330671505517092
+      Wizard_Teleport_Start_Diagonal_22: 1015679333124872205
+      Wizard_Teleport_Start_Diagonal_23: 6382139060415364571
+      Wizard_Teleport_Start_Diagonal_24: 4128020274327664485
+      Wizard_Teleport_Start_Diagonal_25: 343015405573055114
+      Wizard_Teleport_Start_Diagonal_26: -953890355962443342
+      Wizard_Teleport_Start_Diagonal_27: 4301523531521521697
+      Wizard_Teleport_Start_Diagonal_28: 2739844996197721359
+      Wizard_Teleport_Start_Diagonal_29: -2071644424291680499
+      Wizard_Teleport_Start_Diagonal_3: -6199531828789462630
+      Wizard_Teleport_Start_Diagonal_30: -6688071540439037777
+      Wizard_Teleport_Start_Diagonal_31: 3952586925555213587
+      Wizard_Teleport_Start_Diagonal_32: 3241544155867697608
+      Wizard_Teleport_Start_Diagonal_33: -2303443661245340932
+      Wizard_Teleport_Start_Diagonal_34: 882594978315849537
+      Wizard_Teleport_Start_Diagonal_35: 847532659146082369
+      Wizard_Teleport_Start_Diagonal_36: -8058276423218948048
+      Wizard_Teleport_Start_Diagonal_37: -7056155795990339952
+      Wizard_Teleport_Start_Diagonal_38: -378306143311920441
+      Wizard_Teleport_Start_Diagonal_39: -5219440130489359012
+      Wizard_Teleport_Start_Diagonal_4: 820049876493396634
+      Wizard_Teleport_Start_Diagonal_40: 1403054915374645781
+      Wizard_Teleport_Start_Diagonal_41: 3284444364354832612
+      Wizard_Teleport_Start_Diagonal_42: -1459993003373127508
+      Wizard_Teleport_Start_Diagonal_43: 7609360456948029304
+      Wizard_Teleport_Start_Diagonal_44: 4752504938500600652
+      Wizard_Teleport_Start_Diagonal_45: 5017010525425226777
+      Wizard_Teleport_Start_Diagonal_46: -4625088508866163492
+      Wizard_Teleport_Start_Diagonal_5: -4564519612563736599
+      Wizard_Teleport_Start_Diagonal_6: -9184112671427285561
+      Wizard_Teleport_Start_Diagonal_7: 4374478574035196140
+      Wizard_Teleport_Start_Diagonal_8: -3138919423710451399
+      Wizard_Teleport_Start_Diagonal_9: -6700710259644427127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

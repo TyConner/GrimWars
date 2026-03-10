@@ -1,0 +1,5629 @@
+fileFormatVersion: 2
+guid: 5c690332f5336bc41913ef4c9f008c34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6656925639385259738
+    second: Deflagration_Only_Effect_0
+  - first:
+      213: 1296961784970267449
+    second: Deflagration_Only_Effect_1
+  - first:
+      213: -8084746930230062597
+    second: Deflagration_Only_Effect_2
+  - first:
+      213: -3033802202249009874
+    second: Deflagration_Only_Effect_3
+  - first:
+      213: -1057245931788521405
+    second: Deflagration_Only_Effect_4
+  - first:
+      213: 4206391709385251946
+    second: Deflagration_Only_Effect_5
+  - first:
+      213: -848431627438366915
+    second: Deflagration_Only_Effect_6
+  - first:
+      213: -5527266466454220095
+    second: Deflagration_Only_Effect_7
+  - first:
+      213: -1205942616428763606
+    second: Deflagration_Only_Effect_8
+  - first:
+      213: -2644978438484912259
+    second: Deflagration_Only_Effect_9
+  - first:
+      213: -2475271563659533260
+    second: Deflagration_Only_Effect_10
+  - first:
+      213: -1874869883255749731
+    second: Deflagration_Only_Effect_11
+  - first:
+      213: 6700867360784063189
+    second: Deflagration_Only_Effect_12
+  - first:
+      213: -3943573817469840114
+    second: Deflagration_Only_Effect_13
+  - first:
+      213: -5799385915717370247
+    second: Deflagration_Only_Effect_14
+  - first:
+      213: 6686743137320236343
+    second: Deflagration_Only_Effect_15
+  - first:
+      213: 4980295656000994877
+    second: Deflagration_Only_Effect_16
+  - first:
+      213: -8787800914110415640
+    second: Deflagration_Only_Effect_17
+  - first:
+      213: 4228419946891316643
+    second: Deflagration_Only_Effect_18
+  - first:
+      213: 5211812467458527588
+    second: Deflagration_Only_Effect_19
+  - first:
+      213: -959641155052343197
+    second: Deflagration_Only_Effect_20
+  - first:
+      213: 321625103393702358
+    second: Deflagration_Only_Effect_21
+  - first:
+      213: -3706778929218385533
+    second: Deflagration_Only_Effect_22
+  - first:
+      213: 8327412127913557627
+    second: Deflagration_Only_Effect_23
+  - first:
+      213: 6866920788162716672
+    second: Deflagration_Only_Effect_24
+  - first:
+      213: 6638507905627883758
+    second: Deflagration_Only_Effect_25
+  - first:
+      213: -3231876422432929802
+    second: Deflagration_Only_Effect_26
+  - first:
+      213: -8754653965497411208
+    second: Deflagration_Only_Effect_27
+  - first:
+      213: 1397815558210754309
+    second: Deflagration_Only_Effect_28
+  - first:
+      213: 1400927330718289403
+    second: Deflagration_Only_Effect_29
+  - first:
+      213: 1630664582992765860
+    second: Deflagration_Only_Effect_30
+  - first:
+      213: 5819780353243414980
+    second: Deflagration_Only_Effect_31
+  - first:
+      213: 7930921625740522667
+    second: Deflagration_Only_Effect_32
+  - first:
+      213: -9072611025754711175
+    second: Deflagration_Only_Effect_33
+  - first:
+      213: -943544845096727654
+    second: Deflagration_Only_Effect_34
+  - first:
+      213: -2734544222578582465
+    second: Deflagration_Only_Effect_35
+  - first:
+      213: 5835005437823816044
+    second: Deflagration_Only_Effect_36
+  - first:
+      213: -593612023886461929
+    second: Deflagration_Only_Effect_37
+  - first:
+      213: -2767853779444430906
+    second: Deflagration_Only_Effect_38
+  - first:
+      213: -3568612461701485110
+    second: Deflagration_Only_Effect_39
+  - first:
+      213: 6285001458501151741
+    second: Deflagration_Only_Effect_40
+  - first:
+      213: -75734916582870744
+    second: Deflagration_Only_Effect_41
+  - first:
+      213: 3558284935776510259
+    second: Deflagration_Only_Effect_42
+  - first:
+      213: -63575167844732311
+    second: Deflagration_Only_Effect_43
+  - first:
+      213: 3513485959228301753
+    second: Deflagration_Only_Effect_44
+  - first:
+      213: -5579683973649352448
+    second: Deflagration_Only_Effect_45
+  - first:
+      213: 7146056290257074847
+    second: Deflagration_Only_Effect_46
+  - first:
+      213: 392523574185724417
+    second: Deflagration_Only_Effect_47
+  - first:
+      213: -651471701843498936
+    second: Deflagration_Only_Effect_48
+  - first:
+      213: 4499757614420498912
+    second: Deflagration_Only_Effect_49
+  - first:
+      213: 7629124423280137808
+    second: Deflagration_Only_Effect_50
+  - first:
+      213: 1758223577653127924
+    second: Deflagration_Only_Effect_51
+  - first:
+      213: -861812102733862550
+    second: Deflagration_Only_Effect_52
+  - first:
+      213: 3249783106889502224
+    second: Deflagration_Only_Effect_53
+  - first:
+      213: -5426711513000573963
+    second: Deflagration_Only_Effect_54
+  - first:
+      213: -6311804434556483982
+    second: Deflagration_Only_Effect_55
+  - first:
+      213: -6919122637299055854
+    second: Deflagration_Only_Effect_56
+  - first:
+      213: -2501522192706232916
+    second: Deflagration_Only_Effect_57
+  - first:
+      213: -2950158801628162112
+    second: Deflagration_Only_Effect_58
+  - first:
+      213: -4859116219463868095
+    second: Deflagration_Only_Effect_59
+  - first:
+      213: 6462449939878073477
+    second: Deflagration_Only_Effect_60
+  - first:
+      213: -7922986928871463177
+    second: Deflagration_Only_Effect_61
+  - first:
+      213: -1879888944218280667
+    second: Deflagration_Only_Effect_62
+  - first:
+      213: -1085729417337914247
+    second: Deflagration_Only_Effect_63
+  - first:
+      213: -5296932351373687495
+    second: Deflagration_Only_Effect_64
+  - first:
+      213: -7403504443159941646
+    second: Deflagration_Only_Effect_65
+  - first:
+      213: 3693942638807135470
+    second: Deflagration_Only_Effect_66
+  - first:
+      213: -342768110896179557
+    second: Deflagration_Only_Effect_67
+  - first:
+      213: -5549253706450950813
+    second: Deflagration_Only_Effect_68
+  - first:
+      213: 8343275836074634394
+    second: Deflagration_Only_Effect_69
+  - first:
+      213: -4768933209216719395
+    second: Deflagration_Only_Effect_70
+  - first:
+      213: -239899685515250723
+    second: Deflagration_Only_Effect_71
+  - first:
+      213: -810352136297422833
+    second: Deflagration_Only_Effect_72
+  - first:
+      213: 831738815476523388
+    second: Deflagration_Only_Effect_73
+  - first:
+      213: 7150580585921945536
+    second: Deflagration_Only_Effect_74
+  - first:
+      213: -5046900895291603371
+    second: Deflagration_Only_Effect_75
+  - first:
+      213: 7701150040142542661
+    second: Deflagration_Only_Effect_76
+  - first:
+      213: 9018224590037601429
+    second: Deflagration_Only_Effect_77
+  - first:
+      213: 86139212658548403
+    second: Deflagration_Only_Effect_78
+  - first:
+      213: 467309852378150925
+    second: Deflagration_Only_Effect_79
+  - first:
+      213: -8748723832478050842
+    second: Deflagration_Only_Effect_80
+  - first:
+      213: 8156208139631547414
+    second: Deflagration_Only_Effect_81
+  - first:
+      213: 6473045705290869585
+    second: Deflagration_Only_Effect_82
+  - first:
+      213: 7856542318646183073
+    second: Deflagration_Only_Effect_83
+  - first:
+      213: 6670186353820157167
+    second: Deflagration_Only_Effect_84
+  - first:
+      213: -8423096827045429715
+    second: Deflagration_Only_Effect_85
+  - first:
+      213: 3930971725782230715
+    second: Deflagration_Only_Effect_86
+  - first:
+      213: 7288455698796232704
+    second: Deflagration_Only_Effect_87
+  - first:
+      213: 2944220114395676520
+    second: Deflagration_Only_Effect_88
+  - first:
+      213: -5355559057886463167
+    second: Deflagration_Only_Effect_89
+  - first:
+      213: -7936121644167518667
+    second: Deflagration_Only_Effect_90
+  - first:
+      213: 6313545173362757715
+    second: Deflagration_Only_Effect_91
+  - first:
+      213: 3437312704231152019
+    second: Deflagration_Only_Effect_92
+  - first:
+      213: -8175916164047664747
+    second: Deflagration_Only_Effect_93
+  - first:
+      213: 3834287468131186850
+    second: Deflagration_Only_Effect_94
+  - first:
+      213: -2882242743247095208
+    second: Deflagration_Only_Effect_95
+  - first:
+      213: -2209899666553115553
+    second: Deflagration_Only_Effect_96
+  - first:
+      213: -8800548065525202680
+    second: Deflagration_Only_Effect_97
+  - first:
+      213: -3519352751030714813
+    second: Deflagration_Only_Effect_98
+  - first:
+      213: 3566303263054878918
+    second: Deflagration_Only_Effect_99
+  - first:
+      213: 3764765868441642860
+    second: Deflagration_Only_Effect_100
+  - first:
+      213: 7537248639295848220
+    second: Deflagration_Only_Effect_101
+  - first:
+      213: -3490795886452505873
+    second: Deflagration_Only_Effect_102
+  - first:
+      213: -8200490191360142226
+    second: Deflagration_Only_Effect_103
+  - first:
+      213: 3217843101739648901
+    second: Deflagration_Only_Effect_104
+  - first:
+      213: 7586201024500556060
+    second: Deflagration_Only_Effect_105
+  - first:
+      213: -4886747681765195387
+    second: Deflagration_Only_Effect_106
+  - first:
+      213: -7355238999534366862
+    second: Deflagration_Only_Effect_107
+  - first:
+      213: 7567402562475447680
+    second: Deflagration_Only_Effect_108
+  - first:
+      213: 768433325274479293
+    second: Deflagration_Only_Effect_109
+  - first:
+      213: 4593309067471660812
+    second: Deflagration_Only_Effect_110
+  - first:
+      213: 8562581520097999005
+    second: Deflagration_Only_Effect_111
+  - first:
+      213: 5349332601956527972
+    second: Deflagration_Only_Effect_112
+  - first:
+      213: 7487985354476088666
+    second: Deflagration_Only_Effect_113
+  - first:
+      213: -8640984762386050079
+    second: Deflagration_Only_Effect_114
+  - first:
+      213: 6087897531799702483
+    second: Deflagration_Only_Effect_115
+  - first:
+      213: -1978427997918684780
+    second: Deflagration_Only_Effect_116
+  - first:
+      213: -2842463167530470342
+    second: Deflagration_Only_Effect_117
+  - first:
+      213: 7284429173093540215
+    second: Deflagration_Only_Effect_118
+  - first:
+      213: 4620485926055566291
+    second: Deflagration_Only_Effect_119
+  - first:
+      213: 7362359246469257329
+    second: Deflagration_Only_Effect_120
+  - first:
+      213: 233827254075283173
+    second: Deflagration_Only_Effect_121
+  - first:
+      213: -4097574953990414557
+    second: Deflagration_Only_Effect_122
+  - first:
+      213: 8220775886408086301
+    second: Deflagration_Only_Effect_123
+  - first:
+      213: 6789461929775043539
+    second: Deflagration_Only_Effect_124
+  - first:
+      213: -6567317727293630002
+    second: Deflagration_Only_Effect_125
+  - first:
+      213: 1642802204267497360
+    second: Deflagration_Only_Effect_126
+  - first:
+      213: 5382233830791702955
+    second: Deflagration_Only_Effect_127
+  - first:
+      213: 1093707238663428399
+    second: Deflagration_Only_Effect_128
+  - first:
+      213: -2271923730679553303
+    second: Deflagration_Only_Effect_129
+  - first:
+      213: 8679175427814503303
+    second: Deflagration_Only_Effect_130
+  - first:
+      213: 1084554829079304787
+    second: Deflagration_Only_Effect_131
+  - first:
+      213: 4415423487031913124
+    second: Deflagration_Only_Effect_132
+  - first:
+      213: 1148026718624912567
+    second: Deflagration_Only_Effect_133
+  - first:
+      213: 8863924182570591101
+    second: Deflagration_Only_Effect_134
+  - first:
+      213: -7883402267942137179
+    second: Deflagration_Only_Effect_135
+  - first:
+      213: -6452234130904291120
+    second: Deflagration_Only_Effect_136
+  - first:
+      213: -4244413581498762886
+    second: Deflagration_Only_Effect_137
+  - first:
+      213: 6993874726252557074
+    second: Deflagration_Only_Effect_138
+  - first:
+      213: -8167619733219306137
+    second: Deflagration_Only_Effect_139
+  - first:
+      213: 8844690418991062624
+    second: Deflagration_Only_Effect_140
+  - first:
+      213: 1270043308109725714
+    second: Deflagration_Only_Effect_141
+  - first:
+      213: -789145846871900223
+    second: Deflagration_Only_Effect_142
+  - first:
+      213: -7984806797386000605
+    second: Deflagration_Only_Effect_143
+  - first:
+      213: 6353039963672651973
+    second: Deflagration_Only_Effect_144
+  - first:
+      213: -4352541648808618083
+    second: Deflagration_Only_Effect_145
+  - first:
+      213: -8754739973531158983
+    second: Deflagration_Only_Effect_146
+  - first:
+      213: -5043507277272145616
+    second: Deflagration_Only_Effect_147
+  - first:
+      213: 6389114899710735577
+    second: Deflagration_Only_Effect_148
+  - first:
+      213: 7084191896973609302
+    second: Deflagration_Only_Effect_149
+  - first:
+      213: -4624567290102515591
+    second: Deflagration_Only_Effect_150
+  - first:
+      213: -3832004506511168343
+    second: Deflagration_Only_Effect_151
+  - first:
+      213: 1908987979033096975
+    second: Deflagration_Only_Effect_152
+  - first:
+      213: 5324893259839904975
+    second: Deflagration_Only_Effect_153
+  - first:
+      213: 990450840538915716
+    second: Deflagration_Only_Effect_154
+  - first:
+      213: -3706060104785410400
+    second: Deflagration_Only_Effect_155
+  - first:
+      213: 8205176387638675796
+    second: Deflagration_Only_Effect_156
+  - first:
+      213: 1478015387205976036
+    second: Deflagration_Only_Effect_157
+  - first:
+      213: 8569960115287561700
+    second: Deflagration_Only_Effect_158
+  - first:
+      213: -5479816897545051184
+    second: Deflagration_Only_Effect_159
+  - first:
+      213: 6007324098904610737
+    second: Deflagration_Only_Effect_160
+  - first:
+      213: -264988440403937865
+    second: Deflagration_Only_Effect_161
+  - first:
+      213: -1853855735779489254
+    second: Deflagration_Only_Effect_162
+  - first:
+      213: -2979593871211465094
+    second: Deflagration_Only_Effect_163
+  - first:
+      213: 4433246986187851955
+    second: Deflagration_Only_Effect_164
+  - first:
+      213: -1079735881523925951
+    second: Deflagration_Only_Effect_165
+  - first:
+      213: -1861277173725882171
+    second: Deflagration_Only_Effect_166
+  - first:
+      213: -2698097161328431603
+    second: Deflagration_Only_Effect_167
+  - first:
+      213: -1084231499716984400
+    second: Deflagration_Only_Effect_168
+  - first:
+      213: -6472349215118105569
+    second: Deflagration_Only_Effect_169
+  - first:
+      213: -2364086265777761428
+    second: Deflagration_Only_Effect_170
+  - first:
+      213: 1191752442520752514
+    second: Deflagration_Only_Effect_171
+  - first:
+      213: -7790186951247210646
+    second: Deflagration_Only_Effect_172
+  - first:
+      213: -4995484838621438511
+    second: Deflagration_Only_Effect_173
+  - first:
+      213: 6158682202679785767
+    second: Deflagration_Only_Effect_174
+  - first:
+      213: 8670845873155294732
+    second: Deflagration_Only_Effect_175
+  - first:
+      213: -9166419826247823428
+    second: Deflagration_Only_Effect_176
+  - first:
+      213: 4506200477105985034
+    second: Deflagration_Only_Effect_177
+  - first:
+      213: 4299982538100620775
+    second: Deflagration_Only_Effect_178
+  - first:
+      213: -5591348952814082747
+    second: Deflagration_Only_Effect_179
+  - first:
+      213: 5120232168120970424
+    second: Deflagration_Only_Effect_180
+  - first:
+      213: 769759459294411553
+    second: Deflagration_Only_Effect_181
+  - first:
+      213: 714840036848575759
+    second: Deflagration_Only_Effect_182
+  - first:
+      213: 3908897191729160034
+    second: Deflagration_Only_Effect_183
+  - first:
+      213: 7265447668222865213
+    second: Deflagration_Only_Effect_184
+  - first:
+      213: -8504388042377563709
+    second: Deflagration_Only_Effect_185
+  - first:
+      213: 1593149905245523534
+    second: Deflagration_Only_Effect_186
+  - first:
+      213: -2766795618790096237
+    second: Deflagration_Only_Effect_187
+  - first:
+      213: -3214006666500814644
+    second: Deflagration_Only_Effect_188
+  - first:
+      213: 800344689325756431
+    second: Deflagration_Only_Effect_189
+  - first:
+      213: -1005789736267671150
+    second: Deflagration_Only_Effect_190
+  - first:
+      213: 2139462726758835599
+    second: Deflagration_Only_Effect_191
+  - first:
+      213: 8007738288064999512
+    second: Deflagration_Only_Effect_192
+  - first:
+      213: 6034864905479854631
+    second: Deflagration_Only_Effect_193
+  - first:
+      213: -3855361799777931038
+    second: Deflagration_Only_Effect_194
+  - first:
+      213: -9066391968876430096
+    second: Deflagration_Only_Effect_195
+  - first:
+      213: -2138069934105107058
+    second: Deflagration_Only_Effect_196
+  - first:
+      213: -4469449993058082956
+    second: Deflagration_Only_Effect_197
+  - first:
+      213: -913319180192303455
+    second: Deflagration_Only_Effect_198
+  - first:
+      213: 901654744342207321
+    second: Deflagration_Only_Effect_199
+  - first:
+      213: 24282239512875058
+    second: Deflagration_Only_Effect_200
+  - first:
+      213: 1478220378790418550
+    second: Deflagration_Only_Effect_201
+  - first:
+      213: 9104997304537040118
+    second: Deflagration_Only_Effect_202
+  - first:
+      213: -1006626244246469976
+    second: Deflagration_Only_Effect_203
+  - first:
+      213: -7149060300448321618
+    second: Deflagration_Only_Effect_204
+  - first:
+      213: 422422153257441508
+    second: Deflagration_Only_Effect_205
+  - first:
+      213: 6818532330041218806
+    second: Deflagration_Only_Effect_206
+  - first:
+      213: 3769649381314558468
+    second: Deflagration_Only_Effect_207
+  - first:
+      213: 3619877678614482985
+    second: Deflagration_Only_Effect_208
+  - first:
+      213: 773538508855467236
+    second: Deflagration_Only_Effect_209
+  - first:
+      213: -8563417427666007146
+    second: Deflagration_Only_Effect_210
+  - first:
+      213: 1884385280041413616
+    second: Deflagration_Only_Effect_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 54
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade9fbf5996226c50800000000000000
+      internalID: 6656925639385259738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 29
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bc8603fdbbff110800000000000000
+      internalID: 1296961784970267449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf115b470853dcf80800000000000000
+      internalID: -8084746930230062597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25662888f4c5e5d0800000000000000
+      internalID: -3033802202249009874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 40
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b4833d68e351f0800000000000000
+      internalID: -1057245931788521405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c5e0829fa106a30800000000000000
+      internalID: 4206391709385251946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f54561ee3c934f0800000000000000
+      internalID: -848431627438366915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25118fe643b43b0800000000000000
+      internalID: -5527266466454220095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2622486491a34fe0800000000000000
+      internalID: -1205942616428763606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d771a87bf162b4bd0800000000000000
+      internalID: -2644978438484912259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a27d90a116add0800000000000000
+      internalID: -2475271563659533260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93867056cf1bf5e0800000000000000
+      internalID: -1874869883255749731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1b86ac534efc50800000000000000
+      internalID: 6700867360784063189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05dd28c18c9549c0800000000000000
+      internalID: -3943573817469840114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e33427c31748fa0800000000000000
+      internalID: -5799385915717370247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f04c94751ccc50800000000000000
+      internalID: 6686743137320236343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 30
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e3c5c23809d1540800000000000000
+      internalID: 4980295656000994877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 37
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec789dd0a57b0680800000000000000
+      internalID: -8787800914110415640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad02afd98d5eaa30800000000000000
+      internalID: 4228419946891316643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46151d663d3145840800000000000000
+      internalID: 5211812467458527588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 40
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3607241347baea2f0800000000000000
+      internalID: -959641155052343197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d141a6d354a67400800000000000000
+      internalID: 321625103393702358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38909070430ee8cc0800000000000000
+      internalID: -3706778929218385533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3196b539e09370800000000000000
+      internalID: 8327412127913557627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042f2703143c4f50800000000000000
+      internalID: 6866920788162716672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8829194c7b02c50800000000000000
+      internalID: 6638507905627883758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7ccea54811623d0800000000000000
+      internalID: -3231876422432929802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879df0f3a98318680800000000000000
+      internalID: -8754653965497411208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5079aa028d9066310800000000000000
+      internalID: 1397815558210754309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd899f1cf7117310800000000000000
+      internalID: 1400927330718289403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a328117cc841a610800000000000000
+      internalID: 1630664582992765860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c10fd1956304c050800000000000000
+      internalID: 5819780353243414980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 39
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43ab3e23b401e60800000000000000
+      internalID: 7930921625740522667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b1990475c971280800000000000000
+      internalID: -9072611025754711175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bcb5666fad7e2f0800000000000000
+      internalID: -943544845096727654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 38
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5b9e8482fc0ad0800000000000000
+      internalID: -2734544222578582465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6116ffc78a1af050800000000000000
+      internalID: 5835005437823816044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 37
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714c8d5620113c7f0800000000000000
+      internalID: -593612023886461929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c70efdf6ab9699d0800000000000000
+      internalID: -2767853779444430906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd20479fddb97ec0800000000000000
+      internalID: -3568612461701485110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 40
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe5c2f68fc83750800000000000000
+      internalID: 6285001458501151741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821fbff9e7fe2fef0800000000000000
+      internalID: -75734916582870744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312596eb41916130800000000000000
+      internalID: 3558284935776510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9623410c8b22e1ff0800000000000000
+      internalID: -63575167844732311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1202b5dd862c030800000000000000
+      internalID: 3513485959228301753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b0b70dfaf092b0800000000000000
+      internalID: -5579683973649352448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9af7b5a554eb2360800000000000000
+      internalID: 7146056290257074847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8e4d6c16827500800000000000000
+      internalID: 392523574185724417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848266650f185f6f0800000000000000
+      internalID: -651471701843498936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e994e6a5b9527e30800000000000000
+      internalID: 4499757614420498912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569edcfd3810e960800000000000000
+      internalID: 7629124423280137808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa2bb54707766810800000000000000
+      internalID: 1758223577653127924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_52
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 39
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696a69657a3a04f0800000000000000
+      internalID: -861812102733862550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_53
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec633848c891d20800000000000000
+      internalID: 3249783106889502224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_54
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3041181a270b4b0800000000000000
+      internalID: -5426711513000573963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_55
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 20
+        width: 136
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2768682ee47f768a0800000000000000
+      internalID: -6311804434556483982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2130d66de965aff90800000000000000
+      internalID: -6919122637299055854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1df1c1dec84dd0800000000000000
+      internalID: -2501522192706232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c716f5533eee07d0800000000000000
+      internalID: -2950158801628162112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14164880b83f09cb0800000000000000
+      internalID: -4859116219463868095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845d251bfb3fa950800000000000000
+      internalID: 6462449939878073477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ad80bd55eb0290800000000000000
+      internalID: -7922986928871463177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_62
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6fae17fa49e5e0800000000000000
+      internalID: -1879888944218280667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb16de8d6bee0f0800000000000000
+      internalID: -1085729417337914247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_64
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c81d37148d76b0800000000000000
+      internalID: -5296932351373687495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_65
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 36
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdec643fe7714990800000000000000
+      internalID: -7403504443159941646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_66
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b4c63245834330800000000000000
+      internalID: 3693942638807135470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9693bd183e3e3bf0800000000000000
+      internalID: -342768110896179557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_68
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a87ab7271df2b0800000000000000
+      internalID: -5549253706450950813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c24581b2549c370800000000000000
+      internalID: 8343275836074634394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_70
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e21b538851ddb0800000000000000
+      internalID: -4768933209216719395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_71
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b22fc184bbacf0800000000000000
+      internalID: -239899685515250723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_72
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 25
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f006305860d01c4f0800000000000000
+      internalID: -810352136297422833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_73
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e162cb0eea8b00800000000000000
+      internalID: 831738815476523388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_74
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 25
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf9ea15827fb3360800000000000000
+      internalID: 7150580585921945536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_75
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560b87106ec5f9b0800000000000000
+      internalID: -5046900895291603371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_76
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 25
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477ea8b82bffda60800000000000000
+      internalID: 7701150040142542661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_77
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 36
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c42e9eb7b272d70800000000000000
+      internalID: 9018224590037601429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_78
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9eb35827023100800000000000000
+      internalID: 86139212658548403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_79
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d083a07b5d73c7600800000000000000
+      internalID: 467309852378150925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_80
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 30
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d62fe60a469680800000000000000
+      internalID: -8748723832478050842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_81
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61453ece61ca03170800000000000000
+      internalID: 8156208139631547414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_82
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15beab6f5c0e4d950800000000000000
+      internalID: 6473045705290869585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_83
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cab1fc9b080d60800000000000000
+      internalID: 7856542318646183073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_84
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 36
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4cb1d0623419c50800000000000000
+      internalID: 6670186353820157167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_85
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ebc3330162b1b80800000000000000
+      internalID: -8423096827045429715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_86
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6aa5915fd9d8630800000000000000
+      internalID: 3930971725782230715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_87
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000cbe797dbc52560800000000000000
+      internalID: 7288455698796232704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_88
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3d1b4898fbd820800000000000000
+      internalID: 2944220114395676520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_89
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3d0d696b3da5b0800000000000000
+      internalID: -5355559057886463167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_90
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5362b19796b3dd190800000000000000
+      internalID: -7936121644167518667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_91
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 25
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3505ba372e73e9750800000000000000
+      internalID: 6313545173362757715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_92
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39992ad51b9c3bf20800000000000000
+      internalID: 3437312704231152019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_93
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 25
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5998090119f498e80800000000000000
+      internalID: -8175916164047664747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_94
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f0b82320263530800000000000000
+      internalID: 3834287468131186850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_95
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 25
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3f4cee773008d0800000000000000
+      internalID: -2882242743247095208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_96
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 36
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce8d936fbd451e0800000000000000
+      internalID: -2209899666553115553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8018e95692c2ed580800000000000000
+      internalID: -8800548065525202680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e358bb15fb82fc0800000000000000
+      internalID: -3519352751030714813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d3b33ced0e7130800000000000000
+      internalID: 3566303263054878918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_100
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67aafa5c922f3430800000000000000
+      internalID: 3764765868441642860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f760114bfa99860800000000000000
+      internalID: 7537248639295848220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_102
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28a94e2a33e8fc0800000000000000
+      internalID: -3490795886452505873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_103
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 29
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6457e77e91023e80800000000000000
+      internalID: -8200490191360142226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_104
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587022e804318ac20800000000000000
+      internalID: 3217843101739648901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_105
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116f0c63a9974960800000000000000
+      internalID: 7586201024500556060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_106
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5810c61efd8ce2cb0800000000000000
+      internalID: -4886747681765195387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_107
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f87a28911fce990800000000000000
+      internalID: -7355238999534366862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_108
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 27
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085dab86980d40960800000000000000
+      internalID: 7567402562475447680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_109
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbabe8ab9060aaa00800000000000000
+      internalID: 768433325274479293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_110
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07aa3ea246bebf30800000000000000
+      internalID: 4593309067471660812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_111
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98f3c9a68664d670800000000000000
+      internalID: 8562581520097999005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_112
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fe805d8a5ac3a40800000000000000
+      internalID: 5349332601956527972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_113
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5defd0c10baae760800000000000000
+      internalID: 7487985354476088666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_114
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e39a68f32e051880800000000000000
+      internalID: -8640984762386050079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_115
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db06e3dc8e8c7450800000000000000
+      internalID: 6087897531799702483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_116
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4999e52d7363b84e0800000000000000
+      internalID: -1978427997918684780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_117
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f6342fca8d88d0800000000000000
+      internalID: -2842463167530470342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771abb50dbd771560800000000000000
+      internalID: 7284429173093540215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_119
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbdb3828734f1040800000000000000
+      internalID: 4620485926055566291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_120
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dc9a2aba5c2660800000000000000
+      internalID: 7362359246469257329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_121
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e656f116a8be3300800000000000000
+      internalID: 233827254075283173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_122
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f1dda0a4d7227c0800000000000000
+      internalID: -4097574953990414557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_123
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137377fc10161270800000000000000
+      internalID: 8220775886408086301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_124
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3974c27a3093e50800000000000000
+      internalID: 6789461929775043539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_125
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 27
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9998972533cd4a0800000000000000
+      internalID: -6567317727293630002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_126
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c79d96e76cc610800000000000000
+      internalID: 1642802204267497360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_127
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ed6e172981ba40800000000000000
+      internalID: 5382233830791702955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_128
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299ec850f0ad2f00800000000000000
+      internalID: 1093707238663428399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_129
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a01477618870e0800000000000000
+      internalID: -2271923730679553303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_130
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783be2e3110a27870800000000000000
+      internalID: 8679175427814503303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad4beeedc1d0f00800000000000000
+      internalID: 1084554829079304787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_132
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa247d744cb64d30800000000000000
+      internalID: 4415423487031913124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_133
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b49b44d73c9eef00800000000000000
+      internalID: 1148026718624912567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_134
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736d1ab41cf20b70800000000000000
+      internalID: 8863924182570591101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_135
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2dcc5c767889290800000000000000
+      internalID: -7883402267942137179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_136
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86ccb4e3f0576a0800000000000000
+      internalID: -6452234130904291120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_137
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a793ce2e550d815c0800000000000000
+      internalID: -4244413581498762886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_138
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213bdd5220c3f0160800000000000000
+      internalID: 6993874726252557074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_139
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651ef46029c6ae80800000000000000
+      internalID: -8167619733219306137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e534c2317aeba70800000000000000
+      internalID: 8844690418991062624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100e35e8a910a110800000000000000
+      internalID: 1270043308109725714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb93988046c05f0800000000000000
+      internalID: -789145846871900223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_143
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327dea9e584403190800000000000000
+      internalID: -7984806797386000605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_144
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a196ef288a2850800000000000000
+      internalID: 6353039963672651973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_145
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975ba06e6aa893c0800000000000000
+      internalID: -4352541648808618083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93633c0f06ae08680800000000000000
+      internalID: -8754739973531158983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a81c5adcd10ab0800000000000000
+      internalID: -5043507277272145616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_148
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f96a7622baa850800000000000000
+      internalID: 6389114899710735577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_149
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65900d32ffa105260800000000000000
+      internalID: 7084191896973609302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_150
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9787c893d8c32dfb0800000000000000
+      internalID: -4624567290102515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_151
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca4b3443cf1dac0800000000000000
+      internalID: -3832004506511168343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_152
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 20
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0332c2e3761e7a10800000000000000
+      internalID: 1908987979033096975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc11a31532d5e940800000000000000
+      internalID: 5324893259839904975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_154
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832fc5bac9cebd00800000000000000
+      internalID: 990450840538915716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_155
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6c40268fd619cc0800000000000000
+      internalID: -3706060104785410400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_156
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 25
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45940a0a374aed170800000000000000
+      internalID: 8205176387638675796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_157
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef39fee927f28410800000000000000
+      internalID: 1478015387205976036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_158
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e51bfab15d9ee670800000000000000
+      internalID: 8569960115287561700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_159
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e4a3a097c3f3b0800000000000000
+      internalID: -5479816897545051184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_160
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75ad5907d4e5350800000000000000
+      internalID: 6007324098904610737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_161
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5732cda62925cf0800000000000000
+      internalID: -264988440403937865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a0b0cc708c546e0800000000000000
+      internalID: -1853855735779489254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_163
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a767283292b56a6d0800000000000000
+      internalID: -2979593871211465094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_164
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84c4545ae068d30800000000000000
+      internalID: 4433246986187851955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_165
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce58abfe10401f0800000000000000
+      internalID: -1079735881523925951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_166
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8968f954a6b26e0800000000000000
+      internalID: -1861277173725882171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_167
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e67894dee6e8ad0800000000000000
+      internalID: -2698097161328431603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_168
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1841d023904f0f0800000000000000
+      internalID: -1084231499716984400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_169
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146b9a4ea89d26a0800000000000000
+      internalID: -6472349215118105569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_170
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63dfe51114113fd0800000000000000
+      internalID: -2364086265777761428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_171
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 20
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28157a44884f98010800000000000000
+      internalID: 1191752442520752514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_172
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d605fd32b3e390800000000000000
+      internalID: -7790186951247210646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_173
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd9e19a1097caab0800000000000000
+      internalID: -4995484838621438511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_174
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729bf3f45d8087550800000000000000
+      internalID: 6158682202679785767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_175
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06459ba168055870800000000000000
+      internalID: 8670845873155294732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_176
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf866adbb55ac080800000000000000
+      internalID: -9166419826247823428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_177
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 25
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a061994857d398e30800000000000000
+      internalID: 4506200477105985034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_178
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edbedb065b9cab30800000000000000
+      internalID: 4299982538100620775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_179
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a34c60c98762b0800000000000000
+      internalID: -5591348952814082747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_180
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce06c5708be0740800000000000000
+      internalID: 5120232168120970424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_181
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7dbd562cbeaa00800000000000000
+      internalID: 769759459294411553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_182
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052693e93f9be900800000000000000
+      internalID: 714840036848575759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_183
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fd98029413f3630800000000000000
+      internalID: 3908897191729160034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_184
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f2d96092e04d460800000000000000
+      internalID: 7265447668222865213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_185
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1710632285af980800000000000000
+      internalID: -8504388042377563709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_186
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e4b10e5610c1610800000000000000
+      internalID: 1593149905245523534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_187
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392c8e73b0e5a99d0800000000000000
+      internalID: -2766795618790096237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_188
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc84b7127fd8563d0800000000000000
+      internalID: -3214006666500814644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_189
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d12921456b1b00800000000000000
+      internalID: 800344689325756431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_190
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29918035097ba02f0800000000000000
+      internalID: -1005789736267671150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_191
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8526aeb306e0bd10800000000000000
+      internalID: 2139462726758835599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_192
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b862db83312f60800000000000000
+      internalID: 8007738288064999512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_193
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a199e48a520c350800000000000000
+      internalID: 6034864905479854631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_194
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e030a3aed00f7ac0800000000000000
+      internalID: -3855361799777931038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_195
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7aa44a84bd2280800000000000000
+      internalID: -9066391968876430096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_196
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e8b019bc0452e0800000000000000
+      internalID: -2138069934105107058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_197
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f966659e259f1c0800000000000000
+      internalID: -4469449993058082956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_198
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6361a6b0d3353f0800000000000000
+      internalID: -913319180192303455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_199
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b109a7632538c00800000000000000
+      internalID: 901654744342207321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_200
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23014847194465000800000000000000
+      internalID: 24282239512875058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_201
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678db814a91b38410800000000000000
+      internalID: 1478220378790418550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_202
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c1d1eec27b5e70800000000000000
+      internalID: 9104997304537040118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_203
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a28a12a3ceb702f0800000000000000
+      internalID: -1006626244246469976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_204
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2ee9b88f69cc90800000000000000
+      internalID: -7149060300448321618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_205
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e85a26d5bebcd500800000000000000
+      internalID: 422422153257441508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_206
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f69f9d270b40ae50800000000000000
+      internalID: 6818532330041218806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_207
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a760dc32c705430800000000000000
+      internalID: 3769649381314558468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_208
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209e2cd1936c3230800000000000000
+      internalID: 3619877678614482985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_209
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec5a68ec292cba00800000000000000
+      internalID: 773538508855467236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_210
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b04907831a82980800000000000000
+      internalID: -8563417427666007146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deflagration_Only_Effect_211
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe7d4ad6ea62a10800000000000000
+      internalID: 1884385280041413616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deflagration_Only_Effect_0: 6656925639385259738
+      Deflagration_Only_Effect_1: 1296961784970267449
+      Deflagration_Only_Effect_10: -2475271563659533260
+      Deflagration_Only_Effect_100: 3764765868441642860
+      Deflagration_Only_Effect_101: 7537248639295848220
+      Deflagration_Only_Effect_102: -3490795886452505873
+      Deflagration_Only_Effect_103: -8200490191360142226
+      Deflagration_Only_Effect_104: 3217843101739648901
+      Deflagration_Only_Effect_105: 7586201024500556060
+      Deflagration_Only_Effect_106: -4886747681765195387
+      Deflagration_Only_Effect_107: -7355238999534366862
+      Deflagration_Only_Effect_108: 7567402562475447680
+      Deflagration_Only_Effect_109: 768433325274479293
+      Deflagration_Only_Effect_11: -1874869883255749731
+      Deflagration_Only_Effect_110: 4593309067471660812
+      Deflagration_Only_Effect_111: 8562581520097999005
+      Deflagration_Only_Effect_112: 5349332601956527972
+      Deflagration_Only_Effect_113: 7487985354476088666
+      Deflagration_Only_Effect_114: -8640984762386050079
+      Deflagration_Only_Effect_115: 6087897531799702483
+      Deflagration_Only_Effect_116: -1978427997918684780
+      Deflagration_Only_Effect_117: -2842463167530470342
+      Deflagration_Only_Effect_118: 7284429173093540215
+      Deflagration_Only_Effect_119: 4620485926055566291
+      Deflagration_Only_Effect_12: 6700867360784063189
+      Deflagration_Only_Effect_120: 7362359246469257329
+      Deflagration_Only_Effect_121: 233827254075283173
+      Deflagration_Only_Effect_122: -4097574953990414557
+      Deflagration_Only_Effect_123: 8220775886408086301
+      Deflagration_Only_Effect_124: 6789461929775043539
+      Deflagration_Only_Effect_125: -6567317727293630002
+      Deflagration_Only_Effect_126: 1642802204267497360
+      Deflagration_Only_Effect_127: 5382233830791702955
+      Deflagration_Only_Effect_128: 1093707238663428399
+      Deflagration_Only_Effect_129: -2271923730679553303
+      Deflagration_Only_Effect_13: -3943573817469840114
+      Deflagration_Only_Effect_130: 8679175427814503303
+      Deflagration_Only_Effect_131: 1084554829079304787
+      Deflagration_Only_Effect_132: 4415423487031913124
+      Deflagration_Only_Effect_133: 1148026718624912567
+      Deflagration_Only_Effect_134: 8863924182570591101
+      Deflagration_Only_Effect_135: -7883402267942137179
+      Deflagration_Only_Effect_136: -6452234130904291120
+      Deflagration_Only_Effect_137: -4244413581498762886
+      Deflagration_Only_Effect_138: 6993874726252557074
+      Deflagration_Only_Effect_139: -8167619733219306137
+      Deflagration_Only_Effect_14: -5799385915717370247
+      Deflagration_Only_Effect_140: 8844690418991062624
+      Deflagration_Only_Effect_141: 1270043308109725714
+      Deflagration_Only_Effect_142: -789145846871900223
+      Deflagration_Only_Effect_143: -7984806797386000605
+      Deflagration_Only_Effect_144: 6353039963672651973
+      Deflagration_Only_Effect_145: -4352541648808618083
+      Deflagration_Only_Effect_146: -8754739973531158983
+      Deflagration_Only_Effect_147: -5043507277272145616
+      Deflagration_Only_Effect_148: 6389114899710735577
+      Deflagration_Only_Effect_149: 7084191896973609302
+      Deflagration_Only_Effect_15: 6686743137320236343
+      Deflagration_Only_Effect_150: -4624567290102515591
+      Deflagration_Only_Effect_151: -3832004506511168343
+      Deflagration_Only_Effect_152: 1908987979033096975
+      Deflagration_Only_Effect_153: 5324893259839904975
+      Deflagration_Only_Effect_154: 990450840538915716
+      Deflagration_Only_Effect_155: -3706060104785410400
+      Deflagration_Only_Effect_156: 8205176387638675796
+      Deflagration_Only_Effect_157: 1478015387205976036
+      Deflagration_Only_Effect_158: 8569960115287561700
+      Deflagration_Only_Effect_159: -5479816897545051184
+      Deflagration_Only_Effect_16: 4980295656000994877
+      Deflagration_Only_Effect_160: 6007324098904610737
+      Deflagration_Only_Effect_161: -264988440403937865
+      Deflagration_Only_Effect_162: -1853855735779489254
+      Deflagration_Only_Effect_163: -2979593871211465094
+      Deflagration_Only_Effect_164: 4433246986187851955
+      Deflagration_Only_Effect_165: -1079735881523925951
+      Deflagration_Only_Effect_166: -1861277173725882171
+      Deflagration_Only_Effect_167: -2698097161328431603
+      Deflagration_Only_Effect_168: -1084231499716984400
+      Deflagration_Only_Effect_169: -6472349215118105569
+      Deflagration_Only_Effect_17: -8787800914110415640
+      Deflagration_Only_Effect_170: -2364086265777761428
+      Deflagration_Only_Effect_171: 1191752442520752514
+      Deflagration_Only_Effect_172: -7790186951247210646
+      Deflagration_Only_Effect_173: -4995484838621438511
+      Deflagration_Only_Effect_174: 6158682202679785767
+      Deflagration_Only_Effect_175: 8670845873155294732
+      Deflagration_Only_Effect_176: -9166419826247823428
+      Deflagration_Only_Effect_177: 4506200477105985034
+      Deflagration_Only_Effect_178: 4299982538100620775
+      Deflagration_Only_Effect_179: -5591348952814082747
+      Deflagration_Only_Effect_18: 4228419946891316643
+      Deflagration_Only_Effect_180: 5120232168120970424
+      Deflagration_Only_Effect_181: 769759459294411553
+      Deflagration_Only_Effect_182: 714840036848575759
+      Deflagration_Only_Effect_183: 3908897191729160034
+      Deflagration_Only_Effect_184: 7265447668222865213
+      Deflagration_Only_Effect_185: -8504388042377563709
+      Deflagration_Only_Effect_186: 1593149905245523534
+      Deflagration_Only_Effect_187: -2766795618790096237
+      Deflagration_Only_Effect_188: -3214006666500814644
+      Deflagration_Only_Effect_189: 800344689325756431
+      Deflagration_Only_Effect_19: 5211812467458527588
+      Deflagration_Only_Effect_190: -1005789736267671150
+      Deflagration_Only_Effect_191: 2139462726758835599
+      Deflagration_Only_Effect_192: 8007738288064999512
+      Deflagration_Only_Effect_193: 6034864905479854631
+      Deflagration_Only_Effect_194: -3855361799777931038
+      Deflagration_Only_Effect_195: -9066391968876430096
+      Deflagration_Only_Effect_196: -2138069934105107058
+      Deflagration_Only_Effect_197: -4469449993058082956
+      Deflagration_Only_Effect_198: -913319180192303455
+      Deflagration_Only_Effect_199: 901654744342207321
+      Deflagration_Only_Effect_2: -8084746930230062597
+      Deflagration_Only_Effect_20: -959641155052343197
+      Deflagration_Only_Effect_200: 24282239512875058
+      Deflagration_Only_Effect_201: 1478220378790418550
+      Deflagration_Only_Effect_202: 9104997304537040118
+      Deflagration_Only_Effect_203: -1006626244246469976
+      Deflagration_Only_Effect_204: -7149060300448321618
+      Deflagration_Only_Effect_205: 422422153257441508
+      Deflagration_Only_Effect_206: 6818532330041218806
+      Deflagration_Only_Effect_207: 3769649381314558468
+      Deflagration_Only_Effect_208: 3619877678614482985
+      Deflagration_Only_Effect_209: 773538508855467236
+      Deflagration_Only_Effect_21: 321625103393702358
+      Deflagration_Only_Effect_210: -8563417427666007146
+      Deflagration_Only_Effect_211: 1884385280041413616
+      Deflagration_Only_Effect_22: -3706778929218385533
+      Deflagration_Only_Effect_23: 8327412127913557627
+      Deflagration_Only_Effect_24: 6866920788162716672
+      Deflagration_Only_Effect_25: 6638507905627883758
+      Deflagration_Only_Effect_26: -3231876422432929802
+      Deflagration_Only_Effect_27: -8754653965497411208
+      Deflagration_Only_Effect_28: 1397815558210754309
+      Deflagration_Only_Effect_29: 1400927330718289403
+      Deflagration_Only_Effect_3: -3033802202249009874
+      Deflagration_Only_Effect_30: 1630664582992765860
+      Deflagration_Only_Effect_31: 5819780353243414980
+      Deflagration_Only_Effect_32: 7930921625740522667
+      Deflagration_Only_Effect_33: -9072611025754711175
+      Deflagration_Only_Effect_34: -943544845096727654
+      Deflagration_Only_Effect_35: -2734544222578582465
+      Deflagration_Only_Effect_36: 5835005437823816044
+      Deflagration_Only_Effect_37: -593612023886461929
+      Deflagration_Only_Effect_38: -2767853779444430906
+      Deflagration_Only_Effect_39: -3568612461701485110
+      Deflagration_Only_Effect_4: -1057245931788521405
+      Deflagration_Only_Effect_40: 6285001458501151741
+      Deflagration_Only_Effect_41: -75734916582870744
+      Deflagration_Only_Effect_42: 3558284935776510259
+      Deflagration_Only_Effect_43: -63575167844732311
+      Deflagration_Only_Effect_44: 3513485959228301753
+      Deflagration_Only_Effect_45: -5579683973649352448
+      Deflagration_Only_Effect_46: 7146056290257074847
+      Deflagration_Only_Effect_47: 392523574185724417
+      Deflagration_Only_Effect_48: -651471701843498936
+      Deflagration_Only_Effect_49: 4499757614420498912
+      Deflagration_Only_Effect_5: 4206391709385251946
+      Deflagration_Only_Effect_50: 7629124423280137808
+      Deflagration_Only_Effect_51: 1758223577653127924
+      Deflagration_Only_Effect_52: -861812102733862550
+      Deflagration_Only_Effect_53: 3249783106889502224
+      Deflagration_Only_Effect_54: -5426711513000573963
+      Deflagration_Only_Effect_55: -6311804434556483982
+      Deflagration_Only_Effect_56: -6919122637299055854
+      Deflagration_Only_Effect_57: -2501522192706232916
+      Deflagration_Only_Effect_58: -2950158801628162112
+      Deflagration_Only_Effect_59: -4859116219463868095
+      Deflagration_Only_Effect_6: -848431627438366915
+      Deflagration_Only_Effect_60: 6462449939878073477
+      Deflagration_Only_Effect_61: -7922986928871463177
+      Deflagration_Only_Effect_62: -1879888944218280667
+      Deflagration_Only_Effect_63: -1085729417337914247
+      Deflagration_Only_Effect_64: -5296932351373687495
+      Deflagration_Only_Effect_65: -7403504443159941646
+      Deflagration_Only_Effect_66: 3693942638807135470
+      Deflagration_Only_Effect_67: -342768110896179557
+      Deflagration_Only_Effect_68: -5549253706450950813
+      Deflagration_Only_Effect_69: 8343275836074634394
+      Deflagration_Only_Effect_7: -5527266466454220095
+      Deflagration_Only_Effect_70: -4768933209216719395
+      Deflagration_Only_Effect_71: -239899685515250723
+      Deflagration_Only_Effect_72: -810352136297422833
+      Deflagration_Only_Effect_73: 831738815476523388
+      Deflagration_Only_Effect_74: 7150580585921945536
+      Deflagration_Only_Effect_75: -5046900895291603371
+      Deflagration_Only_Effect_76: 7701150040142542661
+      Deflagration_Only_Effect_77: 9018224590037601429
+      Deflagration_Only_Effect_78: 86139212658548403
+      Deflagration_Only_Effect_79: 467309852378150925
+      Deflagration_Only_Effect_8: -1205942616428763606
+      Deflagration_Only_Effect_80: -8748723832478050842
+      Deflagration_Only_Effect_81: 8156208139631547414
+      Deflagration_Only_Effect_82: 6473045705290869585
+      Deflagration_Only_Effect_83: 7856542318646183073
+      Deflagration_Only_Effect_84: 6670186353820157167
+      Deflagration_Only_Effect_85: -8423096827045429715
+      Deflagration_Only_Effect_86: 3930971725782230715
+      Deflagration_Only_Effect_87: 7288455698796232704
+      Deflagration_Only_Effect_88: 2944220114395676520
+      Deflagration_Only_Effect_89: -5355559057886463167
+      Deflagration_Only_Effect_9: -2644978438484912259
+      Deflagration_Only_Effect_90: -7936121644167518667
+      Deflagration_Only_Effect_91: 6313545173362757715
+      Deflagration_Only_Effect_92: 3437312704231152019
+      Deflagration_Only_Effect_93: -8175916164047664747
+      Deflagration_Only_Effect_94: 3834287468131186850
+      Deflagration_Only_Effect_95: -2882242743247095208
+      Deflagration_Only_Effect_96: -2209899666553115553
+      Deflagration_Only_Effect_97: -8800548065525202680
+      Deflagration_Only_Effect_98: -3519352751030714813
+      Deflagration_Only_Effect_99: 3566303263054878918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

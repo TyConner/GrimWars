@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 587e99edcdf103449908c8d1e7f25bdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -293791030893866608
+    second: Fire_Familiar_Attack_Effect_0
+  - first:
+      213: -636975529241232346
+    second: Fire_Familiar_Attack_Effect_1
+  - first:
+      213: 829865089174088641
+    second: Fire_Familiar_Attack_Effect_2
+  - first:
+      213: -4013756262653236430
+    second: Fire_Familiar_Attack_Effect_3
+  - first:
+      213: 8665544170591820638
+    second: Fire_Familiar_Attack_Effect_4
+  - first:
+      213: 2088898493178175726
+    second: Fire_Familiar_Attack_Effect_5
+  - first:
+      213: 8113170389221171321
+    second: Fire_Familiar_Attack_Effect_6
+  - first:
+      213: -4826922704925737319
+    second: Fire_Familiar_Attack_Effect_7
+  - first:
+      213: -258767388859445089
+    second: Fire_Familiar_Attack_Effect_8
+  - first:
+      213: -1523626947762315705
+    second: Fire_Familiar_Attack_Effect_9
+  - first:
+      213: -9164740118138461827
+    second: Fire_Familiar_Attack_Effect_10
+  - first:
+      213: -1607765940063622456
+    second: Fire_Familiar_Attack_Effect_11
+  - first:
+      213: -2603918497651082499
+    second: Fire_Familiar_Attack_Effect_12
+  - first:
+      213: -7515043805700654452
+    second: Fire_Familiar_Attack_Effect_13
+  - first:
+      213: 7009090853651725722
+    second: Fire_Familiar_Attack_Effect_14
+  - first:
+      213: 2158340118993712656
+    second: Fire_Familiar_Attack_Effect_15
+  - first:
+      213: -3299416027509120596
+    second: Fire_Familiar_Attack_Effect_16
+  - first:
+      213: -353679253222416902
+    second: Fire_Familiar_Attack_Effect_17
+  - first:
+      213: 5510340580215525193
+    second: Fire_Familiar_Attack_Effect_18
+  - first:
+      213: -4696503096603847529
+    second: Fire_Familiar_Attack_Effect_19
+  - first:
+      213: 998924277387579881
+    second: Fire_Familiar_Attack_Effect_20
+  - first:
+      213: -4112086895738281716
+    second: Fire_Familiar_Attack_Effect_21
+  - first:
+      213: 3182753877907171795
+    second: Fire_Familiar_Attack_Effect_22
+  - first:
+      213: 6050772763641878486
+    second: Fire_Familiar_Attack_Effect_23
+  - first:
+      213: 2976006063976732681
+    second: Fire_Familiar_Attack_Effect_24
+  - first:
+      213: -7023401037848645200
+    second: Fire_Familiar_Attack_Effect_25
+  - first:
+      213: -9010466307737392827
+    second: Fire_Familiar_Attack_Effect_26
+  - first:
+      213: -3202283967695885440
+    second: Fire_Familiar_Attack_Effect_27
+  - first:
+      213: -1803272081604636432
+    second: Fire_Familiar_Attack_Effect_28
+  - first:
+      213: -8841478552773898182
+    second: Fire_Familiar_Attack_Effect_29
+  - first:
+      213: 2647089062464042803
+    second: Fire_Familiar_Attack_Effect_30
+  - first:
+      213: 7672636968742857010
+    second: Fire_Familiar_Attack_Effect_31
+  - first:
+      213: 8563817613159316989
+    second: Fire_Familiar_Attack_Effect_32
+  - first:
+      213: 1324732368581415115
+    second: Fire_Familiar_Attack_Effect_33
+  - first:
+      213: -5702129157315296696
+    second: Fire_Familiar_Attack_Effect_34
+  - first:
+      213: -6873386257988938358
+    second: Fire_Familiar_Attack_Effect_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091106d2d9e3cebf0800000000000000
+      internalID: -293791030893866608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb5f881220927f0800000000000000
+      internalID: -636975529241232346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 107
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb28bbd6e5448b00800000000000000
+      internalID: 829865089174088641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bed85e1f54c48c0800000000000000
+      internalID: -4013756262653236430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 107
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1599d282324870800000000000000
+      internalID: 8665544170591820638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 109
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ebb1bc124dfc10800000000000000
+      internalID: 2088898493178175726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970eebbcb75c79070800000000000000
+      internalID: 8113170389221171321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e32aebf53530db0800000000000000
+      internalID: -4826922704925737319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90d39b4e6ca86cf0800000000000000
+      internalID: -258767388859445089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e1a601d5dfadae0800000000000000
+      internalID: -1523626947762315705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e59f5b6d40d080800000000000000
+      internalID: -9164740118138461827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca2984556110b9e0800000000000000
+      internalID: -1607765940063622456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa307b2ce50ddbd0800000000000000
+      internalID: -2603918497651082499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a76b1a97335b790800000000000000
+      internalID: -7515043805700654452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 77
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db952eefa454160800000000000000
+      internalID: 7009090853651725722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 78
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016381127e6f3fd10800000000000000
+      internalID: 2158340118993712656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 75
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a612aa9e1632d0800000000000000
+      internalID: -3299416027509120596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd9043d79a771bf0800000000000000
+      internalID: -353679253222416902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8a2b0099a87c40800000000000000
+      internalID: 5510340580215525193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794d768115ba2deb0800000000000000
+      internalID: -4696503096603847529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e153377654ecdd00800000000000000
+      internalID: 998924277387579881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012bfd41ceeee6c0800000000000000
+      internalID: -4112086895738281716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9672cf9c96b2c20800000000000000
+      internalID: 3182753877907171795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79b7925c9a8f350800000000000000
+      internalID: 6050772763641878486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908ddb46fb5ec4920800000000000000
+      internalID: 2976006063976732681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1fbe7b7fdd78e90800000000000000
+      internalID: -7023401037848645200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549efa2f1a464f280800000000000000
+      internalID: -9010466307737392827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bee83a2b33f83d0800000000000000
+      internalID: -3202283967695885440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0939e889d79f6e0800000000000000
+      internalID: -1803272081604636432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 13
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305da4b912cc4580800000000000000
+      internalID: -8841478552773898182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 13
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337bdf83a795cb420800000000000000
+      internalID: 2647089062464042803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 13
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a274fbaeaa7a60800000000000000
+      internalID: 7672636968742857010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 15
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd38910fbac8d670800000000000000
+      internalID: 8563817613159316989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 16
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d1cb0215626210800000000000000
+      internalID: 1324732368581415115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84203da1eb7fdd0b0800000000000000
+      internalID: -5702129157315296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Attack_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8594887d93dc90a0800000000000000
+      internalID: -6873386257988938358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Familiar_Attack_Effect_0: -293791030893866608
+      Fire_Familiar_Attack_Effect_1: -636975529241232346
+      Fire_Familiar_Attack_Effect_10: -9164740118138461827
+      Fire_Familiar_Attack_Effect_11: -1607765940063622456
+      Fire_Familiar_Attack_Effect_12: -2603918497651082499
+      Fire_Familiar_Attack_Effect_13: -7515043805700654452
+      Fire_Familiar_Attack_Effect_14: 7009090853651725722
+      Fire_Familiar_Attack_Effect_15: 2158340118993712656
+      Fire_Familiar_Attack_Effect_16: -3299416027509120596
+      Fire_Familiar_Attack_Effect_17: -353679253222416902
+      Fire_Familiar_Attack_Effect_18: 5510340580215525193
+      Fire_Familiar_Attack_Effect_19: -4696503096603847529
+      Fire_Familiar_Attack_Effect_2: 829865089174088641
+      Fire_Familiar_Attack_Effect_20: 998924277387579881
+      Fire_Familiar_Attack_Effect_21: -4112086895738281716
+      Fire_Familiar_Attack_Effect_22: 3182753877907171795
+      Fire_Familiar_Attack_Effect_23: 6050772763641878486
+      Fire_Familiar_Attack_Effect_24: 2976006063976732681
+      Fire_Familiar_Attack_Effect_25: -7023401037848645200
+      Fire_Familiar_Attack_Effect_26: -9010466307737392827
+      Fire_Familiar_Attack_Effect_27: -3202283967695885440
+      Fire_Familiar_Attack_Effect_28: -1803272081604636432
+      Fire_Familiar_Attack_Effect_29: -8841478552773898182
+      Fire_Familiar_Attack_Effect_3: -4013756262653236430
+      Fire_Familiar_Attack_Effect_30: 2647089062464042803
+      Fire_Familiar_Attack_Effect_31: 7672636968742857010
+      Fire_Familiar_Attack_Effect_32: 8563817613159316989
+      Fire_Familiar_Attack_Effect_33: 1324732368581415115
+      Fire_Familiar_Attack_Effect_34: -5702129157315296696
+      Fire_Familiar_Attack_Effect_35: -6873386257988938358
+      Fire_Familiar_Attack_Effect_4: 8665544170591820638
+      Fire_Familiar_Attack_Effect_5: 2088898493178175726
+      Fire_Familiar_Attack_Effect_6: 8113170389221171321
+      Fire_Familiar_Attack_Effect_7: -4826922704925737319
+      Fire_Familiar_Attack_Effect_8: -258767388859445089
+      Fire_Familiar_Attack_Effect_9: -1523626947762315705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

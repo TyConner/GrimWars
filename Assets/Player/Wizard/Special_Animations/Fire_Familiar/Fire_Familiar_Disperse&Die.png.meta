@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 49a4c882817d7a440a712b606330a261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2338358421273990142
+    second: Fire_Familiar_Disperse&Die_0
+  - first:
+      213: -4277894256528089192
+    second: Fire_Familiar_Disperse&Die_1
+  - first:
+      213: 6932967909876529380
+    second: Fire_Familiar_Disperse&Die_2
+  - first:
+      213: 5525567781088537833
+    second: Fire_Familiar_Disperse&Die_3
+  - first:
+      213: -4466446331122432561
+    second: Fire_Familiar_Disperse&Die_4
+  - first:
+      213: 6439470982347314363
+    second: Fire_Familiar_Disperse&Die_5
+  - first:
+      213: 3379397602498696362
+    second: Fire_Familiar_Disperse&Die_6
+  - first:
+      213: -3274368105120637916
+    second: Fire_Familiar_Disperse&Die_7
+  - first:
+      213: -1697360463777361804
+    second: Fire_Familiar_Disperse&Die_8
+  - first:
+      213: -1424289418205803975
+    second: Fire_Familiar_Disperse&Die_9
+  - first:
+      213: 4614788681574054577
+    second: Fire_Familiar_Disperse&Die_10
+  - first:
+      213: -1224694649113971145
+    second: Fire_Familiar_Disperse&Die_11
+  - first:
+      213: -6513251430751406500
+    second: Fire_Familiar_Disperse&Die_12
+  - first:
+      213: -401228216523641843
+    second: Fire_Familiar_Disperse&Die_13
+  - first:
+      213: -2243762589159546112
+    second: Fire_Familiar_Disperse&Die_14
+  - first:
+      213: -5297460219796203568
+    second: Fire_Familiar_Disperse&Die_15
+  - first:
+      213: -4594831416601285655
+    second: Fire_Familiar_Disperse&Die_16
+  - first:
+      213: -1500632850373852669
+    second: Fire_Familiar_Disperse&Die_17
+  - first:
+      213: 4368915839591689082
+    second: Fire_Familiar_Disperse&Die_18
+  - first:
+      213: -8080370158524084707
+    second: Fire_Familiar_Disperse&Die_19
+  - first:
+      213: -6178622485238282740
+    second: Fire_Familiar_Disperse&Die_20
+  - first:
+      213: -2880934522495864140
+    second: Fire_Familiar_Disperse&Die_21
+  - first:
+      213: 9109348928708403456
+    second: Fire_Familiar_Disperse&Die_22
+  - first:
+      213: -4382577884409462083
+    second: Fire_Familiar_Disperse&Die_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef354915894837020800000000000000
+      internalID: 2338358421273990142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f95f4c6ddd1a4c0800000000000000
+      internalID: -4277894256528089192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e87f53e499d63060800000000000000
+      internalID: 6932967909876529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec20260f92ceac40800000000000000
+      internalID: 5525567781088537833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c911e9bef302c0800000000000000
+      internalID: -4466446331122432561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45f3c9db89d5950800000000000000
+      internalID: 6439470982347314363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ddb3f63806ee20800000000000000
+      internalID: 3379397602498696362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5a668e8b1f82d0800000000000000
+      internalID: -3274368105120637916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47012c4b6a3c178e0800000000000000
+      internalID: -1697360463777361804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ace720258eb3ce0800000000000000
+      internalID: -1424289418205803975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf6be0bd50b0040800000000000000
+      internalID: 4614788681574054577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367d3194b2010fe0800000000000000
+      internalID: -1224694649113971145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f14915584c95a0800000000000000
+      internalID: -6513251430751406500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cae38101d8e6af0800000000000000
+      internalID: -401228216523641843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a5d820dd8cd0e0800000000000000
+      internalID: -2243762589159546112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d84b4ff3ab76b0800000000000000
+      internalID: -5297460219796203568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebecaacb21eb30c0800000000000000
+      internalID: -4594831416601285655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3024f2f8f5eac2be0800000000000000
+      internalID: -1500632850373852669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba0700fc181ac30800000000000000
+      internalID: 4368915839591689082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e41870722ccdf80800000000000000
+      internalID: -8080370158524084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06812ed59f114aa0800000000000000
+      internalID: -6178622485238282740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2797dc05dd408d0800000000000000
+      internalID: -2880934522495864140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001efb65698ea6e70800000000000000
+      internalID: 9109348928708403456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Familiar_Disperse&Die_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db28a4f42a4fd23c0800000000000000
+      internalID: -4382577884409462083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Familiar_Disperse&Die_0: 2338358421273990142
+      Fire_Familiar_Disperse&Die_1: -4277894256528089192
+      Fire_Familiar_Disperse&Die_10: 4614788681574054577
+      Fire_Familiar_Disperse&Die_11: -1224694649113971145
+      Fire_Familiar_Disperse&Die_12: -6513251430751406500
+      Fire_Familiar_Disperse&Die_13: -401228216523641843
+      Fire_Familiar_Disperse&Die_14: -2243762589159546112
+      Fire_Familiar_Disperse&Die_15: -5297460219796203568
+      Fire_Familiar_Disperse&Die_16: -4594831416601285655
+      Fire_Familiar_Disperse&Die_17: -1500632850373852669
+      Fire_Familiar_Disperse&Die_18: 4368915839591689082
+      Fire_Familiar_Disperse&Die_19: -8080370158524084707
+      Fire_Familiar_Disperse&Die_2: 6932967909876529380
+      Fire_Familiar_Disperse&Die_20: -6178622485238282740
+      Fire_Familiar_Disperse&Die_21: -2880934522495864140
+      Fire_Familiar_Disperse&Die_22: 9109348928708403456
+      Fire_Familiar_Disperse&Die_23: -4382577884409462083
+      Fire_Familiar_Disperse&Die_3: 5525567781088537833
+      Fire_Familiar_Disperse&Die_4: -4466446331122432561
+      Fire_Familiar_Disperse&Die_5: 6439470982347314363
+      Fire_Familiar_Disperse&Die_6: 3379397602498696362
+      Fire_Familiar_Disperse&Die_7: -3274368105120637916
+      Fire_Familiar_Disperse&Die_8: -1697360463777361804
+      Fire_Familiar_Disperse&Die_9: -1424289418205803975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

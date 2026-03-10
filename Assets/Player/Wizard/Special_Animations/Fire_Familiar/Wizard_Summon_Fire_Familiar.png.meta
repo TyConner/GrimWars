@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: da29e67d3b5135c4fbf95a6eac81f0f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6403040025002026885
+    second: Wizard_Summon_Fire_Familiar_0
+  - first:
+      213: -4943888029320869120
+    second: Wizard_Summon_Fire_Familiar_1
+  - first:
+      213: 8395497225273501087
+    second: Wizard_Summon_Fire_Familiar_2
+  - first:
+      213: 5914903400473739592
+    second: Wizard_Summon_Fire_Familiar_3
+  - first:
+      213: -6711730576302861209
+    second: Wizard_Summon_Fire_Familiar_4
+  - first:
+      213: 3141321918083592641
+    second: Wizard_Summon_Fire_Familiar_5
+  - first:
+      213: 452823720360387997
+    second: Wizard_Summon_Fire_Familiar_6
+  - first:
+      213: -6551192200855492368
+    second: Wizard_Summon_Fire_Familiar_7
+  - first:
+      213: 3928474800899445446
+    second: Wizard_Summon_Fire_Familiar_8
+  - first:
+      213: -3420665635797332550
+    second: Wizard_Summon_Fire_Familiar_9
+  - first:
+      213: -1268941637071954139
+    second: Wizard_Summon_Fire_Familiar_10
+  - first:
+      213: -7424185733740802736
+    second: Wizard_Summon_Fire_Familiar_11
+  - first:
+      213: -5191618585695373880
+    second: Wizard_Summon_Fire_Familiar_12
+  - first:
+      213: 7110584397947921990
+    second: Wizard_Summon_Fire_Familiar_13
+  - first:
+      213: -2845519784777256524
+    second: Wizard_Summon_Fire_Familiar_14
+  - first:
+      213: -4200761891268951607
+    second: Wizard_Summon_Fire_Familiar_15
+  - first:
+      213: 1260421403796147990
+    second: Wizard_Summon_Fire_Familiar_16
+  - first:
+      213: 1970329062491393063
+    second: Wizard_Summon_Fire_Familiar_17
+  - first:
+      213: -1781994869897777975
+    second: Wizard_Summon_Fire_Familiar_18
+  - first:
+      213: 4354459219661151355
+    second: Wizard_Summon_Fire_Familiar_19
+  - first:
+      213: -3431829705585379660
+    second: Wizard_Summon_Fire_Familiar_20
+  - first:
+      213: 892514098228946325
+    second: Wizard_Summon_Fire_Familiar_21
+  - first:
+      213: -8102675851652326825
+    second: Wizard_Summon_Fire_Familiar_22
+  - first:
+      213: -6079963122794731800
+    second: Wizard_Summon_Fire_Familiar_23
+  - first:
+      213: -1927441123813125698
+    second: Wizard_Summon_Fire_Familiar_24
+  - first:
+      213: 1602803857916754689
+    second: Wizard_Summon_Fire_Familiar_25
+  - first:
+      213: -4386203763953896322
+    second: Wizard_Summon_Fire_Familiar_26
+  - first:
+      213: 8573396210878100158
+    second: Wizard_Summon_Fire_Familiar_27
+  - first:
+      213: -3824424918439710652
+    second: Wizard_Summon_Fire_Familiar_28
+  - first:
+      213: 2158255130965984084
+    second: Wizard_Summon_Fire_Familiar_29
+  - first:
+      213: 1229421189038052308
+    second: Wizard_Summon_Fire_Familiar_30
+  - first:
+      213: -8471181141221965436
+    second: Wizard_Summon_Fire_Familiar_31
+  - first:
+      213: 3921883579073002806
+    second: Wizard_Summon_Fire_Familiar_32
+  - first:
+      213: 2602897261139773993
+    second: Wizard_Summon_Fire_Familiar_33
+  - first:
+      213: 3996367161809260029
+    second: Wizard_Summon_Fire_Familiar_34
+  - first:
+      213: 2560356642868839752
+    second: Wizard_Summon_Fire_Familiar_35
+  - first:
+      213: -8625662420567542546
+    second: Wizard_Summon_Fire_Familiar_36
+  - first:
+      213: 7382696548530438163
+    second: Wizard_Summon_Fire_Familiar_37
+  - first:
+      213: -1439196929374505285
+    second: Wizard_Summon_Fire_Familiar_38
+  - first:
+      213: 5886123590002633512
+    second: Wizard_Summon_Fire_Familiar_39
+  - first:
+      213: -333996588870215184
+    second: Wizard_Summon_Fire_Familiar_40
+  - first:
+      213: -8464296232350657216
+    second: Wizard_Summon_Fire_Familiar_41
+  - first:
+      213: 2557213005341005232
+    second: Wizard_Summon_Fire_Familiar_42
+  - first:
+      213: 7974086791414726013
+    second: Wizard_Summon_Fire_Familiar_43
+  - first:
+      213: -8038057874611102341
+    second: Wizard_Summon_Fire_Familiar_44
+  - first:
+      213: -7151366612554998464
+    second: Wizard_Summon_Fire_Familiar_45
+  - first:
+      213: 226336987195333122
+    second: Wizard_Summon_Fire_Familiar_46
+  - first:
+      213: -4684258069390905042
+    second: Wizard_Summon_Fire_Familiar_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587aadc5afa2cd850800000000000000
+      internalID: 6403040025002026885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b060bf708c36bb0800000000000000
+      internalID: -4943888029320869120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f956431ce3cc28470800000000000000
+      internalID: 8395497225273501087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ccf1ed45f51250800000000000000
+      internalID: 5914903400473739592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641753e9942bd2a0800000000000000
+      internalID: -6711730576302861209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1758c14a7389b20800000000000000
+      internalID: 3141321918083592641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a3f546c0c84600800000000000000
+      internalID: 452823720360387997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e2bc276d7515a0800000000000000
+      internalID: -6551192200855492368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25fa8740fb48630800000000000000
+      internalID: 3928474800899445446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0aea4aba5780d0800000000000000
+      internalID: -3420665635797332550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9f91ed40d36ee0800000000000000
+      internalID: -1268941637071954139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4bd1096ef7f890800000000000000
+      internalID: -7424185733740802736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5bf46176aa3f7b0800000000000000
+      internalID: -5191618585695373880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ee1126dedda260800000000000000
+      internalID: 7110584397947921990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1710bf4dea288d0800000000000000
+      internalID: -2845519784777256524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18ae40155e3b5c0800000000000000
+      internalID: -4200761891268951607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8198b69aed7110800000000000000
+      internalID: 1260421403796147990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8d64d7d3085b10800000000000000
+      internalID: 1970329062491393063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccac247b151547e0800000000000000
+      internalID: -1781994869897777975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd3d0e6952e6c30800000000000000
+      internalID: 4354459219661151355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b633fcb011bf50d0800000000000000
+      internalID: -3431829705585379660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e6f5f7d8d26c00800000000000000
+      internalID: 892514098228946325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a90242e338d8f80800000000000000
+      internalID: -8102675851652326825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6685ab0c1af9ba0800000000000000
+      internalID: -6079963122794731800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb193a9828a5045e0800000000000000
+      internalID: -1927441123813125698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf0c3ed9d4e3610800000000000000
+      internalID: 1602803857916754689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74fb017ae21123c0800000000000000
+      internalID: -4386203763953896322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2b1141e62daf670800000000000000
+      internalID: 8573396210878100158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440bf32acc9eceac0800000000000000
+      internalID: -3824424918439710652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45344ef4b99a3fd10800000000000000
+      internalID: 2158255130965984084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d393f3ce08cf0110800000000000000
+      internalID: 1229421189038052308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810a7162a1507a80800000000000000
+      internalID: -8471181141221965436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d751d06545d6630800000000000000
+      internalID: 3921883579073002806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac21da4495f1420800000000000000
+      internalID: 2602897261139773993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd4daf82c2f57730800000000000000
+      internalID: 3996367161809260029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_35
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84542842dc6388320800000000000000
+      internalID: 2560356642868839752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b2adaabd7b4880800000000000000
+      internalID: -8625662420567542546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c8ab456b947660800000000000000
+      internalID: 7382696548530438163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6bcc69402f60ce0800000000000000
+      internalID: -1439196929374505285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b67261836bfa150800000000000000
+      internalID: 5886123590002633512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d23c3fd76d5bf0800000000000000
+      internalID: -333996588870215184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045df052c67c88a80800000000000000
+      internalID: -8464296232350657216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51c5efdab0d7320800000000000000
+      internalID: 2557213005341005232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db86230b5a9ae60800000000000000
+      internalID: 7974086791414726013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d16c353f4137090800000000000000
+      internalID: -8038057874611102341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d121894fd31cc90800000000000000
+      internalID: -7151366612554998464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5f496a4c142300800000000000000
+      internalID: 226336987195333122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Summon_Fire_Familiar_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b2b9aa1c2efeb0800000000000000
+      internalID: -4684258069390905042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wizard_Summon_Fire_Familiar_0: 6403040025002026885
+      Wizard_Summon_Fire_Familiar_1: -4943888029320869120
+      Wizard_Summon_Fire_Familiar_10: -1268941637071954139
+      Wizard_Summon_Fire_Familiar_11: -7424185733740802736
+      Wizard_Summon_Fire_Familiar_12: -5191618585695373880
+      Wizard_Summon_Fire_Familiar_13: 7110584397947921990
+      Wizard_Summon_Fire_Familiar_14: -2845519784777256524
+      Wizard_Summon_Fire_Familiar_15: -4200761891268951607
+      Wizard_Summon_Fire_Familiar_16: 1260421403796147990
+      Wizard_Summon_Fire_Familiar_17: 1970329062491393063
+      Wizard_Summon_Fire_Familiar_18: -1781994869897777975
+      Wizard_Summon_Fire_Familiar_19: 4354459219661151355
+      Wizard_Summon_Fire_Familiar_2: 8395497225273501087
+      Wizard_Summon_Fire_Familiar_20: -3431829705585379660
+      Wizard_Summon_Fire_Familiar_21: 892514098228946325
+      Wizard_Summon_Fire_Familiar_22: -8102675851652326825
+      Wizard_Summon_Fire_Familiar_23: -6079963122794731800
+      Wizard_Summon_Fire_Familiar_24: -1927441123813125698
+      Wizard_Summon_Fire_Familiar_25: 1602803857916754689
+      Wizard_Summon_Fire_Familiar_26: -4386203763953896322
+      Wizard_Summon_Fire_Familiar_27: 8573396210878100158
+      Wizard_Summon_Fire_Familiar_28: -3824424918439710652
+      Wizard_Summon_Fire_Familiar_29: 2158255130965984084
+      Wizard_Summon_Fire_Familiar_3: 5914903400473739592
+      Wizard_Summon_Fire_Familiar_30: 1229421189038052308
+      Wizard_Summon_Fire_Familiar_31: -8471181141221965436
+      Wizard_Summon_Fire_Familiar_32: 3921883579073002806
+      Wizard_Summon_Fire_Familiar_33: 2602897261139773993
+      Wizard_Summon_Fire_Familiar_34: 3996367161809260029
+      Wizard_Summon_Fire_Familiar_35: 2560356642868839752
+      Wizard_Summon_Fire_Familiar_36: -8625662420567542546
+      Wizard_Summon_Fire_Familiar_37: 7382696548530438163
+      Wizard_Summon_Fire_Familiar_38: -1439196929374505285
+      Wizard_Summon_Fire_Familiar_39: 5886123590002633512
+      Wizard_Summon_Fire_Familiar_4: -6711730576302861209
+      Wizard_Summon_Fire_Familiar_40: -333996588870215184
+      Wizard_Summon_Fire_Familiar_41: -8464296232350657216
+      Wizard_Summon_Fire_Familiar_42: 2557213005341005232
+      Wizard_Summon_Fire_Familiar_43: 7974086791414726013
+      Wizard_Summon_Fire_Familiar_44: -8038057874611102341
+      Wizard_Summon_Fire_Familiar_45: -7151366612554998464
+      Wizard_Summon_Fire_Familiar_46: 226336987195333122
+      Wizard_Summon_Fire_Familiar_47: -4684258069390905042
+      Wizard_Summon_Fire_Familiar_5: 3141321918083592641
+      Wizard_Summon_Fire_Familiar_6: 452823720360387997
+      Wizard_Summon_Fire_Familiar_7: -6551192200855492368
+      Wizard_Summon_Fire_Familiar_8: 3928474800899445446
+      Wizard_Summon_Fire_Familiar_9: -3420665635797332550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
