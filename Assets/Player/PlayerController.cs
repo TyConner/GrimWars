@@ -72,6 +72,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.freezeRotation = true;
 
         currentHP = maxHP;
+        currentMana = maxMana;
         originalColor = spr.color;
     }
 
@@ -213,34 +214,34 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.linearVelocity = newVel;
     }
 
-    //void TryFireball()
-    //{
-    //    if (bDead) return;
-    //    if (bMovementLocked) return;
-    //    if (bIsCastingFireball) return;
+    void TryFireball()
+    {
+        if (bDead) return;
+        if (bMovementLocked) return;
+        if (bIsCastingFireball) return;
 
-    //    fireballRoutine = StartCoroutine(FireballRoutine());
-    //}
+        fireballRoutine = StartCoroutine(FireballRoutine());
+    }
 
-    //IEnumerator FireballRoutine()
-    //{
-    //    bIsCastingFireball = true;
-    //    bMovementLocked = true;
+    IEnumerator FireballRoutine()
+    {
+        bIsCastingFireball = true;
+        bMovementLocked = true;
 
-    //    moveInput = Vector2.zero;
-    //    rb.linearVelocity = Vector2.zero;
-    //    velSmoothRef = Vector2.zero;
+        moveInput = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
+        velSmoothRef = Vector2.zero;
 
-    //    anim.SetBool("bIsMoving", false);
-    //    anim.SetBool("bIsFireball", true);
+        anim.SetBool("bIsMoving", false);
+        anim.SetBool("bIsFireball", true);
 
-    //    yield return new WaitForSeconds(fireballLockTime / 2);
-    //    anim.SetBool("bIsFireball", false); //Must do this or blend out will cause two fireball casts on animation
-    //    yield return new WaitForSeconds(fireballLockTime / 2);
-    //    bMovementLocked = false;
-    //    bIsCastingFireball = false;
-    //    fireballRoutine = null;
-    //}
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        anim.SetBool("bIsFireball", false); //Must do this or blend out will cause two fireball casts on animation
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        bMovementLocked = false;
+        bIsCastingFireball = false;
+        fireballRoutine = null;
+    }
 
     public void TakeDamage(int amount)
     {

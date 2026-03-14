@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.EventSystems;
 using static UnityEngine.UI.Image;
 
@@ -16,6 +17,7 @@ public class SpellScript : MonoBehaviour
     [SerializeField] float lifetime = .1f;
     [SerializeField] float FXTime = .04f;
     [SerializeField] float dmgAmount = 1f;
+    [SerializeField] float dmgRate = 1f;
     [SerializeField] float AOESize = 0f;
     [SerializeField] bool DestroyAfterSeconds = false;
     [SerializeField] bool isBuff = false;
@@ -28,11 +30,17 @@ public class SpellScript : MonoBehaviour
     float lifetimeOrig;
     float AOESizeOrig;
     float buffTimeOrig;
+    float dmgRateOrig;
+
+    public int spellTargetLayer = 0;
+
+  
 
     //timers
 
     float lifeTimer;
     float FXTimer;
+    float dmgTimer;
     enum state
     {
         playing, markedfordeath
@@ -41,6 +49,10 @@ public class SpellScript : MonoBehaviour
     private void Update()
     {
         lifeTimer += Time.deltaTime;
+        if(Type == spellType.DOT)
+        {
+            dmgTimer += Time.deltaTime;
+        }
         if(lifeTimer >= lifetime && DestroyAfterSeconds && mystate == state.playing)
         {
             if(Type == spellType.aoe)
@@ -49,6 +61,10 @@ public class SpellScript : MonoBehaviour
                 mystate = state.markedfordeath;
             }
             if (Type == spellType.projectile)
+            {
+                mystate = state.markedfordeath;
+            }
+            if(Type == spellType.DOT)
             {
                 mystate = state.markedfordeath;
             }
@@ -62,6 +78,12 @@ public class SpellScript : MonoBehaviour
                 Destroy(gameObject);
             }
         }
+        if(Type == spellType.DOT && dmgTimer >= dmgRate)
+        {
+            dmgTimer = 0;
+            HandleDOT();
+            AudioSource.PlayClipAtPoint(spellHitSFX, transform.position, SpellHitVol);
+        }
     }
     private void Awake()
     {
@@ -70,20 +92,24 @@ public class SpellScript : MonoBehaviour
         lifetimeOrig = lifetime;
         AOESizeOrig = AOESize;
         buffTimeOrig = BuffTime;
+        dmgRateOrig = dmgRate;
+
     }
 
-    public void Recalculate(float dmgAdj = 1f, float spdAdj = 1f, float lifeAdj = 1f, float AOEAdj = 1f, float BuffTimeAdj = 1f)
+    public void Recalculate(float dmgAdj = 1f, float spdAdj = 1f, float lifeAdj = 1f, float AOEAdj = 1f, float BuffTimeAdj = 1f, float DOTAdj = 1f)
     {
         dmgAmount = dmgOrig * dmgAdj;
         speed = speedOrig * spdAdj;
         lifetime = lifetimeOrig * lifeAdj;
         AOESize = AOESizeOrig * AOEAdj;
         BuffTime = BuffTimeAdj * buffTimeOrig;
+        dmgRate = dmgRateOrig * DOTAdj;
     }
 
+  
     public enum spellType
     {
-        projectile, aoe, self
+        projectile, aoe, self, DOT
     }
     [SerializeField] spellType Type;
 
@@ -133,14 +159,14 @@ public class SpellScript : MonoBehaviour
     }
     private void HandleAOE()
     {
-        if (GetComponent<Rigidbody2D>() != null)
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if(rb != null)
         {
-            Rigidbody2D rb = GetComponent<Rigidbody2D>();
             rb.linearVelocity = Vector2.zero;
         }
+        
         mystate = state.markedfordeath;
-        LayerMask mask = ~(1 << gameObject.layer);
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, mask);
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, spellTargetLayer);
         foreach (Collider2D hit in hits)
         {
             if (isBuff)
@@ -153,6 +179,7 @@ public class SpellScript : MonoBehaviour
             }
             else
             {
+               
                 ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
                 if (dmg != null)
                 {
@@ -163,6 +190,34 @@ public class SpellScript : MonoBehaviour
         }
         PlayHitFX();
     }
+
+    private void HandleDOT()
+    {
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, spellTargetLayer);
+        foreach (Collider2D hit in hits)
+        {
+            if (isBuff)
+            {
+                iSpellEffects eff = hit.GetComponent<iSpellEffects>();
+                if (eff != null)
+                {
+                    eff.enactBuff(Buff, BuffTime, dmgAmount);
+                }
+            }
+            else
+            {
+
+                ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
+                if (dmg != null)
+                {
+                    dmg.TakeDamage((int)dmgAmount);
+                }
+
+            }
+        }
+       
+    }
+
     private void Start()
     {
         if (Type == spellType.self)
@@ -171,6 +226,7 @@ public class SpellScript : MonoBehaviour
             if(owner != null)
             {
                 owner.enactBuff(Buff, BuffTime, dmgAmount);
+                mystate = state.markedfordeath;
             }
         }
     
@@ -192,9 +248,12 @@ public class SpellScript : MonoBehaviour
         if(Type == spellType.aoe)
         {
             HandleAOE();
-
         }
         
+        if(Type == spellType.DOT)
+        {
+            dmgTimer = dmgRate;
+        }
     }
 
 }

@@ -19,6 +19,8 @@ public class SpellData : ScriptableObject
 
     [SerializeField] public float AOEMultiplier = 1f;
 
+    [SerializeField] public float DOTRateMultiplier = 1f; 
+
     [SerializeField] public float CoolDown = 1f;
 }
 
