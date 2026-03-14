@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c204a94c6aa49b144b59adef4332e7f6, type: 3}
+  m_Name: FireBall_Ability
+  m_EditorClassIdentifier: Assembly-CSharp::Ability
+  SpellPrefab: {fileID: 0}
+  Spell: {fileID: 0}
+  manaCost: 0
+  level: 0
+  damageMultiplier: 1
+  speedMultiplier: 1
+  lifetimeMultiplier: 1
