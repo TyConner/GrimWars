@@ -19,15 +19,19 @@ public class grimoireSystem : MonoBehaviour
     private const int Pages = 0;
     void getSpellLayer()
     {
-        string parentlayer = transform.root.gameObject.layer.ToString();
-      if (parentlayer == "Player")
+        int parentlayer = transform.root.gameObject.layer;
+        switch (parentlayer)
         {
-            SpellPhysicsLayer = 6;
-        }
-      if (parentlayer == "Enemy")
-        {
-            SpellPhysicsLayer = 7;
-        }
+            case 8: //player
+                SpellPhysicsLayer = 6;
+                break;
+            case 9: //enemy
+                SpellPhysicsLayer = 7;
+                break;
+            default:
+                SpellPhysicsLayer = parentlayer;
+                break;
+        }   
     }
     void Awake()
     {

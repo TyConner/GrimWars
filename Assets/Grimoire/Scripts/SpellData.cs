@@ -9,11 +9,15 @@ public class SpellData : ScriptableObject
 
     [SerializeField] public int level = 0;
 
+    [SerializeField] public float buffTimeMultiplier = 1f;
+
     [SerializeField] public float damageMultiplier = 1f;
 
     [SerializeField] public float speedMultiplier = 1f;
 
     [SerializeField] public float lifetimeMultiplier = 1f;
+
+    [SerializeField] public float AOEMultiplier = 1f;
 
     [SerializeField] public float CoolDown = 1f;
 }
