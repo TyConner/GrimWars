@@ -133,6 +133,11 @@ public class SpellScript : MonoBehaviour
     }
     private void HandleAOE()
     {
+        if (GetComponent<Rigidbody2D>() != null)
+        {
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
+            rb.linearVelocity = Vector2.zero;
+        }
         mystate = state.markedfordeath;
         LayerMask mask = ~(1 << gameObject.layer);
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, mask);
