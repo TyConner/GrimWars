@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 579560831940334851}
   - component: {fileID: 4318200315868966830}
   - component: {fileID: 7561833675127181588}
-  m_Layer: 0
+  - component: {fileID: 7065769245737664389}
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,6 +109,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveAction: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  firePrimaryAction: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  attackAction: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   rb: {fileID: 579560831940334851}
   spr: {fileID: 6985723806104357933}
   deathSprite: {fileID: 2991978148252989052, guid: 1a4929797b49d5c4e81770382478d0a5, type: 3}
@@ -115,10 +118,13 @@ MonoBehaviour:
   acceleration: 60
   deceleration: 80
   maxHP: 3
+  maxMana: 10
   damageFlashTime: 0.08
   damageCameraShakeDuration: 0.2
   damageCameraShakeAmplitude: 0.05
+  fireballLockTime: 1
   anim: {fileID: 7561833675127181588}
+  Grimoire: {fileID: 7065769245737664389}
 --- !u!50 &579560831940334851
 Rigidbody2D:
   serializedVersion: 5
@@ -205,3 +211,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7065769245737664389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3027872983339938515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3346c6a9e4497b4c872dee69da8c640, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::grimoireSystem
+  Type: 0
+  QuickSpell: {fileID: 11400000, guid: 8ab0700e5ed94cd42b5693f4f974a2af, type: 2}
+  HeavySpell: {fileID: 0}
