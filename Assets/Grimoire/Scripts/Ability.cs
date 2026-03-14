@@ -12,11 +12,15 @@ public class Ability : MonoBehaviour
 
     int level = 0;
 
+    float bufftimeMultiplier = 1f;
+
     float damageMultiplier = 1f;
 
     float speedMultiplier = 1f;
 
     float lifetimeMultiplier = 1f;
+
+    float AOEMultiplier = 1f;
 
     float CoolDown = 1f;
 
@@ -24,6 +28,13 @@ public class Ability : MonoBehaviour
 
     int spellLayer;
 
+    void ScaleSpellonLVL()
+    {
+        //when we level up rescale our values
+
+        //suggested growth rates
+
+    }
     void loadValues()
     {
         if (spelldetails != null)
@@ -33,7 +44,9 @@ public class Ability : MonoBehaviour
             level = spelldetails.level;
             damageMultiplier = spelldetails.damageMultiplier;
             speedMultiplier = spelldetails.speedMultiplier;
+            bufftimeMultiplier = spelldetails.buffTimeMultiplier;
             lifetimeMultiplier = spelldetails.lifetimeMultiplier;
+            AOEMultiplier = spelldetails.AOEMultiplier;
             CoolDown = spelldetails.CoolDown;
         }
        
@@ -56,7 +69,7 @@ public class Ability : MonoBehaviour
             castAvailable = true;
         }
     }
-    public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , levelUP = 3, manaUP = 4};
+    public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , AOEUP = 3, bufftimeUP =4 , levelUP = 5, manaUP = 6};
 
     public void AbilityUpgrade (upgrade stat, float amount)
     {
@@ -70,6 +83,12 @@ public class Ability : MonoBehaviour
                 break;
             case upgrade.lifetimeUP:
                 lifetimeMultiplier += amount;
+                break;
+            case upgrade.bufftimeUP:
+                bufftimeMultiplier += amount;
+                break;
+            case upgrade.AOEUP:
+                AOEMultiplier += amount;
                 break;
             case upgrade.levelUP:
                 level += (int)amount;
@@ -92,7 +111,7 @@ public class Ability : MonoBehaviour
                 SpellScript objScript = obj.GetComponent<SpellScript>();
                 if (objScript != null)
                 {
-                    objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier);
+                    objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier, AOEMultiplier, bufftimeMultiplier);
                 }
             }
            

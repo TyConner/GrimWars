@@ -56,9 +56,12 @@ MonoBehaviour:
   SpellHitVol: 0.47
   speed: 5
   lifetime: 2
+  FXTime: 0.04
   dmgAmount: 1
+  AOESize: 0.5
   DestroyAfterSeconds: 1
   isBuff: 0
+  explodeOnImpact: 1
   Buff: 0
   Type: 0
 --- !u!212 &8310420670075408844
