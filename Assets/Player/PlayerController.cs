@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [Header("Input System")]
     [SerializeField] InputActionReference moveAction;
     [SerializeField] InputActionReference firePrimaryAction;
+    [SerializeField] InputActionReference lookAction;
+    [SerializeField] InputActionReference attackAction;
 
     [Header("Refs")]
     [SerializeField] Rigidbody2D rb;
@@ -20,13 +22,15 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [SerializeField] float deceleration = 80f;
 
     Vector2 moveInput;
+    Vector2 lookInput;
     Vector2 desiredVelocity;
     Vector2 velSmoothRef;
 
     [Header("Stats")]
     [SerializeField] int maxHP = 3;
     int currentHP;
-
+    [SerializeField] int maxMana = 10;
+    int currentMana;
     [Header("Player Feedback")]
     [SerializeField] float damageFlashTime = 0.08f;
     [SerializeField] float damageCameraShakeDuration = 0.2f;
@@ -36,6 +40,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [SerializeField] float fireballLockTime = 0.45f;
 
     [SerializeField] Animator anim;
+
+    [SerializeField] grimoireSystem Grimoire;
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -78,6 +84,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         if (firePrimaryAction != null)
         {
             firePrimaryAction.action.Enable();
+        if (attackAction != null)
+        {
+            attackAction.action.Enable();
+
+        }
+        if (lookAction != null)
+        {
+            lookAction.action.Enable();
         }
     }
 
@@ -91,6 +105,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         if (firePrimaryAction != null)
         {
             firePrimaryAction.action.Disable();
+        if (attackAction != null)
+        {
+            attackAction.action.Disable();
+
+        }
+        if(lookAction != null)
+        {
+            lookAction.action.Disable();
         }
     }
 
@@ -99,6 +121,18 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         if (bDead) return;
 
         if (!bMovementLocked)
+        //move
+        if (moveAction == null)
+        {
+            moveInput = Vector2.zero;
+            return;
+        }
+
+     
+        moveInput = moveAction.action.ReadValue<Vector2>();
+        
+
+        if (moveInput.sqrMagnitude > 0f)
         {
             if (moveAction == null)
             {
@@ -136,10 +170,17 @@ public class PlayerController : MonoBehaviour, ITakeDamage
             moveInput = Vector2.zero;
             anim.SetBool("bIsMoving", false);
         }
+        //look
 
         if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
         {
             TryFireball();
+        lookInput = lookAction.action.ReadValue<Vector2>();
+
+        //attack
+        if(attackAction.action.WasPressedThisFrame())
+        {
+            Attack();
         }
     }
 
@@ -235,6 +276,32 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         anim.SetBool("bIsDead", true);
     }
 
+    public void Attack()
+    {
+        if (Grimoire != null)
+        {
+            //Debug.LogWarning("Cast attempt");
+            if (Grimoire.QuickSpell.CanCast(currentMana))
+            {
+                //Debug.LogWarning("I can cast this and have the mana");
+                currentMana -= Grimoire.QuickSpell.manaCost;
+                Vector2 dir = lookInput.normalized;
+                Debug.Log(dir);
+                float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+                Quaternion rot = Quaternion.Euler(0f, 0f, angle);
+                Grimoire.QuickSpell.cast(rot, transform.position);
+            }
+            else
+            {
+                Debug.LogWarning("Not Enough Mana");
+            }
+            
+        }
+        else
+        {
+            Debug.LogWarning("Grimoire reference null");
+        }
+    }
     IEnumerator DamageFlash()
     {
         for (int i = 0; i < 3; i++)
