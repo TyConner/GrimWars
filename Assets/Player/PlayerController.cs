@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Device;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour, ITakeDamage
 {
@@ -42,6 +43,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
     [SerializeField] Animator anim;
 
+    [Header("UI")]
+    [SerializeField] Image healthBar;
     [SerializeField] grimoireSystem Grimoire;
 
     Color originalColor;
@@ -74,6 +77,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         currentHP = maxHP;
         currentMana = maxMana;
         originalColor = spr.color;
+
+        UpdateHealthBar();
     }
 
     void OnEnable()
@@ -262,6 +267,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         }
 
         flashRoutine = StartCoroutine(DamageFlash());
+        UpdateHealthBar();
     }
 
     public void Heal(int amount)
@@ -269,6 +275,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         if (bDead) return;
 
         currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
+        UpdateHealthBar();
     }
 
     public void Die()
@@ -325,5 +332,24 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         }
 
         flashRoutine = null;
+    }
+
+    IEnumerator HealFlash()
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            spr.color = Color.green;
+            yield return new WaitForSeconds(0.03f);
+            spr.color = originalColor;
+            yield return new WaitForSeconds(0.03f);
+        }
+    }
+
+    void UpdateHealthBar()
+    {
+        if (healthBar != null)
+        {
+            healthBar.fillAmount = (float)currentHP / maxHP;
+        }
     }
 }
