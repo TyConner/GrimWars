@@ -1,33 +1,95 @@
+using System.Collections;
 using UnityEngine;
 
-[CreateAssetMenu]
-public class Ability : ScriptableObject
+public class Ability : MonoBehaviour
 {
-    
-    [SerializeField] GameObject SpellPrefab;
+    [SerializeField] public SpellData spelldetails;
 
-    [SerializeField]public int manaCost = 0;
+    GameObject SpellPrefab;
 
-    [SerializeField] int level = 0;
+    public int manaCost = 0;
 
-    [SerializeField] float damageMultiplier = 1f;
+    int level = 0;
 
-    [SerializeField] float speedMultiplier = 1f;
+    float damageMultiplier = 1f;
 
-    [SerializeField] float lifetimeMultiplier = 1f;
+    float speedMultiplier = 1f;
 
+    float lifetimeMultiplier = 1f;
+
+    float CoolDown = 1f;
+
+    bool castAvailable = true;
+
+    void loadValues()
+    {
+        if (spelldetails != null)
+        {
+            SpellPrefab = spelldetails.SpellPrefab;
+            manaCost = spelldetails.manaCost;
+            level = spelldetails.level;
+            damageMultiplier = spelldetails.damageMultiplier;
+            speedMultiplier = spelldetails.speedMultiplier;
+            lifetimeMultiplier = spelldetails.lifetimeMultiplier;
+            CoolDown = spelldetails.CoolDown;
+        }
+        else
+        {
+            Debug.LogWarning("Failed to load Spell Details as it is null...");
+        }
+    }
+    public void ExecuteLoad()
+    {
+        loadValues();
+    }
+    IEnumerator CastTimeout()
+    {
+        if (castAvailable)
+        {
+            castAvailable = false;
+            yield return new WaitForSeconds(CoolDown);
+            castAvailable = true;
+        }
+    }
+    public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , levelUP = 3, manaUP = 4};
+
+    public void AbilityUpgrade (upgrade stat, float amount)
+    {
+        switch (stat)
+        {
+            case upgrade.damageUP:
+                damageMultiplier += amount;
+                break;
+            case upgrade.speedUP:
+                speedMultiplier += amount;
+                break;
+            case upgrade.lifetimeUP:
+                lifetimeMultiplier += amount;
+                break;
+            case upgrade.levelUP:
+                level += (int)amount;
+                break;
+            case upgrade.manaUP:
+                manaCost += (int)amount;
+                break;
+        }
+    }
     public void cast(Quaternion dir, Vector2 origin)
     {
         if (SpellPrefab)
         {
             //Debug.LogWarning("Casting");
-
-            GameObject obj = Instantiate(SpellPrefab, origin, dir);
-            SpellScript objScript = obj.GetComponent<SpellScript>();
-            if (objScript != null)
+            if (castAvailable)
             {
-                objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier);
+                StartCoroutine(CastTimeout());
+                GameObject obj = Instantiate(SpellPrefab, origin, dir);
+                SpellScript objScript = obj.GetComponent<SpellScript>();
+                if (objScript != null)
+                {
+                    objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier);
+                }
             }
+           
         }
         else
         {
