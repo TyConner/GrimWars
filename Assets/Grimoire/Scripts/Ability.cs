@@ -6,9 +6,7 @@ public class Ability : ScriptableObject
     
     [SerializeField] GameObject SpellPrefab;
 
-    [SerializeField] SpellScript Spell;
- 
-    [SerializeField] int manaCost = 0;
+    [SerializeField]public int manaCost = 0;
 
     [SerializeField] int level = 0;
 
@@ -16,29 +14,27 @@ public class Ability : ScriptableObject
 
     [SerializeField] float speedMultiplier = 1f;
 
-    [SerializeField] float lifetimeMultiplier = 1f; 
+    [SerializeField] float lifetimeMultiplier = 1f;
 
     public void cast(Quaternion dir, Vector2 origin)
     {
-        if (Spell)
-        {
-            Spell.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier);
-            Instantiate(SpellPrefab, origin, dir);
-        }
-        
-    }
-
-    private void Awake()
-    {
         if (SpellPrefab)
         {
-            SpellScript reference = SpellPrefab.GetComponent<SpellScript>();
-            if (reference != null)
+            //Debug.LogWarning("Casting");
+
+            GameObject obj = Instantiate(SpellPrefab, origin, dir);
+            SpellScript objScript = obj.GetComponent<SpellScript>();
+            if (objScript != null)
             {
-                Spell = reference;
+                objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier);
             }
         }
+        else
+        {
+            Debug.LogWarning("CastFailed unexpectedly no spell prefab ");
+        }
     }
+
     public bool CanCast(int currMana)
     {
         return currMana >= manaCost;

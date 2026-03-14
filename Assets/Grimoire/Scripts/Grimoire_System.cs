@@ -11,9 +11,8 @@ public class grimoireSystem : MonoBehaviour
 
     [SerializeField] public Element Type;
 
-    [SerializeField] Ability QuickSpell;
+    [SerializeField] public Ability QuickSpell;
 
-    [SerializeField] Ability HeavySpell;
-
+    [SerializeField] public Ability HeavySpell;
 
 }

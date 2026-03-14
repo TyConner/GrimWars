@@ -76,7 +76,7 @@ public class SpellScript : MonoBehaviour
         if(GetComponent<Rigidbody2D>() != null)
         {
             Rigidbody2D rb = GetComponent<Rigidbody2D>();
-            rb.AddForce((transform.forward.normalized * speed));
+            rb.linearVelocity = transform.right * speed;
         }
     }
 
