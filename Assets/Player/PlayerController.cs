@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 {
     [Header("Input System")]
     [SerializeField] InputActionReference moveAction;
+    [SerializeField] InputActionReference firePrimaryAction;
     [SerializeField] InputActionReference lookAction;
     [SerializeField] InputActionReference attackAction;
 
@@ -35,14 +36,20 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [SerializeField] float damageCameraShakeDuration = 0.2f;
     [SerializeField] float damageCameraShakeAmplitude = 0.02f;
 
+    [Header("Fireball")]
+    [SerializeField] float fireballLockTime = 0.45f;
+
     [SerializeField] Animator anim;
 
     [SerializeField] grimoireSystem Grimoire;
 
     Color originalColor;
     Coroutine flashRoutine;
+    Coroutine fireballRoutine;
 
     bool bDead;
+    bool bMovementLocked;
+    bool bIsCastingFireball;
 
     void Reset()
     {
@@ -73,6 +80,10 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         {
             moveAction.action.Enable();
         }
+
+        if (firePrimaryAction != null)
+        {
+            firePrimaryAction.action.Enable();
         if (attackAction != null)
         {
             attackAction.action.Enable();
@@ -90,6 +101,10 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         {
             moveAction.action.Disable();
         }
+
+        if (firePrimaryAction != null)
+        {
+            firePrimaryAction.action.Disable();
         if (attackAction != null)
         {
             attackAction.action.Disable();
@@ -104,6 +119,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     void Update()
     {
         if (bDead) return;
+
+        if (!bMovementLocked)
         //move
         if (moveAction == null)
         {
@@ -117,25 +134,47 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
         if (moveInput.sqrMagnitude > 0f)
         {
-            anim.SetFloat("LastInputX", moveInput.x);
-            anim.SetFloat("LastInputY", moveInput.y);
-            anim.SetBool("bIsMoving", true);
-            moveInput = moveInput.normalized;
-            if (moveInput.x < 0)
+            if (moveAction == null)
             {
-                spr.flipX = true;
+                moveInput = Vector2.zero;
             }
-            else if (moveInput.x != 0)
+            else
             {
-                spr.flipX = false;
+                moveInput = moveAction.action.ReadValue<Vector2>();
+
+                if (moveInput.sqrMagnitude > 0f)
+                {
+                    moveInput = moveInput.normalized;
+
+                    anim.SetFloat("LastInputX", moveInput.x);
+                    anim.SetFloat("LastInputY", moveInput.y);
+                    anim.SetBool("bIsMoving", true);
+
+                    if (moveInput.x < 0f)
+                    {
+                        spr.flipX = true;
+                    }
+                    else if (moveInput.x > 0f)
+                    {
+                        spr.flipX = false;
+                    }
+                }
+                else
+                {
+                    anim.SetBool("bIsMoving", false);
+                }
             }
         }
         else
         {
+            moveInput = Vector2.zero;
             anim.SetBool("bIsMoving", false);
         }
         //look
 
+        if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
+        {
+            TryFireball();
         lookInput = lookAction.action.ReadValue<Vector2>();
 
         //attack
@@ -149,9 +188,15 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     {
         if (bDead) return;
 
+        if (bMovementLocked)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         desiredVelocity = moveInput * moveSpeed;
 
-        float accel = (moveInput.sqrMagnitude > 0f) ? acceleration : deceleration;
+        float accel = moveInput.sqrMagnitude > 0f ? acceleration : deceleration;
 
         Vector2 newVel = Vector2.SmoothDamp(
             rb.linearVelocity,
@@ -161,7 +206,35 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         );
 
         rb.linearVelocity = newVel;
+    }
 
+    void TryFireball()
+    {
+        if (bDead) return;
+        if (bMovementLocked) return;
+        if (bIsCastingFireball) return;
+
+        fireballRoutine = StartCoroutine(FireballRoutine());
+    }
+
+    IEnumerator FireballRoutine()
+    {
+        bIsCastingFireball = true;
+        bMovementLocked = true;
+
+        moveInput = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
+        velSmoothRef = Vector2.zero;
+
+        anim.SetBool("bIsMoving", false);
+        anim.SetBool("bIsFireball", true);
+
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        anim.SetBool("bIsFireball", false); //Must do this or blend out will cause two fireball casts on animation
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        bMovementLocked = false;
+        bIsCastingFireball = false;
+        fireballRoutine = null;
     }
 
     public void TakeDamage(int amount)
@@ -171,6 +244,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         GameInstance.Instance.ShakeCamera(damageCameraShakeDuration, damageCameraShakeAmplitude);
         currentHP = Math.Clamp(currentHP - amount, 0, maxHP);
         print("New Player HP: " + currentHP.ToString());
+
         if (currentHP <= 0)
         {
             Die();
@@ -182,7 +256,6 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         }
 
         flashRoutine = StartCoroutine(DamageFlash());
-
     }
 
     public void Heal(int amount)
@@ -197,6 +270,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.linearVelocity = Vector2.zero;
         spr.sprite = deathSprite;
         bDead = true;
+
+        anim.SetBool("bIsMoving", false);
+        anim.SetBool("bIsFireball", false);
         anim.SetBool("bIsDead", true);
     }
 

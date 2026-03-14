@@ -109,6 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveAction: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  firePrimaryAction: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   attackAction: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   rb: {fileID: 579560831940334851}
   spr: {fileID: 6985723806104357933}
@@ -121,6 +122,7 @@ MonoBehaviour:
   damageFlashTime: 0.08
   damageCameraShakeDuration: 0.2
   damageCameraShakeAmplitude: 0.05
+  fireballLockTime: 1
   anim: {fileID: 7561833675127181588}
   Grimoire: {fileID: 7065769245737664389}
 --- !u!50 &579560831940334851
