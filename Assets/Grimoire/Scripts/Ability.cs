@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.LowLevelPhysics2D;
 
 public class Ability : MonoBehaviour
 {
@@ -21,6 +22,8 @@ public class Ability : MonoBehaviour
 
     bool castAvailable = true;
 
+    int spellLayer;
+
     void loadValues()
     {
         if (spelldetails != null)
@@ -33,13 +36,15 @@ public class Ability : MonoBehaviour
             lifetimeMultiplier = spelldetails.lifetimeMultiplier;
             CoolDown = spelldetails.CoolDown;
         }
+       
         else
         {
             Debug.LogWarning("Failed to load Spell Details as it is null...");
         }
     }
-    public void ExecuteLoad()
+    public void ExecuteLoad(int _spellLayer)
     {
+        spellLayer = _spellLayer;
         loadValues();
     }
     IEnumerator CastTimeout()
@@ -82,7 +87,8 @@ public class Ability : MonoBehaviour
             if (castAvailable)
             {
                 StartCoroutine(CastTimeout());
-                GameObject obj = Instantiate(SpellPrefab, origin, dir);
+                GameObject obj = Instantiate(SpellPrefab, origin, dir, transform.root);
+                obj.layer = spellLayer;
                 SpellScript objScript = obj.GetComponent<SpellScript>();
                 if (objScript != null)
                 {
