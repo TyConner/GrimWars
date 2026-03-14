@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c204a94c6aa49b144b59adef4332e7f6, type: 3}
-  m_Name: FireBall_Ability
-  m_EditorClassIdentifier: Assembly-CSharp::Ability
+  m_Script: {fileID: 11500000, guid: 93bbc4f9dd7ad304ab637e4e192c1bce, type: 3}
+  m_Name: FireBall_Data
+  m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 0}
-  Spell: {fileID: 0}
   manaCost: 0
   level: 0
   damageMultiplier: 1
   speedMultiplier: 1
   lifetimeMultiplier: 1
+  CoolDown: 1
