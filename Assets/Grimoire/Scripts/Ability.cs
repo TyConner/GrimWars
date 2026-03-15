@@ -22,12 +22,14 @@ public class Ability : MonoBehaviour
 
     float AOEMultiplier = 1f;
 
+    float DOTRateMultiplier = 1f;
+
     float CoolDown = 1f;
 
     bool castAvailable = true;
 
     int spellLayer;
-
+    int spellTargetLayer;
     void ScaleSpellonLVL()
     {
         //when we level up rescale our values
@@ -47,6 +49,7 @@ public class Ability : MonoBehaviour
             bufftimeMultiplier = spelldetails.buffTimeMultiplier;
             lifetimeMultiplier = spelldetails.lifetimeMultiplier;
             AOEMultiplier = spelldetails.AOEMultiplier;
+            DOTRateMultiplier += spelldetails.DOTRateMultiplier;
             CoolDown = spelldetails.CoolDown;
         }
        
@@ -55,9 +58,10 @@ public class Ability : MonoBehaviour
             Debug.LogWarning("Failed to load Spell Details as it is null...");
         }
     }
-    public void ExecuteLoad(int _spellLayer)
+    public void ExecuteLoad(int _spellLayer, int _spellTargetLayer)
     {
         spellLayer = _spellLayer;
+        spellTargetLayer = _spellTargetLayer;
         loadValues();
     }
     IEnumerator CastTimeout()
@@ -69,7 +73,7 @@ public class Ability : MonoBehaviour
             castAvailable = true;
         }
     }
-    public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , AOEUP = 3, bufftimeUP =4 , levelUP = 5, manaUP = 6};
+    public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , AOEUP = 3, bufftimeUP =4 , DOTRateUP = 5, levelUP = 6, manaUP = 7};
 
     public void AbilityUpgrade (upgrade stat, float amount)
     {
@@ -89,6 +93,9 @@ public class Ability : MonoBehaviour
                 break;
             case upgrade.AOEUP:
                 AOEMultiplier += amount;
+                break;
+            case upgrade.DOTRateUP:
+                DOTRateMultiplier += amount;
                 break;
             case upgrade.levelUP:
                 level += (int)amount;
@@ -111,7 +118,8 @@ public class Ability : MonoBehaviour
                 SpellScript objScript = obj.GetComponent<SpellScript>();
                 if (objScript != null)
                 {
-                    objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier, AOEMultiplier, bufftimeMultiplier);
+                    objScript.Recalculate(damageMultiplier, speedMultiplier, lifetimeMultiplier, AOEMultiplier, bufftimeMultiplier, DOTRateMultiplier);
+                    objScript.spellTargetLayer = 1 << spellTargetLayer;
                 }
             }
            

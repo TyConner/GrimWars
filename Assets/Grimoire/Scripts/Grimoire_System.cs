@@ -10,6 +10,8 @@ public class grimoireSystem : MonoBehaviour
 
     int SpellPhysicsLayer = 0;
 
+    int SpellTargetLayer = 0;
+
     Ability QuickSpell;
 
     Ability HeavySpell;
@@ -24,9 +26,11 @@ public class grimoireSystem : MonoBehaviour
         {
             case 8: //player
                 SpellPhysicsLayer = 6;
+                SpellTargetLayer = 9;
                 break;
             case 9: //enemy
                 SpellPhysicsLayer = 7;
+                SpellTargetLayer = 8;
                 break;
             default:
                 SpellPhysicsLayer = parentlayer;
@@ -38,14 +42,14 @@ public class grimoireSystem : MonoBehaviour
         getSpellLayer();
         QuickSpell = this.AddComponent<Ability>();
         QuickSpell.spelldetails = grimoire.QuickSpell_Data;
-        QuickSpell.ExecuteLoad(SpellPhysicsLayer);
+        QuickSpell.ExecuteLoad(SpellPhysicsLayer, SpellTargetLayer);
         if(QuickSpell.spelldetails == null)
         {
             Debug.LogWarning("Failed to Load Data QuickSpell");
         }
         HeavySpell = this.AddComponent<Ability>();
         HeavySpell.spelldetails = grimoire.HeavySpell_Data;
-        HeavySpell.ExecuteLoad(SpellPhysicsLayer);
+        HeavySpell.ExecuteLoad(SpellPhysicsLayer, SpellTargetLayer);
         if (HeavySpell.spelldetails == null)
         {
             Debug.LogWarning("Failed to Load Data HeavySpell");

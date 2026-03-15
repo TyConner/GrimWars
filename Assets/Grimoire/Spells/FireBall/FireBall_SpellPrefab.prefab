@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8310420670075408844}
   - component: {fileID: 4622418306267941520}
   - component: {fileID: 5916892989122296137}
+  - component: {fileID: 3537343014114859908}
   m_Layer: 0
   m_Name: FireBall_SpellPrefab
   m_TagString: Untagged
@@ -28,13 +29,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8208468500846820942}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.6057, y: 1.13785, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
 --- !u!114 &1486706882146567068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54,16 +55,18 @@ MonoBehaviour:
   spellHitSFX: {fileID: 8300000, guid: 1f73258f2c30c5440911672dcd694f96, type: 3}
   SpellCastVol: 0.415
   SpellHitVol: 0.47
-  speed: 5
+  speed: 10
   lifetime: 2
-  FXTime: 0.04
+  FXTime: 0.05
   dmgAmount: 1
+  dmgRate: 1
   AOESize: 1
   DestroyAfterSeconds: 1
   isBuff: 0
   BuffTime: 0
   explodeOnImpact: 1
   Buff: 0
+  spellTargetLayer: 0
   Type: 0
 --- !u!212 &8310420670075408844
 SpriteRenderer:
@@ -187,3 +190,25 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.06
+--- !u!95 &3537343014114859908
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8208468500846820942}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8dec348cdda54b64cacf403b5fe8aa8b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
