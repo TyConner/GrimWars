@@ -5,7 +5,7 @@ using UnityEngine.Device;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-public class PlayerController : MonoBehaviour, ITakeDamage
+public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 {
     [Header("Input System")]
     [SerializeField] InputActionReference moveAction;
@@ -45,6 +45,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
     [Header("UI")]
     [SerializeField] Image healthBar;
+    [SerializeField] Image GrimoireSprite;
     [SerializeField] grimoireSystem Grimoire;
 
     Color originalColor;
@@ -351,5 +352,28 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         {
             healthBar.fillAmount = (float)currentHP / maxHP;
         }
+    }
+
+    void iUseItems.GrimoirePickup(GrimoireClassData _grimoire)
+    {
+        Grimoire.SwapGrimoires(_grimoire);
+        
+        //USE THIS TO UPDATE UI!!!
+        GrimoireSprite.sprite = Grimoire.GetGrimoireSprite();
+    }
+
+    void iUseItems.PagePickup()
+    {
+        Grimoire.PageAquired();
+    }
+
+    void iUseItems.HealthPotion(int _heal)
+    {
+        Heal(_heal);
+    }
+
+    void iUseItems.ManaPotion(int _mana)
+    {
+        throw new NotImplementedException();
     }
 }

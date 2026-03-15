@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 93bbc4f9dd7ad304ab637e4e192c1bce, type: 3}
-  m_Name: Immolate_Data
+  m_Name: IceBolt_Data
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
-  SpellPrefab: {fileID: 0}
+  SpellPrefab: {fileID: 1657529885188028449, guid: 5dd48d49473f10a4dbbd7b6b6dbd7bb9, type: 3}
   manaCost: 0
   level: 0
   buffTimeMultiplier: 1
@@ -20,4 +20,5 @@ MonoBehaviour:
   speedMultiplier: 1
   lifetimeMultiplier: 1
   AOEMultiplier: 1
+  DOTRateMultiplier: 1
   CoolDown: 1
