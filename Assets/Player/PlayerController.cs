@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [SerializeField] InputActionReference moveAction;
     [SerializeField] InputActionReference firePrimaryAction;
     [SerializeField] InputActionReference lookAction;
-    [SerializeField] InputActionReference attackAction;
+    [SerializeField] InputActionReference fireSecondaryAction;
 
     [Header("Refs")]
     [SerializeField] Rigidbody2D rb;
@@ -33,6 +33,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     int currentHP;
     [SerializeField] int maxMana = 10;
     int currentMana;
+    [Header("Grimoire")]
+    [SerializeField] grimoireSystem Grimoire;
+
     [Header("Player Feedback")]
     [SerializeField] float damageFlashTime = 0.08f;
     [SerializeField] float damageCameraShakeDuration = 0.2f;
@@ -45,8 +48,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 
     [Header("UI")]
     [SerializeField] Image healthBar;
+    [SerializeField] Image manaBar;
     [SerializeField] Image GrimoireSprite;
-    [SerializeField] grimoireSystem Grimoire;
+    
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -93,9 +97,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         {
             firePrimaryAction.action.Enable();
         }
-        if (attackAction != null)
+        if (fireSecondaryAction != null)
         {
-            attackAction.action.Enable();
+            fireSecondaryAction.action.Enable();
 
         }
         if (lookAction != null)
@@ -116,9 +120,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         }
 
 
-        if (attackAction != null)
+        if (fireSecondaryAction != null)
         {
-            attackAction.action.Disable();
+            fireSecondaryAction.action.Disable();
         }
 
         if(lookAction != null)
@@ -128,75 +132,86 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     }
 
     void Update()
+    {
+        if (bDead) return;
+
+        if (!bMovementLocked)
+            //move
+            if (moveAction == null)
             {
-                if (bDead) return;
-
-                if (!bMovementLocked)
-                    //move
-                    if (moveAction == null)
-                    {
-                        moveInput = Vector2.zero;
-                        return;
-                    }
+                moveInput = Vector2.zero;
+                return;
+            }
 
 
+        moveInput = moveAction.action.ReadValue<Vector2>();
+
+
+        if (moveInput.sqrMagnitude > 0f)
+        {
+            if (moveAction == null)
+            {
+                moveInput = Vector2.zero;
+            }
+            else
+            {
                 moveInput = moveAction.action.ReadValue<Vector2>();
-
 
                 if (moveInput.sqrMagnitude > 0f)
                 {
-                    if (moveAction == null)
+                    moveInput = moveInput.normalized;
+
+                    anim.SetFloat("LastInputX", moveInput.x);
+                    anim.SetFloat("LastInputY", moveInput.y);
+                    anim.SetBool("bIsMoving", true);
+
+                    if (moveInput.x < 0f)
                     {
-                        moveInput = Vector2.zero;
+                        spr.flipX = true;
                     }
-                    else
+                    else if (moveInput.x > 0f)
                     {
-                        moveInput = moveAction.action.ReadValue<Vector2>();
-
-                        if (moveInput.sqrMagnitude > 0f)
-                        {
-                            moveInput = moveInput.normalized;
-
-                            anim.SetFloat("LastInputX", moveInput.x);
-                            anim.SetFloat("LastInputY", moveInput.y);
-                            anim.SetBool("bIsMoving", true);
-
-                            if (moveInput.x < 0f)
-                            {
-                                spr.flipX = true;
-                            }
-                            else if (moveInput.x > 0f)
-                            {
-                                spr.flipX = false;
-                            }
-                        }
-                        else
-                        {
-                            anim.SetBool("bIsMoving", false);
-                        }
+                        spr.flipX = false;
                     }
                 }
                 else
                 {
-                    moveInput = Vector2.zero;
                     anim.SetBool("bIsMoving", false);
                 }
-                //look
-
-                if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
-                {
-                    //TryFireball();
-                    lookInput = lookAction.action.ReadValue<Vector2>();
-
-                    //attack
-                    if (attackAction.action.WasPressedThisFrame())
-                    {
-                        Attack();
-                    }
-                }
             }
+        }
+        else
+        {
+            moveInput = Vector2.zero;
+            anim.SetBool("bIsMoving", false);
+        }
+        //look
 
-            void FixedUpdate()
+        if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
+        {
+            //TryFireball();
+            lookInput = lookAction.action.ReadValue<Vector2>();
+
+            //attack
+            Attack();
+           
+        }
+
+        if (fireSecondaryAction != null && fireSecondaryAction.action.WasPressedThisFrame())
+        {
+            //TryFireball();
+            lookInput = lookAction.action.ReadValue<Vector2>();
+
+            //attack
+            AttackHeavy();
+
+        }
+
+    }
+
+
+
+    void FixedUpdate()
     {
         if (bDead) return;
 
@@ -310,12 +325,47 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
                 float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
                 Quaternion rot = Quaternion.Euler(0f, 0f, angle);
                 Grimoire.GetQuick().cast(rot, transform.position);
+                UpdateManaBar();
             }
             else
             {
                 Debug.LogWarning("Not Enough Mana");
             }
             
+        }
+        else
+        {
+            Debug.LogWarning("Grimoire reference null");
+        }
+    }
+
+    private void AttackHeavy()
+    {
+        if (Grimoire != null)
+        {
+            //Debug.LogWarning("Cast attempt");
+            if (Grimoire.GetHeavy() == null)
+            {
+                return;
+            }
+            if (Grimoire.GetHeavy().CanCast(currentMana))
+            {
+                //Debug.LogWarning("I can cast this and have the mana");
+                currentMana -= Grimoire.GetHeavy().manaCost;
+                Vector3 playerpos = Camera.main.WorldToScreenPoint(transform.position);
+                Vector2 playerScreenPos = new Vector2(playerpos.x, playerpos.y);
+                Vector2 dir = lookInput - playerScreenPos;
+                Debug.Log(dir);
+                float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+                Quaternion rot = Quaternion.Euler(0f, 0f, angle);
+                Grimoire.GetHeavy().cast(rot, transform.position);
+                UpdateManaBar();
+            }
+            else
+            {
+                Debug.LogWarning("Not Enough Mana");
+            }
+
         }
         else
         {
@@ -354,6 +404,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         }
     }
 
+    void UpdateManaBar()
+    {
+        if(manaBar != null)
+        {
+            manaBar.fillAmount = (float)currentMana/ maxMana;
+        }
+    }
     void iUseItems.GrimoirePickup(GrimoireClassData _grimoire)
     {
         Grimoire.SwapGrimoires(_grimoire);

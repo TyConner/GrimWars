@@ -132,7 +132,7 @@ public class Ability : MonoBehaviour
 
     public bool CanCast(int currMana)
     {
-        return currMana >= manaCost;
+        return currMana >= manaCost && castAvailable;
     }
 
 }
