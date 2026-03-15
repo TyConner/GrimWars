@@ -78,7 +78,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         currentHP = maxHP;
         currentMana = maxMana;
         originalColor = spr.color;
-
+        GrimoireSprite.sprite = Grimoire.GetGrimoireSprite();
         UpdateHealthBar();
     }
 
