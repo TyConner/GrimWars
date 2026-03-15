@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: IceStorm_Data
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 4467927258075995117, guid: 1be5bb728f61c2f43a25871236dccf27, type: 3}
-  manaCost: 0
+  manaCost: 10
   level: 0
   buffTimeMultiplier: 1
   damageMultiplier: 1

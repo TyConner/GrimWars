@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: IceBolt_Data
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 1657529885188028449, guid: 5dd48d49473f10a4dbbd7b6b6dbd7bb9, type: 3}
-  manaCost: 0
+  manaCost: 2
   level: 0
   buffTimeMultiplier: 1
   damageMultiplier: 1
