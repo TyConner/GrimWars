@@ -115,7 +115,7 @@ public class SpellScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.isTrigger || mystate != state.playing)
+        if (mystate != state.playing)
         {
             return;
         }

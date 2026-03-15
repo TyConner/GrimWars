@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3875747cca5cf2343977e3df3d1020c2, type: 3}
-  m_Name: Fire_Grimoire
+  m_Name: Ice_Grimoire
   m_EditorClassIdentifier: Assembly-CSharp::GrimoireClassData
-  Type: 0
+  Type: 1
   MaxPages: 5
   MaxLevel: 5
-  QuickSpell_Data: {fileID: 11400000, guid: 2da09280265f75346a18218e235aa3e5, type: 2}
-  HeavySpell_Data: {fileID: 11400000, guid: 2ebc7ec83870cbb41b756c438182d8cc, type: 2}
-  Grimoire_Sprite: {fileID: -7988278825849107257, guid: de12b37df0c26de45832c0c0eaa2337e, type: 3}
+  QuickSpell_Data: {fileID: 11400000, guid: 32c01c3ef3246f84ab4d9043e1ae4c3b, type: 2}
+  HeavySpell_Data: {fileID: 11400000, guid: f1dbcf9ffb37fbd4f866371074f4a326, type: 2}
+  Grimoire_Sprite: {fileID: 6640383638602043220, guid: 66eabe3c4d404af4b97633a4d9e2f350, type: 3}
