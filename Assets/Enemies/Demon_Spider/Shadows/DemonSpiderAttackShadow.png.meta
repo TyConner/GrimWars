@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 8eccc7927d34a0a4dbb0cd3e63e7957b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4303560820392811926
+    second: DemonSpiderAttackShadow_0
+  - first:
+      213: 5780268809669556446
+    second: DemonSpiderAttackShadow_1
+  - first:
+      213: -2333487346473269842
+    second: DemonSpiderAttackShadow_2
+  - first:
+      213: 8919752347491799564
+    second: DemonSpiderAttackShadow_3
+  - first:
+      213: 8443100094180765025
+    second: DemonSpiderAttackShadow_4
+  - first:
+      213: -2387965736907095122
+    second: DemonSpiderAttackShadow_5
+  - first:
+      213: -4338678410240515686
+    second: DemonSpiderAttackShadow_6
+  - first:
+      213: 8885658826362905834
+    second: DemonSpiderAttackShadow_7
+  - first:
+      213: 7714752438336567816
+    second: DemonSpiderAttackShadow_8
+  - first:
+      213: -6507374975829134827
+    second: DemonSpiderAttackShadow_9
+  - first:
+      213: 4275226433103890689
+    second: DemonSpiderAttackShadow_10
+  - first:
+      213: 4059201702208887302
+    second: DemonSpiderAttackShadow_11
+  - first:
+      213: 1300794680685163084
+    second: DemonSpiderAttackShadow_12
+  - first:
+      213: -8901937559999227617
+    second: DemonSpiderAttackShadow_13
+  - first:
+      213: 2957730436170165518
+    second: DemonSpiderAttackShadow_14
+  - first:
+      213: -6933167757509523548
+    second: DemonSpiderAttackShadow_15
+  - first:
+      213: -1872031991148420296
+    second: DemonSpiderAttackShadow_16
+  - first:
+      213: 8485943987595400860
+    second: DemonSpiderAttackShadow_17
+  - first:
+      213: 1714431486405437347
+    second: DemonSpiderAttackShadow_18
+  - first:
+      213: -6624032779765908808
+    second: DemonSpiderAttackShadow_19
+  - first:
+      213: 2747852502963284832
+    second: DemonSpiderAttackShadow_20
+  - first:
+      213: 8255983228143157960
+    second: DemonSpiderAttackShadow_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a23f2c3ea644c0800000000000000
+      internalID: -4303560820392811926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8bf927bd3a73050800000000000000
+      internalID: 5780268809669556446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea587992f99cd9fd0800000000000000
+      internalID: -2333487346473269842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0294bc408359cb70800000000000000
+      internalID: 8919752347491799564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d26bc5dcaeb2570800000000000000
+      internalID: 8443100094180765025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea349d370dd3cded0800000000000000
+      internalID: -2387965736907095122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9125f229fae9c3c0800000000000000
+      internalID: -4338678410240515686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4eca4df93305b70800000000000000
+      internalID: 8885658826362905834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3129d77e401b60800000000000000
+      internalID: 7714752438336567816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5123071efe821b5a0800000000000000
+      internalID: -6507374975829134827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109848f2ac7a45b30800000000000000
+      internalID: 4275226433103890689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a52db017e255830800000000000000
+      internalID: 4059201702208887302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42f4f3ced95d0210800000000000000
+      internalID: 1300794680685163084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19d98324f6f57480800000000000000
+      internalID: -8901937559999227617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0da8453928fb0920800000000000000
+      internalID: 2957730436170165518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7047578a078cf90800000000000000
+      internalID: -6933167757509523548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336e6f82d43506e0800000000000000
+      internalID: -1872031991148420296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965c74a81124c570800000000000000
+      internalID: 8485943987595400860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7e0fa7a52eac710800000000000000
+      internalID: 1714431486405437347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba728d4845b214a0800000000000000
+      internalID: -6624032779765908808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6b4eea45522620800000000000000
+      internalID: 2747852502963284832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderAttackShadow_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24e010105239270800000000000000
+      internalID: 8255983228143157960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DemonSpiderAttackShadow_0: -4303560820392811926
+      DemonSpiderAttackShadow_1: 5780268809669556446
+      DemonSpiderAttackShadow_10: 4275226433103890689
+      DemonSpiderAttackShadow_11: 4059201702208887302
+      DemonSpiderAttackShadow_12: 1300794680685163084
+      DemonSpiderAttackShadow_13: -8901937559999227617
+      DemonSpiderAttackShadow_14: 2957730436170165518
+      DemonSpiderAttackShadow_15: -6933167757509523548
+      DemonSpiderAttackShadow_16: -1872031991148420296
+      DemonSpiderAttackShadow_17: 8485943987595400860
+      DemonSpiderAttackShadow_18: 1714431486405437347
+      DemonSpiderAttackShadow_19: -6624032779765908808
+      DemonSpiderAttackShadow_2: -2333487346473269842
+      DemonSpiderAttackShadow_20: 2747852502963284832
+      DemonSpiderAttackShadow_21: 8255983228143157960
+      DemonSpiderAttackShadow_3: 8919752347491799564
+      DemonSpiderAttackShadow_4: 8443100094180765025
+      DemonSpiderAttackShadow_5: -2387965736907095122
+      DemonSpiderAttackShadow_6: -4338678410240515686
+      DemonSpiderAttackShadow_7: 8885658826362905834
+      DemonSpiderAttackShadow_8: 7714752438336567816
+      DemonSpiderAttackShadow_9: -6507374975829134827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

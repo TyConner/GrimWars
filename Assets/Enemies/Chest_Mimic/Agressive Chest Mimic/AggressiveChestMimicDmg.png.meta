@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e7c5dde4f52953a4f855de598fcb19ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1358889844044211988
+    second: AggressiveChestMimicDmg_0
+  - first:
+      213: 2990667011064730686
+    second: AggressiveChestMimicDmg_1
+  - first:
+      213: 8490148796393615366
+    second: AggressiveChestMimicDmg_2
+  - first:
+      213: 2788679321778372753
+    second: AggressiveChestMimicDmg_3
+  - first:
+      213: 8655502956171434341
+    second: AggressiveChestMimicDmg_4
+  - first:
+      213: -6643782059639719006
+    second: AggressiveChestMimicDmg_5
+  - first:
+      213: 7784284526106337694
+    second: AggressiveChestMimicDmg_6
+  - first:
+      213: 5057997025309534452
+    second: AggressiveChestMimicDmg_7
+  - first:
+      213: 1224057549916850245
+    second: AggressiveChestMimicDmg_8
+  - first:
+      213: -3596258957465140857
+    second: AggressiveChestMimicDmg_9
+  - first:
+      213: 6619792176614359536
+    second: AggressiveChestMimicDmg_10
+  - first:
+      213: 7664733009399161711
+    second: AggressiveChestMimicDmg_11
+  - first:
+      213: 6189344027426183276
+    second: AggressiveChestMimicDmg_12
+  - first:
+      213: -8550707710996735203
+    second: AggressiveChestMimicDmg_13
+  - first:
+      213: -6805348153012782245
+    second: AggressiveChestMimicDmg_14
+  - first:
+      213: 387312765172083097
+    second: AggressiveChestMimicDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dbd4f2e0442de0800000000000000
+      internalID: -1358889844044211988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341ef32dcbf08920800000000000000
+      internalID: 2990667011064730686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600704bf85113d570800000000000000
+      internalID: 8490148796393615366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c31f611163b620800000000000000
+      internalID: 2788679321778372753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 76
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56911fe64168e1870800000000000000
+      internalID: 8655502956171434341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abbf02ca6b8cc3a0800000000000000
+      internalID: -6643782059639719006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9163299885570c60800000000000000
+      internalID: 7784284526106337694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ae800f7d913640800000000000000
+      internalID: 5057997025309534452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548cd673bd9bcf010800000000000000
+      internalID: 1224057549916850245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78149ff2885871ec0800000000000000
+      internalID: -3596258957465140857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1420659e93edb50800000000000000
+      internalID: 6619792176614359536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a273001a9e5a60800000000000000
+      internalID: 7664733009399161711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c685c63b997f4e550800000000000000
+      internalID: 6189344027426183276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b98d3f3a8c55980800000000000000
+      internalID: -8550707710996735203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bffce39eb8e81a0800000000000000
+      internalID: -6805348153012782245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AggressiveChestMimicDmg_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9996e0968e2006500800000000000000
+      internalID: 387312765172083097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AggressiveChestMimicDmg_0: -1358889844044211988
+      AggressiveChestMimicDmg_1: 2990667011064730686
+      AggressiveChestMimicDmg_10: 6619792176614359536
+      AggressiveChestMimicDmg_11: 7664733009399161711
+      AggressiveChestMimicDmg_12: 6189344027426183276
+      AggressiveChestMimicDmg_13: -8550707710996735203
+      AggressiveChestMimicDmg_14: -6805348153012782245
+      AggressiveChestMimicDmg_15: 387312765172083097
+      AggressiveChestMimicDmg_2: 8490148796393615366
+      AggressiveChestMimicDmg_3: 2788679321778372753
+      AggressiveChestMimicDmg_4: 8655502956171434341
+      AggressiveChestMimicDmg_5: -6643782059639719006
+      AggressiveChestMimicDmg_6: 7784284526106337694
+      AggressiveChestMimicDmg_7: 5057997025309534452
+      AggressiveChestMimicDmg_8: 1224057549916850245
+      AggressiveChestMimicDmg_9: -3596258957465140857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

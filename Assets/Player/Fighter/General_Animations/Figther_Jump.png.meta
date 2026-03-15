@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bb0af934f1fcbb3439adae246c51edb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2466204183645674158
+    second: Figther_Jump_0
+  - first:
+      213: 8778514632096259874
+    second: Figther_Jump_1
+  - first:
+      213: -8100099548577817311
+    second: Figther_Jump_2
+  - first:
+      213: 8924624382927261132
+    second: Figther_Jump_3
+  - first:
+      213: -3010791598470539346
+    second: Figther_Jump_4
+  - first:
+      213: 5682109056179876227
+    second: Figther_Jump_5
+  - first:
+      213: 7558667315966620644
+    second: Figther_Jump_6
+  - first:
+      213: 7004631692034957279
+    second: Figther_Jump_7
+  - first:
+      213: 3223989838690423674
+    second: Figther_Jump_8
+  - first:
+      213: -7849093803080318866
+    second: Figther_Jump_9
+  - first:
+      213: 4212268823175561175
+    second: Figther_Jump_10
+  - first:
+      213: -6003407174915415735
+    second: Figther_Jump_11
+  - first:
+      213: 602861830199493342
+    second: Figther_Jump_12
+  - first:
+      213: 1718016349568384470
+    second: Figther_Jump_13
+  - first:
+      213: 1654588170773856991
+    second: Figther_Jump_14
+  - first:
+      213: 6214447982420220386
+    second: Figther_Jump_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa58c573a7b93220800000000000000
+      internalID: 2466204183645674158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 111
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f9aad1c8c83d970800000000000000
+      internalID: 8778514632096259874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d97b1706aa69f80800000000000000
+      internalID: -8100099548577817311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd4b227792aadb70800000000000000
+      internalID: 8924624382927261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7de683ef48736d0800000000000000
+      internalID: -3010791598470539346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b1acd418eade40800000000000000
+      internalID: 5682109056179876227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 78
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3bb8750e7c5e860800000000000000
+      internalID: 7558667315966620644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfdf2a6963753160800000000000000
+      internalID: 7004631692034957279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739c964da9edbc20800000000000000
+      internalID: 3223989838690423674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608daab5ca621390800000000000000
+      internalID: -7849093803080318866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dff4d75d2cf47a30800000000000000
+      internalID: 4212268823175561175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a2295bfc9faca0800000000000000
+      internalID: -6003407174915415735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2cea5f3abcd5800800000000000000
+      internalID: 602861830199493342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd365a74ce97d710800000000000000
+      internalID: 1718016349568384470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd20a88cc2746f610800000000000000
+      internalID: 1654588170773856991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9dc43b3872e3650800000000000000
+      internalID: 6214447982420220386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figther_Jump_0: 2466204183645674158
+      Figther_Jump_1: 8778514632096259874
+      Figther_Jump_10: 4212268823175561175
+      Figther_Jump_11: -6003407174915415735
+      Figther_Jump_12: 602861830199493342
+      Figther_Jump_13: 1718016349568384470
+      Figther_Jump_14: 1654588170773856991
+      Figther_Jump_15: 6214447982420220386
+      Figther_Jump_2: -8100099548577817311
+      Figther_Jump_3: 8924624382927261132
+      Figther_Jump_4: -3010791598470539346
+      Figther_Jump_5: 5682109056179876227
+      Figther_Jump_6: 7558667315966620644
+      Figther_Jump_7: 7004631692034957279
+      Figther_Jump_8: 3223989838690423674
+      Figther_Jump_9: -7849093803080318866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: a8713c3a50bb6e44b9a45e65de8f6598
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8909313504555018149
+    second: Summon_Ritual_No_Effect_0
+  - first:
+      213: -1886186628966394530
+    second: Summon_Ritual_No_Effect_1
+  - first:
+      213: -5971697980352801868
+    second: Summon_Ritual_No_Effect_2
+  - first:
+      213: -7512248001009340536
+    second: Summon_Ritual_No_Effect_3
+  - first:
+      213: -5653584173982980089
+    second: Summon_Ritual_No_Effect_4
+  - first:
+      213: -8137512586732812115
+    second: Summon_Ritual_No_Effect_5
+  - first:
+      213: 7795298109699514427
+    second: Summon_Ritual_No_Effect_6
+  - first:
+      213: 1246396853949858629
+    second: Summon_Ritual_No_Effect_7
+  - first:
+      213: -6509349246593853433
+    second: Summon_Ritual_No_Effect_8
+  - first:
+      213: 5325548755669197961
+    second: Summon_Ritual_No_Effect_9
+  - first:
+      213: 7523355433719160823
+    second: Summon_Ritual_No_Effect_10
+  - first:
+      213: -4044596077522151033
+    second: Summon_Ritual_No_Effect_11
+  - first:
+      213: 4218256972089191100
+    second: Summon_Ritual_No_Effect_12
+  - first:
+      213: -4181896867868261035
+    second: Summon_Ritual_No_Effect_13
+  - first:
+      213: -2954001494586806309
+    second: Summon_Ritual_No_Effect_14
+  - first:
+      213: 6686237123492273343
+    second: Summon_Ritual_No_Effect_15
+  - first:
+      213: -2918542286828798880
+    second: Summon_Ritual_No_Effect_16
+  - first:
+      213: -4639658009006196826
+    second: Summon_Ritual_No_Effect_17
+  - first:
+      213: -2861592120799529212
+    second: Summon_Ritual_No_Effect_18
+  - first:
+      213: 953576299366209165
+    second: Summon_Ritual_No_Effect_19
+  - first:
+      213: -8991227730205766105
+    second: Summon_Ritual_No_Effect_20
+  - first:
+      213: -1201128590115968887
+    second: Summon_Ritual_No_Effect_21
+  - first:
+      213: 6001274859142860611
+    second: Summon_Ritual_No_Effect_22
+  - first:
+      213: -7013990636400603836
+    second: Summon_Ritual_No_Effect_23
+  - first:
+      213: 5062643241903669207
+    second: Summon_Ritual_No_Effect_24
+  - first:
+      213: 301226421766354376
+    second: Summon_Ritual_No_Effect_25
+  - first:
+      213: -3912159399099091586
+    second: Summon_Ritual_No_Effect_26
+  - first:
+      213: -6335392373158195637
+    second: Summon_Ritual_No_Effect_27
+  - first:
+      213: 3036164925945863231
+    second: Summon_Ritual_No_Effect_28
+  - first:
+      213: 9090144893582462970
+    second: Summon_Ritual_No_Effect_29
+  - first:
+      213: 7153714565916486300
+    second: Summon_Ritual_No_Effect_30
+  - first:
+      213: 8763650427885603725
+    second: Summon_Ritual_No_Effect_31
+  - first:
+      213: -4844917469993788233
+    second: Summon_Ritual_No_Effect_32
+  - first:
+      213: 5434959202668897361
+    second: Summon_Ritual_No_Effect_33
+  - first:
+      213: -4913691685185536631
+    second: Summon_Ritual_No_Effect_34
+  - first:
+      213: -4974619824180345295
+    second: Summon_Ritual_No_Effect_35
+  - first:
+      213: -3853774983318384338
+    second: Summon_Ritual_No_Effect_36
+  - first:
+      213: 8047402931749706923
+    second: Summon_Ritual_No_Effect_37
+  - first:
+      213: -8766074005082737299
+    second: Summon_Ritual_No_Effect_38
+  - first:
+      213: -6454092625038150644
+    second: Summon_Ritual_No_Effect_39
+  - first:
+      213: -866635352125034962
+    second: Summon_Ritual_No_Effect_40
+  - first:
+      213: -5738555207077124711
+    second: Summon_Ritual_No_Effect_41
+  - first:
+      213: -354590914055059545
+    second: Summon_Ritual_No_Effect_42
+  - first:
+      213: -2207467921162626873
+    second: Summon_Ritual_No_Effect_43
+  - first:
+      213: 7366136428581578837
+    second: Summon_Ritual_No_Effect_44
+  - first:
+      213: 4297038711505385134
+    second: Summon_Ritual_No_Effect_45
+  - first:
+      213: -8382364567035926563
+    second: Summon_Ritual_No_Effect_46
+  - first:
+      213: 7829683548826330802
+    second: Summon_Ritual_No_Effect_47
+  - first:
+      213: 3795089172469494113
+    second: Summon_Ritual_No_Effect_48
+  - first:
+      213: 5855745803612442966
+    second: Summon_Ritual_No_Effect_49
+  - first:
+      213: -8722585985289793764
+    second: Summon_Ritual_No_Effect_50
+  - first:
+      213: 2695901172065303101
+    second: Summon_Ritual_No_Effect_51
+  - first:
+      213: 6340665483115097646
+    second: Summon_Ritual_No_Effect_52
+  - first:
+      213: 3625177686225834419
+    second: Summon_Ritual_No_Effect_53
+  - first:
+      213: 7008770794455488232
+    second: Summon_Ritual_No_Effect_54
+  - first:
+      213: -3967497763727675009
+    second: Summon_Ritual_No_Effect_55
+  - first:
+      213: 3961962650209355766
+    second: Summon_Ritual_No_Effect_56
+  - first:
+      213: -6968881810206863591
+    second: Summon_Ritual_No_Effect_57
+  - first:
+      213: -6869597137504982394
+    second: Summon_Ritual_No_Effect_58
+  - first:
+      213: -695507588328154170
+    second: Summon_Ritual_No_Effect_59
+  - first:
+      213: -1993108391051187546
+    second: Summon_Ritual_No_Effect_60
+  - first:
+      213: -3738862039992525704
+    second: Summon_Ritual_No_Effect_61
+  - first:
+      213: -5595221889723024635
+    second: Summon_Ritual_No_Effect_62
+  - first:
+      213: 3279312341595589919
+    second: Summon_Ritual_No_Effect_63
+  - first:
+      213: -2232325782855271982
+    second: Summon_Ritual_No_Effect_64
+  - first:
+      213: 935564566447699661
+    second: Summon_Ritual_No_Effect_65
+  - first:
+      213: 5641575043503573680
+    second: Summon_Ritual_No_Effect_66
+  - first:
+      213: -5917413842659129025
+    second: Summon_Ritual_No_Effect_67
+  - first:
+      213: 4412072049403909048
+    second: Summon_Ritual_No_Effect_68
+  - first:
+      213: -1692156140080292902
+    second: Summon_Ritual_No_Effect_69
+  - first:
+      213: -9169366219210028644
+    second: Summon_Ritual_No_Effect_70
+  - first:
+      213: -6750703373886277028
+    second: Summon_Ritual_No_Effect_71
+  - first:
+      213: 6744757902748438205
+    second: Summon_Ritual_No_Effect_72
+  - first:
+      213: 4886567962244482813
+    second: Summon_Ritual_No_Effect_73
+  - first:
+      213: 6493481420083120235
+    second: Summon_Ritual_No_Effect_74
+  - first:
+      213: -4458664348382096794
+    second: Summon_Ritual_No_Effect_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5858683292cb5480800000000000000
+      internalID: -8909313504555018149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55dd50214be2d5e0800000000000000
+      internalID: -1886186628966394530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b357278354402da0800000000000000
+      internalID: -5971697980352801868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2333ae322fb790800000000000000
+      internalID: -7512248001009340536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70869f1d52f6a81b0800000000000000
+      internalID: -5653584173982980089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da84580ba6fb11f80800000000000000
+      internalID: -8137512586732812115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e9ea54567e2c60800000000000000
+      internalID: 7795298109699514427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54388d0c5571c4110800000000000000
+      internalID: 1246396853949858629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70811d529552aa5a0800000000000000
+      internalID: -6509349246593853433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984afa7906628e940800000000000000
+      internalID: 5325548755669197961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd5d118e3586860800000000000000
+      internalID: 7523355433719160823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7899a53fb45bed7c0800000000000000
+      internalID: -4044596077522151033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbae0b8ed524a8a30800000000000000
+      internalID: 4218256972089191100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c46f84fae6f5c0800000000000000
+      internalID: -4181896867868261035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2e29aa474107d0800000000000000
+      internalID: -2954001494586806309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc59c51d394acc50800000000000000
+      internalID: 6686237123492273343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfc93d0414f77d0800000000000000
+      internalID: -2918542286828798880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7b3ed6f9f9c9fb0800000000000000
+      internalID: -4639658009006196826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 108
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407ffa3a0259948d0800000000000000
+      internalID: -2861592120799529212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8654fd8798cb3d00800000000000000
+      internalID: 953576299366209165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8176540eb83380800000000000000
+      internalID: -8991227730205766105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988629049ebb45fe0800000000000000
+      internalID: -1201128590115968887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f41b230bfc84350800000000000000
+      internalID: 6001274859142860611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d0d6b8dac49ae90800000000000000
+      internalID: -7013990636400603836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df333a943f124640800000000000000
+      internalID: 5062643241903669207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5785aa5db2e2400800000000000000
+      internalID: 301226421766354376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753ef701c735b9c0800000000000000
+      internalID: -3912159399099091586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ecf25f33a2418a0800000000000000
+      internalID: -6335392373158195637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 76
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd082f9ef922a20800000000000000
+      internalID: 3036164925945863231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff40da7e9ea62e70800000000000000
+      internalID: 9090144893582462970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6df5ee79174360800000000000000
+      internalID: 7153714565916486300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b42d1e1adbe9970800000000000000
+      internalID: 8763650427885603725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 76
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc9fe20b3563ccb0800000000000000
+      internalID: -4844917469993788233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154e1d3699adc6b40800000000000000
+      internalID: 5434959202668897361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db9b8327f0fcbb0800000000000000
+      internalID: -4913691685185536631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364d1760a996fab0800000000000000
+      internalID: -4974619824180345295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2155032214a48ac0800000000000000
+      internalID: -3853774983318384338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd067545e1eaf60800000000000000
+      internalID: 8047402931749706923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f1441326a85680800000000000000
+      internalID: -8766074005082737299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f129e3f47e66a0800000000000000
+      internalID: -6454092625038150644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eaac62db719f3f0800000000000000
+      internalID: -866635352125034962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995233e717e8c50b0800000000000000
+      internalID: -5738555207077124711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ca2f317d341bf0800000000000000
+      internalID: -354590914055059545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c818021f9f7d51e0800000000000000
+      internalID: -2207467921162626873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5586ba8ed06c93660800000000000000
+      internalID: 7366136428581578837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6716101f522ab30800000000000000
+      internalID: 4297038711505385134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7a00486dbdbab80800000000000000
+      internalID: -8382364567035926563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6638744bf98ac60800000000000000
+      internalID: 7829683548826330802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b9ffbe7ddaa430800000000000000
+      internalID: 3795089172469494113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dd4788c9c34150800000000000000
+      internalID: 5855745803612442966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f4008b24623f680800000000000000
+      internalID: -8722585985289793764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af28e15d3c96520800000000000000
+      internalID: 2695901172065303101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee7a0a9a19ef750800000000000000
+      internalID: 6340665483115097646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d92b06e73f4230800000000000000
+      internalID: 3625177686225834419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_54
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d6ab47e7244160800000000000000
+      internalID: 7008770794455488232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_55
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71fad9fdcd90f8c0800000000000000
+      internalID: -3967497763727675009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7081bf908bbf630800000000000000
+      internalID: 3961962650209355766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f40f49aee894f90800000000000000
+      internalID: -6968881810206863591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aa9f4dcc94aa0a0800000000000000
+      internalID: -6869597137504982394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9c1b888f0956f0800000000000000
+      internalID: -695507588328154170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa2b807a7e0754e0800000000000000
+      internalID: -1993108391051187546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c9d02b8c4ec1cc0800000000000000
+      internalID: -3738862039992525704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb1970657c952b0800000000000000
+      internalID: -5595221889723024635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d0c5c3335728d20800000000000000
+      internalID: 3279312341595589919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d937f1278f2501e0800000000000000
+      internalID: -2232325782855271982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6be8f240bcbfc00800000000000000
+      internalID: 935564566447699661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4db99c96ea4e40800000000000000
+      internalID: 5641575043503573680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_67
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39c25f367f11eda0800000000000000
+      internalID: -5917413842659129025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3562c1724da3d30800000000000000
+      internalID: 4412072049403909048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_69
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb940eb4f04488e0800000000000000
+      internalID: -1692156140080292902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c990588410edfb080800000000000000
+      internalID: -9169366219210028644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3a775c0fa052a0800000000000000
+      internalID: -6750703373886277028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe4459c3913a9d50800000000000000
+      internalID: 6744757902748438205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60368eba390d340800000000000000
+      internalID: 4886567962244482813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_74
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6847a792fa7d1a50800000000000000
+      internalID: 6493481420083120235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Ritual_No_Effect_75
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 12
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629cfde564af12c0800000000000000
+      internalID: -4458664348382096794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Summon_Ritual_No_Effect_0: -8909313504555018149
+      Summon_Ritual_No_Effect_1: -1886186628966394530
+      Summon_Ritual_No_Effect_10: 7523355433719160823
+      Summon_Ritual_No_Effect_11: -4044596077522151033
+      Summon_Ritual_No_Effect_12: 4218256972089191100
+      Summon_Ritual_No_Effect_13: -4181896867868261035
+      Summon_Ritual_No_Effect_14: -2954001494586806309
+      Summon_Ritual_No_Effect_15: 6686237123492273343
+      Summon_Ritual_No_Effect_16: -2918542286828798880
+      Summon_Ritual_No_Effect_17: -4639658009006196826
+      Summon_Ritual_No_Effect_18: -2861592120799529212
+      Summon_Ritual_No_Effect_19: 953576299366209165
+      Summon_Ritual_No_Effect_2: -5971697980352801868
+      Summon_Ritual_No_Effect_20: -8991227730205766105
+      Summon_Ritual_No_Effect_21: -1201128590115968887
+      Summon_Ritual_No_Effect_22: 6001274859142860611
+      Summon_Ritual_No_Effect_23: -7013990636400603836
+      Summon_Ritual_No_Effect_24: 5062643241903669207
+      Summon_Ritual_No_Effect_25: 301226421766354376
+      Summon_Ritual_No_Effect_26: -3912159399099091586
+      Summon_Ritual_No_Effect_27: -6335392373158195637
+      Summon_Ritual_No_Effect_28: 3036164925945863231
+      Summon_Ritual_No_Effect_29: 9090144893582462970
+      Summon_Ritual_No_Effect_3: -7512248001009340536
+      Summon_Ritual_No_Effect_30: 7153714565916486300
+      Summon_Ritual_No_Effect_31: 8763650427885603725
+      Summon_Ritual_No_Effect_32: -4844917469993788233
+      Summon_Ritual_No_Effect_33: 5434959202668897361
+      Summon_Ritual_No_Effect_34: -4913691685185536631
+      Summon_Ritual_No_Effect_35: -4974619824180345295
+      Summon_Ritual_No_Effect_36: -3853774983318384338
+      Summon_Ritual_No_Effect_37: 8047402931749706923
+      Summon_Ritual_No_Effect_38: -8766074005082737299
+      Summon_Ritual_No_Effect_39: -6454092625038150644
+      Summon_Ritual_No_Effect_4: -5653584173982980089
+      Summon_Ritual_No_Effect_40: -866635352125034962
+      Summon_Ritual_No_Effect_41: -5738555207077124711
+      Summon_Ritual_No_Effect_42: -354590914055059545
+      Summon_Ritual_No_Effect_43: -2207467921162626873
+      Summon_Ritual_No_Effect_44: 7366136428581578837
+      Summon_Ritual_No_Effect_45: 4297038711505385134
+      Summon_Ritual_No_Effect_46: -8382364567035926563
+      Summon_Ritual_No_Effect_47: 7829683548826330802
+      Summon_Ritual_No_Effect_48: 3795089172469494113
+      Summon_Ritual_No_Effect_49: 5855745803612442966
+      Summon_Ritual_No_Effect_5: -8137512586732812115
+      Summon_Ritual_No_Effect_50: -8722585985289793764
+      Summon_Ritual_No_Effect_51: 2695901172065303101
+      Summon_Ritual_No_Effect_52: 6340665483115097646
+      Summon_Ritual_No_Effect_53: 3625177686225834419
+      Summon_Ritual_No_Effect_54: 7008770794455488232
+      Summon_Ritual_No_Effect_55: -3967497763727675009
+      Summon_Ritual_No_Effect_56: 3961962650209355766
+      Summon_Ritual_No_Effect_57: -6968881810206863591
+      Summon_Ritual_No_Effect_58: -6869597137504982394
+      Summon_Ritual_No_Effect_59: -695507588328154170
+      Summon_Ritual_No_Effect_6: 7795298109699514427
+      Summon_Ritual_No_Effect_60: -1993108391051187546
+      Summon_Ritual_No_Effect_61: -3738862039992525704
+      Summon_Ritual_No_Effect_62: -5595221889723024635
+      Summon_Ritual_No_Effect_63: 3279312341595589919
+      Summon_Ritual_No_Effect_64: -2232325782855271982
+      Summon_Ritual_No_Effect_65: 935564566447699661
+      Summon_Ritual_No_Effect_66: 5641575043503573680
+      Summon_Ritual_No_Effect_67: -5917413842659129025
+      Summon_Ritual_No_Effect_68: 4412072049403909048
+      Summon_Ritual_No_Effect_69: -1692156140080292902
+      Summon_Ritual_No_Effect_7: 1246396853949858629
+      Summon_Ritual_No_Effect_70: -9169366219210028644
+      Summon_Ritual_No_Effect_71: -6750703373886277028
+      Summon_Ritual_No_Effect_72: 6744757902748438205
+      Summon_Ritual_No_Effect_73: 4886567962244482813
+      Summon_Ritual_No_Effect_74: 6493481420083120235
+      Summon_Ritual_No_Effect_75: -4458664348382096794
+      Summon_Ritual_No_Effect_8: -6509349246593853433
+      Summon_Ritual_No_Effect_9: 5325548755669197961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

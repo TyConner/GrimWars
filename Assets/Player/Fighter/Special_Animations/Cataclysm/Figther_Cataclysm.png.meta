@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: e6dc86e18537eac44bd5cde2e05d21c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8153464004977444868
+    second: Figther_Cataclysm_0
+  - first:
+      213: 7373399871972064064
+    second: Figther_Cataclysm_1
+  - first:
+      213: -4092410805966618930
+    second: Figther_Cataclysm_2
+  - first:
+      213: 5581558737322542168
+    second: Figther_Cataclysm_3
+  - first:
+      213: -8015187042488881551
+    second: Figther_Cataclysm_4
+  - first:
+      213: 1704637393066845240
+    second: Figther_Cataclysm_5
+  - first:
+      213: -8130458792687790105
+    second: Figther_Cataclysm_6
+  - first:
+      213: -3499781615095472565
+    second: Figther_Cataclysm_7
+  - first:
+      213: 2648513170050271879
+    second: Figther_Cataclysm_8
+  - first:
+      213: 9048873661668139629
+    second: Figther_Cataclysm_9
+  - first:
+      213: -422286332766209677
+    second: Figther_Cataclysm_10
+  - first:
+      213: 9152396351702570158
+    second: Figther_Cataclysm_11
+  - first:
+      213: -4995942925035155641
+    second: Figther_Cataclysm_12
+  - first:
+      213: 1105730096428856116
+    second: Figther_Cataclysm_13
+  - first:
+      213: 9108366268341159233
+    second: Figther_Cataclysm_14
+  - first:
+      213: -5327263352358517172
+    second: Figther_Cataclysm_15
+  - first:
+      213: -9101085086424575095
+    second: Figther_Cataclysm_16
+  - first:
+      213: 3576177752702771729
+    second: Figther_Cataclysm_17
+  - first:
+      213: 7614997200098024529
+    second: Figther_Cataclysm_18
+  - first:
+      213: -2666748724740501957
+    second: Figther_Cataclysm_19
+  - first:
+      213: 2468914291663928046
+    second: Figther_Cataclysm_20
+  - first:
+      213: 8193505253784745386
+    second: Figther_Cataclysm_21
+  - first:
+      213: -1387583890364398130
+    second: Figther_Cataclysm_22
+  - first:
+      213: 2523617863186590464
+    second: Figther_Cataclysm_23
+  - first:
+      213: -1125455152304325151
+    second: Figther_Cataclysm_24
+  - first:
+      213: 8296060642491994370
+    second: Figther_Cataclysm_25
+  - first:
+      213: 7550760583812438407
+    second: Figther_Cataclysm_26
+  - first:
+      213: -4993134680236895779
+    second: Figther_Cataclysm_27
+  - first:
+      213: -3998627188975374240
+    second: Figther_Cataclysm_28
+  - first:
+      213: 7126199488964681149
+    second: Figther_Cataclysm_29
+  - first:
+      213: 5374161442969312105
+    second: Figther_Cataclysm_30
+  - first:
+      213: 1933429799447128203
+    second: Figther_Cataclysm_31
+  - first:
+      213: -8724512224693667160
+    second: Figther_Cataclysm_32
+  - first:
+      213: -2442013132968087838
+    second: Figther_Cataclysm_33
+  - first:
+      213: -5984634472924435323
+    second: Figther_Cataclysm_34
+  - first:
+      213: -294525896207711273
+    second: Figther_Cataclysm_35
+  - first:
+      213: 2754356931534408498
+    second: Figther_Cataclysm_36
+  - first:
+      213: 170673470394887328
+    second: Figther_Cataclysm_37
+  - first:
+      213: 4808800798386069695
+    second: Figther_Cataclysm_38
+  - first:
+      213: 2485606795607198962
+    second: Figther_Cataclysm_39
+  - first:
+      213: 4406403407780655346
+    second: Figther_Cataclysm_40
+  - first:
+      213: -872001867745752601
+    second: Figther_Cataclysm_41
+  - first:
+      213: -7420620864959781691
+    second: Figther_Cataclysm_42
+  - first:
+      213: -4874507624710085227
+    second: Figther_Cataclysm_43
+  - first:
+      213: 1364020380554883299
+    second: Figther_Cataclysm_44
+  - first:
+      213: -3116998459657512942
+    second: Figther_Cataclysm_45
+  - first:
+      213: -8728049563445138315
+    second: Figther_Cataclysm_46
+  - first:
+      213: -6389254624071411652
+    second: Figther_Cataclysm_47
+  - first:
+      213: 3701270731847558158
+    second: Figther_Cataclysm_48
+  - first:
+      213: 3029444444312718647
+    second: Figther_Cataclysm_49
+  - first:
+      213: -3945925463708344005
+    second: Figther_Cataclysm_50
+  - first:
+      213: -8440723940397925571
+    second: Figther_Cataclysm_51
+  - first:
+      213: -5019035685042382350
+    second: Figther_Cataclysm_52
+  - first:
+      213: -5501801761715144799
+    second: Figther_Cataclysm_53
+  - first:
+      213: 6783182158604730676
+    second: Figther_Cataclysm_54
+  - first:
+      213: 8154834644618233605
+    second: Figther_Cataclysm_55
+  - first:
+      213: -7339154679533275760
+    second: Figther_Cataclysm_56
+  - first:
+      213: -750292776341019910
+    second: Figther_Cataclysm_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther_Cataclysm_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b266bfa319de80800000000000000
+      internalID: -8153464004977444868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b3ecb1e14935660800000000000000
+      internalID: 7373399871972064064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceb363fd06d437c0800000000000000
+      internalID: -4092410805966618930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548617691ea57d40800000000000000
+      internalID: 5581558737322542168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee224e9d554c090800000000000000
+      internalID: -8015187042488881551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e89c6da618a710800000000000000
+      internalID: 1704637393066845240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e794e81ececa2f80800000000000000
+      internalID: -8130458792687790105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 99
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9ac8e9274e6fc0800000000000000
+      internalID: -3499781615095472565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a4acb12b861c420800000000000000
+      internalID: 2648513170050271879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 97
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d622e1df6ae049d70800000000000000
+      internalID: 9048873661668139629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b7f551dcb32af0800000000000000
+      internalID: -422286332766209677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 105
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea410da8df7d30f70800000000000000
+      internalID: 9152396351702570158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f472b1168daaab0800000000000000
+      internalID: -4995942925035155641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433b91f0aa7585f00800000000000000
+      internalID: 1105730096428856116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14500a4ecda676e70800000000000000
+      internalID: 9108366268341159233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46c6b1c432c116b0800000000000000
+      internalID: -5327263352358517172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983de01655372b180800000000000000
+      internalID: -9101085086424575095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e08bf7b221a130800000000000000
+      internalID: 3576177752702771729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cdf658b97eda960800000000000000
+      internalID: 7614997200098024529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 83
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ecd94f92ecdfad0800000000000000
+      internalID: -2666748724740501957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 77
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7387a778534220800000000000000
+      internalID: 2468914291663928046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f2250e9d25b170800000000000000
+      internalID: 8193505253784745386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec586ceadcf4ebce0800000000000000
+      internalID: -1387583890364398130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 65
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b211c6311b50320800000000000000
+      internalID: 2523617863186590464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 25
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed744c70849160f0800000000000000
+      internalID: -1125455152304325151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 75
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20195de2337812370800000000000000
+      internalID: 8296060642491994370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789592eceb0b9c860800000000000000
+      internalID: 7550760583812438407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1dbcc8672d4bab0800000000000000
+      internalID: -4993134680236895779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06077ebd1c50288c0800000000000000
+      internalID: -3998627188975374240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5f42dda855e260800000000000000
+      internalID: 7126199488964681149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b59cddb5bd49a40800000000000000
+      internalID: 5374161442969312105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88633aa82ce4da10800000000000000
+      internalID: 1933429799447128203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aab4982b5e4ce680800000000000000
+      internalID: -8724512224693667160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee29907ef93c1ed0800000000000000
+      internalID: -2442013132968087838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c28c2a7ae42fca0800000000000000
+      internalID: -5984634472924435323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c2630242a9ebf0800000000000000
+      internalID: -294525896207711273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b4eb83901793620800000000000000
+      internalID: 2754356931534408498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6877fd9a5e5200800000000000000
+      internalID: 170673470394887328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0aa6719da4cb240800000000000000
+      internalID: 4808800798386069695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcc6771636ae7220800000000000000
+      internalID: 2485606795607198962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 44
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f036d1ad80b62d30800000000000000
+      internalID: 4406403407780655346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 38
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9898ddbe606e3f0800000000000000
+      internalID: -872001867745752601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 40
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46833b3a8a40990800000000000000
+      internalID: -7420620864959781691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e83e34254a5cb0800000000000000
+      internalID: -4874507624710085227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0fd592f49fde210800000000000000
+      internalID: 1364020380554883299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189cae5a623eb4d0800000000000000
+      internalID: -3116998459657512942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c69dc4a2dbfd680800000000000000
+      internalID: -8728049563445138315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3893b865cec457a0800000000000000
+      internalID: -6389254624071411652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04e255de1e8d5330800000000000000
+      internalID: 3701270731847558158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4a02ebafba0a20800000000000000
+      internalID: 3029444444312718647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31ee7972b14d39c0800000000000000
+      internalID: -3945925463708344005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b327d0c468cda80800000000000000
+      internalID: -8440723940397925571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f91a0ee2adc85ab0800000000000000
+      internalID: -5019035685042382350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b950927ca5a3b0800000000000000
+      internalID: -5501801761715144799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43107620c34b22e50800000000000000
+      internalID: 6783182158604730676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 12
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c48237eacb2170800000000000000
+      internalID: 8154834644618233605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f5c614b5162a90800000000000000
+      internalID: -7339154679533275760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Cataclysm_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e6a4f1bc6695f0800000000000000
+      internalID: -750292776341019910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figther_Cataclysm_0: -8153464004977444868
+      Figther_Cataclysm_1: 7373399871972064064
+      Figther_Cataclysm_10: -422286332766209677
+      Figther_Cataclysm_11: 9152396351702570158
+      Figther_Cataclysm_12: -4995942925035155641
+      Figther_Cataclysm_13: 1105730096428856116
+      Figther_Cataclysm_14: 9108366268341159233
+      Figther_Cataclysm_15: -5327263352358517172
+      Figther_Cataclysm_16: -9101085086424575095
+      Figther_Cataclysm_17: 3576177752702771729
+      Figther_Cataclysm_18: 7614997200098024529
+      Figther_Cataclysm_19: -2666748724740501957
+      Figther_Cataclysm_2: -4092410805966618930
+      Figther_Cataclysm_20: 2468914291663928046
+      Figther_Cataclysm_21: 8193505253784745386
+      Figther_Cataclysm_22: -1387583890364398130
+      Figther_Cataclysm_23: 2523617863186590464
+      Figther_Cataclysm_24: -1125455152304325151
+      Figther_Cataclysm_25: 8296060642491994370
+      Figther_Cataclysm_26: 7550760583812438407
+      Figther_Cataclysm_27: -4993134680236895779
+      Figther_Cataclysm_28: -3998627188975374240
+      Figther_Cataclysm_29: 7126199488964681149
+      Figther_Cataclysm_3: 5581558737322542168
+      Figther_Cataclysm_30: 5374161442969312105
+      Figther_Cataclysm_31: 1933429799447128203
+      Figther_Cataclysm_32: -8724512224693667160
+      Figther_Cataclysm_33: -2442013132968087838
+      Figther_Cataclysm_34: -5984634472924435323
+      Figther_Cataclysm_35: -294525896207711273
+      Figther_Cataclysm_36: 2754356931534408498
+      Figther_Cataclysm_37: 170673470394887328
+      Figther_Cataclysm_38: 4808800798386069695
+      Figther_Cataclysm_39: 2485606795607198962
+      Figther_Cataclysm_4: -8015187042488881551
+      Figther_Cataclysm_40: 4406403407780655346
+      Figther_Cataclysm_41: -872001867745752601
+      Figther_Cataclysm_42: -7420620864959781691
+      Figther_Cataclysm_43: -4874507624710085227
+      Figther_Cataclysm_44: 1364020380554883299
+      Figther_Cataclysm_45: -3116998459657512942
+      Figther_Cataclysm_46: -8728049563445138315
+      Figther_Cataclysm_47: -6389254624071411652
+      Figther_Cataclysm_48: 3701270731847558158
+      Figther_Cataclysm_49: 3029444444312718647
+      Figther_Cataclysm_5: 1704637393066845240
+      Figther_Cataclysm_50: -3945925463708344005
+      Figther_Cataclysm_51: -8440723940397925571
+      Figther_Cataclysm_52: -5019035685042382350
+      Figther_Cataclysm_53: -5501801761715144799
+      Figther_Cataclysm_54: 6783182158604730676
+      Figther_Cataclysm_55: 8154834644618233605
+      Figther_Cataclysm_56: -7339154679533275760
+      Figther_Cataclysm_57: -750292776341019910
+      Figther_Cataclysm_6: -8130458792687790105
+      Figther_Cataclysm_7: -3499781615095472565
+      Figther_Cataclysm_8: 2648513170050271879
+      Figther_Cataclysm_9: 9048873661668139629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 568285a573314034a8324b1ea0b23814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6021056074075754628
+    second: DemonSpiderWalk_0
+  - first:
+      213: 3343298319004110942
+    second: DemonSpiderWalk_1
+  - first:
+      213: -4778336933011802888
+    second: DemonSpiderWalk_2
+  - first:
+      213: 2996805354245577229
+    second: DemonSpiderWalk_3
+  - first:
+      213: 3164758359052645107
+    second: DemonSpiderWalk_4
+  - first:
+      213: -2023172279696725034
+    second: DemonSpiderWalk_5
+  - first:
+      213: 4226004258560236553
+    second: DemonSpiderWalk_6
+  - first:
+      213: 1214444316032964819
+    second: DemonSpiderWalk_7
+  - first:
+      213: -7040709672147691027
+    second: DemonSpiderWalk_8
+  - first:
+      213: -8971798751232315486
+    second: DemonSpiderWalk_9
+  - first:
+      213: 1369265098702341183
+    second: DemonSpiderWalk_10
+  - first:
+      213: 6835525921447805978
+    second: DemonSpiderWalk_11
+  - first:
+      213: 2676599404924814247
+    second: DemonSpiderWalk_12
+  - first:
+      213: 4806252841950577028
+    second: DemonSpiderWalk_13
+  - first:
+      213: -3478040461936240970
+    second: DemonSpiderWalk_14
+  - first:
+      213: 8450116891865972324
+    second: DemonSpiderWalk_15
+  - first:
+      213: 6236157866480602116
+    second: DemonSpiderWalk_16
+  - first:
+      213: 2352121164031808164
+    second: DemonSpiderWalk_17
+  - first:
+      213: 7662167120627085361
+    second: DemonSpiderWalk_18
+  - first:
+      213: -4221905250646757672
+    second: DemonSpiderWalk_19
+  - first:
+      213: 3494675698503395008
+    second: DemonSpiderWalk_20
+  - first:
+      213: -1847758788990767695
+    second: DemonSpiderWalk_21
+  - first:
+      213: 525788189403822426
+    second: DemonSpiderWalk_22
+  - first:
+      213: -3791827492337989547
+    second: DemonSpiderWalk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonSpiderWalk_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4805ef339961f8350800000000000000
+      internalID: 6021056074075754628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50966a8b18c56e20800000000000000
+      internalID: 3343298319004110942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4b3ba40efefadb0800000000000000
+      internalID: -4778336933011802888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0adbc8879ac69920800000000000000
+      internalID: 2996805354245577229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 106
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f74fb5fa7beb20800000000000000
+      internalID: 3164758359052645107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 106
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db6245e78f3ce3e0800000000000000
+      internalID: -2023172279696725034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c55ca9b78c5aa30800000000000000
+      internalID: 4226004258560236553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d813a8cba29ad010800000000000000
+      internalID: 1214444316032964819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9daf04bdf5a4e90800000000000000
+      internalID: -7040709672147691027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af21840294cd7380800000000000000
+      internalID: -8971798751232315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 74
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f344e734a5b900310800000000000000
+      internalID: 1369265098702341183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 74
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a140fd00c9aacde50800000000000000
+      internalID: 6835525921447805978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c0904af0352520800000000000000
+      internalID: 2676599404924814247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810d21ce7d33b240800000000000000
+      internalID: 4806252841950577028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6dad790a48bbfc0800000000000000
+      internalID: -3478040461936240970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 41
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef232ea88d44570800000000000000
+      internalID: 8450116891865972324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c85daf9884b8650800000000000000
+      internalID: 6236157866480602116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 41
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25bc29cb964a020800000000000000
+      internalID: 2352121164031808164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130b7aa766c755a60800000000000000
+      internalID: 7662167120627085361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee7db0b87c865c0800000000000000
+      internalID: -4221905250646757672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c62c7e38059f7030800000000000000
+      internalID: 3494675698503395008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6997db217b56e0800000000000000
+      internalID: -1847758788990767695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59b2809299fb4700800000000000000
+      internalID: 525788189403822426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalk_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55842a55cf8b06bc0800000000000000
+      internalID: -3791827492337989547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DemonSpiderWalk_0: 6021056074075754628
+      DemonSpiderWalk_1: 3343298319004110942
+      DemonSpiderWalk_10: 1369265098702341183
+      DemonSpiderWalk_11: 6835525921447805978
+      DemonSpiderWalk_12: 2676599404924814247
+      DemonSpiderWalk_13: 4806252841950577028
+      DemonSpiderWalk_14: -3478040461936240970
+      DemonSpiderWalk_15: 8450116891865972324
+      DemonSpiderWalk_16: 6236157866480602116
+      DemonSpiderWalk_17: 2352121164031808164
+      DemonSpiderWalk_18: 7662167120627085361
+      DemonSpiderWalk_19: -4221905250646757672
+      DemonSpiderWalk_2: -4778336933011802888
+      DemonSpiderWalk_20: 3494675698503395008
+      DemonSpiderWalk_21: -1847758788990767695
+      DemonSpiderWalk_22: 525788189403822426
+      DemonSpiderWalk_23: -3791827492337989547
+      DemonSpiderWalk_3: 2996805354245577229
+      DemonSpiderWalk_4: 3164758359052645107
+      DemonSpiderWalk_5: -2023172279696725034
+      DemonSpiderWalk_6: 4226004258560236553
+      DemonSpiderWalk_7: 1214444316032964819
+      DemonSpiderWalk_8: -7040709672147691027
+      DemonSpiderWalk_9: -8971798751232315486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

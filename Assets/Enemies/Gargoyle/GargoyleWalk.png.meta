@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 337b15e6197e5c246a3f98d7ee1d6ed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5102655501979197422
+    second: GargoyleWalk_0
+  - first:
+      213: 5241614020545016398
+    second: GargoyleWalk_1
+  - first:
+      213: 5831517275297085682
+    second: GargoyleWalk_2
+  - first:
+      213: 7522428976476131304
+    second: GargoyleWalk_3
+  - first:
+      213: 6489584092325551042
+    second: GargoyleWalk_4
+  - first:
+      213: 6986864996384554434
+    second: GargoyleWalk_5
+  - first:
+      213: -8765589579365521076
+    second: GargoyleWalk_6
+  - first:
+      213: -129566340302825272
+    second: GargoyleWalk_7
+  - first:
+      213: 1245339893046295516
+    second: GargoyleWalk_8
+  - first:
+      213: -7463679045662579820
+    second: GargoyleWalk_9
+  - first:
+      213: 3263461776956151567
+    second: GargoyleWalk_10
+  - first:
+      213: 7941346966254038316
+    second: GargoyleWalk_11
+  - first:
+      213: 897162861658580406
+    second: GargoyleWalk_12
+  - first:
+      213: -6793929951900092346
+    second: GargoyleWalk_13
+  - first:
+      213: 247618462473417636
+    second: GargoyleWalk_14
+  - first:
+      213: -3905139659694095623
+    second: GargoyleWalk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GargoyleWalk_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef99aed42640d640800000000000000
+      internalID: 5102655501979197422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fa403e24fdb840800000000000000
+      internalID: 5241614020545016398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f2afa016bde050800000000000000
+      internalID: 5831517275297085682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef07fe6c49056860800000000000000
+      internalID: 7522428976476131304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb17134952af0a50800000000000000
+      internalID: 6489584092325551042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdbc1b32b456f060800000000000000
+      internalID: 6986864996384554434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c496d0b38be5a5680800000000000000
+      internalID: -8765589579365521076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c817679910b33ef0800000000000000
+      internalID: -129566340302825272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb5add806584110800000000000000
+      internalID: 1245339893046295516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49361c5c37fab6890800000000000000
+      internalID: -7463679045662579820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07598112352a4d20800000000000000
+      internalID: 3263461776956151567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2da2b1adf4553e60800000000000000
+      internalID: 7941346966254038316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b525da8edc537c00800000000000000
+      internalID: 897162861658580406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648bb1c54bc17b1a0800000000000000
+      internalID: -6793929951900092346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37e8ffda7bf6300800000000000000
+      internalID: 247618462473417636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GargoyleWalk_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c4a97b282ec9c0800000000000000
+      internalID: -3905139659694095623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GargoyleWalk_0: 5102655501979197422
+      GargoyleWalk_1: 5241614020545016398
+      GargoyleWalk_10: 3263461776956151567
+      GargoyleWalk_11: 7941346966254038316
+      GargoyleWalk_12: 897162861658580406
+      GargoyleWalk_13: -6793929951900092346
+      GargoyleWalk_14: 247618462473417636
+      GargoyleWalk_15: -3905139659694095623
+      GargoyleWalk_2: 5831517275297085682
+      GargoyleWalk_3: 7522428976476131304
+      GargoyleWalk_4: 6489584092325551042
+      GargoyleWalk_5: 6986864996384554434
+      GargoyleWalk_6: -8765589579365521076
+      GargoyleWalk_7: -129566340302825272
+      GargoyleWalk_8: 1245339893046295516
+      GargoyleWalk_9: -7463679045662579820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

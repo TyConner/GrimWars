@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: aac754647cb28be4fa8cb37ba3a9cb06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1825119834120295128
+    second: Archdemon_Call_Spell_0
+  - first:
+      213: 7292022351242203704
+    second: Archdemon_Call_Spell_1
+  - first:
+      213: -3457715231679969894
+    second: Archdemon_Call_Spell_2
+  - first:
+      213: 7485366468086120315
+    second: Archdemon_Call_Spell_3
+  - first:
+      213: -3315756005605713017
+    second: Archdemon_Call_Spell_4
+  - first:
+      213: -3695172816458820657
+    second: Archdemon_Call_Spell_5
+  - first:
+      213: 7638510607473395499
+    second: Archdemon_Call_Spell_6
+  - first:
+      213: 4061374223560821386
+    second: Archdemon_Call_Spell_7
+  - first:
+      213: -8722611423927508440
+    second: Archdemon_Call_Spell_8
+  - first:
+      213: 7788830469189314619
+    second: Archdemon_Call_Spell_9
+  - first:
+      213: -6802531007036859810
+    second: Archdemon_Call_Spell_10
+  - first:
+      213: -3077032034564967888
+    second: Archdemon_Call_Spell_11
+  - first:
+      213: 7208202009778091529
+    second: Archdemon_Call_Spell_12
+  - first:
+      213: 1531150634950230470
+    second: Archdemon_Call_Spell_13
+  - first:
+      213: 7086439104529230582
+    second: Archdemon_Call_Spell_14
+  - first:
+      213: -4955621899217074281
+    second: Archdemon_Call_Spell_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6db64e2fdba6e0800000000000000
+      internalID: -1825119834120295128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832100491b7723560800000000000000
+      internalID: 7292022351242203704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a950249015ab300d0800000000000000
+      internalID: -3457715231679969894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb4efb42d51e760800000000000000
+      internalID: 7485366468086120315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd0040b711cf1d0800000000000000
+      internalID: -3315756005605713017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3da4bb6eb18bcc0800000000000000
+      internalID: -3695172816458820657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 518
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27418b4de0710a60800000000000000
+      internalID: 7638510607473395499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a45479656ec5830800000000000000
+      internalID: 4061374223560821386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226903df1f03f680800000000000000
+      internalID: -8722611423927508440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 6
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a4c37b0c771c60800000000000000
+      internalID: 7788830469189314619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adcf7271e8891a0800000000000000
+      internalID: -6802531007036859810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f149daaf2c45d0800000000000000
+      internalID: -3077032034564967888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067416898da80460800000000000000
+      internalID: 7208202009778091529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 14
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c182ddd36dbf3510800000000000000
+      internalID: 1531150634950230470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae6ebe1d6185260800000000000000
+      internalID: 7086439104529230582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archdemon_Call_Spell_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797050083281a3bb0800000000000000
+      internalID: -4955621899217074281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archdemon_Call_Spell_0: -1825119834120295128
+      Archdemon_Call_Spell_1: 7292022351242203704
+      Archdemon_Call_Spell_10: -6802531007036859810
+      Archdemon_Call_Spell_11: -3077032034564967888
+      Archdemon_Call_Spell_12: 7208202009778091529
+      Archdemon_Call_Spell_13: 1531150634950230470
+      Archdemon_Call_Spell_14: 7086439104529230582
+      Archdemon_Call_Spell_15: -4955621899217074281
+      Archdemon_Call_Spell_2: -3457715231679969894
+      Archdemon_Call_Spell_3: 7485366468086120315
+      Archdemon_Call_Spell_4: -3315756005605713017
+      Archdemon_Call_Spell_5: -3695172816458820657
+      Archdemon_Call_Spell_6: 7638510607473395499
+      Archdemon_Call_Spell_7: 4061374223560821386
+      Archdemon_Call_Spell_8: -8722611423927508440
+      Archdemon_Call_Spell_9: 7788830469189314619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

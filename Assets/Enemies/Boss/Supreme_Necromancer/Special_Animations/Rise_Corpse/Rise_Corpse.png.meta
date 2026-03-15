@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 15a6dd4a2a246ce41b18ba8223be9406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5457841931070021946
+    second: Rise_Corpse_0
+  - first:
+      213: 7087928904230867706
+    second: Rise_Corpse_1
+  - first:
+      213: 2945551178624581336
+    second: Rise_Corpse_2
+  - first:
+      213: 742070233488165236
+    second: Rise_Corpse_3
+  - first:
+      213: -4407037904708690733
+    second: Rise_Corpse_4
+  - first:
+      213: -5653533470882075898
+    second: Rise_Corpse_5
+  - first:
+      213: -3031040693973387106
+    second: Rise_Corpse_6
+  - first:
+      213: 7894299811327902573
+    second: Rise_Corpse_7
+  - first:
+      213: -4818025636570189926
+    second: Rise_Corpse_8
+  - first:
+      213: 4356725604066820974
+    second: Rise_Corpse_9
+  - first:
+      213: -7365815231761981682
+    second: Rise_Corpse_10
+  - first:
+      213: 8417470686333932248
+    second: Rise_Corpse_11
+  - first:
+      213: 6444933395215710816
+    second: Rise_Corpse_12
+  - first:
+      213: 6214684748145945471
+    second: Rise_Corpse_13
+  - first:
+      213: -1434981036175782347
+    second: Rise_Corpse_14
+  - first:
+      213: 1370241791819082754
+    second: Rise_Corpse_15
+  - first:
+      213: 1755315333274661154
+    second: Rise_Corpse_16
+  - first:
+      213: -6728841941183512866
+    second: Rise_Corpse_17
+  - first:
+      213: 351346575893696981
+    second: Rise_Corpse_18
+  - first:
+      213: 3645322414047131136
+    second: Rise_Corpse_19
+  - first:
+      213: -7317622842228196667
+    second: Rise_Corpse_20
+  - first:
+      213: -3849095400810309413
+    second: Rise_Corpse_21
+  - first:
+      213: 3518179399388452931
+    second: Rise_Corpse_22
+  - first:
+      213: -3411817759252642064
+    second: Rise_Corpse_23
+  - first:
+      213: -4228398350860779237
+    second: Rise_Corpse_24
+  - first:
+      213: -3520756440021590184
+    second: Rise_Corpse_25
+  - first:
+      213: -3141370544015940579
+    second: Rise_Corpse_26
+  - first:
+      213: -4839670438600019120
+    second: Rise_Corpse_27
+  - first:
+      213: 1366004794266143608
+    second: Rise_Corpse_28
+  - first:
+      213: -2381634969871668551
+    second: Rise_Corpse_29
+  - first:
+      213: 5869518518481307354
+    second: Rise_Corpse_30
+  - first:
+      213: -950495043229324501
+    second: Rise_Corpse_31
+  - first:
+      213: -4804416633684134195
+    second: Rise_Corpse_32
+  - first:
+      213: 404809095129010644
+    second: Rise_Corpse_33
+  - first:
+      213: 5050364562499460906
+    second: Rise_Corpse_34
+  - first:
+      213: 3674924189824303189
+    second: Rise_Corpse_35
+  - first:
+      213: 6162146829230727580
+    second: Rise_Corpse_36
+  - first:
+      213: 2867560799158188203
+    second: Rise_Corpse_37
+  - first:
+      213: -7039006798786447837
+    second: Rise_Corpse_38
+  - first:
+      213: 8207951656239093509
+    second: Rise_Corpse_39
+  - first:
+      213: -4943762383110939619
+    second: Rise_Corpse_40
+  - first:
+      213: -5452858397890058268
+    second: Rise_Corpse_41
+  - first:
+      213: 3326576184901367155
+    second: Rise_Corpse_42
+  - first:
+      213: -4928316894788906703
+    second: Rise_Corpse_43
+  - first:
+      213: -1356291464313471526
+    second: Rise_Corpse_44
+  - first:
+      213: -4901851226056504705
+    second: Rise_Corpse_45
+  - first:
+      213: 4142984391518231852
+    second: Rise_Corpse_46
+  - first:
+      213: -1623084230790873579
+    second: Rise_Corpse_47
+  - first:
+      213: -4887480935160982358
+    second: Rise_Corpse_48
+  - first:
+      213: -6469322971837472488
+    second: Rise_Corpse_49
+  - first:
+      213: 5456547659359034603
+    second: Rise_Corpse_50
+  - first:
+      213: -5591682624749831592
+    second: Rise_Corpse_51
+  - first:
+      213: 6598585929455033592
+    second: Rise_Corpse_52
+  - first:
+      213: 9193235232269993846
+    second: Rise_Corpse_53
+  - first:
+      213: -4788941409997878980
+    second: Rise_Corpse_54
+  - first:
+      213: 2318892241984974729
+    second: Rise_Corpse_55
+  - first:
+      213: 7481723177757628065
+    second: Rise_Corpse_56
+  - first:
+      213: -4759692496965324428
+    second: Rise_Corpse_57
+  - first:
+      213: -1827271256311960248
+    second: Rise_Corpse_58
+  - first:
+      213: -5126275513795870058
+    second: Rise_Corpse_59
+  - first:
+      213: -8708086021502761753
+    second: Rise_Corpse_60
+  - first:
+      213: -6596582086490800792
+    second: Rise_Corpse_61
+  - first:
+      213: 7117598054796431275
+    second: Rise_Corpse_62
+  - first:
+      213: -6575092406348386198
+    second: Rise_Corpse_63
+  - first:
+      213: 2924685718540111829
+    second: Rise_Corpse_64
+  - first:
+      213: 8230175067541920654
+    second: Rise_Corpse_65
+  - first:
+      213: -746116186153028679
+    second: Rise_Corpse_66
+  - first:
+      213: 2800371702110549115
+    second: Rise_Corpse_67
+  - first:
+      213: -1435934452539173276
+    second: Rise_Corpse_68
+  - first:
+      213: -6057644280304915135
+    second: Rise_Corpse_69
+  - first:
+      213: -4504513482860035853
+    second: Rise_Corpse_70
+  - first:
+      213: 6204052413400295696
+    second: Rise_Corpse_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rise_Corpse_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced65a3ea9d144b0800000000000000
+      internalID: -5457841931070021946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af297e1f8c16d5260800000000000000
+      internalID: 7087928904230867706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb6a5d033b0e820800000000000000
+      internalID: 2945551178624581336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479047912fc5c4a00800000000000000
+      internalID: 742070233488165236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc182a006e07d2c0800000000000000
+      internalID: -4407037904708690733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bea4e034d9a81b0800000000000000
+      internalID: -5653533470882075898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9876f74c849fe5d0800000000000000
+      internalID: -3031040693973387106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6302a44adf2e8d60800000000000000
+      internalID: 7894299811327902573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2285e53fe22db0800000000000000
+      internalID: -4818025636570189926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63804e9ad2367c30800000000000000
+      internalID: 4356725604066820974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5aad821e57c990800000000000000
+      internalID: -7365815231761981682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d29236ddfcd0d470800000000000000
+      internalID: 8417470686333932248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a72e6b6c0017950800000000000000
+      internalID: 6444933395215710816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be6440adefe3650800000000000000
+      internalID: 6214684748145945471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0257b95ce51ce0800000000000000
+      internalID: -1434981036175782347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c65c956a3140310800000000000000
+      internalID: 1370241791819082754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f1acdef12c5810800000000000000
+      internalID: 1755315333274661154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb10ac7e95e92a0800000000000000
+      internalID: -6728841941183512866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1913969db30e400800000000000000
+      internalID: 351346575893696981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0067c0dfb69c69230800000000000000
+      internalID: 3645322414047131136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca34b0abc4927a90800000000000000
+      internalID: -7317622842228196667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd89c185024459ac0800000000000000
+      internalID: -3849095400810309413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34855ac068513d030800000000000000
+      internalID: 3518179399388452931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6806513d9c6a0d0800000000000000
+      internalID: -3411817759252642064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 77
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1188185a16b155c0800000000000000
+      internalID: -4228398350860779237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f18dbeba2c32fc0800000000000000
+      internalID: -3520756440021590184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14ed08422c9764d0800000000000000
+      internalID: -3141370544015940579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537945b06906dcb0800000000000000
+      internalID: -4839670438600019120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 77
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bc6bb7f1605f210800000000000000
+      internalID: 1366004794266143608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_29
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa6240d9bb2fed0800000000000000
+      internalID: -2381634969871668551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c7a89ef7b47150800000000000000
+      internalID: 5869518518481307354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2beb8b4bc92fc2f0800000000000000
+      internalID: -950495043229324501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6774cc688435db0800000000000000
+      internalID: -4804416633684134195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_33
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1130d2abb2e9500800000000000000
+      internalID: 404809095129010644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5006cfcf761640800000000000000
+      internalID: 5050364562499460906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550c7fe7414fff230800000000000000
+      internalID: 3674924189824303189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e81a84e7548550800000000000000
+      internalID: 6162146829230727580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b8a59a5f9bc720800000000000000
+      internalID: 2867560799158188203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32636ca5c9c605e90800000000000000
+      internalID: -7039006798786447837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507d5b33b8088e170800000000000000
+      internalID: 8207951656239093509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdbb44e4a346bb0800000000000000
+      internalID: -4943762383110939619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7e1477d2e8354b0800000000000000
+      internalID: -5452858397890058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f15b4a6f5a2e20800000000000000
+      internalID: 3326576184901367155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311d8145e91b9bb0800000000000000
+      internalID: -4928316894788906703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add73b1691c7d2de0800000000000000
+      internalID: -1356291464313471526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac611f74029fbb0800000000000000
+      internalID: -4901851226056504705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 45
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9e668a56de7930800000000000000
+      internalID: 4142984391518231852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51efb27dd75a979e0800000000000000
+      internalID: -1623084230790873579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa45c350cfd2c2cb0800000000000000
+      internalID: -4887480935160982358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116a5678095836a0800000000000000
+      internalID: -6469322971837472488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec9518af2d89bb40800000000000000
+      internalID: 5456547659359034603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_51
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aff0f574a5662b0800000000000000
+      internalID: -5591682624749831592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_52
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcde0921f2e29b50800000000000000
+      internalID: 6598585929455033592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770f046cbee49f70800000000000000
+      internalID: 9193235232269993846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c390be619234a8db0800000000000000
+      internalID: -4788941409997878980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6ce3453c5e2020800000000000000
+      internalID: 2318892241984974729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6dc0e179b64d760800000000000000
+      internalID: 7481723177757628065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4713a4654ec22fdb0800000000000000
+      internalID: -4759692496965324428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6e33497a34a6e0800000000000000
+      internalID: -1827271256311960248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920a63949fcbd8b0800000000000000
+      internalID: -5126275513795870058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e488ce96e9a62780800000000000000
+      internalID: -8708086021502761753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db203ea8b3474a0800000000000000
+      internalID: -6596582086490800792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf072e58b9c6c260800000000000000
+      internalID: 7117598054796431275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a607c32fa4490c4a0800000000000000
+      internalID: -6575092406348386198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 13
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfcd355a22969820800000000000000
+      internalID: 2924685718540111829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bdc1c5e94773270800000000000000
+      internalID: 8230175067541920654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3fd23284345a5f0800000000000000
+      internalID: -746116186153028679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_67
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74fa5fd93becd620800000000000000
+      internalID: 2800371702110549115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46658ab2939821ce0800000000000000
+      internalID: -1435934452539173276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dafb03f9ceeeba0800000000000000
+      internalID: -6057644280304915135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08b207ad0cc71c0800000000000000
+      internalID: -4504513482860035853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise_Corpse_71
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01921acacc8391650800000000000000
+      internalID: 6204052413400295696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rise_Corpse_0: -5457841931070021946
+      Rise_Corpse_1: 7087928904230867706
+      Rise_Corpse_10: -7365815231761981682
+      Rise_Corpse_11: 8417470686333932248
+      Rise_Corpse_12: 6444933395215710816
+      Rise_Corpse_13: 6214684748145945471
+      Rise_Corpse_14: -1434981036175782347
+      Rise_Corpse_15: 1370241791819082754
+      Rise_Corpse_16: 1755315333274661154
+      Rise_Corpse_17: -6728841941183512866
+      Rise_Corpse_18: 351346575893696981
+      Rise_Corpse_19: 3645322414047131136
+      Rise_Corpse_2: 2945551178624581336
+      Rise_Corpse_20: -7317622842228196667
+      Rise_Corpse_21: -3849095400810309413
+      Rise_Corpse_22: 3518179399388452931
+      Rise_Corpse_23: -3411817759252642064
+      Rise_Corpse_24: -4228398350860779237
+      Rise_Corpse_25: -3520756440021590184
+      Rise_Corpse_26: -3141370544015940579
+      Rise_Corpse_27: -4839670438600019120
+      Rise_Corpse_28: 1366004794266143608
+      Rise_Corpse_29: -2381634969871668551
+      Rise_Corpse_3: 742070233488165236
+      Rise_Corpse_30: 5869518518481307354
+      Rise_Corpse_31: -950495043229324501
+      Rise_Corpse_32: -4804416633684134195
+      Rise_Corpse_33: 404809095129010644
+      Rise_Corpse_34: 5050364562499460906
+      Rise_Corpse_35: 3674924189824303189
+      Rise_Corpse_36: 6162146829230727580
+      Rise_Corpse_37: 2867560799158188203
+      Rise_Corpse_38: -7039006798786447837
+      Rise_Corpse_39: 8207951656239093509
+      Rise_Corpse_4: -4407037904708690733
+      Rise_Corpse_40: -4943762383110939619
+      Rise_Corpse_41: -5452858397890058268
+      Rise_Corpse_42: 3326576184901367155
+      Rise_Corpse_43: -4928316894788906703
+      Rise_Corpse_44: -1356291464313471526
+      Rise_Corpse_45: -4901851226056504705
+      Rise_Corpse_46: 4142984391518231852
+      Rise_Corpse_47: -1623084230790873579
+      Rise_Corpse_48: -4887480935160982358
+      Rise_Corpse_49: -6469322971837472488
+      Rise_Corpse_5: -5653533470882075898
+      Rise_Corpse_50: 5456547659359034603
+      Rise_Corpse_51: -5591682624749831592
+      Rise_Corpse_52: 6598585929455033592
+      Rise_Corpse_53: 9193235232269993846
+      Rise_Corpse_54: -4788941409997878980
+      Rise_Corpse_55: 2318892241984974729
+      Rise_Corpse_56: 7481723177757628065
+      Rise_Corpse_57: -4759692496965324428
+      Rise_Corpse_58: -1827271256311960248
+      Rise_Corpse_59: -5126275513795870058
+      Rise_Corpse_6: -3031040693973387106
+      Rise_Corpse_60: -8708086021502761753
+      Rise_Corpse_61: -6596582086490800792
+      Rise_Corpse_62: 7117598054796431275
+      Rise_Corpse_63: -6575092406348386198
+      Rise_Corpse_64: 2924685718540111829
+      Rise_Corpse_65: 8230175067541920654
+      Rise_Corpse_66: -746116186153028679
+      Rise_Corpse_67: 2800371702110549115
+      Rise_Corpse_68: -1435934452539173276
+      Rise_Corpse_69: -6057644280304915135
+      Rise_Corpse_7: 7894299811327902573
+      Rise_Corpse_70: -4504513482860035853
+      Rise_Corpse_71: 6204052413400295696
+      Rise_Corpse_8: -4818025636570189926
+      Rise_Corpse_9: 4356725604066820974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

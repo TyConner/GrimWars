@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 8765e53b342404b4ca7ee5a31bda5b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1312292202204243792
+    second: Idle_gnoll_0
+  - first:
+      213: 6105505396926070822
+    second: Idle_gnoll_1
+  - first:
+      213: 4677036672049785558
+    second: Idle_gnoll_2
+  - first:
+      213: -8079665935971323157
+    second: Idle_gnoll_3
+  - first:
+      213: 6999168360345234803
+    second: Idle_gnoll_4
+  - first:
+      213: -2417659993691239302
+    second: Idle_gnoll_5
+  - first:
+      213: -8593741086424246199
+    second: Idle_gnoll_6
+  - first:
+      213: -2988309172167866084
+    second: Idle_gnoll_7
+  - first:
+      213: 7903678618296328791
+    second: Idle_gnoll_8
+  - first:
+      213: 6131129569011897196
+    second: Idle_gnoll_9
+  - first:
+      213: 1611604465327826068
+    second: Idle_gnoll_10
+  - first:
+      213: 1892893925955832499
+    second: Idle_gnoll_11
+  - first:
+      213: 5875937608127759570
+    second: Idle_gnoll_12
+  - first:
+      213: -2802680362620891746
+    second: Idle_gnoll_13
+  - first:
+      213: 7218656397728868352
+    second: Idle_gnoll_14
+  - first:
+      213: -6504686547582698068
+    second: Idle_gnoll_15
+  - first:
+      213: -6615393896067408818
+    second: Idle_gnoll_16
+  - first:
+      213: 702495091501847578
+    second: Idle_gnoll_17
+  - first:
+      213: 5701862572868719549
+    second: Idle_gnoll_18
+  - first:
+      213: 4995745804851517535
+    second: Idle_gnoll_19
+  - first:
+      213: 8028718528716341473
+    second: Idle_gnoll_20
+  - first:
+      213: -2937349343812866395
+    second: Idle_gnoll_21
+  - first:
+      213: -5625621896684024928
+    second: Idle_gnoll_22
+  - first:
+      213: 3529918274448266619
+    second: Idle_gnoll_23
+  - first:
+      213: -7378244279126558561
+    second: Idle_gnoll_24
+  - first:
+      213: 1566425791709646175
+    second: Idle_gnoll_25
+  - first:
+      213: 4687346945484229189
+    second: Idle_gnoll_26
+  - first:
+      213: 2595917987352820970
+    second: Idle_gnoll_27
+  - first:
+      213: 8921092595040268017
+    second: Idle_gnoll_28
+  - first:
+      213: -2735233338350696798
+    second: Idle_gnoll_29
+  - first:
+      213: 1592211861610200387
+    second: Idle_gnoll_30
+  - first:
+      213: -6499485258171660094
+    second: Idle_gnoll_31
+  - first:
+      213: 2573605638803694312
+    second: Idle_gnoll_32
+  - first:
+      213: 6096859396964505502
+    second: Idle_gnoll_33
+  - first:
+      213: -5507718498111040857
+    second: Idle_gnoll_34
+  - first:
+      213: 1197187580173922367
+    second: Idle_gnoll_35
+  - first:
+      213: 921313922896291319
+    second: Idle_gnoll_36
+  - first:
+      213: -6183961931699326711
+    second: Idle_gnoll_37
+  - first:
+      213: -7189792321921363039
+    second: Idle_gnoll_38
+  - first:
+      213: -674324749640848451
+    second: Idle_gnoll_39
+  - first:
+      213: 7733005383076418558
+    second: Idle_gnoll_40
+  - first:
+      213: -2293940525438852325
+    second: Idle_gnoll_41
+  - first:
+      213: 4837257110572368174
+    second: Idle_gnoll_42
+  - first:
+      213: 7972359981678039510
+    second: Idle_gnoll_43
+  - first:
+      213: -1776413524466796321
+    second: Idle_gnoll_44
+  - first:
+      213: 6831860798798750461
+    second: Idle_gnoll_45
+  - first:
+      213: -4400220844711824149
+    second: Idle_gnoll_46
+  - first:
+      213: -575218061459586689
+    second: Idle_gnoll_47
+  - first:
+      213: -2736893995116829303
+    second: Idle_gnoll_48
+  - first:
+      213: 2635465100618913196
+    second: Idle_gnoll_49
+  - first:
+      213: -4155418588585231324
+    second: Idle_gnoll_50
+  - first:
+      213: -1422546940221073871
+    second: Idle_gnoll_51
+  - first:
+      213: 4474516342428759813
+    second: Idle_gnoll_52
+  - first:
+      213: 566999792075052333
+    second: Idle_gnoll_53
+  - first:
+      213: -513428992596940516
+    second: Idle_gnoll_54
+  - first:
+      213: 5681685134683197161
+    second: Idle_gnoll_55
+  - first:
+      213: 851165835684613969
+    second: Idle_gnoll_56
+  - first:
+      213: -3628627429122629914
+    second: Idle_gnoll_57
+  - first:
+      213: -251287164388640020
+    second: Idle_gnoll_58
+  - first:
+      213: 6725166240020765906
+    second: Idle_gnoll_59
+  - first:
+      213: -1190604652326796934
+    second: Idle_gnoll_60
+  - first:
+      213: -8296127338505442835
+    second: Idle_gnoll_61
+  - first:
+      213: -7133949665183144152
+    second: Idle_gnoll_62
+  - first:
+      213: -1957371684579696760
+    second: Idle_gnoll_63
+  - first:
+      213: 8278317481368068420
+    second: Idle_gnoll_64
+  - first:
+      213: -6736531579328123041
+    second: Idle_gnoll_65
+  - first:
+      213: 2667480244344413705
+    second: Idle_gnoll_66
+  - first:
+      213: -660219138814006846
+    second: Idle_gnoll_67
+  - first:
+      213: -3244994230918001979
+    second: Idle_gnoll_68
+  - first:
+      213: 5160303045862770211
+    second: Idle_gnoll_69
+  - first:
+      213: 5556220355453317217
+    second: Idle_gnoll_70
+  - first:
+      213: -9205580742472638765
+    second: Idle_gnoll_71
+  - first:
+      213: -3696645317842755860
+    second: Idle_gnoll_72
+  - first:
+      213: 4344451311520447341
+    second: Idle_gnoll_73
+  - first:
+      213: 4893434486241185271
+    second: Idle_gnoll_74
+  - first:
+      213: 6292622214123334508
+    second: Idle_gnoll_75
+  - first:
+      213: 8118125229789830164
+    second: Idle_gnoll_76
+  - first:
+      213: -1359083328059980642
+    second: Idle_gnoll_77
+  - first:
+      213: -3116371904653588834
+    second: Idle_gnoll_78
+  - first:
+      213: 2006777060546108498
+    second: Idle_gnoll_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_gnoll_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d916e13dc9cde0800000000000000
+      internalID: -1312292202204243792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62042066fcc1bb450800000000000000
+      internalID: 6105505396926070822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daa00fb21c28e040800000000000000
+      internalID: 4677036672049785558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fa9e93a24fdf80800000000000000
+      internalID: -8079665935971323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de7816a8a022160800000000000000
+      internalID: 6999168360345234803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4c588b0fb27ed0800000000000000
+      internalID: -2417659993691239302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d0047306ecb880800000000000000
+      internalID: -8593741086424246199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1984e104a46786d0800000000000000
+      internalID: -2988309172167866084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752276ee3d18fad60800000000000000
+      internalID: 7903678618296328791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6319d0ebd5261550800000000000000
+      internalID: 6131129569011897196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4946c4af8b19d5610800000000000000
+      internalID: 1611604465327826068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba87162ff8e44a10800000000000000
+      internalID: 1892893925955832499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d440de5f168b8150800000000000000
+      internalID: 5875937608127759570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc4073f01ea19d0800000000000000
+      internalID: -2802680362620891746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ea366fb1dd2460800000000000000
+      internalID: 7218656397728868352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad321c5c06bab5a0800000000000000
+      internalID: -6504686547582698068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c5d972d466134a0800000000000000
+      internalID: -6615393896067408818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145c615093cfb900800000000000000
+      internalID: 702495091501847578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db35feddcc5112f40800000000000000
+      internalID: 5701862572868719549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5892564754745540800000000000000
+      internalID: 4995745804851517535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e00cb1c6fcbb6f60800000000000000
+      internalID: 8028718528716341473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeaec4a5507c37d0800000000000000
+      internalID: -2937349343812866395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab4d77d0b6cde1b0800000000000000
+      internalID: -5625621896684024928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7516a2e7f9ccf030800000000000000
+      internalID: 3529918274448266619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987a947be53b9990800000000000000
+      internalID: -7378244279126558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d0dd155ff0db510800000000000000
+      internalID: 1566425791709646175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8998563dcc0140800000000000000
+      internalID: 4687346945484229189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec363ed7ad860420800000000000000
+      internalID: 2595917987352820970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2ebff2761ecb70800000000000000
+      internalID: 8921092595040268017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a60dc945cf7a0ad0800000000000000
+      internalID: -2735233338350696798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7072904ca81610800000000000000
+      internalID: 1592211861610200387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84acbe7903dc5a0800000000000000
+      internalID: -6499485258171660094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e226d461b847b320800000000000000
+      internalID: 2573605638803694312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e975299a1556c9450800000000000000
+      internalID: 6096859396964505502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25e350537a093b0800000000000000
+      internalID: -5507718498111040857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b6cdd2c34d9010800000000000000
+      internalID: 1197187580173922367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5eadca12a29cc00800000000000000
+      internalID: 921313922896291319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_37
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f58c13672e2aa0800000000000000
+      internalID: -6183961931699326711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3db03f9f9b83c90800000000000000
+      internalID: -7189792321921363039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_39
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb2762863154a6f0800000000000000
+      internalID: -674324749640848451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31478bc67215b60800000000000000
+      internalID: 7733005383076418558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132855fe394a20e0800000000000000
+      internalID: -2293940525438852325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2106e296b3612340800000000000000
+      internalID: 4837257110572368174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d19579f92383ae60800000000000000
+      internalID: 7972359981678039510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f4f3bf49e857e0800000000000000
+      internalID: -1776413524466796321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2e0532335afce50800000000000000
+      internalID: 6831860798798750461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4bea184764fe2c0800000000000000
+      internalID: -4400220844711824149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710052883a6408f0800000000000000
+      internalID: -575218061459586689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98569218969940ad0800000000000000
+      internalID: -2736893995116829303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55454bb8d039420800000000000000
+      internalID: 2635465100618913196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c725e5fccf456c0800000000000000
+      internalID: -4155418588585231324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136ddc74819124ce0800000000000000
+      internalID: -1422546940221073871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507752c08eca81e30800000000000000
+      internalID: 4474516342428759813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259a5a8e436ed700800000000000000
+      internalID: 566999792075052333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196fde2d0fefd8f0800000000000000
+      internalID: -513428992596940516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec862f68669de40800000000000000
+      internalID: 5681685134683197161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f0ee061d2ffcb00800000000000000
+      internalID: 851165835684613969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee18e8149684adc0800000000000000
+      internalID: -3628627429122629914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafff5c7af338cf0800000000000000
+      internalID: -251287164388640020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_59
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc13e75017945d50800000000000000
+      internalID: 6725166240020765906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a714226706f1a7fe0800000000000000
+      internalID: -1190604652326796934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9e9f0f32c3edc80800000000000000
+      internalID: -8296127338505442835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ed39a39e1ffc90800000000000000
+      internalID: -7133949665183144152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f183fc2d406d4e0800000000000000
+      internalID: -1957371684579696760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a9de83ed72e270800000000000000
+      internalID: 8278317481368068420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f22f368380382a0800000000000000
+      internalID: -6736531579328123041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5589362bc40520800000000000000
+      internalID: 2667480244344413705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_67
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a315f03e66d6f0800000000000000
+      internalID: -660219138814006846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac0ff80f677f2d0800000000000000
+      internalID: -3244994230918001979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326440e97441d9740800000000000000
+      internalID: 5160303045862770211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f694a9f8ab1d40800000000000000
+      internalID: 5556220355453317217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_71
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deddb586153f3080800000000000000
+      internalID: -9205580742472638765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1f594ba0e2bcc0800000000000000
+      internalID: -3696645317842755860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf72f23779a4c30800000000000000
+      internalID: 4344451311520447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd4d0c1db8f8e340800000000000000
+      internalID: 4893434486241185271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_75
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bad826092e35750800000000000000
+      internalID: 6292622214123334508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_76
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c52c382ef59a070800000000000000
+      internalID: 8118125229789830164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_77
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9444d2f9e0932de0800000000000000
+      internalID: -1359083328059980642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_78
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e968d13934c60c4d0800000000000000
+      internalID: -3116371904653588834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_gnoll_79
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cd04daa1189db10800000000000000
+      internalID: 2006777060546108498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle_gnoll_0: -1312292202204243792
+      Idle_gnoll_1: 6105505396926070822
+      Idle_gnoll_10: 1611604465327826068
+      Idle_gnoll_11: 1892893925955832499
+      Idle_gnoll_12: 5875937608127759570
+      Idle_gnoll_13: -2802680362620891746
+      Idle_gnoll_14: 7218656397728868352
+      Idle_gnoll_15: -6504686547582698068
+      Idle_gnoll_16: -6615393896067408818
+      Idle_gnoll_17: 702495091501847578
+      Idle_gnoll_18: 5701862572868719549
+      Idle_gnoll_19: 4995745804851517535
+      Idle_gnoll_2: 4677036672049785558
+      Idle_gnoll_20: 8028718528716341473
+      Idle_gnoll_21: -2937349343812866395
+      Idle_gnoll_22: -5625621896684024928
+      Idle_gnoll_23: 3529918274448266619
+      Idle_gnoll_24: -7378244279126558561
+      Idle_gnoll_25: 1566425791709646175
+      Idle_gnoll_26: 4687346945484229189
+      Idle_gnoll_27: 2595917987352820970
+      Idle_gnoll_28: 8921092595040268017
+      Idle_gnoll_29: -2735233338350696798
+      Idle_gnoll_3: -8079665935971323157
+      Idle_gnoll_30: 1592211861610200387
+      Idle_gnoll_31: -6499485258171660094
+      Idle_gnoll_32: 2573605638803694312
+      Idle_gnoll_33: 6096859396964505502
+      Idle_gnoll_34: -5507718498111040857
+      Idle_gnoll_35: 1197187580173922367
+      Idle_gnoll_36: 921313922896291319
+      Idle_gnoll_37: -6183961931699326711
+      Idle_gnoll_38: -7189792321921363039
+      Idle_gnoll_39: -674324749640848451
+      Idle_gnoll_4: 6999168360345234803
+      Idle_gnoll_40: 7733005383076418558
+      Idle_gnoll_41: -2293940525438852325
+      Idle_gnoll_42: 4837257110572368174
+      Idle_gnoll_43: 7972359981678039510
+      Idle_gnoll_44: -1776413524466796321
+      Idle_gnoll_45: 6831860798798750461
+      Idle_gnoll_46: -4400220844711824149
+      Idle_gnoll_47: -575218061459586689
+      Idle_gnoll_48: -2736893995116829303
+      Idle_gnoll_49: 2635465100618913196
+      Idle_gnoll_5: -2417659993691239302
+      Idle_gnoll_50: -4155418588585231324
+      Idle_gnoll_51: -1422546940221073871
+      Idle_gnoll_52: 4474516342428759813
+      Idle_gnoll_53: 566999792075052333
+      Idle_gnoll_54: -513428992596940516
+      Idle_gnoll_55: 5681685134683197161
+      Idle_gnoll_56: 851165835684613969
+      Idle_gnoll_57: -3628627429122629914
+      Idle_gnoll_58: -251287164388640020
+      Idle_gnoll_59: 6725166240020765906
+      Idle_gnoll_6: -8593741086424246199
+      Idle_gnoll_60: -1190604652326796934
+      Idle_gnoll_61: -8296127338505442835
+      Idle_gnoll_62: -7133949665183144152
+      Idle_gnoll_63: -1957371684579696760
+      Idle_gnoll_64: 8278317481368068420
+      Idle_gnoll_65: -6736531579328123041
+      Idle_gnoll_66: 2667480244344413705
+      Idle_gnoll_67: -660219138814006846
+      Idle_gnoll_68: -3244994230918001979
+      Idle_gnoll_69: 5160303045862770211
+      Idle_gnoll_7: -2988309172167866084
+      Idle_gnoll_70: 5556220355453317217
+      Idle_gnoll_71: -9205580742472638765
+      Idle_gnoll_72: -3696645317842755860
+      Idle_gnoll_73: 4344451311520447341
+      Idle_gnoll_74: 4893434486241185271
+      Idle_gnoll_75: 6292622214123334508
+      Idle_gnoll_76: 8118125229789830164
+      Idle_gnoll_77: -1359083328059980642
+      Idle_gnoll_78: -3116371904653588834
+      Idle_gnoll_79: 2006777060546108498
+      Idle_gnoll_8: 7903678618296328791
+      Idle_gnoll_9: 6131129569011897196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 707d4cebc0c222a469d1dcdfd3309300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6763819992687216105
+    second: Ranger_Single_Melee_Attack_0
+  - first:
+      213: 8450869234258909309
+    second: Ranger_Single_Melee_Attack_1
+  - first:
+      213: -2053681551125337862
+    second: Ranger_Single_Melee_Attack_2
+  - first:
+      213: 2140676405681435935
+    second: Ranger_Single_Melee_Attack_3
+  - first:
+      213: 3551473008899473958
+    second: Ranger_Single_Melee_Attack_4
+  - first:
+      213: 6835284986331230936
+    second: Ranger_Single_Melee_Attack_5
+  - first:
+      213: 8705151917854666176
+    second: Ranger_Single_Melee_Attack_6
+  - first:
+      213: 1511643311595161549
+    second: Ranger_Single_Melee_Attack_7
+  - first:
+      213: -1386419782361225418
+    second: Ranger_Single_Melee_Attack_8
+  - first:
+      213: 1423363631736302052
+    second: Ranger_Single_Melee_Attack_9
+  - first:
+      213: -1097927110256167973
+    second: Ranger_Single_Melee_Attack_10
+  - first:
+      213: 6757207484201661075
+    second: Ranger_Single_Melee_Attack_11
+  - first:
+      213: -4357380038088800272
+    second: Ranger_Single_Melee_Attack_12
+  - first:
+      213: 547625784311145617
+    second: Ranger_Single_Melee_Attack_13
+  - first:
+      213: -2526083942277717264
+    second: Ranger_Single_Melee_Attack_14
+  - first:
+      213: 2029879063777363211
+    second: Ranger_Single_Melee_Attack_15
+  - first:
+      213: 6354479245645338574
+    second: Ranger_Single_Melee_Attack_16
+  - first:
+      213: -2934661170440579873
+    second: Ranger_Single_Melee_Attack_17
+  - first:
+      213: -5298985808042310675
+    second: Ranger_Single_Melee_Attack_18
+  - first:
+      213: 1756564834464732732
+    second: Ranger_Single_Melee_Attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e58ec4727aeddd50800000000000000
+      internalID: 6763819992687216105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78974f3bc4874570800000000000000
+      internalID: 8450869234258909309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a667928bdf73e0800000000000000
+      internalID: -2053681551125337862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b3b369d535bd10800000000000000
+      internalID: 2140676405681435935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62247d492ed594130800000000000000
+      internalID: 3551473008899473958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d275dcea7fcbde50800000000000000
+      internalID: 6835284986331230936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cda9832c89eec870800000000000000
+      internalID: 8705151917854666176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc789b6359f6af410800000000000000
+      internalID: 1511643311595161549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 73
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e8c2bd8272cce0800000000000000
+      internalID: -1386419782361225418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92ad78eadc0c310800000000000000
+      internalID: 1423363631736302052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f8eb3c1163c0f0800000000000000
+      internalID: -1097927110256167973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3927379d76c66cd50800000000000000
+      internalID: 6757207484201661075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c65611f97783c0800000000000000
+      internalID: -4357380038088800272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e5b7dfbe899700800000000000000
+      internalID: 547625784311145617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e7bbc90c81fcd0800000000000000
+      internalID: -2526083942277717264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05c375f0449b2c10800000000000000
+      internalID: 2029879063777363211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75849d435af2850800000000000000
+      internalID: 6354479245645338574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d1c7c63df547d0800000000000000
+      internalID: -2934661170440579873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34dc99b783676b0800000000000000
+      internalID: -5298985808042310675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Single_Melee_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3696370962906810800000000000000
+      internalID: 1756564834464732732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_Single_Melee_Attack_0: 6763819992687216105
+      Ranger_Single_Melee_Attack_1: 8450869234258909309
+      Ranger_Single_Melee_Attack_10: -1097927110256167973
+      Ranger_Single_Melee_Attack_11: 6757207484201661075
+      Ranger_Single_Melee_Attack_12: -4357380038088800272
+      Ranger_Single_Melee_Attack_13: 547625784311145617
+      Ranger_Single_Melee_Attack_14: -2526083942277717264
+      Ranger_Single_Melee_Attack_15: 2029879063777363211
+      Ranger_Single_Melee_Attack_16: 6354479245645338574
+      Ranger_Single_Melee_Attack_17: -2934661170440579873
+      Ranger_Single_Melee_Attack_18: -5298985808042310675
+      Ranger_Single_Melee_Attack_19: 1756564834464732732
+      Ranger_Single_Melee_Attack_2: -2053681551125337862
+      Ranger_Single_Melee_Attack_3: 2140676405681435935
+      Ranger_Single_Melee_Attack_4: 3551473008899473958
+      Ranger_Single_Melee_Attack_5: 6835284986331230936
+      Ranger_Single_Melee_Attack_6: 8705151917854666176
+      Ranger_Single_Melee_Attack_7: 1511643311595161549
+      Ranger_Single_Melee_Attack_8: -1386419782361225418
+      Ranger_Single_Melee_Attack_9: 1423363631736302052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

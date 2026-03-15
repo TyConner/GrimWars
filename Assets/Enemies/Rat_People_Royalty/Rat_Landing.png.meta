@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 06d5a8abf2add414bbdfd398872c2648
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5204529810899615002
+    second: Rat_Landing_0
+  - first:
+      213: -705599331098622988
+    second: Rat_Landing_1
+  - first:
+      213: -5554727920566009284
+    second: Rat_Landing_2
+  - first:
+      213: -1876538868247909377
+    second: Rat_Landing_3
+  - first:
+      213: -2694276083452435018
+    second: Rat_Landing_4
+  - first:
+      213: -2336638636378704675
+    second: Rat_Landing_5
+  - first:
+      213: 8544279794516428120
+    second: Rat_Landing_6
+  - first:
+      213: 5749710155149977877
+    second: Rat_Landing_7
+  - first:
+      213: -7226141072308226031
+    second: Rat_Landing_8
+  - first:
+      213: -7812619032579793720
+    second: Rat_Landing_9
+  - first:
+      213: -3718882758474238365
+    second: Rat_Landing_10
+  - first:
+      213: 4043235411114033514
+    second: Rat_Landing_11
+  - first:
+      213: -5076626637904865220
+    second: Rat_Landing_12
+  - first:
+      213: 6580522040353610810
+    second: Rat_Landing_13
+  - first:
+      213: -1844602209526283823
+    second: Rat_Landing_14
+  - first:
+      213: -7550924129785405971
+    second: Rat_Landing_15
+  - first:
+      213: -6576694445763845181
+    second: Rat_Landing_16
+  - first:
+      213: 7953154699373600294
+    second: Rat_Landing_17
+  - first:
+      213: -2707395813103199114
+    second: Rat_Landing_18
+  - first:
+      213: -1989666920585724732
+    second: Rat_Landing_19
+  - first:
+      213: 7855424167670475627
+    second: Rat_Landing_20
+  - first:
+      213: -2534530200446957077
+    second: Rat_Landing_21
+  - first:
+      213: 2502224283281471381
+    second: Rat_Landing_22
+  - first:
+      213: 5154730173921644010
+    second: Rat_Landing_23
+  - first:
+      213: 356585539424210646
+    second: Rat_Landing_24
+  - first:
+      213: 1345202540323642540
+    second: Rat_Landing_25
+  - first:
+      213: -6647106189441943841
+    second: Rat_Landing_26
+  - first:
+      213: -2157732742708744893
+    second: Rat_Landing_27
+  - first:
+      213: 422809095837262760
+    second: Rat_Landing_28
+  - first:
+      213: 114754181769154271
+    second: Rat_Landing_29
+  - first:
+      213: 5773690235434959897
+    second: Rat_Landing_30
+  - first:
+      213: -6222746277822225015
+    second: Rat_Landing_31
+  - first:
+      213: -93754216941308431
+    second: Rat_Landing_32
+  - first:
+      213: 1357149599378791349
+    second: Rat_Landing_33
+  - first:
+      213: -9149428618786861389
+    second: Rat_Landing_34
+  - first:
+      213: 5687232896408565089
+    second: Rat_Landing_35
+  - first:
+      213: -6337573770937432387
+    second: Rat_Landing_36
+  - first:
+      213: 2261095268518588379
+    second: Rat_Landing_37
+  - first:
+      213: 4736395638159685316
+    second: Rat_Landing_38
+  - first:
+      213: 7966163127691559552
+    second: Rat_Landing_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat_Landing_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c56636bbc5c7b0800000000000000
+      internalID: -5204529810899615002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f30d1495253536f0800000000000000
+      internalID: -705599331098622988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3208bee264a9e2b0800000000000000
+      internalID: -5554727920566009284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbaed677d135f5e0800000000000000
+      internalID: -1876538868247909377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5acfe4d220c9ad0800000000000000
+      internalID: -2694276083452435018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4b13e4a87929fd0800000000000000
+      internalID: -2336638636378704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 108
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85503bd1431639670800000000000000
+      internalID: 8544279794516428120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519ab2f3ce21bcf40800000000000000
+      internalID: 5749710155149977877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11835300bf697bb90800000000000000
+      internalID: -7226141072308226031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc10a50260049390800000000000000
+      internalID: -7812619032579793720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36671dba5dfd36cc0800000000000000
+      internalID: -3718882758474238365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a618bb63f257c1830800000000000000
+      internalID: 4043235411114033514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38156e48f23c89b0800000000000000
+      internalID: -5076626637904865220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd7eb3ee5b25b50800000000000000
+      internalID: 6580522040353610810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d109454018a666e0800000000000000
+      internalID: -1844602209526283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded173ea28ab53790800000000000000
+      internalID: -7550924129785405971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c326f31f33eab4a0800000000000000
+      internalID: -6576694445763845181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e54ebbf084f5e60800000000000000
+      internalID: 7953154699373600294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c9a953ad56d6ad0800000000000000
+      internalID: -2707395813103199114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc74293a784364e0800000000000000
+      internalID: -1989666920585724732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b640229a2140d60800000000000000
+      internalID: 7855424167670475627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90cd1163a83dcd0800000000000000
+      internalID: -2534530200446957077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59739517abfa9b220800000000000000
+      internalID: 2502224283281471381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 43
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed469148c7498740800000000000000
+      internalID: 5154730173921644010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6decb69a8a8d2f400800000000000000
+      internalID: 356585539424210646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac91fe459e1ba210800000000000000
+      internalID: 1345202540323642540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6330a732cb0c3a0800000000000000
+      internalID: -6647106189441943841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dad9ea0813e02e0800000000000000
+      internalID: -2157732742708744893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32f2de1ae1ed500800000000000000
+      internalID: 422809095837262760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde47d00250b79100800000000000000
+      internalID: 114754181769154271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9140e36cda4402050800000000000000
+      internalID: 5773690235434959897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a507da3d54a9a0800000000000000
+      internalID: -6222746277822225015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b403590be2bef0800000000000000
+      internalID: -93754216941308431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5902ce5095d210800000000000000
+      internalID: 1357149599378791349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be8a6f9523b60180800000000000000
+      internalID: -9149428618786861389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653951ef2c1dee40800000000000000
+      internalID: 5687232896408565089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60175bb3a6c08a0800000000000000
+      internalID: -6337573770937432387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfed5bba26016f10800000000000000
+      internalID: 2261095268518588379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6b7380dbe0bb140800000000000000
+      internalID: 4736395638159685316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Landing_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082ced8782f7d8e60800000000000000
+      internalID: 7966163127691559552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rat_Landing_0: -5204529810899615002
+      Rat_Landing_1: -705599331098622988
+      Rat_Landing_10: -3718882758474238365
+      Rat_Landing_11: 4043235411114033514
+      Rat_Landing_12: -5076626637904865220
+      Rat_Landing_13: 6580522040353610810
+      Rat_Landing_14: -1844602209526283823
+      Rat_Landing_15: -7550924129785405971
+      Rat_Landing_16: -6576694445763845181
+      Rat_Landing_17: 7953154699373600294
+      Rat_Landing_18: -2707395813103199114
+      Rat_Landing_19: -1989666920585724732
+      Rat_Landing_2: -5554727920566009284
+      Rat_Landing_20: 7855424167670475627
+      Rat_Landing_21: -2534530200446957077
+      Rat_Landing_22: 2502224283281471381
+      Rat_Landing_23: 5154730173921644010
+      Rat_Landing_24: 356585539424210646
+      Rat_Landing_25: 1345202540323642540
+      Rat_Landing_26: -6647106189441943841
+      Rat_Landing_27: -2157732742708744893
+      Rat_Landing_28: 422809095837262760
+      Rat_Landing_29: 114754181769154271
+      Rat_Landing_3: -1876538868247909377
+      Rat_Landing_30: 5773690235434959897
+      Rat_Landing_31: -6222746277822225015
+      Rat_Landing_32: -93754216941308431
+      Rat_Landing_33: 1357149599378791349
+      Rat_Landing_34: -9149428618786861389
+      Rat_Landing_35: 5687232896408565089
+      Rat_Landing_36: -6337573770937432387
+      Rat_Landing_37: 2261095268518588379
+      Rat_Landing_38: 4736395638159685316
+      Rat_Landing_39: 7966163127691559552
+      Rat_Landing_4: -2694276083452435018
+      Rat_Landing_5: -2336638636378704675
+      Rat_Landing_6: 8544279794516428120
+      Rat_Landing_7: 5749710155149977877
+      Rat_Landing_8: -7226141072308226031
+      Rat_Landing_9: -7812619032579793720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

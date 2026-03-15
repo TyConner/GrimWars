@@ -1,0 +1,14 @@
+*Frame size* 
+
+- 32x32px: For all the animations.
+
+*Frame Duration*
+
+- 100ms: For all the animations.
+
+
+NOTEs:
+- "Shielding" is an animation designed to enter into the "Shield_Stance"
+- Incoming attacks during "Shield_Stance" should trigger "Shield_Block"
+- Upon reaching a blocked damage threshold, "Shield_Breach" can be triggered
+

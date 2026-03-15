@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 82aa3f0a34f766141aa515a669d34bd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3758376694878434620
+    second: Stand_Alone_Rise_Corpse_Ground_0
+  - first:
+      213: 6898897956311079234
+    second: Stand_Alone_Rise_Corpse_Ground_1
+  - first:
+      213: -4677103685421064321
+    second: Stand_Alone_Rise_Corpse_Ground_2
+  - first:
+      213: 4831028418411339834
+    second: Stand_Alone_Rise_Corpse_Ground_3
+  - first:
+      213: -1374911183143338548
+    second: Stand_Alone_Rise_Corpse_Ground_4
+  - first:
+      213: 5172894595637569381
+    second: Stand_Alone_Rise_Corpse_Ground_5
+  - first:
+      213: -6645648580731051159
+    second: Stand_Alone_Rise_Corpse_Ground_6
+  - first:
+      213: 2648064555779417144
+    second: Stand_Alone_Rise_Corpse_Ground_7
+  - first:
+      213: -2556150355248969954
+    second: Stand_Alone_Rise_Corpse_Ground_8
+  - first:
+      213: -6457813706213545463
+    second: Stand_Alone_Rise_Corpse_Ground_9
+  - first:
+      213: -1585639436462791514
+    second: Stand_Alone_Rise_Corpse_Ground_10
+  - first:
+      213: -6779879013720761833
+    second: Stand_Alone_Rise_Corpse_Ground_11
+  - first:
+      213: 8095071046437386426
+    second: Stand_Alone_Rise_Corpse_Ground_12
+  - first:
+      213: -8892478790570580788
+    second: Stand_Alone_Rise_Corpse_Ground_13
+  - first:
+      213: 4033795777331961477
+    second: Stand_Alone_Rise_Corpse_Ground_14
+  - first:
+      213: 8226254466046364759
+    second: Stand_Alone_Rise_Corpse_Ground_15
+  - first:
+      213: -8613968921265537612
+    second: Stand_Alone_Rise_Corpse_Ground_16
+  - first:
+      213: -4729983297515498001
+    second: Stand_Alone_Rise_Corpse_Ground_17
+  - first:
+      213: -6273553111359961406
+    second: Stand_Alone_Rise_Corpse_Ground_18
+  - first:
+      213: 3313277470140747941
+    second: Stand_Alone_Rise_Corpse_Ground_19
+  - first:
+      213: 4201185284424428248
+    second: Stand_Alone_Rise_Corpse_Ground_20
+  - first:
+      213: 5779868780946277596
+    second: Stand_Alone_Rise_Corpse_Ground_21
+  - first:
+      213: -7137256971275580159
+    second: Stand_Alone_Rise_Corpse_Ground_22
+  - first:
+      213: -2882664640444072862
+    second: Stand_Alone_Rise_Corpse_Ground_23
+  - first:
+      213: 1443899176405940230
+    second: Stand_Alone_Rise_Corpse_Ground_24
+  - first:
+      213: -4971668414686923182
+    second: Stand_Alone_Rise_Corpse_Ground_25
+  - first:
+      213: -7631901052523423199
+    second: Stand_Alone_Rise_Corpse_Ground_26
+  - first:
+      213: -6233037758541184353
+    second: Stand_Alone_Rise_Corpse_Ground_27
+  - first:
+      213: 7258325117695093759
+    second: Stand_Alone_Rise_Corpse_Ground_28
+  - first:
+      213: -5908316173508472515
+    second: Stand_Alone_Rise_Corpse_Ground_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0aa90f4097dbc0800000000000000
+      internalID: -3758376694878434620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249179ba32fcdbf50800000000000000
+      internalID: 6898897956311079234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9ecc7af6971fb0800000000000000
+      internalID: -4677103685421064321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a93b20c24b0340800000000000000
+      internalID: 4831028418411339834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd770340955bece0800000000000000
+      internalID: -1374911183143338548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e3814a30d9c740800000000000000
+      internalID: 5172894595637569381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963627373d9e5c3a0800000000000000
+      internalID: -6645648580731051159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e885fea0dfb420800000000000000
+      internalID: 2648064555779417144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1785e28bcab68cd0800000000000000
+      internalID: -2556150355248969954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a2e7f26ac3166a0800000000000000
+      internalID: -6457813706213545463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e8c7655daef9e0800000000000000
+      internalID: -1585639436462791514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a5c0755f709e1a0800000000000000
+      internalID: -6779879013720761833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 40
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8337a2a38775070800000000000000
+      internalID: 8095071046437386426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4685387a1979480800000000000000
+      internalID: -8892478790570580788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 40
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e975433ebeaf730800000000000000
+      internalID: 4033795777331961477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c0aa03ad6892270800000000000000
+      internalID: 8226254466046364759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd76b5a7e8057880800000000000000
+      internalID: -8613968921265537612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5de0e5049bb5eb0800000000000000
+      internalID: -4729983297515498001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c7d51facdfe8a0800000000000000
+      internalID: -6273553111359961406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05b0afd402bfd20800000000000000
+      internalID: 3313277470140747941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da67b1e1cb9d4a30800000000000000
+      internalID: 4201185284424428248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44ca08808363050800000000000000
+      internalID: 5779868780946277596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4074799e53fc90800000000000000
+      internalID: -7137256971275580159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c70c358c7bef7d0800000000000000
+      internalID: -2882664640444072862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b72d96a2c90410800000000000000
+      internalID: 1443899176405940230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567e89fae5110bb0800000000000000
+      internalID: -4971668414686923182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 9
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5963ad6a061690800000000000000
+      internalID: -7631901052523423199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f924e82ce2dcf79a0800000000000000
+      internalID: -6233037758541184353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 8
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe2800d30cab460800000000000000
+      internalID: 7258325117695093759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand_Alone_Rise_Corpse_Ground_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3115596eb1710ea0800000000000000
+      internalID: -5908316173508472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stand_Alone_Rise_Corpse_Ground_0: -3758376694878434620
+      Stand_Alone_Rise_Corpse_Ground_1: 6898897956311079234
+      Stand_Alone_Rise_Corpse_Ground_10: -1585639436462791514
+      Stand_Alone_Rise_Corpse_Ground_11: -6779879013720761833
+      Stand_Alone_Rise_Corpse_Ground_12: 8095071046437386426
+      Stand_Alone_Rise_Corpse_Ground_13: -8892478790570580788
+      Stand_Alone_Rise_Corpse_Ground_14: 4033795777331961477
+      Stand_Alone_Rise_Corpse_Ground_15: 8226254466046364759
+      Stand_Alone_Rise_Corpse_Ground_16: -8613968921265537612
+      Stand_Alone_Rise_Corpse_Ground_17: -4729983297515498001
+      Stand_Alone_Rise_Corpse_Ground_18: -6273553111359961406
+      Stand_Alone_Rise_Corpse_Ground_19: 3313277470140747941
+      Stand_Alone_Rise_Corpse_Ground_2: -4677103685421064321
+      Stand_Alone_Rise_Corpse_Ground_20: 4201185284424428248
+      Stand_Alone_Rise_Corpse_Ground_21: 5779868780946277596
+      Stand_Alone_Rise_Corpse_Ground_22: -7137256971275580159
+      Stand_Alone_Rise_Corpse_Ground_23: -2882664640444072862
+      Stand_Alone_Rise_Corpse_Ground_24: 1443899176405940230
+      Stand_Alone_Rise_Corpse_Ground_25: -4971668414686923182
+      Stand_Alone_Rise_Corpse_Ground_26: -7631901052523423199
+      Stand_Alone_Rise_Corpse_Ground_27: -6233037758541184353
+      Stand_Alone_Rise_Corpse_Ground_28: 7258325117695093759
+      Stand_Alone_Rise_Corpse_Ground_29: -5908316173508472515
+      Stand_Alone_Rise_Corpse_Ground_3: 4831028418411339834
+      Stand_Alone_Rise_Corpse_Ground_4: -1374911183143338548
+      Stand_Alone_Rise_Corpse_Ground_5: 5172894595637569381
+      Stand_Alone_Rise_Corpse_Ground_6: -6645648580731051159
+      Stand_Alone_Rise_Corpse_Ground_7: 2648064555779417144
+      Stand_Alone_Rise_Corpse_Ground_8: -2556150355248969954
+      Stand_Alone_Rise_Corpse_Ground_9: -6457813706213545463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

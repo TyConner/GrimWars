@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e41fab75a1c2ba449a290f092718f23f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3439921935617800833
+    second: Figther_Dmg_0
+  - first:
+      213: 4957380614689810878
+    second: Figther_Dmg_1
+  - first:
+      213: 8738031423307705925
+    second: Figther_Dmg_2
+  - first:
+      213: -1095003525901356200
+    second: Figther_Dmg_3
+  - first:
+      213: -6819193749337754554
+    second: Figther_Dmg_4
+  - first:
+      213: 828965018466994073
+    second: Figther_Dmg_5
+  - first:
+      213: 5464743555825651714
+    second: Figther_Dmg_6
+  - first:
+      213: 3345940191874927190
+    second: Figther_Dmg_7
+  - first:
+      213: 2313748329671832554
+    second: Figther_Dmg_8
+  - first:
+      213: -530421888356965592
+    second: Figther_Dmg_9
+  - first:
+      213: 2574208566718914685
+    second: Figther_Dmg_10
+  - first:
+      213: -576537397743301401
+    second: Figther_Dmg_11
+  - first:
+      213: -1539652452482078405
+    second: Figther_Dmg_12
+  - first:
+      213: -7766207572649829460
+    second: Figther_Dmg_13
+  - first:
+      213: -4402759485350357610
+    second: Figther_Dmg_14
+  - first:
+      213: 3447247363856740348
+    second: Figther_Dmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther_Dmg_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754d6c9931f240d0800000000000000
+      internalID: -3439921935617800833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96efa57672cc440800000000000000
+      internalID: 4957380614689810878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee47e8849b34970800000000000000
+      internalID: 8738031423307705925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85379d24814cdc0f0800000000000000
+      internalID: -1095003525901356200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b8242a6b5d51a0800000000000000
+      internalID: -6819193749337754554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99743f0da43118b00800000000000000
+      internalID: 828965018466994073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d7918f4ba6db40800000000000000
+      internalID: 5464743555825651714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a486080ea2f6e20800000000000000
+      internalID: 3345940191874927190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae33eb9d8d51c1020800000000000000
+      internalID: 2313748329671832554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82324635a1093a8f0800000000000000
+      internalID: -530421888356965592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d706c0d7d0d69b320800000000000000
+      internalID: 2574208566718914685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec48c79a4abff7f0800000000000000
+      internalID: -576537397743301401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b392f3c704e02aae0800000000000000
+      internalID: -1539652452482078405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab124c1c53e83490800000000000000
+      internalID: -7766207572649829460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d53c239146e2c0800000000000000
+      internalID: -4402759485350357610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Dmg_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff259f863517df20800000000000000
+      internalID: 3447247363856740348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figther_Dmg_0: -3439921935617800833
+      Figther_Dmg_1: 4957380614689810878
+      Figther_Dmg_10: 2574208566718914685
+      Figther_Dmg_11: -576537397743301401
+      Figther_Dmg_12: -1539652452482078405
+      Figther_Dmg_13: -7766207572649829460
+      Figther_Dmg_14: -4402759485350357610
+      Figther_Dmg_15: 3447247363856740348
+      Figther_Dmg_2: 8738031423307705925
+      Figther_Dmg_3: -1095003525901356200
+      Figther_Dmg_4: -6819193749337754554
+      Figther_Dmg_5: 828965018466994073
+      Figther_Dmg_6: 5464743555825651714
+      Figther_Dmg_7: 3345940191874927190
+      Figther_Dmg_8: 2313748329671832554
+      Figther_Dmg_9: -530421888356965592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

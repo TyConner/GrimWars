@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 71d6c2b3d4ba4f74aa4cf247496a240e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8552259540091747972
+    second: BrainSlayerIdle_0
+  - first:
+      213: 415540437616685234
+    second: BrainSlayerIdle_1
+  - first:
+      213: -9113675996179487140
+    second: BrainSlayerIdle_2
+  - first:
+      213: -8160812163375165956
+    second: BrainSlayerIdle_3
+  - first:
+      213: -7329209960855251150
+    second: BrainSlayerIdle_4
+  - first:
+      213: -4468387049978851908
+    second: BrainSlayerIdle_5
+  - first:
+      213: -2021930151450017992
+    second: BrainSlayerIdle_6
+  - first:
+      213: 1850876589170743027
+    second: BrainSlayerIdle_7
+  - first:
+      213: 3242735270178943882
+    second: BrainSlayerIdle_8
+  - first:
+      213: -5114543896494285156
+    second: BrainSlayerIdle_9
+  - first:
+      213: -2350926928170405196
+    second: BrainSlayerIdle_10
+  - first:
+      213: -6386232238332081152
+    second: BrainSlayerIdle_11
+  - first:
+      213: 996075975469545643
+    second: BrainSlayerIdle_12
+  - first:
+      213: 2760522194166654247
+    second: BrainSlayerIdle_13
+  - first:
+      213: 2911239551460538950
+    second: BrainSlayerIdle_14
+  - first:
+      213: 5889796012122628753
+    second: BrainSlayerIdle_15
+  - first:
+      213: 6945750894295252305
+    second: BrainSlayerIdle_16
+  - first:
+      213: 2164473731979149518
+    second: BrainSlayerIdle_17
+  - first:
+      213: 2925482894301503669
+    second: BrainSlayerIdle_18
+  - first:
+      213: -4176678181879403375
+    second: BrainSlayerIdle_19
+  - first:
+      213: -8884445122602803245
+    second: BrainSlayerIdle_20
+  - first:
+      213: 7840206573820172894
+    second: BrainSlayerIdle_21
+  - first:
+      213: 1910995290940461059
+    second: BrainSlayerIdle_22
+  - first:
+      213: 3780658353451370362
+    second: BrainSlayerIdle_23
+  - first:
+      213: 6753844297179717103
+    second: BrainSlayerIdle_24
+  - first:
+      213: 4854137381482718092
+    second: BrainSlayerIdle_25
+  - first:
+      213: -1823912488676197784
+    second: BrainSlayerIdle_26
+  - first:
+      213: -4452624456343003133
+    second: BrainSlayerIdle_27
+  - first:
+      213: -1914976552355632237
+    second: BrainSlayerIdle_28
+  - first:
+      213: -7658610537736117079
+    second: BrainSlayerIdle_29
+  - first:
+      213: 6755285670182795485
+    second: BrainSlayerIdle_30
+  - first:
+      213: -821775165195950251
+    second: BrainSlayerIdle_31
+  - first:
+      213: 3970106312855973609
+    second: BrainSlayerIdle_32
+  - first:
+      213: 1592015459622139721
+    second: BrainSlayerIdle_33
+  - first:
+      213: -5560540050028049374
+    second: BrainSlayerIdle_34
+  - first:
+      213: -4319727876454183195
+    second: BrainSlayerIdle_35
+  - first:
+      213: 7537560475786337568
+    second: BrainSlayerIdle_36
+  - first:
+      213: 8188581490830250209
+    second: BrainSlayerIdle_37
+  - first:
+      213: -3553216288309451870
+    second: BrainSlayerIdle_38
+  - first:
+      213: 6205288112653389047
+    second: BrainSlayerIdle_39
+  - first:
+      213: 5273465822187537172
+    second: BrainSlayerIdle_40
+  - first:
+      213: 3625651005096517547
+    second: BrainSlayerIdle_41
+  - first:
+      213: -952615139925412773
+    second: BrainSlayerIdle_42
+  - first:
+      213: -8733368509764456213
+    second: BrainSlayerIdle_43
+  - first:
+      213: 7338364434425490326
+    second: BrainSlayerIdle_44
+  - first:
+      213: 1677267272003790742
+    second: BrainSlayerIdle_45
+  - first:
+      213: -6573302715099463031
+    second: BrainSlayerIdle_46
+  - first:
+      213: -931508852700827544
+    second: BrainSlayerIdle_47
+  - first:
+      213: 4620700142976240921
+    second: BrainSlayerIdle_48
+  - first:
+      213: -3720660064320985801
+    second: BrainSlayerIdle_49
+  - first:
+      213: 624618241175893687
+    second: BrainSlayerIdle_50
+  - first:
+      213: -5458793022876884997
+    second: BrainSlayerIdle_51
+  - first:
+      213: -8066394900482478296
+    second: BrainSlayerIdle_52
+  - first:
+      213: 5976085045698164039
+    second: BrainSlayerIdle_53
+  - first:
+      213: 2301250346612883148
+    second: BrainSlayerIdle_54
+  - first:
+      213: 4255046909203378232
+    second: BrainSlayerIdle_55
+  - first:
+      213: -4369773021427798174
+    second: BrainSlayerIdle_56
+  - first:
+      213: 6082855696652399025
+    second: BrainSlayerIdle_57
+  - first:
+      213: 6324524029797789869
+    second: BrainSlayerIdle_58
+  - first:
+      213: -1633468951403816429
+    second: BrainSlayerIdle_59
+  - first:
+      213: 3042921870473494467
+    second: BrainSlayerIdle_60
+  - first:
+      213: 9103172104196810972
+    second: BrainSlayerIdle_61
+  - first:
+      213: 6264029353500770466
+    second: BrainSlayerIdle_62
+  - first:
+      213: -427431144266181071
+    second: BrainSlayerIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrainSlayerIdle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3d1a6dbabfa670800000000000000
+      internalID: 8552259540091747972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f3fd83db44c500800000000000000
+      internalID: 415540437616685234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a7b1c7f7b58180800000000000000
+      internalID: -9113675996179487140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd06534398febe80800000000000000
+      internalID: -8160812163375165956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d7f65f5a694a90800000000000000
+      internalID: -7329209960855251150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd0e0f07a91df1c0800000000000000
+      internalID: -4468387049978851908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7b2a6d39a0f3e0800000000000000
+      internalID: -2021930151450017992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6db949372afa910800000000000000
+      internalID: 1850876589170743027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8375a72c82800d20800000000000000
+      internalID: 3242735270178943882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed0559c6d7509b0800000000000000
+      internalID: -5114543896494285156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2b0812a64df5fd0800000000000000
+      internalID: -2350926928170405196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c811d6d9b8f57a0800000000000000
+      internalID: -6386232238332081152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b92f72d5c2dd00800000000000000
+      internalID: 996075975469545643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a2e94f485f4620800000000000000
+      internalID: 2760522194166654247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a7fd892fcc66820800000000000000
+      internalID: 2911239551460538950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e41e7442ccb150800000000000000
+      internalID: 5889796012122628753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df1d063a3446060800000000000000
+      internalID: 6945750894295252305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec008403461c90e10800000000000000
+      internalID: 2164473731979149518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a2574137699820800000000000000
+      internalID: 2925482894301503669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c24f392557906c0800000000000000
+      internalID: -4176678181879403375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfdec89b3c14b480800000000000000
+      internalID: -8884445122602803245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adb36f6520ecc60800000000000000
+      internalID: 7840206573820172894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30053fb9718358a10800000000000000
+      internalID: 1910995290940461059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77059eddb8977430800000000000000
+      internalID: 3780658353451370362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedd1b9da997abd50800000000000000
+      internalID: 6753844297179717103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e83aea3c5d5340800000000000000
+      internalID: 4854137381482718092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a7e0b414920b6e0800000000000000
+      internalID: -1823912488676197784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006571e5a91532c0800000000000000
+      internalID: -4452624456343003133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39be3abb8f2ac65e0800000000000000
+      internalID: -1914976552355632237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ec210b4627b590800000000000000
+      internalID: -7658610537736117079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83887a6889fbd50800000000000000
+      internalID: 6755285670182795485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e14957d77894f0800000000000000
+      internalID: -821775165195950251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eee05238a6a81730800000000000000
+      internalID: 3970106312855973609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94735bb20a9f71610800000000000000
+      internalID: 1592015459622139721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cceb6194ef4d2b0800000000000000
+      internalID: -5560540050028049374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee889d126e3d04c0800000000000000
+      internalID: -4319727876454183195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd448215bca9860800000000000000
+      internalID: 7537560475786337568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0964f1b7fa3a170800000000000000
+      internalID: 8188581490830250209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ee2d8c9070bec0800000000000000
+      internalID: -3553216288309451870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc8a359ac9d1650800000000000000
+      internalID: 6205288112653389047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c6aaa93d1f2940800000000000000
+      internalID: 5273465822187537172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd05e2166e05230800000000000000
+      internalID: 3625651005096517547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b543611d391a7c2f0800000000000000
+      internalID: -952615139925412773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be038ea9c97dcc680800000000000000
+      internalID: -8733368509764456213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69baa42a29b17d560800000000000000
+      internalID: 7338364434425490326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ac2582b9d64710800000000000000
+      internalID: 1677267272003790742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c269e100f6c4a0800000000000000
+      internalID: -6573302715099463031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b2a142ad9213f0800000000000000
+      internalID: -931508852700827544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d02bb6c46002040800000000000000
+      internalID: 4620700142976240921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356a28626f8d5cc0800000000000000
+      internalID: -3720660064320985801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b4812bf61ba800800000000000000
+      internalID: 624618241175893687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffda09eaa87e34b0800000000000000
+      internalID: -5458793022876884997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f28ba53986e0090800000000000000
+      internalID: -8066394900482478296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745fc58bfa15fe250800000000000000
+      internalID: 5976085045698164039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefa196ffeafef10800000000000000
+      internalID: 2301250346612883148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830f0b5ae96fc0b30800000000000000
+      internalID: 4255046909203378232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe5bcc6927b53c0800000000000000
+      internalID: -4369773021427798174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b17dea1705aa6450800000000000000
+      internalID: 6082855696652399025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f489a81935c750800000000000000
+      internalID: 6324524029797789869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a12f7a4a0c459e0800000000000000
+      internalID: -1633468951403816429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff6d0b151aa3a20800000000000000
+      internalID: 3042921870473494467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd865ef4cc6f45e70800000000000000
+      internalID: 9103172104196810972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0880e328d4ee650800000000000000
+      internalID: 6264029353500770466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerIdle_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136531093a5711af0800000000000000
+      internalID: -427431144266181071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BrainSlayerIdle_0: 8552259540091747972
+      BrainSlayerIdle_1: 415540437616685234
+      BrainSlayerIdle_10: -2350926928170405196
+      BrainSlayerIdle_11: -6386232238332081152
+      BrainSlayerIdle_12: 996075975469545643
+      BrainSlayerIdle_13: 2760522194166654247
+      BrainSlayerIdle_14: 2911239551460538950
+      BrainSlayerIdle_15: 5889796012122628753
+      BrainSlayerIdle_16: 6945750894295252305
+      BrainSlayerIdle_17: 2164473731979149518
+      BrainSlayerIdle_18: 2925482894301503669
+      BrainSlayerIdle_19: -4176678181879403375
+      BrainSlayerIdle_2: -9113675996179487140
+      BrainSlayerIdle_20: -8884445122602803245
+      BrainSlayerIdle_21: 7840206573820172894
+      BrainSlayerIdle_22: 1910995290940461059
+      BrainSlayerIdle_23: 3780658353451370362
+      BrainSlayerIdle_24: 6753844297179717103
+      BrainSlayerIdle_25: 4854137381482718092
+      BrainSlayerIdle_26: -1823912488676197784
+      BrainSlayerIdle_27: -4452624456343003133
+      BrainSlayerIdle_28: -1914976552355632237
+      BrainSlayerIdle_29: -7658610537736117079
+      BrainSlayerIdle_3: -8160812163375165956
+      BrainSlayerIdle_30: 6755285670182795485
+      BrainSlayerIdle_31: -821775165195950251
+      BrainSlayerIdle_32: 3970106312855973609
+      BrainSlayerIdle_33: 1592015459622139721
+      BrainSlayerIdle_34: -5560540050028049374
+      BrainSlayerIdle_35: -4319727876454183195
+      BrainSlayerIdle_36: 7537560475786337568
+      BrainSlayerIdle_37: 8188581490830250209
+      BrainSlayerIdle_38: -3553216288309451870
+      BrainSlayerIdle_39: 6205288112653389047
+      BrainSlayerIdle_4: -7329209960855251150
+      BrainSlayerIdle_40: 5273465822187537172
+      BrainSlayerIdle_41: 3625651005096517547
+      BrainSlayerIdle_42: -952615139925412773
+      BrainSlayerIdle_43: -8733368509764456213
+      BrainSlayerIdle_44: 7338364434425490326
+      BrainSlayerIdle_45: 1677267272003790742
+      BrainSlayerIdle_46: -6573302715099463031
+      BrainSlayerIdle_47: -931508852700827544
+      BrainSlayerIdle_48: 4620700142976240921
+      BrainSlayerIdle_49: -3720660064320985801
+      BrainSlayerIdle_5: -4468387049978851908
+      BrainSlayerIdle_50: 624618241175893687
+      BrainSlayerIdle_51: -5458793022876884997
+      BrainSlayerIdle_52: -8066394900482478296
+      BrainSlayerIdle_53: 5976085045698164039
+      BrainSlayerIdle_54: 2301250346612883148
+      BrainSlayerIdle_55: 4255046909203378232
+      BrainSlayerIdle_56: -4369773021427798174
+      BrainSlayerIdle_57: 6082855696652399025
+      BrainSlayerIdle_58: 6324524029797789869
+      BrainSlayerIdle_59: -1633468951403816429
+      BrainSlayerIdle_6: -2021930151450017992
+      BrainSlayerIdle_60: 3042921870473494467
+      BrainSlayerIdle_61: 9103172104196810972
+      BrainSlayerIdle_62: 6264029353500770466
+      BrainSlayerIdle_63: -427431144266181071
+      BrainSlayerIdle_7: 1850876589170743027
+      BrainSlayerIdle_8: 3242735270178943882
+      BrainSlayerIdle_9: -5114543896494285156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

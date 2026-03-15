@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 5d45b4ac54874114aa68faee4630b9ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6827693220266892828
+    second: Minifantasy_WerewolfTransformation_0
+  - first:
+      213: 8443599338076961763
+    second: Minifantasy_WerewolfTransformation_1
+  - first:
+      213: 1458368958428125641
+    second: Minifantasy_WerewolfTransformation_2
+  - first:
+      213: 5982825412110086974
+    second: Minifantasy_WerewolfTransformation_3
+  - first:
+      213: 4274313380030704278
+    second: Minifantasy_WerewolfTransformation_4
+  - first:
+      213: -7770139621653930591
+    second: Minifantasy_WerewolfTransformation_5
+  - first:
+      213: -6327753303539797521
+    second: Minifantasy_WerewolfTransformation_6
+  - first:
+      213: 7020011145649731880
+    second: Minifantasy_WerewolfTransformation_7
+  - first:
+      213: -2010738114206405668
+    second: Minifantasy_WerewolfTransformation_8
+  - first:
+      213: -7754960259996170990
+    second: Minifantasy_WerewolfTransformation_9
+  - first:
+      213: -5001527066725926094
+    second: Minifantasy_WerewolfTransformation_10
+  - first:
+      213: 8740386355180484096
+    second: Minifantasy_WerewolfTransformation_11
+  - first:
+      213: -1921359810014243632
+    second: Minifantasy_WerewolfTransformation_12
+  - first:
+      213: -5218583599855384675
+    second: Minifantasy_WerewolfTransformation_13
+  - first:
+      213: 548193324304930573
+    second: Minifantasy_WerewolfTransformation_14
+  - first:
+      213: -7542638626010983309
+    second: Minifantasy_WerewolfTransformation_15
+  - first:
+      213: -6110486859567082697
+    second: Minifantasy_WerewolfTransformation_16
+  - first:
+      213: 5601834358129014684
+    second: Minifantasy_WerewolfTransformation_17
+  - first:
+      213: 411872394575096990
+    second: Minifantasy_WerewolfTransformation_18
+  - first:
+      213: -5920921667929576634
+    second: Minifantasy_WerewolfTransformation_19
+  - first:
+      213: -4846178568385866568
+    second: Minifantasy_WerewolfTransformation_20
+  - first:
+      213: -7972697023199773190
+    second: Minifantasy_WerewolfTransformation_21
+  - first:
+      213: -5741256244350453359
+    second: Minifantasy_WerewolfTransformation_22
+  - first:
+      213: 2305600501457660176
+    second: Minifantasy_WerewolfTransformation_23
+  - first:
+      213: -1926695608913477926
+    second: Minifantasy_WerewolfTransformation_24
+  - first:
+      213: -7128294872500179086
+    second: Minifantasy_WerewolfTransformation_25
+  - first:
+      213: 4835235410220161263
+    second: Minifantasy_WerewolfTransformation_26
+  - first:
+      213: 7600279455951780759
+    second: Minifantasy_WerewolfTransformation_27
+  - first:
+      213: 8222539969861262817
+    second: Minifantasy_WerewolfTransformation_28
+  - first:
+      213: -406036130371479628
+    second: Minifantasy_WerewolfTransformation_29
+  - first:
+      213: 1332946756141571143
+    second: Minifantasy_WerewolfTransformation_30
+  - first:
+      213: 2063112687324193587
+    second: Minifantasy_WerewolfTransformation_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed9552fc6d0ce50800000000000000
+      internalID: 6827693220266892828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfcc3acd0bd2570800000000000000
+      internalID: 8443599338076961763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9909647da2d3410800000000000000
+      internalID: 1458368958428125641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3370029304470350800000000000000
+      internalID: 5982825412110086974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aed637f59615b30800000000000000
+      internalID: 4274313380030704278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad112c9e2bea2490800000000000000
+      internalID: -7770139621653930591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b43475ed4f28a0800000000000000
+      internalID: -6327753303539797521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293cbf71f61c6160800000000000000
+      internalID: 7020011145649731880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6366a65c6814e0800000000000000
+      internalID: -2010738114206405668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21548a72bb8d06490800000000000000
+      internalID: -7754960259996170990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bbc4dc1a1079ab0800000000000000
+      internalID: -5001527066725926094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006343cd4171c4970800000000000000
+      internalID: 8740386355180484096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4936ebe65f555e0800000000000000
+      internalID: -1921359810014243632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97c0fb7dddd397b0800000000000000
+      internalID: -5218583599855384675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079f6b8ce29b9700800000000000000
+      internalID: 548193324304930573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374997bd12a235790800000000000000
+      internalID: -7542638626010983309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733dfc27390333ba0800000000000000
+      internalID: -6110486859567082697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97bbde3ba6bdbd40800000000000000
+      internalID: 5601834358129014684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c207bb2c347b500800000000000000
+      internalID: 411872394575096990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be4280d19a4dda0800000000000000
+      internalID: -5920921667929576634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4df39a44aeebcb0800000000000000
+      internalID: -4846178568385866568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdfc5e6c4a4b5190800000000000000
+      internalID: -7972697023199773190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997ffe3dd5f250b0800000000000000
+      internalID: -5741256244350453359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a853c0732fff10800000000000000
+      internalID: 2305600501457660176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade38604d800345e0800000000000000
+      internalID: -1926695608913477926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f636ea495331d90800000000000000
+      internalID: -7128294872500179086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe81097ccf43a1340800000000000000
+      internalID: 4835235410220161263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b74bda5ed997960800000000000000
+      internalID: 7600279455951780759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1807a9845c1270800000000000000
+      internalID: 8222539969861262817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7db3b6a487d5af0800000000000000
+      internalID: -406036130371479628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd35033049f7210800000000000000
+      internalID: 1332946756141571143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfTransformation_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336f8bee06a1ac10800000000000000
+      internalID: 2063112687324193587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_WerewolfTransformation_0: 6827693220266892828
+      Minifantasy_WerewolfTransformation_1: 8443599338076961763
+      Minifantasy_WerewolfTransformation_10: -5001527066725926094
+      Minifantasy_WerewolfTransformation_11: 8740386355180484096
+      Minifantasy_WerewolfTransformation_12: -1921359810014243632
+      Minifantasy_WerewolfTransformation_13: -5218583599855384675
+      Minifantasy_WerewolfTransformation_14: 548193324304930573
+      Minifantasy_WerewolfTransformation_15: -7542638626010983309
+      Minifantasy_WerewolfTransformation_16: -6110486859567082697
+      Minifantasy_WerewolfTransformation_17: 5601834358129014684
+      Minifantasy_WerewolfTransformation_18: 411872394575096990
+      Minifantasy_WerewolfTransformation_19: -5920921667929576634
+      Minifantasy_WerewolfTransformation_2: 1458368958428125641
+      Minifantasy_WerewolfTransformation_20: -4846178568385866568
+      Minifantasy_WerewolfTransformation_21: -7972697023199773190
+      Minifantasy_WerewolfTransformation_22: -5741256244350453359
+      Minifantasy_WerewolfTransformation_23: 2305600501457660176
+      Minifantasy_WerewolfTransformation_24: -1926695608913477926
+      Minifantasy_WerewolfTransformation_25: -7128294872500179086
+      Minifantasy_WerewolfTransformation_26: 4835235410220161263
+      Minifantasy_WerewolfTransformation_27: 7600279455951780759
+      Minifantasy_WerewolfTransformation_28: 8222539969861262817
+      Minifantasy_WerewolfTransformation_29: -406036130371479628
+      Minifantasy_WerewolfTransformation_3: 5982825412110086974
+      Minifantasy_WerewolfTransformation_30: 1332946756141571143
+      Minifantasy_WerewolfTransformation_31: 2063112687324193587
+      Minifantasy_WerewolfTransformation_4: 4274313380030704278
+      Minifantasy_WerewolfTransformation_5: -7770139621653930591
+      Minifantasy_WerewolfTransformation_6: -6327753303539797521
+      Minifantasy_WerewolfTransformation_7: 7020011145649731880
+      Minifantasy_WerewolfTransformation_8: -2010738114206405668
+      Minifantasy_WerewolfTransformation_9: -7754960259996170990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

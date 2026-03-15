@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 85ebeeddafb06204d8aac15d148e7d8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2948223773990326379
+    second: AngelOfDeathFly_0
+  - first:
+      213: -5834671741678092772
+    second: AngelOfDeathFly_1
+  - first:
+      213: -5785615147865943315
+    second: AngelOfDeathFly_2
+  - first:
+      213: 5687554112334513076
+    second: AngelOfDeathFly_3
+  - first:
+      213: 8340592536988245958
+    second: AngelOfDeathFly_4
+  - first:
+      213: 8050083623272346715
+    second: AngelOfDeathFly_5
+  - first:
+      213: 39796054026948839
+    second: AngelOfDeathFly_6
+  - first:
+      213: -3238873239937587941
+    second: AngelOfDeathFly_7
+  - first:
+      213: 6434595279391455440
+    second: AngelOfDeathFly_8
+  - first:
+      213: -2590866355044501015
+    second: AngelOfDeathFly_9
+  - first:
+      213: -2382511607873061075
+    second: AngelOfDeathFly_10
+  - first:
+      213: 6865982593422951274
+    second: AngelOfDeathFly_11
+  - first:
+      213: 7874476697820398330
+    second: AngelOfDeathFly_12
+  - first:
+      213: 309559571448165331
+    second: AngelOfDeathFly_13
+  - first:
+      213: 1418229072368421935
+    second: AngelOfDeathFly_14
+  - first:
+      213: 788212434164919675
+    second: AngelOfDeathFly_15
+  - first:
+      213: 5058185713799838817
+    second: AngelOfDeathFly_16
+  - first:
+      213: 5702653348560319524
+    second: AngelOfDeathFly_17
+  - first:
+      213: -4829809956727930442
+    second: AngelOfDeathFly_18
+  - first:
+      213: -3790749559797355113
+    second: AngelOfDeathFly_19
+  - first:
+      213: -6240853288129186373
+    second: AngelOfDeathFly_20
+  - first:
+      213: -1160846252268512490
+    second: AngelOfDeathFly_21
+  - first:
+      213: 1697989408513513346
+    second: AngelOfDeathFly_22
+  - first:
+      213: -7264438312017732879
+    second: AngelOfDeathFly_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngelOfDeathFly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601e0fe6e13ae820800000000000000
+      internalID: 2948223773990326379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e7440e6f4170fa0800000000000000
+      internalID: -5834671741678092772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d4503dad55bfa0800000000000000
+      internalID: -5785615147865943315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c28ac4504eee40800000000000000
+      internalID: 5687554112334513076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5577d8bcbfb370800000000000000
+      internalID: 8340592536988245958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5476597764a7bf60800000000000000
+      internalID: 8050083623272346715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01dbfdc426d8000800000000000000
+      internalID: 39796054026948839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156005d2f53d03d0800000000000000
+      internalID: -3238873239937587941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 76
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8788d80564c4950800000000000000
+      internalID: 6434595279391455440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 76
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bf0fe6c46b0cd0800000000000000
+      internalID: -2590866355044501015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 76
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3b73d05e9feed0800000000000000
+      internalID: -2382511607873061075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 76
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a638dfa8aced84f50800000000000000
+      internalID: 6865982593422951274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af20dadf5d2c74d60800000000000000
+      internalID: 7874476697820398330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37df44ac6cb4400800000000000000
+      internalID: 309559571448165331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cc6a4c3df8ea310800000000000000
+      internalID: 1418229072368421935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d22f1680b40fa00800000000000000
+      internalID: 788212434164919675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cbef67b19423640800000000000000
+      internalID: 5058185713799838817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424312ea105e32f40800000000000000
+      internalID: 5702653348560319524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1469c0f6119fcb0800000000000000
+      internalID: -4829809956727930442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d6fcf0c5d846bc0800000000000000
+      internalID: -3790749559797355113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53bb9fff80469a0800000000000000
+      internalID: -6240853288129186373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b11b6eb78d3efe0800000000000000
+      internalID: -1160846252268512490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287d2d6ee58709710800000000000000
+      internalID: 1697989408513513346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathFly_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad17708d78f2b90800000000000000
+      internalID: -7264438312017732879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AngelOfDeathFly_0: 2948223773990326379
+      AngelOfDeathFly_1: -5834671741678092772
+      AngelOfDeathFly_10: -2382511607873061075
+      AngelOfDeathFly_11: 6865982593422951274
+      AngelOfDeathFly_12: 7874476697820398330
+      AngelOfDeathFly_13: 309559571448165331
+      AngelOfDeathFly_14: 1418229072368421935
+      AngelOfDeathFly_15: 788212434164919675
+      AngelOfDeathFly_16: 5058185713799838817
+      AngelOfDeathFly_17: 5702653348560319524
+      AngelOfDeathFly_18: -4829809956727930442
+      AngelOfDeathFly_19: -3790749559797355113
+      AngelOfDeathFly_2: -5785615147865943315
+      AngelOfDeathFly_20: -6240853288129186373
+      AngelOfDeathFly_21: -1160846252268512490
+      AngelOfDeathFly_22: 1697989408513513346
+      AngelOfDeathFly_23: -7264438312017732879
+      AngelOfDeathFly_3: 5687554112334513076
+      AngelOfDeathFly_4: 8340592536988245958
+      AngelOfDeathFly_5: 8050083623272346715
+      AngelOfDeathFly_6: 39796054026948839
+      AngelOfDeathFly_7: -3238873239937587941
+      AngelOfDeathFly_8: 6434595279391455440
+      AngelOfDeathFly_9: -2590866355044501015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

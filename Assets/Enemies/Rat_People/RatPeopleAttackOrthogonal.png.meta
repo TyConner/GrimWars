@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 316b23dde3e7f384f88936213327bdb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9018706244317955188
+    second: RatPeopleAttackOrthogonal_0
+  - first:
+      213: 7082715218118322393
+    second: RatPeopleAttackOrthogonal_1
+  - first:
+      213: 683641892657054826
+    second: RatPeopleAttackOrthogonal_2
+  - first:
+      213: -2181533520041206174
+    second: RatPeopleAttackOrthogonal_3
+  - first:
+      213: 6145456390776877589
+    second: RatPeopleAttackOrthogonal_4
+  - first:
+      213: 5842961332095980046
+    second: RatPeopleAttackOrthogonal_5
+  - first:
+      213: 8922652259467365216
+    second: RatPeopleAttackOrthogonal_6
+  - first:
+      213: -1007306932316153873
+    second: RatPeopleAttackOrthogonal_7
+  - first:
+      213: 3661475301166350031
+    second: RatPeopleAttackOrthogonal_8
+  - first:
+      213: -40187268730164556
+    second: RatPeopleAttackOrthogonal_9
+  - first:
+      213: 2556089717699354003
+    second: RatPeopleAttackOrthogonal_10
+  - first:
+      213: 11474266581470233
+    second: RatPeopleAttackOrthogonal_11
+  - first:
+      213: 6549705600197762938
+    second: RatPeopleAttackOrthogonal_12
+  - first:
+      213: 524641174499377573
+    second: RatPeopleAttackOrthogonal_13
+  - first:
+      213: 6335379716084669592
+    second: RatPeopleAttackOrthogonal_14
+  - first:
+      213: 3448942868441848343
+    second: RatPeopleAttackOrthogonal_15
+  - first:
+      213: -5484599867457008355
+    second: RatPeopleAttackOrthogonal_16
+  - first:
+      213: -2570474387339569352
+    second: RatPeopleAttackOrthogonal_17
+  - first:
+      213: -8021526594434499954
+    second: RatPeopleAttackOrthogonal_18
+  - first:
+      213: 2308605522858421942
+    second: RatPeopleAttackOrthogonal_19
+  - first:
+      213: -2987384645221183835
+    second: RatPeopleAttackOrthogonal_20
+  - first:
+      213: 3635154042667939839
+    second: RatPeopleAttackOrthogonal_21
+  - first:
+      213: 4612361639210536926
+    second: RatPeopleAttackOrthogonal_22
+  - first:
+      213: -3663234686773530265
+    second: RatPeopleAttackOrthogonal_23
+  - first:
+      213: -4605279979038495851
+    second: RatPeopleAttackOrthogonal_24
+  - first:
+      213: -6969223250693926238
+    second: RatPeopleAttackOrthogonal_25
+  - first:
+      213: -3886755201190297403
+    second: RatPeopleAttackOrthogonal_26
+  - first:
+      213: 3291674004774232272
+    second: RatPeopleAttackOrthogonal_27
+  - first:
+      213: 2827710206817770110
+    second: RatPeopleAttackOrthogonal_28
+  - first:
+      213: 4038292751150770436
+    second: RatPeopleAttackOrthogonal_29
+  - first:
+      213: -7938197802104244652
+    second: RatPeopleAttackOrthogonal_30
+  - first:
+      213: 8572796120448958915
+    second: RatPeopleAttackOrthogonal_31
+  - first:
+      213: -3193087212159169232
+    second: RatPeopleAttackOrthogonal_32
+  - first:
+      213: 3133143057364916671
+    second: RatPeopleAttackOrthogonal_33
+  - first:
+      213: -1130193427700727547
+    second: RatPeopleAttackOrthogonal_34
+  - first:
+      213: 652272808813398150
+    second: RatPeopleAttackOrthogonal_35
+  - first:
+      213: 6522940265253146494
+    second: RatPeopleAttackOrthogonal_36
+  - first:
+      213: 7665080066364224587
+    second: RatPeopleAttackOrthogonal_37
+  - first:
+      213: 8789640056686326654
+    second: RatPeopleAttackOrthogonal_38
+  - first:
+      213: -1177344676438873901
+    second: RatPeopleAttackOrthogonal_39
+  - first:
+      213: -491666650786933199
+    second: RatPeopleAttackOrthogonal_40
+  - first:
+      213: -5964279135353525596
+    second: RatPeopleAttackOrthogonal_41
+  - first:
+      213: -9109008559555192839
+    second: RatPeopleAttackOrthogonal_42
+  - first:
+      213: -385264453974776925
+    second: RatPeopleAttackOrthogonal_43
+  - first:
+      213: -2970542404070206166
+    second: RatPeopleAttackOrthogonal_44
+  - first:
+      213: 3868668543273930869
+    second: RatPeopleAttackOrthogonal_45
+  - first:
+      213: -8002804224434970110
+    second: RatPeopleAttackOrthogonal_46
+  - first:
+      213: 7382026763912390552
+    second: RatPeopleAttackOrthogonal_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744b2acb81e82d70800000000000000
+      internalID: 9018706244317955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8223d07fbda4260800000000000000
+      internalID: 7082715218118322393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a644665eda8cc7900800000000000000
+      internalID: 683641892657054826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e165062d2a9b1e0800000000000000
+      internalID: -2181533520041206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512f8e2070c094550800000000000000
+      internalID: 6145456390776877589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e029cebcf5e561150800000000000000
+      internalID: 5842961332095980046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b83eba4f0a3db70800000000000000
+      internalID: 8922652259467365216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d1879ea35502f0800000000000000
+      internalID: -1007306932316153873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef2e7136c20d230800000000000000
+      internalID: 3661475301166350031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 108
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba68da54e9317ff0800000000000000
+      internalID: -40187268730164556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d9f753e0e097320800000000000000
+      internalID: 2556089717699354003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c85afd8c3c82000800000000000000
+      internalID: 11474266581470233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f9c23aa8a35ea50800000000000000
+      internalID: 6549705600197762938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a144985e56e74700800000000000000
+      internalID: 524641174499377573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1176194acbe750800000000000000
+      internalID: 6335379716084669592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad71cf34b1ddf20800000000000000
+      internalID: 3448942868441848343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d021daa79c2e3b0800000000000000
+      internalID: -5484599867457008355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8379266e927d35cd0800000000000000
+      internalID: -2570474387339569352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8af16eef00dda090800000000000000
+      internalID: -8021526594434499954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2b74dd70d90020800000000000000
+      internalID: 2308605522858421942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae82263e7daa86d0800000000000000
+      internalID: -2987384645221183835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 76
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff73c098759a27230800000000000000
+      internalID: 3635154042667939839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf48c83976620040800000000000000
+      internalID: 4612361639210536926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76179f50673992dc0800000000000000
+      internalID: -3663234686773530265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b21364242c610c0800000000000000
+      internalID: -4605279979038495851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2def5c068584f90800000000000000
+      internalID: -6969223250693926238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c08628ccb87f0ac0800000000000000
+      internalID: -3886755201190297403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a4fa31106ead20800000000000000
+      internalID: 3291674004774232272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a9e15837b0e3720800000000000000
+      internalID: 2827710206817770110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40960638cd5ea0830800000000000000
+      internalID: 4038292751150770436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4563ac8482bd5d190800000000000000
+      internalID: -7938197802104244652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10533a6a0b8f670800000000000000
+      internalID: 8572796120448958915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 38
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d09662910efa3d0800000000000000
+      internalID: -3193087212159169232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb997b4b2092b7b20800000000000000
+      internalID: 3133143057364916671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501ca66c01fb050f0800000000000000
+      internalID: -1130193427700727547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68808f9e9a65d0900800000000000000
+      internalID: 652272808813398150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f81897c93268a50800000000000000
+      internalID: 6522940265253146494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44319285b5df5a60800000000000000
+      internalID: 7665080066364224587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733552ef031bf970800000000000000
+      internalID: 8789640056686326654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8e9ae214b39afe0800000000000000
+      internalID: -1177344676438873901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13650fb39cf3d29f0800000000000000
+      internalID: -491666650786933199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaaafbf9bf9a3da0800000000000000
+      internalID: -5964279135353525596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f758b70afc469180800000000000000
+      internalID: -9109008559555192839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3af34350447aaf0800000000000000
+      internalID: -385264453974776925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25192f0c6386c6d0800000000000000
+      internalID: -2970542404070206166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57012930b8540b530800000000000000
+      internalID: 3868668543273930869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ee8365f350f090800000000000000
+      internalID: -8002804224434970110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatPeopleAttackOrthogonal_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ac69ea3a327660800000000000000
+      internalID: 7382026763912390552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RatPeopleAttackOrthogonal_0: 9018706244317955188
+      RatPeopleAttackOrthogonal_1: 7082715218118322393
+      RatPeopleAttackOrthogonal_10: 2556089717699354003
+      RatPeopleAttackOrthogonal_11: 11474266581470233
+      RatPeopleAttackOrthogonal_12: 6549705600197762938
+      RatPeopleAttackOrthogonal_13: 524641174499377573
+      RatPeopleAttackOrthogonal_14: 6335379716084669592
+      RatPeopleAttackOrthogonal_15: 3448942868441848343
+      RatPeopleAttackOrthogonal_16: -5484599867457008355
+      RatPeopleAttackOrthogonal_17: -2570474387339569352
+      RatPeopleAttackOrthogonal_18: -8021526594434499954
+      RatPeopleAttackOrthogonal_19: 2308605522858421942
+      RatPeopleAttackOrthogonal_2: 683641892657054826
+      RatPeopleAttackOrthogonal_20: -2987384645221183835
+      RatPeopleAttackOrthogonal_21: 3635154042667939839
+      RatPeopleAttackOrthogonal_22: 4612361639210536926
+      RatPeopleAttackOrthogonal_23: -3663234686773530265
+      RatPeopleAttackOrthogonal_24: -4605279979038495851
+      RatPeopleAttackOrthogonal_25: -6969223250693926238
+      RatPeopleAttackOrthogonal_26: -3886755201190297403
+      RatPeopleAttackOrthogonal_27: 3291674004774232272
+      RatPeopleAttackOrthogonal_28: 2827710206817770110
+      RatPeopleAttackOrthogonal_29: 4038292751150770436
+      RatPeopleAttackOrthogonal_3: -2181533520041206174
+      RatPeopleAttackOrthogonal_30: -7938197802104244652
+      RatPeopleAttackOrthogonal_31: 8572796120448958915
+      RatPeopleAttackOrthogonal_32: -3193087212159169232
+      RatPeopleAttackOrthogonal_33: 3133143057364916671
+      RatPeopleAttackOrthogonal_34: -1130193427700727547
+      RatPeopleAttackOrthogonal_35: 652272808813398150
+      RatPeopleAttackOrthogonal_36: 6522940265253146494
+      RatPeopleAttackOrthogonal_37: 7665080066364224587
+      RatPeopleAttackOrthogonal_38: 8789640056686326654
+      RatPeopleAttackOrthogonal_39: -1177344676438873901
+      RatPeopleAttackOrthogonal_4: 6145456390776877589
+      RatPeopleAttackOrthogonal_40: -491666650786933199
+      RatPeopleAttackOrthogonal_41: -5964279135353525596
+      RatPeopleAttackOrthogonal_42: -9109008559555192839
+      RatPeopleAttackOrthogonal_43: -385264453974776925
+      RatPeopleAttackOrthogonal_44: -2970542404070206166
+      RatPeopleAttackOrthogonal_45: 3868668543273930869
+      RatPeopleAttackOrthogonal_46: -8002804224434970110
+      RatPeopleAttackOrthogonal_47: 7382026763912390552
+      RatPeopleAttackOrthogonal_5: 5842961332095980046
+      RatPeopleAttackOrthogonal_6: 8922652259467365216
+      RatPeopleAttackOrthogonal_7: -1007306932316153873
+      RatPeopleAttackOrthogonal_8: 3661475301166350031
+      RatPeopleAttackOrthogonal_9: -40187268730164556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

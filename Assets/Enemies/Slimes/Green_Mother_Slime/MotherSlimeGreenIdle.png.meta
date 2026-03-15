@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 345d259af6d69f141880b4fd5a0af5d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8910283570343621005
+    second: MotherSlimeGreenIdle_0
+  - first:
+      213: -1398746078757307081
+    second: MotherSlimeGreenIdle_1
+  - first:
+      213: 4203873294006186782
+    second: MotherSlimeGreenIdle_2
+  - first:
+      213: 1587737276756804678
+    second: MotherSlimeGreenIdle_3
+  - first:
+      213: -5238477385673857307
+    second: MotherSlimeGreenIdle_4
+  - first:
+      213: 262820975705515397
+    second: MotherSlimeGreenIdle_5
+  - first:
+      213: -6376123966709011937
+    second: MotherSlimeGreenIdle_6
+  - first:
+      213: -3829029977121593089
+    second: MotherSlimeGreenIdle_7
+  - first:
+      213: 2836313511367181231
+    second: MotherSlimeGreenIdle_8
+  - first:
+      213: -4131717775563516067
+    second: MotherSlimeGreenIdle_9
+  - first:
+      213: 5787292468076494854
+    second: MotherSlimeGreenIdle_10
+  - first:
+      213: 4735232821280317078
+    second: MotherSlimeGreenIdle_11
+  - first:
+      213: -7095978850493672580
+    second: MotherSlimeGreenIdle_12
+  - first:
+      213: 4025341183712411983
+    second: MotherSlimeGreenIdle_13
+  - first:
+      213: 7547323606996794351
+    second: MotherSlimeGreenIdle_14
+  - first:
+      213: 3084529074703064765
+    second: MotherSlimeGreenIdle_15
+  - first:
+      213: -8175684826433798944
+    second: MotherSlimeGreenIdle_16
+  - first:
+      213: -4440065673113186957
+    second: MotherSlimeGreenIdle_17
+  - first:
+      213: -2695661301381214161
+    second: MotherSlimeGreenIdle_18
+  - first:
+      213: -7054000570914340986
+    second: MotherSlimeGreenIdle_19
+  - first:
+      213: 8294563852008375851
+    second: MotherSlimeGreenIdle_20
+  - first:
+      213: -2025181369019538398
+    second: MotherSlimeGreenIdle_21
+  - first:
+      213: 354930244377214088
+    second: MotherSlimeGreenIdle_22
+  - first:
+      213: -1807348468991227105
+    second: MotherSlimeGreenIdle_23
+  - first:
+      213: -5751468290782489568
+    second: MotherSlimeGreenIdle_24
+  - first:
+      213: 720025896584824599
+    second: MotherSlimeGreenIdle_25
+  - first:
+      213: 6703315118084196830
+    second: MotherSlimeGreenIdle_26
+  - first:
+      213: 4736865733029048646
+    second: MotherSlimeGreenIdle_27
+  - first:
+      213: 8662728769444983225
+    second: MotherSlimeGreenIdle_28
+  - first:
+      213: -5388497512563070225
+    second: MotherSlimeGreenIdle_29
+  - first:
+      213: 44441332377541666
+    second: MotherSlimeGreenIdle_30
+  - first:
+      213: 947685241234720090
+    second: MotherSlimeGreenIdle_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e4bad2d40585480800000000000000
+      internalID: -8910283570343621005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d33bc2ad7a69ce0800000000000000
+      internalID: -1398746078757307081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137df1ec78275a30800000000000000
+      internalID: 4203873294006186782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444cb914a6c80610800000000000000
+      internalID: 1587737276756804678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e62ef682903d47b0800000000000000
+      internalID: -5238477385673857307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 108
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585e270f84ab5a300800000000000000
+      internalID: 262820975705515397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6470d8057387a0800000000000000
+      internalID: -6376123966709011937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 108
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8685bd58d8cdac0800000000000000
+      internalID: -3829029977121593089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa38ea47c1c9c5720800000000000000
+      internalID: 2836313511367181231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 76
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579e5be29039a6c0800000000000000
+      internalID: -4131717775563516067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004efa56d7905050800000000000000
+      internalID: 5787292468076494854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e1f21a92de6b140800000000000000
+      internalID: 4735232821280317078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73d3a2e4d4068d90800000000000000
+      internalID: -7095978850493672580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41cdeaba72ecd730800000000000000
+      internalID: 4025341183712411983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febb6f745da7db860800000000000000
+      internalID: 7547323606996794351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5a05d9d27eca20800000000000000
+      internalID: 3084529074703064765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbcdc87f12a8e80800000000000000
+      internalID: -8175684826433798944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dcea67bc7b162c0800000000000000
+      internalID: -4440065673113186957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20d7602456179ad0800000000000000
+      internalID: -2695661301381214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7f3dbad72b1e90800000000000000
+      internalID: -7054000570914340986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2641cd70e53c1370800000000000000
+      internalID: 8294563852008375851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 44
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e9d5564c15e3e0800000000000000
+      internalID: -2025181369019538398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c75204d27fce400800000000000000
+      internalID: 354930244377214088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 44
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b8e68a4220be6e0800000000000000
+      internalID: -1807348468991227105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249cf6ef0eae20b0800000000000000
+      internalID: -5751468290782489568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174503fcbb0ef900800000000000000
+      internalID: 720025896584824599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90aee8595f60d50800000000000000
+      internalID: 6703315118084196830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641bae5894abcb140800000000000000
+      internalID: 4736865733029048646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b133503be1383870800000000000000
+      internalID: 8662728769444983225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2a92df063835b0800000000000000
+      internalID: -5388497512563070225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c55b50823ed9000800000000000000
+      internalID: 44441332377541666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenIdle_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550da2b4bad62d00800000000000000
+      internalID: 947685241234720090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MotherSlimeGreenIdle_0: -8910283570343621005
+      MotherSlimeGreenIdle_1: -1398746078757307081
+      MotherSlimeGreenIdle_10: 5787292468076494854
+      MotherSlimeGreenIdle_11: 4735232821280317078
+      MotherSlimeGreenIdle_12: -7095978850493672580
+      MotherSlimeGreenIdle_13: 4025341183712411983
+      MotherSlimeGreenIdle_14: 7547323606996794351
+      MotherSlimeGreenIdle_15: 3084529074703064765
+      MotherSlimeGreenIdle_16: -8175684826433798944
+      MotherSlimeGreenIdle_17: -4440065673113186957
+      MotherSlimeGreenIdle_18: -2695661301381214161
+      MotherSlimeGreenIdle_19: -7054000570914340986
+      MotherSlimeGreenIdle_2: 4203873294006186782
+      MotherSlimeGreenIdle_20: 8294563852008375851
+      MotherSlimeGreenIdle_21: -2025181369019538398
+      MotherSlimeGreenIdle_22: 354930244377214088
+      MotherSlimeGreenIdle_23: -1807348468991227105
+      MotherSlimeGreenIdle_24: -5751468290782489568
+      MotherSlimeGreenIdle_25: 720025896584824599
+      MotherSlimeGreenIdle_26: 6703315118084196830
+      MotherSlimeGreenIdle_27: 4736865733029048646
+      MotherSlimeGreenIdle_28: 8662728769444983225
+      MotherSlimeGreenIdle_29: -5388497512563070225
+      MotherSlimeGreenIdle_3: 1587737276756804678
+      MotherSlimeGreenIdle_30: 44441332377541666
+      MotherSlimeGreenIdle_31: 947685241234720090
+      MotherSlimeGreenIdle_4: -5238477385673857307
+      MotherSlimeGreenIdle_5: 262820975705515397
+      MotherSlimeGreenIdle_6: -6376123966709011937
+      MotherSlimeGreenIdle_7: -3829029977121593089
+      MotherSlimeGreenIdle_8: 2836313511367181231
+      MotherSlimeGreenIdle_9: -4131717775563516067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

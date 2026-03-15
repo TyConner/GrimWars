@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: a48d0c9e6e6c54b4f86a8eab3fe0a357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2745329568804999439
+    second: BrainSlayerOrthogonalAttack_0
+  - first:
+      213: 8053169853515760116
+    second: BrainSlayerOrthogonalAttack_1
+  - first:
+      213: -7477941256234751140
+    second: BrainSlayerOrthogonalAttack_2
+  - first:
+      213: -5610056715388708691
+    second: BrainSlayerOrthogonalAttack_3
+  - first:
+      213: 8620555052526782031
+    second: BrainSlayerOrthogonalAttack_4
+  - first:
+      213: -8786251108291922793
+    second: BrainSlayerOrthogonalAttack_5
+  - first:
+      213: 4816902287695903073
+    second: BrainSlayerOrthogonalAttack_6
+  - first:
+      213: -7918560829897374805
+    second: BrainSlayerOrthogonalAttack_7
+  - first:
+      213: -9071996828547789721
+    second: BrainSlayerOrthogonalAttack_8
+  - first:
+      213: 3008902348859445255
+    second: BrainSlayerOrthogonalAttack_9
+  - first:
+      213: 1314067419999556516
+    second: BrainSlayerOrthogonalAttack_10
+  - first:
+      213: -636505605745452548
+    second: BrainSlayerOrthogonalAttack_11
+  - first:
+      213: 1423750621085065797
+    second: BrainSlayerOrthogonalAttack_12
+  - first:
+      213: 3461428271098368983
+    second: BrainSlayerOrthogonalAttack_13
+  - first:
+      213: 1800940393633079340
+    second: BrainSlayerOrthogonalAttack_14
+  - first:
+      213: 2024021488234259150
+    second: BrainSlayerOrthogonalAttack_15
+  - first:
+      213: 8969796431087747171
+    second: BrainSlayerOrthogonalAttack_16
+  - first:
+      213: -6956304847708206974
+    second: BrainSlayerOrthogonalAttack_17
+  - first:
+      213: 1587611546984677885
+    second: BrainSlayerOrthogonalAttack_18
+  - first:
+      213: -8003495212088805281
+    second: BrainSlayerOrthogonalAttack_19
+  - first:
+      213: 8036966873450475996
+    second: BrainSlayerOrthogonalAttack_20
+  - first:
+      213: 3796714808063948858
+    second: BrainSlayerOrthogonalAttack_21
+  - first:
+      213: 5494204366575460530
+    second: BrainSlayerOrthogonalAttack_22
+  - first:
+      213: 6175823668460984409
+    second: BrainSlayerOrthogonalAttack_23
+  - first:
+      213: -5426748322700230790
+    second: BrainSlayerOrthogonalAttack_24
+  - first:
+      213: 284087454122268447
+    second: BrainSlayerOrthogonalAttack_25
+  - first:
+      213: 5171402318799247456
+    second: BrainSlayerOrthogonalAttack_26
+  - first:
+      213: 4834862688934486124
+    second: BrainSlayerOrthogonalAttack_27
+  - first:
+      213: 5015933758904584081
+    second: BrainSlayerOrthogonalAttack_28
+  - first:
+      213: 8906026155825640999
+    second: BrainSlayerOrthogonalAttack_29
+  - first:
+      213: -3592615701245141158
+    second: BrainSlayerOrthogonalAttack_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe60047d41a6e9d0800000000000000
+      internalID: -2745329568804999439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f101b2705b92cf60800000000000000
+      internalID: 8053169853515760116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba3ea1c04093890800000000000000
+      internalID: -7477941256234751140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8167504231522b0800000000000000
+      internalID: -5610056715388708691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ce88852d52a770800000000000000
+      internalID: 8620555052526782031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b0e62b27f01680800000000000000
+      internalID: -8786251108291922793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16971ef0c1319d240800000000000000
+      internalID: 4816902287695903073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 104
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba305a921ee9b1290800000000000000
+      internalID: -7918560829897374805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c40fe23fac91280800000000000000
+      internalID: -9071996828547789721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7001b939eb4c1c920800000000000000
+      internalID: 3008902348859445255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3dcf33b518c3210800000000000000
+      internalID: 1314067419999556516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf95fff168daa27f0800000000000000
+      internalID: -636505605745452548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 72
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542648285ad22c310800000000000000
+      internalID: 1423750621085065797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 72
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d310525ca6790030800000000000000
+      internalID: 3461428271098368983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e6280fb93ef810800000000000000
+      internalID: 1800940393633079340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 72
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2e5ffd1d4c61c10800000000000000
+      internalID: 2024021488234259150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604d8e745e1b7c70800000000000000
+      internalID: 8969796431087747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288460bd89d367f90800000000000000
+      internalID: -6956304847708206974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1845b5a44580610800000000000000
+      internalID: 1587611546984677885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5838e9428fdde090800000000000000
+      internalID: -8003495212088805281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f89b2aca098f60800000000000000
+      internalID: 8036966873450475996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38fd188004a0b430800000000000000
+      internalID: 3796714808063948858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 40
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0612903c55f3c40800000000000000
+      internalID: 5494204366575460530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 40
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581112d7eee4b550800000000000000
+      internalID: 6175823668460984409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f7104172150b4b0800000000000000
+      internalID: -5426748322700230790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175a1cc80841f300800000000000000
+      internalID: 284087454122268447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06819aa720384c740800000000000000
+      internalID: 5171402318799247456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60eab7dff1e81340800000000000000
+      internalID: 4834862688934486124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197c56c9d2d2c9540800000000000000
+      internalID: 5015933758904584081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72633524a9f889b70800000000000000
+      internalID: 8906026155825640999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerOrthogonalAttack_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 8
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fdac0ed07742ec0800000000000000
+      internalID: -3592615701245141158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BrainSlayerOrthogonalAttack_0: -2745329568804999439
+      BrainSlayerOrthogonalAttack_1: 8053169853515760116
+      BrainSlayerOrthogonalAttack_10: 1314067419999556516
+      BrainSlayerOrthogonalAttack_11: -636505605745452548
+      BrainSlayerOrthogonalAttack_12: 1423750621085065797
+      BrainSlayerOrthogonalAttack_13: 3461428271098368983
+      BrainSlayerOrthogonalAttack_14: 1800940393633079340
+      BrainSlayerOrthogonalAttack_15: 2024021488234259150
+      BrainSlayerOrthogonalAttack_16: 8969796431087747171
+      BrainSlayerOrthogonalAttack_17: -6956304847708206974
+      BrainSlayerOrthogonalAttack_18: 1587611546984677885
+      BrainSlayerOrthogonalAttack_19: -8003495212088805281
+      BrainSlayerOrthogonalAttack_2: -7477941256234751140
+      BrainSlayerOrthogonalAttack_20: 8036966873450475996
+      BrainSlayerOrthogonalAttack_21: 3796714808063948858
+      BrainSlayerOrthogonalAttack_22: 5494204366575460530
+      BrainSlayerOrthogonalAttack_23: 6175823668460984409
+      BrainSlayerOrthogonalAttack_24: -5426748322700230790
+      BrainSlayerOrthogonalAttack_25: 284087454122268447
+      BrainSlayerOrthogonalAttack_26: 5171402318799247456
+      BrainSlayerOrthogonalAttack_27: 4834862688934486124
+      BrainSlayerOrthogonalAttack_28: 5015933758904584081
+      BrainSlayerOrthogonalAttack_29: 8906026155825640999
+      BrainSlayerOrthogonalAttack_3: -5610056715388708691
+      BrainSlayerOrthogonalAttack_30: -3592615701245141158
+      BrainSlayerOrthogonalAttack_4: 8620555052526782031
+      BrainSlayerOrthogonalAttack_5: -8786251108291922793
+      BrainSlayerOrthogonalAttack_6: 4816902287695903073
+      BrainSlayerOrthogonalAttack_7: -7918560829897374805
+      BrainSlayerOrthogonalAttack_8: -9071996828547789721
+      BrainSlayerOrthogonalAttack_9: 3008902348859445255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

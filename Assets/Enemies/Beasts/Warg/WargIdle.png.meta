@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 570a4a1d8c587af45aff535f1224f548
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -631333259981080878
+    second: WargIdle_0
+  - first:
+      213: 6202441226125914643
+    second: WargIdle_1
+  - first:
+      213: 616475735062079072
+    second: WargIdle_2
+  - first:
+      213: -4088593850853164967
+    second: WargIdle_3
+  - first:
+      213: -7215605601816809733
+    second: WargIdle_4
+  - first:
+      213: 316116528747117041
+    second: WargIdle_5
+  - first:
+      213: -7288862599144275905
+    second: WargIdle_6
+  - first:
+      213: 4343500071481078398
+    second: WargIdle_7
+  - first:
+      213: -3455981249045117123
+    second: WargIdle_8
+  - first:
+      213: -9115996519728421848
+    second: WargIdle_9
+  - first:
+      213: 5134541734508622506
+    second: WargIdle_10
+  - first:
+      213: -473761265189171855
+    second: WargIdle_11
+  - first:
+      213: -6799655102409115828
+    second: WargIdle_12
+  - first:
+      213: -4702946104953051724
+    second: WargIdle_13
+  - first:
+      213: 7614588781017221054
+    second: WargIdle_14
+  - first:
+      213: 7403589211329288551
+    second: WargIdle_15
+  - first:
+      213: 7823017011670807740
+    second: WargIdle_16
+  - first:
+      213: 2785013995031236943
+    second: WargIdle_17
+  - first:
+      213: 2065308068027532045
+    second: WargIdle_18
+  - first:
+      213: 3531192167077247056
+    second: WargIdle_19
+  - first:
+      213: 6130573734268043953
+    second: WargIdle_20
+  - first:
+      213: 797258109467874461
+    second: WargIdle_21
+  - first:
+      213: 1785496082129620667
+    second: WargIdle_22
+  - first:
+      213: -1867641148035485746
+    second: WargIdle_23
+  - first:
+      213: -5076643090939596284
+    second: WargIdle_24
+  - first:
+      213: 5370225698396371464
+    second: WargIdle_25
+  - first:
+      213: -7600628026161058448
+    second: WargIdle_26
+  - first:
+      213: -1983187642476025670
+    second: WargIdle_27
+  - first:
+      213: 8807843917684284189
+    second: WargIdle_28
+  - first:
+      213: -8928286175495527664
+    second: WargIdle_29
+  - first:
+      213: 2989846004877731943
+    second: WargIdle_30
+  - first:
+      213: -3569672318944205948
+    second: WargIdle_31
+  - first:
+      213: 7471059215209248561
+    second: WargIdle_32
+  - first:
+      213: 7845550040065169725
+    second: WargIdle_33
+  - first:
+      213: 6497709671666745302
+    second: WargIdle_34
+  - first:
+      213: -6215266544402637217
+    second: WargIdle_35
+  - first:
+      213: -2212096861503668972
+    second: WargIdle_36
+  - first:
+      213: 7428487676648331062
+    second: WargIdle_37
+  - first:
+      213: 6388097809724885463
+    second: WargIdle_38
+  - first:
+      213: -7432114919066794223
+    second: WargIdle_39
+  - first:
+      213: 6790793135559396607
+    second: WargIdle_40
+  - first:
+      213: -4277941373615319324
+    second: WargIdle_41
+  - first:
+      213: -3271380677173137923
+    second: WargIdle_42
+  - first:
+      213: -7710721368282217322
+    second: WargIdle_43
+  - first:
+      213: -1677899179699054514
+    second: WargIdle_44
+  - first:
+      213: 7220514578685236793
+    second: WargIdle_45
+  - first:
+      213: 4521941953342915547
+    second: WargIdle_46
+  - first:
+      213: 5396444457465696077
+    second: WargIdle_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WargIdle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d630f7bebd0d37f0800000000000000
+      internalID: -631333259981080878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123977ee6f731650800000000000000
+      internalID: 6202441226125914643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e5013a692e8800800000000000000
+      internalID: 616475735062079072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958fc011e856247c0800000000000000
+      internalID: -4088593850853164967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee3606fe40ddb90800000000000000
+      internalID: -7215605601816809733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f99bde42136400800000000000000
+      internalID: 316116528747117041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3000698512c8da90800000000000000
+      internalID: -7288862599144275905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72738a5d46374c30800000000000000
+      internalID: 4343500071481078398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3741445d53e900d0800000000000000
+      internalID: -3455981249045117123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e3e3c6797d7180800000000000000
+      internalID: -9115996519728421848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fdc9e08e814740800000000000000
+      internalID: 5134541734508622506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 108
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d4f00b3acdc69f0800000000000000
+      internalID: -473761265189171855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477bb1e5b5c2a1a0800000000000000
+      internalID: -6799655102409115828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b567705f67cbbeb0800000000000000
+      internalID: -4702946104953051724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7c43b07247ca960800000000000000
+      internalID: 7614588781017221054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769523c6925deb660800000000000000
+      internalID: 7403589211329288551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f9742680f09c60800000000000000
+      internalID: 7823017011670807740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41145c097b56a620800000000000000
+      internalID: 2785013995031236943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038782deb279ac10800000000000000
+      internalID: 2065308068027532045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f7402190510130800000000000000
+      internalID: 3531192167077247056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20364845c241550800000000000000
+      internalID: 6130573734268043953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 76
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d129c60e601b00800000000000000
+      internalID: 797258109467874461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe003b0a3b57c810800000000000000
+      internalID: 1785496082129620667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf2173654ec416e0800000000000000
+      internalID: -1867641148035485746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ba1981042c89b0800000000000000
+      internalID: -5076643090939596284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af69ce1dfd68a40800000000000000
+      internalID: 5370225698396371464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07daace7415258690800000000000000
+      internalID: -7600628026161058448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a547b85d4a74e0800000000000000
+      internalID: -1983187642476025670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b18ae806fbb3a70800000000000000
+      internalID: 8807843917684284189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ee88070b581480800000000000000
+      internalID: -8928286175495527664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768abddb9111e7920800000000000000
+      internalID: 2989846004877731943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48329c850f9f57ec0800000000000000
+      internalID: -3569672318944205948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137b47ad5c88ea760800000000000000
+      internalID: 7471059215209248561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d2a5a13ef0ec60800000000000000
+      internalID: 7845550040065169725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff05125808c2a50800000000000000
+      internalID: 6497709671666745302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 44
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed28cf100feb9a0800000000000000
+      internalID: -6215266544402637217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3159ef9d0d41e0800000000000000
+      internalID: -2212096861503668972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379df02f2a471760800000000000000
+      internalID: 7428487676648331062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94a13cc1517a850800000000000000
+      internalID: 6388097809724885463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117842fabd2dbd890800000000000000
+      internalID: -7432114919066794223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffccd2ca06ebd3e50800000000000000
+      internalID: 6790793135559396607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e656b77cf2b1a4c0800000000000000
+      internalID: -4277941373615319324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda40c4b98b992d0800000000000000
+      internalID: -3271380677173137923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944689c4c30ef490800000000000000
+      internalID: -7710721368282217322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485e110697e6b8e0800000000000000
+      internalID: -1677899179699054514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936101ed0cb643460800000000000000
+      internalID: 7220514578685236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c0ff8f3a21ce30800000000000000
+      internalID: 4521941953342915547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WargIdle_47
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f4e5974a504ea40800000000000000
+      internalID: 5396444457465696077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WargIdle_0: -631333259981080878
+      WargIdle_1: 6202441226125914643
+      WargIdle_10: 5134541734508622506
+      WargIdle_11: -473761265189171855
+      WargIdle_12: -6799655102409115828
+      WargIdle_13: -4702946104953051724
+      WargIdle_14: 7614588781017221054
+      WargIdle_15: 7403589211329288551
+      WargIdle_16: 7823017011670807740
+      WargIdle_17: 2785013995031236943
+      WargIdle_18: 2065308068027532045
+      WargIdle_19: 3531192167077247056
+      WargIdle_2: 616475735062079072
+      WargIdle_20: 6130573734268043953
+      WargIdle_21: 797258109467874461
+      WargIdle_22: 1785496082129620667
+      WargIdle_23: -1867641148035485746
+      WargIdle_24: -5076643090939596284
+      WargIdle_25: 5370225698396371464
+      WargIdle_26: -7600628026161058448
+      WargIdle_27: -1983187642476025670
+      WargIdle_28: 8807843917684284189
+      WargIdle_29: -8928286175495527664
+      WargIdle_3: -4088593850853164967
+      WargIdle_30: 2989846004877731943
+      WargIdle_31: -3569672318944205948
+      WargIdle_32: 7471059215209248561
+      WargIdle_33: 7845550040065169725
+      WargIdle_34: 6497709671666745302
+      WargIdle_35: -6215266544402637217
+      WargIdle_36: -2212096861503668972
+      WargIdle_37: 7428487676648331062
+      WargIdle_38: 6388097809724885463
+      WargIdle_39: -7432114919066794223
+      WargIdle_4: -7215605601816809733
+      WargIdle_40: 6790793135559396607
+      WargIdle_41: -4277941373615319324
+      WargIdle_42: -3271380677173137923
+      WargIdle_43: -7710721368282217322
+      WargIdle_44: -1677899179699054514
+      WargIdle_45: 7220514578685236793
+      WargIdle_46: 4521941953342915547
+      WargIdle_47: 5396444457465696077
+      WargIdle_5: 316116528747117041
+      WargIdle_6: -7288862599144275905
+      WargIdle_7: 4343500071481078398
+      WargIdle_8: -3455981249045117123
+      WargIdle_9: -9115996519728421848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

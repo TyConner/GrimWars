@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9ca9ec1575fc3764a8ba5345f593f6de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1814900191461792398
+    second: MotherSlimeGreenDmg_0
+  - first:
+      213: 7673661959774700677
+    second: MotherSlimeGreenDmg_1
+  - first:
+      213: -5748907697795228738
+    second: MotherSlimeGreenDmg_2
+  - first:
+      213: -7837477169306100036
+    second: MotherSlimeGreenDmg_3
+  - first:
+      213: -7940369236322210714
+    second: MotherSlimeGreenDmg_4
+  - first:
+      213: -6602576762054006528
+    second: MotherSlimeGreenDmg_5
+  - first:
+      213: 5098775634835797489
+    second: MotherSlimeGreenDmg_6
+  - first:
+      213: -556828152205585446
+    second: MotherSlimeGreenDmg_7
+  - first:
+      213: -6721214675855884496
+    second: MotherSlimeGreenDmg_8
+  - first:
+      213: -4782160395926059526
+    second: MotherSlimeGreenDmg_9
+  - first:
+      213: -8820807534837702957
+    second: MotherSlimeGreenDmg_10
+  - first:
+      213: -1807719269439408776
+    second: MotherSlimeGreenDmg_11
+  - first:
+      213: 4840843765158735567
+    second: MotherSlimeGreenDmg_12
+  - first:
+      213: 9097509543068712004
+    second: MotherSlimeGreenDmg_13
+  - first:
+      213: -5144512887064917793
+    second: MotherSlimeGreenDmg_14
+  - first:
+      213: 6614187573160669669
+    second: MotherSlimeGreenDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275a12144ed20d6e0800000000000000
+      internalID: -1814900191461792398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848cc645e25e7a60800000000000000
+      internalID: 7673661959774700677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 108
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb186a68e6c730b0800000000000000
+      internalID: -5748907697795228738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe964c0a00bb3390800000000000000
+      internalID: -7837477169306100036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c239bdf342ec190800000000000000
+      internalID: -7940369236322210714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a587ba6fee54a0800000000000000
+      internalID: -6602576762054006528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5fdc7ec6d72c640800000000000000
+      internalID: 5098775634835797489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad359daeebfb548f0800000000000000
+      internalID: -556828152205585446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fb772ecd279b2a0800000000000000
+      internalID: -6721214675855884496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5c2e5f47a52adb0800000000000000
+      internalID: -4782160395926059526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ded8ed1842369580800000000000000
+      internalID: -8820807534837702957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8757f63f6e0b9e6e0800000000000000
+      internalID: -1807719269439408776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce637ba1c12e2340800000000000000
+      internalID: 4840843765158735567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c365f8ab8d04e70800000000000000
+      internalID: 9097509543068712004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8831839c40b98b0800000000000000
+      internalID: -5144512887064917793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenDmg_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e17b08ed805acb50800000000000000
+      internalID: 6614187573160669669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MotherSlimeGreenDmg_0: -1814900191461792398
+      MotherSlimeGreenDmg_1: 7673661959774700677
+      MotherSlimeGreenDmg_10: -8820807534837702957
+      MotherSlimeGreenDmg_11: -1807719269439408776
+      MotherSlimeGreenDmg_12: 4840843765158735567
+      MotherSlimeGreenDmg_13: 9097509543068712004
+      MotherSlimeGreenDmg_14: -5144512887064917793
+      MotherSlimeGreenDmg_15: 6614187573160669669
+      MotherSlimeGreenDmg_2: -5748907697795228738
+      MotherSlimeGreenDmg_3: -7837477169306100036
+      MotherSlimeGreenDmg_4: -7940369236322210714
+      MotherSlimeGreenDmg_5: -6602576762054006528
+      MotherSlimeGreenDmg_6: 5098775634835797489
+      MotherSlimeGreenDmg_7: -556828152205585446
+      MotherSlimeGreenDmg_8: -6721214675855884496
+      MotherSlimeGreenDmg_9: -4782160395926059526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

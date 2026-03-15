@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 1f729464ad9fccc49858c5ca5dbd05ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3243974135074904997
+    second: DemonSpiderWalkShadow_0
+  - first:
+      213: 3206763249271419227
+    second: DemonSpiderWalkShadow_1
+  - first:
+      213: 6790385608935000760
+    second: DemonSpiderWalkShadow_2
+  - first:
+      213: 1744848438170703716
+    second: DemonSpiderWalkShadow_3
+  - first:
+      213: 3982663140883605649
+    second: DemonSpiderWalkShadow_4
+  - first:
+      213: -2355320077470336367
+    second: DemonSpiderWalkShadow_5
+  - first:
+      213: -8724480660645141795
+    second: DemonSpiderWalkShadow_6
+  - first:
+      213: -8587730033706002039
+    second: DemonSpiderWalkShadow_7
+  - first:
+      213: -7257245492545836299
+    second: DemonSpiderWalkShadow_8
+  - first:
+      213: 1682279858513305657
+    second: DemonSpiderWalkShadow_9
+  - first:
+      213: 1179286536828329085
+    second: DemonSpiderWalkShadow_10
+  - first:
+      213: -5175917373738936893
+    second: DemonSpiderWalkShadow_11
+  - first:
+      213: 9222055205540485817
+    second: DemonSpiderWalkShadow_12
+  - first:
+      213: -3102254236569150524
+    second: DemonSpiderWalkShadow_13
+  - first:
+      213: 5151088386639962081
+    second: DemonSpiderWalkShadow_14
+  - first:
+      213: 5700244456049047926
+    second: DemonSpiderWalkShadow_15
+  - first:
+      213: 2032932022012101691
+    second: DemonSpiderWalkShadow_16
+  - first:
+      213: 951654099881708096
+    second: DemonSpiderWalkShadow_17
+  - first:
+      213: 8501842597736569625
+    second: DemonSpiderWalkShadow_18
+  - first:
+      213: -1887432252918796037
+    second: DemonSpiderWalkShadow_19
+  - first:
+      213: 8084167846818687299
+    second: DemonSpiderWalkShadow_20
+  - first:
+      213: 5732752937063245108
+    second: DemonSpiderWalkShadow_21
+  - first:
+      213: -4272857139983630156
+    second: DemonSpiderWalkShadow_22
+  - first:
+      213: 564186215111792971
+    second: DemonSpiderWalkShadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542e4226b61bf2d0800000000000000
+      internalID: -3243974135074904997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b99f5f26b08c20800000000000000
+      internalID: 3206763249271419227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bace7cfbbb4c3e50800000000000000
+      internalID: 6790385608935000760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 104
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675f00f862f63810800000000000000
+      internalID: 1744848438170703716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a86c8603454730800000000000000
+      internalID: 3982663140883605649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 105
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af80a5ed8305fd0800000000000000
+      internalID: -2355320077470336367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd22b7c301b6ce680800000000000000
+      internalID: -8724480660645141795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989100ab80142d880800000000000000
+      internalID: -8587730033706002039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa2001dca5194b90800000000000000
+      internalID: -7257245492545836299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ea734e98a85710800000000000000
+      internalID: 1682279858513305657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9d0c6bdaad5010800000000000000
+      internalID: 1179286536828329085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5948f52927b28b0800000000000000
+      internalID: -5175917373738936893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba584159525bff70800000000000000
+      internalID: 9222055205540485817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb5852553492f4d0800000000000000
+      internalID: -3102254236569150524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef905498975c7740800000000000000
+      internalID: 5151088386639962081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67971bfa1265b1f40800000000000000
+      internalID: 5700244456049047926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344c8037ec663c10800000000000000
+      internalID: 2032932022012101691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4e7c9c54f43d00800000000000000
+      internalID: 951654099881708096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b5f564ccc9cf570800000000000000
+      internalID: 8501842597736569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0f823bd5e7ec5e0800000000000000
+      internalID: -1887432252918796037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349234e23dbb03070800000000000000
+      internalID: 8084167846818687299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4356bbe3c64de8f40800000000000000
+      internalID: 5732752937063245108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0c84bd113c3b4c0800000000000000
+      internalID: -4272857139983630156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderWalkShadow_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4919ea9f5464d700800000000000000
+      internalID: 564186215111792971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DemonSpiderWalkShadow_0: -3243974135074904997
+      DemonSpiderWalkShadow_1: 3206763249271419227
+      DemonSpiderWalkShadow_10: 1179286536828329085
+      DemonSpiderWalkShadow_11: -5175917373738936893
+      DemonSpiderWalkShadow_12: 9222055205540485817
+      DemonSpiderWalkShadow_13: -3102254236569150524
+      DemonSpiderWalkShadow_14: 5151088386639962081
+      DemonSpiderWalkShadow_15: 5700244456049047926
+      DemonSpiderWalkShadow_16: 2032932022012101691
+      DemonSpiderWalkShadow_17: 951654099881708096
+      DemonSpiderWalkShadow_18: 8501842597736569625
+      DemonSpiderWalkShadow_19: -1887432252918796037
+      DemonSpiderWalkShadow_2: 6790385608935000760
+      DemonSpiderWalkShadow_20: 8084167846818687299
+      DemonSpiderWalkShadow_21: 5732752937063245108
+      DemonSpiderWalkShadow_22: -4272857139983630156
+      DemonSpiderWalkShadow_23: 564186215111792971
+      DemonSpiderWalkShadow_3: 1744848438170703716
+      DemonSpiderWalkShadow_4: 3982663140883605649
+      DemonSpiderWalkShadow_5: -2355320077470336367
+      DemonSpiderWalkShadow_6: -8724480660645141795
+      DemonSpiderWalkShadow_7: -8587730033706002039
+      DemonSpiderWalkShadow_8: -7257245492545836299
+      DemonSpiderWalkShadow_9: 1682279858513305657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

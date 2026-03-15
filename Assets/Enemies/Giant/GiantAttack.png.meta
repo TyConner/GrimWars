@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 28fd77efa2f1c454ea8749604778a2d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4375815009642063989
+    second: GiantAttack_0
+  - first:
+      213: -4040637691017755682
+    second: GiantAttack_1
+  - first:
+      213: 2106121390379249977
+    second: GiantAttack_2
+  - first:
+      213: -5976701722012869627
+    second: GiantAttack_3
+  - first:
+      213: -3565351934022925729
+    second: GiantAttack_4
+  - first:
+      213: -6126388312456216778
+    second: GiantAttack_5
+  - first:
+      213: 8646638687768953298
+    second: GiantAttack_6
+  - first:
+      213: 1083382803686771432
+    second: GiantAttack_7
+  - first:
+      213: -4999933840148040145
+    second: GiantAttack_8
+  - first:
+      213: -811664584578294990
+    second: GiantAttack_9
+  - first:
+      213: 7008525981571139101
+    second: GiantAttack_10
+  - first:
+      213: 7178893766174806306
+    second: GiantAttack_11
+  - first:
+      213: -7057282883823165124
+    second: GiantAttack_12
+  - first:
+      213: 4366909121731052716
+    second: GiantAttack_13
+  - first:
+      213: -1024746685090186050
+    second: GiantAttack_14
+  - first:
+      213: -3799154332868744989
+    second: GiantAttack_15
+  - first:
+      213: -2615277334245192079
+    second: GiantAttack_16
+  - first:
+      213: 4678420608792073265
+    second: GiantAttack_17
+  - first:
+      213: 5038476094011454545
+    second: GiantAttack_18
+  - first:
+      213: -3477007195915180479
+    second: GiantAttack_19
+  - first:
+      213: 1085677699990310806
+    second: GiantAttack_20
+  - first:
+      213: -1066954640534476482
+    second: GiantAttack_21
+  - first:
+      213: 4171243716388843571
+    second: GiantAttack_22
+  - first:
+      213: -5909974958082873947
+    second: GiantAttack_23
+  - first:
+      213: -653371714362258761
+    second: GiantAttack_24
+  - first:
+      213: 7990946078208205061
+    second: GiantAttack_25
+  - first:
+      213: -3987202831659878537
+    second: GiantAttack_26
+  - first:
+      213: 6773055426888110592
+    second: GiantAttack_27
+  - first:
+      213: -6395232681457506671
+    second: GiantAttack_28
+  - first:
+      213: 422140353412812417
+    second: GiantAttack_29
+  - first:
+      213: -9198161977980248158
+    second: GiantAttack_30
+  - first:
+      213: 3847162052012621219
+    second: GiantAttack_31
+  - first:
+      213: -3152513554666301779
+    second: GiantAttack_32
+  - first:
+      213: -2886268364581001999
+    second: GiantAttack_33
+  - first:
+      213: -6595421637902575399
+    second: GiantAttack_34
+  - first:
+      213: -5328221503621029950
+    second: GiantAttack_35
+  - first:
+      213: -6616155835769913332
+    second: GiantAttack_36
+  - first:
+      213: 4756327264833601186
+    second: GiantAttack_37
+  - first:
+      213: -6644335533880627876
+    second: GiantAttack_38
+  - first:
+      213: 7399041702825039968
+    second: GiantAttack_39
+  - first:
+      213: -8907939783165158251
+    second: GiantAttack_40
+  - first:
+      213: 5568796734257590177
+    second: GiantAttack_41
+  - first:
+      213: 5748281728987923752
+    second: GiantAttack_42
+  - first:
+      213: -7150979818538866354
+    second: GiantAttack_43
+  - first:
+      213: -5244945640812211096
+    second: GiantAttack_44
+  - first:
+      213: 8241515873916198672
+    second: GiantAttack_45
+  - first:
+      213: 3921221429120420125
+    second: GiantAttack_46
+  - first:
+      213: -2000116147649143260
+    second: GiantAttack_47
+  - first:
+      213: 4727418313989777587
+    second: GiantAttack_48
+  - first:
+      213: -1421854966944900663
+    second: GiantAttack_49
+  - first:
+      213: 385565757412307181
+    second: GiantAttack_50
+  - first:
+      213: -1181637817465972955
+    second: GiantAttack_51
+  - first:
+      213: 2997399366113821994
+    second: GiantAttack_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantAttack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578a98431940abc30800000000000000
+      internalID: 4375815009642063989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305d0ad65cce7c0800000000000000
+      internalID: -4040637691017755682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931386fee327a3d10800000000000000
+      internalID: 2106121390379249977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c15f2237d7e0da0800000000000000
+      internalID: -5976701722012869627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52cf495e43558ec0800000000000000
+      internalID: -3565351934022925729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f31ffe942bafaa0800000000000000
+      internalID: -6126388312456216778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 108
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14e9d13180ff770800000000000000
+      internalID: 8646638687768953298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea44818be2f80f00800000000000000
+      internalID: 1083382803686771432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f267585c9aaac9ab0800000000000000
+      internalID: -4999933840148040145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 102
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b12775c536cb4f0800000000000000
+      internalID: -811664584578294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 103
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c4aa5f39434160800000000000000
+      internalID: 7008525981571139101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2219d1d48dd80a360800000000000000
+      internalID: 7178893766174806306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a646bb9e7f0e90800000000000000
+      internalID: -7057282883823165124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4413795b06a9c30800000000000000
+      internalID: 4366909121731052716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb07ab15e57c1f0800000000000000
+      internalID: -1024746685090186050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e8765341b64bc0800000000000000
+      internalID: -3799154332868744989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4f2fee1ba4bbd0800000000000000
+      internalID: -2615277334245192079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341be0a1c61de040800000000000000
+      internalID: 4678420608792073265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 69
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b9d000534ce540800000000000000
+      internalID: 5038476094011454545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146aff590603fbfc0800000000000000
+      internalID: -3477007195915180479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4c70bd1a111f00800000000000000
+      internalID: 1085677699990310806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ec7b486a6131f0800000000000000
+      internalID: -1066954640534476482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ffe25f0c33e930800000000000000
+      internalID: 4171243716388843571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52408861d8bfda0800000000000000
+      internalID: -5909974958082873947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba462333e1cee6f0800000000000000
+      internalID: -653371714362258761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a6eace1b85ee60800000000000000
+      internalID: 7990946078208205061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7773b73562c9aa8c0800000000000000
+      internalID: -3987202831659878537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00292bb860abefd50800000000000000
+      internalID: 6773055426888110592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a1c572c19f37a0800000000000000
+      internalID: -6395232681457506671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e47823a6ebbd500800000000000000
+      internalID: 422140353412812417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 38
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af9bfb3a60995080800000000000000
+      internalID: -9198161977980248158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad339fc08dd36530800000000000000
+      internalID: 3847162052012621219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 44
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6d280ff950044d0800000000000000
+      internalID: -3152513554666301779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a3bae63ae1f7d0800000000000000
+      internalID: -2886268364581001999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d854e0e6fa5874a0800000000000000
+      internalID: -6595421637902575399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 40
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf1218c5ca5e06b0800000000000000
+      internalID: -5328221503621029950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c008e4e3251be24a0800000000000000
+      internalID: -6616155835769913332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 38
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae79ef727ed10240800000000000000
+      internalID: 4756327264833601186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_38
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2a8ef8049ac3a0800000000000000
+      internalID: -6644335533880627876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06810371a3daea660800000000000000
+      internalID: 7399041702825039968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cded7a6f3a06480800000000000000
+      internalID: -8907939783165158251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af67c30027584d40800000000000000
+      internalID: 5568796734257590177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825813dd6cff5cf40800000000000000
+      internalID: 5748281728987923752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e0081ebd92cc90800000000000000
+      internalID: -7150979818538866354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86497258ab53637b0800000000000000
+      internalID: -5244945640812211096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f948b950fbf5270800000000000000
+      internalID: 8241515873916198672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194f504d1afa6630800000000000000
+      internalID: 3921221429120420125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e99d5f5f82e34e0800000000000000
+      internalID: -2000116147649143260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8690ed8e92b9140800000000000000
+      internalID: 4727418313989777587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9df1dd07e844ce0800000000000000
+      internalID: -1421854966944900663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07d18730ec95500800000000000000
+      internalID: 385565757412307181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d5c46aaaf99fe0800000000000000
+      internalID: -1181637817465972955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantAttack_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a250233b7d6e89920800000000000000
+      internalID: 2997399366113821994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GiantAttack_0: 4375815009642063989
+      GiantAttack_1: -4040637691017755682
+      GiantAttack_10: 7008525981571139101
+      GiantAttack_11: 7178893766174806306
+      GiantAttack_12: -7057282883823165124
+      GiantAttack_13: 4366909121731052716
+      GiantAttack_14: -1024746685090186050
+      GiantAttack_15: -3799154332868744989
+      GiantAttack_16: -2615277334245192079
+      GiantAttack_17: 4678420608792073265
+      GiantAttack_18: 5038476094011454545
+      GiantAttack_19: -3477007195915180479
+      GiantAttack_2: 2106121390379249977
+      GiantAttack_20: 1085677699990310806
+      GiantAttack_21: -1066954640534476482
+      GiantAttack_22: 4171243716388843571
+      GiantAttack_23: -5909974958082873947
+      GiantAttack_24: -653371714362258761
+      GiantAttack_25: 7990946078208205061
+      GiantAttack_26: -3987202831659878537
+      GiantAttack_27: 6773055426888110592
+      GiantAttack_28: -6395232681457506671
+      GiantAttack_29: 422140353412812417
+      GiantAttack_3: -5976701722012869627
+      GiantAttack_30: -9198161977980248158
+      GiantAttack_31: 3847162052012621219
+      GiantAttack_32: -3152513554666301779
+      GiantAttack_33: -2886268364581001999
+      GiantAttack_34: -6595421637902575399
+      GiantAttack_35: -5328221503621029950
+      GiantAttack_36: -6616155835769913332
+      GiantAttack_37: 4756327264833601186
+      GiantAttack_38: -6644335533880627876
+      GiantAttack_39: 7399041702825039968
+      GiantAttack_4: -3565351934022925729
+      GiantAttack_40: -8907939783165158251
+      GiantAttack_41: 5568796734257590177
+      GiantAttack_42: 5748281728987923752
+      GiantAttack_43: -7150979818538866354
+      GiantAttack_44: -5244945640812211096
+      GiantAttack_45: 8241515873916198672
+      GiantAttack_46: 3921221429120420125
+      GiantAttack_47: -2000116147649143260
+      GiantAttack_48: 4727418313989777587
+      GiantAttack_49: -1421854966944900663
+      GiantAttack_5: -6126388312456216778
+      GiantAttack_50: 385565757412307181
+      GiantAttack_51: -1181637817465972955
+      GiantAttack_52: 2997399366113821994
+      GiantAttack_6: 8646638687768953298
+      GiantAttack_7: 1083382803686771432
+      GiantAttack_8: -4999933840148040145
+      GiantAttack_9: -811664584578294990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

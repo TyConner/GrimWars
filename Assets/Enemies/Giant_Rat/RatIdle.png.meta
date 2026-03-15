@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: c0c1c3d6c19228a4c892e26a206b162b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6922080110141321396
+    second: RatIdle_0
+  - first:
+      213: -770221109379834809
+    second: RatIdle_1
+  - first:
+      213: -1823779989455304152
+    second: RatIdle_2
+  - first:
+      213: -881180727469991645
+    second: RatIdle_3
+  - first:
+      213: -667579178764965180
+    second: RatIdle_4
+  - first:
+      213: 897870644907783018
+    second: RatIdle_5
+  - first:
+      213: -1914254617768438016
+    second: RatIdle_6
+  - first:
+      213: 3765203992037493788
+    second: RatIdle_7
+  - first:
+      213: 3187570006675379391
+    second: RatIdle_8
+  - first:
+      213: 3344719724109291572
+    second: RatIdle_9
+  - first:
+      213: 2617439287562864003
+    second: RatIdle_10
+  - first:
+      213: 6104852983237445676
+    second: RatIdle_11
+  - first:
+      213: 3595970347961114588
+    second: RatIdle_12
+  - first:
+      213: 1716700527845161731
+    second: RatIdle_13
+  - first:
+      213: 3072002408372441002
+    second: RatIdle_14
+  - first:
+      213: -5000689608499923155
+    second: RatIdle_15
+  - first:
+      213: -3333792128940778766
+    second: RatIdle_16
+  - first:
+      213: -1448642458924264838
+    second: RatIdle_17
+  - first:
+      213: -5232458884201341191
+    second: RatIdle_18
+  - first:
+      213: -3171493921510710917
+    second: RatIdle_19
+  - first:
+      213: -4377560172220900437
+    second: RatIdle_20
+  - first:
+      213: 2416501792066295434
+    second: RatIdle_21
+  - first:
+      213: -5480899897706387219
+    second: RatIdle_22
+  - first:
+      213: 9053526366127170464
+    second: RatIdle_23
+  - first:
+      213: -8065248158714430835
+    second: RatIdle_24
+  - first:
+      213: 5108352497790963515
+    second: RatIdle_25
+  - first:
+      213: -1686878646634927219
+    second: RatIdle_26
+  - first:
+      213: -1218580925623637158
+    second: RatIdle_27
+  - first:
+      213: 1442764766305394020
+    second: RatIdle_28
+  - first:
+      213: -3205266147141124980
+    second: RatIdle_29
+  - first:
+      213: 7229847345094106825
+    second: RatIdle_30
+  - first:
+      213: 6587795503340016853
+    second: RatIdle_31
+  - first:
+      213: -4451360245109291508
+    second: RatIdle_32
+  - first:
+      213: -150125109046369049
+    second: RatIdle_33
+  - first:
+      213: -308855550361160701
+    second: RatIdle_34
+  - first:
+      213: 4320695941447990880
+    second: RatIdle_35
+  - first:
+      213: -2289121924191351390
+    second: RatIdle_36
+  - first:
+      213: -6537328393527903587
+    second: RatIdle_37
+  - first:
+      213: -5212990324512902126
+    second: RatIdle_38
+  - first:
+      213: 8337263221734529457
+    second: RatIdle_39
+  - first:
+      213: -9191556166646730833
+    second: RatIdle_40
+  - first:
+      213: 7953214654398031665
+    second: RatIdle_41
+  - first:
+      213: -7838088029309085184
+    second: RatIdle_42
+  - first:
+      213: -2025868496303556355
+    second: RatIdle_43
+  - first:
+      213: -4502642626949490302
+    second: RatIdle_44
+  - first:
+      213: 7047387681526637737
+    second: RatIdle_45
+  - first:
+      213: 2610381260558447300
+    second: RatIdle_46
+  - first:
+      213: 2368039194798691139
+    second: RatIdle_47
+  - first:
+      213: 2386775655083861942
+    second: RatIdle_48
+  - first:
+      213: -4435303713989314890
+    second: RatIdle_49
+  - first:
+      213: -6367716325516305229
+    second: RatIdle_50
+  - first:
+      213: 82019252124758319
+    second: RatIdle_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RatIdle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fca3880d4dfef90800000000000000
+      internalID: -6922080110141321396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c58e85bff9f45f0800000000000000
+      internalID: -770221109379834809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a0d0c23c1a0b6e0800000000000000
+      internalID: -1823779989455304152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3291b3c0cca65c3f0800000000000000
+      internalID: -881180727469991645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca644e16484cb6f0800000000000000
+      internalID: -667579178764965180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63bafb2890e57c00800000000000000
+      internalID: 897870644907783018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d24a31933f65e0800000000000000
+      internalID: -1914254617768438016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0744f411b04430800000000000000
+      internalID: 3765203992037493788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4539858068c3c20800000000000000
+      internalID: 3187570006675379391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e6c43ed4da6e20800000000000000
+      internalID: 3344719724109291572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385065c0a23035420800000000000000
+      internalID: 2617439287562864003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c280adf717bc8b450800000000000000
+      internalID: 6104852983237445676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5f0daaf377e130800000000000000
+      internalID: 3595970347961114588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bbfebd802f2d710800000000000000
+      internalID: 1716700527845161731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0f2c0ae1f1aa20800000000000000
+      internalID: 3072002408372441002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ff5dbb4bf99ab0800000000000000
+      internalID: -5000689608499923155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fadd7fc8bdfbb1d0800000000000000
+      internalID: -3333792128940778766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72554ddb5365ebe0800000000000000
+      internalID: -1448642458924264838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe97591e529267b0800000000000000
+      internalID: -5232458884201341191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b712b09e4179cf3d0800000000000000
+      internalID: -3171493921510710917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab10e77738cf33c0800000000000000
+      internalID: -4377560172220900437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d433a393298120800000000000000
+      internalID: 2416501792066295434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de86cb3059eefe3b0800000000000000
+      internalID: -5480899897706387219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a4a9234694ad70800000000000000
+      internalID: 9053526366127170464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af37af78b721090800000000000000
+      internalID: -8065248158714430835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f4f42188384e640800000000000000
+      internalID: 5108352497790963515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b2220fec00798e0800000000000000
+      internalID: -1686878646634927219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5be22eba1bb61fe0800000000000000
+      internalID: -1218580925623637158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d151e29eab50410800000000000000
+      internalID: 1442764766305394020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7111eb6b9483d0800000000000000
+      internalID: -3205266147141124980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce92a0ead3955460800000000000000
+      internalID: 7229847345094106825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45f7d4b1d8c6b50800000000000000
+      internalID: 6587795503340016853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0607fef0779932c0800000000000000
+      internalID: -4451360245109291508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ac6b3206aaedf0800000000000000
+      internalID: -150125109046369049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b0d96389b6bbf0800000000000000
+      internalID: -308855550361160701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eba74111236fb30800000000000000
+      internalID: 4320695941447990880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad040dfcb76b30e0800000000000000
+      internalID: -2289121924191351390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 44
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab1bb567eb645a0800000000000000
+      internalID: -6537328393527903587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 44
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143cd16becb7a7b0800000000000000
+      internalID: -5212990324512902126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b95a6a3ab8e3b370800000000000000
+      internalID: 8337263221734529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf68f98d58017080800000000000000
+      internalID: -9191556166646730833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13763d9179e7f5e60800000000000000
+      internalID: 7953214654398031665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a5ace1774893390800000000000000
+      internalID: -7838088029309085184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8fb2c065ba2e3e0800000000000000
+      internalID: -2025868496303556355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d42603666381c0800000000000000
+      internalID: -4502642626949490302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ebd7f1c95dc160800000000000000
+      internalID: 7047387681526637737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23ce31defe93420800000000000000
+      internalID: 2610381260558447300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439d2ce917fcd020800000000000000
+      internalID: 2368039194798691139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_48
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e2d700d78f1120800000000000000
+      internalID: 2386775655083861942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b632b875c2a272c0800000000000000
+      internalID: -4435303713989314890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc15235db351a7a0800000000000000
+      internalID: -6367716325516305229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatIdle_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21b3a34314632100800000000000000
+      internalID: 82019252124758319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RatIdle_0: -6922080110141321396
+      RatIdle_1: -770221109379834809
+      RatIdle_10: 2617439287562864003
+      RatIdle_11: 6104852983237445676
+      RatIdle_12: 3595970347961114588
+      RatIdle_13: 1716700527845161731
+      RatIdle_14: 3072002408372441002
+      RatIdle_15: -5000689608499923155
+      RatIdle_16: -3333792128940778766
+      RatIdle_17: -1448642458924264838
+      RatIdle_18: -5232458884201341191
+      RatIdle_19: -3171493921510710917
+      RatIdle_2: -1823779989455304152
+      RatIdle_20: -4377560172220900437
+      RatIdle_21: 2416501792066295434
+      RatIdle_22: -5480899897706387219
+      RatIdle_23: 9053526366127170464
+      RatIdle_24: -8065248158714430835
+      RatIdle_25: 5108352497790963515
+      RatIdle_26: -1686878646634927219
+      RatIdle_27: -1218580925623637158
+      RatIdle_28: 1442764766305394020
+      RatIdle_29: -3205266147141124980
+      RatIdle_3: -881180727469991645
+      RatIdle_30: 7229847345094106825
+      RatIdle_31: 6587795503340016853
+      RatIdle_32: -4451360245109291508
+      RatIdle_33: -150125109046369049
+      RatIdle_34: -308855550361160701
+      RatIdle_35: 4320695941447990880
+      RatIdle_36: -2289121924191351390
+      RatIdle_37: -6537328393527903587
+      RatIdle_38: -5212990324512902126
+      RatIdle_39: 8337263221734529457
+      RatIdle_4: -667579178764965180
+      RatIdle_40: -9191556166646730833
+      RatIdle_41: 7953214654398031665
+      RatIdle_42: -7838088029309085184
+      RatIdle_43: -2025868496303556355
+      RatIdle_44: -4502642626949490302
+      RatIdle_45: 7047387681526637737
+      RatIdle_46: 2610381260558447300
+      RatIdle_47: 2368039194798691139
+      RatIdle_48: 2386775655083861942
+      RatIdle_49: -4435303713989314890
+      RatIdle_5: 897870644907783018
+      RatIdle_50: -6367716325516305229
+      RatIdle_51: 82019252124758319
+      RatIdle_6: -1914254617768438016
+      RatIdle_7: 3765203992037493788
+      RatIdle_8: 3187570006675379391
+      RatIdle_9: 3344719724109291572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 3bc7855866a2fef4395c131995b457c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7960799200952432176
+    second: Plane_Shift_Out_No_Effect_0
+  - first:
+      213: 8389475406535117042
+    second: Plane_Shift_Out_No_Effect_1
+  - first:
+      213: 371540955197101634
+    second: Plane_Shift_Out_No_Effect_2
+  - first:
+      213: -5814523912680023817
+    second: Plane_Shift_Out_No_Effect_3
+  - first:
+      213: 8141635438383483793
+    second: Plane_Shift_Out_No_Effect_4
+  - first:
+      213: 6504045106555734583
+    second: Plane_Shift_Out_No_Effect_5
+  - first:
+      213: 8290054069964039729
+    second: Plane_Shift_Out_No_Effect_6
+  - first:
+      213: -3830251495273842768
+    second: Plane_Shift_Out_No_Effect_7
+  - first:
+      213: 4186342412637781307
+    second: Plane_Shift_Out_No_Effect_8
+  - first:
+      213: 1828071829937303926
+    second: Plane_Shift_Out_No_Effect_9
+  - first:
+      213: 1761321887504355214
+    second: Plane_Shift_Out_No_Effect_10
+  - first:
+      213: -1597341038713104754
+    second: Plane_Shift_Out_No_Effect_11
+  - first:
+      213: 8931886268651962032
+    second: Plane_Shift_Out_No_Effect_12
+  - first:
+      213: -6854309963909879704
+    second: Plane_Shift_Out_No_Effect_13
+  - first:
+      213: -8028671076993076170
+    second: Plane_Shift_Out_No_Effect_14
+  - first:
+      213: 6794110339350264905
+    second: Plane_Shift_Out_No_Effect_15
+  - first:
+      213: -435331242438221056
+    second: Plane_Shift_Out_No_Effect_16
+  - first:
+      213: -4954708775130356138
+    second: Plane_Shift_Out_No_Effect_17
+  - first:
+      213: -8551345115466153658
+    second: Plane_Shift_Out_No_Effect_18
+  - first:
+      213: 7335709403012760316
+    second: Plane_Shift_Out_No_Effect_19
+  - first:
+      213: -6498087474879786772
+    second: Plane_Shift_Out_No_Effect_20
+  - first:
+      213: 7230422691294601766
+    second: Plane_Shift_Out_No_Effect_21
+  - first:
+      213: 482098115700155603
+    second: Plane_Shift_Out_No_Effect_22
+  - first:
+      213: -7569674076437684032
+    second: Plane_Shift_Out_No_Effect_23
+  - first:
+      213: 503770830373335231
+    second: Plane_Shift_Out_No_Effect_24
+  - first:
+      213: 5546731642737899831
+    second: Plane_Shift_Out_No_Effect_25
+  - first:
+      213: -7433291802869524246
+    second: Plane_Shift_Out_No_Effect_26
+  - first:
+      213: 7028758748182643973
+    second: Plane_Shift_Out_No_Effect_27
+  - first:
+      213: 3555728502765672625
+    second: Plane_Shift_Out_No_Effect_28
+  - first:
+      213: -5766322179848202793
+    second: Plane_Shift_Out_No_Effect_29
+  - first:
+      213: 5396589040437923378
+    second: Plane_Shift_Out_No_Effect_30
+  - first:
+      213: 3713991582111179169
+    second: Plane_Shift_Out_No_Effect_31
+  - first:
+      213: 3979127456324369732
+    second: Plane_Shift_Out_No_Effect_32
+  - first:
+      213: 2608219784860621274
+    second: Plane_Shift_Out_No_Effect_33
+  - first:
+      213: 6454246622751360643
+    second: Plane_Shift_Out_No_Effect_34
+  - first:
+      213: -5025825405654423690
+    second: Plane_Shift_Out_No_Effect_35
+  - first:
+      213: -725722225310152947
+    second: Plane_Shift_Out_No_Effect_36
+  - first:
+      213: -5981188583046433943
+    second: Plane_Shift_Out_No_Effect_37
+  - first:
+      213: 6524616762457471420
+    second: Plane_Shift_Out_No_Effect_38
+  - first:
+      213: -6171479844302400641
+    second: Plane_Shift_Out_No_Effect_39
+  - first:
+      213: -5835571361165104712
+    second: Plane_Shift_Out_No_Effect_40
+  - first:
+      213: -6653949925757942264
+    second: Plane_Shift_Out_No_Effect_41
+  - first:
+      213: 8621419358125169448
+    second: Plane_Shift_Out_No_Effect_42
+  - first:
+      213: -844008946745922608
+    second: Plane_Shift_Out_No_Effect_43
+  - first:
+      213: 424864726920517281
+    second: Plane_Shift_Out_No_Effect_44
+  - first:
+      213: 4797832406125137385
+    second: Plane_Shift_Out_No_Effect_45
+  - first:
+      213: 5174947582838169321
+    second: Plane_Shift_Out_No_Effect_46
+  - first:
+      213: -5149777452512722508
+    second: Plane_Shift_Out_No_Effect_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 111
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9440b0e4f858190800000000000000
+      internalID: -7960799200952432176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c662de676d6470800000000000000
+      internalID: 8389475406535117042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246580eb78af72500800000000000000
+      internalID: 371540955197101634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f851bede49ae4fa0800000000000000
+      internalID: -5814523912680023817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b44938b46ecf070800000000000000
+      internalID: 8141635438383483793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4f538092034a50800000000000000
+      internalID: 6504045106555734583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136ecf801403c0370800000000000000
+      internalID: 8290054069964039729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73bcffe8638dac0800000000000000
+      internalID: -3830251495273842768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d3d6d7e30e81a30800000000000000
+      internalID: 4186342412637781307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bf4fc4ad9e5910800000000000000
+      internalID: 1828071829937303926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f41dfbce8717810800000000000000
+      internalID: 1761321887504355214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e861a52d9ca15d9e0800000000000000
+      internalID: -1597341038713104754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 79
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7039fc3f64fb70800000000000000
+      internalID: 8931886268651962032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682bbc476990e0a0800000000000000
+      internalID: -6854309963909879704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 68
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ff55713e649090800000000000000
+      internalID: -8028671076993076170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf7cd5b57894e50800000000000000
+      internalID: 6794110339350264905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00327de9a8465f9f0800000000000000
+      internalID: -435331242438221056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 77
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65628d4ce965d3bb0800000000000000
+      internalID: -4954708775130356138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 77
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6414ed8ace4835980800000000000000
+      internalID: -8551345115466153658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28116f5dcadc560800000000000000
+      internalID: 7335709403012760316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce01064bed722d5a0800000000000000
+      internalID: -6498087474879786772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e98a112f975460800000000000000
+      internalID: 7230422691294601766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d461359ea1c0b600800000000000000
+      internalID: 482098115700155603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e278888d13f690800000000000000
+      internalID: -7569674076437684032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb03b90b6e0cdf600800000000000000
+      internalID: 503770830373335231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739bfcd8a03f9fc40800000000000000
+      internalID: 5546731642737899831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae893221d74a7d890800000000000000
+      internalID: -7433291802869524246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505885d67da2b8160800000000000000
+      internalID: 7028758748182643973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85415fb3c785130800000000000000
+      internalID: 3555728502765672625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d511b95788e9ffa0800000000000000
+      internalID: -5766322179848202793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e8112d32984ea40800000000000000
+      internalID: 5396589040437923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a127869aafba8330800000000000000
+      internalID: 3713991582111179169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db736d653b83730800000000000000
+      internalID: 3979127456324369732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad953cc4312423420800000000000000
+      internalID: 2608219784860621274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3860cd97b17129950800000000000000
+      internalID: 6454246622751360643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677a5d8eb6ea04ab0800000000000000
+      internalID: -5025825405654423690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0748ca2b77bde5f0800000000000000
+      internalID: -725722225310152947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96335e46cac8efca0800000000000000
+      internalID: -5981188583046433943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb936d560681c8a50800000000000000
+      internalID: 6524616762457471420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f735fdd87cf7a5aa0800000000000000
+      internalID: -6171479844302400641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9af44e3c2e30fa0800000000000000
+      internalID: -5835571361165104712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 13
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80606f1fbcb68a3a0800000000000000
+      internalID: -6653949925757942264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 13
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1abc5a3f65a770800000000000000
+      internalID: 8621419358125169448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db25fda55a7944f0800000000000000
+      internalID: -844008946745922608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d0b5d73c65e500800000000000000
+      internalID: 424864726920517281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed42f24723559240800000000000000
+      internalID: 4797832406125137385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed556986b11d740800000000000000
+      internalID: 5174947582838169321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane_Shift_Out_No_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1c9ae01b05888b0800000000000000
+      internalID: -5149777452512722508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plane_Shift_Out_No_Effect_0: -7960799200952432176
+      Plane_Shift_Out_No_Effect_1: 8389475406535117042
+      Plane_Shift_Out_No_Effect_10: 1761321887504355214
+      Plane_Shift_Out_No_Effect_11: -1597341038713104754
+      Plane_Shift_Out_No_Effect_12: 8931886268651962032
+      Plane_Shift_Out_No_Effect_13: -6854309963909879704
+      Plane_Shift_Out_No_Effect_14: -8028671076993076170
+      Plane_Shift_Out_No_Effect_15: 6794110339350264905
+      Plane_Shift_Out_No_Effect_16: -435331242438221056
+      Plane_Shift_Out_No_Effect_17: -4954708775130356138
+      Plane_Shift_Out_No_Effect_18: -8551345115466153658
+      Plane_Shift_Out_No_Effect_19: 7335709403012760316
+      Plane_Shift_Out_No_Effect_2: 371540955197101634
+      Plane_Shift_Out_No_Effect_20: -6498087474879786772
+      Plane_Shift_Out_No_Effect_21: 7230422691294601766
+      Plane_Shift_Out_No_Effect_22: 482098115700155603
+      Plane_Shift_Out_No_Effect_23: -7569674076437684032
+      Plane_Shift_Out_No_Effect_24: 503770830373335231
+      Plane_Shift_Out_No_Effect_25: 5546731642737899831
+      Plane_Shift_Out_No_Effect_26: -7433291802869524246
+      Plane_Shift_Out_No_Effect_27: 7028758748182643973
+      Plane_Shift_Out_No_Effect_28: 3555728502765672625
+      Plane_Shift_Out_No_Effect_29: -5766322179848202793
+      Plane_Shift_Out_No_Effect_3: -5814523912680023817
+      Plane_Shift_Out_No_Effect_30: 5396589040437923378
+      Plane_Shift_Out_No_Effect_31: 3713991582111179169
+      Plane_Shift_Out_No_Effect_32: 3979127456324369732
+      Plane_Shift_Out_No_Effect_33: 2608219784860621274
+      Plane_Shift_Out_No_Effect_34: 6454246622751360643
+      Plane_Shift_Out_No_Effect_35: -5025825405654423690
+      Plane_Shift_Out_No_Effect_36: -725722225310152947
+      Plane_Shift_Out_No_Effect_37: -5981188583046433943
+      Plane_Shift_Out_No_Effect_38: 6524616762457471420
+      Plane_Shift_Out_No_Effect_39: -6171479844302400641
+      Plane_Shift_Out_No_Effect_4: 8141635438383483793
+      Plane_Shift_Out_No_Effect_40: -5835571361165104712
+      Plane_Shift_Out_No_Effect_41: -6653949925757942264
+      Plane_Shift_Out_No_Effect_42: 8621419358125169448
+      Plane_Shift_Out_No_Effect_43: -844008946745922608
+      Plane_Shift_Out_No_Effect_44: 424864726920517281
+      Plane_Shift_Out_No_Effect_45: 4797832406125137385
+      Plane_Shift_Out_No_Effect_46: 5174947582838169321
+      Plane_Shift_Out_No_Effect_47: -5149777452512722508
+      Plane_Shift_Out_No_Effect_5: 6504045106555734583
+      Plane_Shift_Out_No_Effect_6: 8290054069964039729
+      Plane_Shift_Out_No_Effect_7: -3830251495273842768
+      Plane_Shift_Out_No_Effect_8: 4186342412637781307
+      Plane_Shift_Out_No_Effect_9: 1828071829937303926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

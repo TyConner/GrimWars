@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: f62286e48b7db964f92d1dd646fd9db4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4143291611576972232
+    second: Ranger_Idle_Special_0
+  - first:
+      213: 779599662417095647
+    second: Ranger_Idle_Special_1
+  - first:
+      213: 4825625158498190021
+    second: Ranger_Idle_Special_2
+  - first:
+      213: -2921878936387652711
+    second: Ranger_Idle_Special_3
+  - first:
+      213: 303471142312893568
+    second: Ranger_Idle_Special_4
+  - first:
+      213: -7710297960487358288
+    second: Ranger_Idle_Special_5
+  - first:
+      213: 478512398587483267
+    second: Ranger_Idle_Special_6
+  - first:
+      213: -2610403408122373590
+    second: Ranger_Idle_Special_7
+  - first:
+      213: 7836028511469477788
+    second: Ranger_Idle_Special_8
+  - first:
+      213: -3021009279247362090
+    second: Ranger_Idle_Special_9
+  - first:
+      213: 7924337144623523700
+    second: Ranger_Idle_Special_10
+  - first:
+      213: -7260434977068514980
+    second: Ranger_Idle_Special_11
+  - first:
+      213: 1793315827182352974
+    second: Ranger_Idle_Special_12
+  - first:
+      213: -1006803622797285385
+    second: Ranger_Idle_Special_13
+  - first:
+      213: -7119272378993068147
+    second: Ranger_Idle_Special_14
+  - first:
+      213: -3156094849172359186
+    second: Ranger_Idle_Special_15
+  - first:
+      213: -5389804171514178333
+    second: Ranger_Idle_Special_16
+  - first:
+      213: -8094413949541967135
+    second: Ranger_Idle_Special_17
+  - first:
+      213: -2526181535482438229
+    second: Ranger_Idle_Special_18
+  - first:
+      213: -8042375488782278909
+    second: Ranger_Idle_Special_19
+  - first:
+      213: 1884419515039686230
+    second: Ranger_Idle_Special_20
+  - first:
+      213: -7683302094405027255
+    second: Ranger_Idle_Special_21
+  - first:
+      213: -5749949821975623681
+    second: Ranger_Idle_Special_22
+  - first:
+      213: -2949260348276054846
+    second: Ranger_Idle_Special_23
+  - first:
+      213: -3310913541565262681
+    second: Ranger_Idle_Special_24
+  - first:
+      213: 5200797973674599685
+    second: Ranger_Idle_Special_25
+  - first:
+      213: -9075606958572003069
+    second: Ranger_Idle_Special_26
+  - first:
+      213: 1969814598239796185
+    second: Ranger_Idle_Special_27
+  - first:
+      213: 9059900587078720856
+    second: Ranger_Idle_Special_28
+  - first:
+      213: 5770059175154746553
+    second: Ranger_Idle_Special_29
+  - first:
+      213: 8795579393703752253
+    second: Ranger_Idle_Special_30
+  - first:
+      213: -2829496087462699591
+    second: Ranger_Idle_Special_31
+  - first:
+      213: 6584289547381596204
+    second: Ranger_Idle_Special_32
+  - first:
+      213: -8928345784564678588
+    second: Ranger_Idle_Special_33
+  - first:
+      213: -7353203379097862201
+    second: Ranger_Idle_Special_34
+  - first:
+      213: -52860503230489110
+    second: Ranger_Idle_Special_35
+  - first:
+      213: -3903774099046455252
+    second: Ranger_Idle_Special_36
+  - first:
+      213: -4219230903150867545
+    second: Ranger_Idle_Special_37
+  - first:
+      213: -6277294717457874058
+    second: Ranger_Idle_Special_38
+  - first:
+      213: 234054587233664933
+    second: Ranger_Idle_Special_39
+  - first:
+      213: 4886731006143187159
+    second: Ranger_Idle_Special_40
+  - first:
+      213: 9023934013249388229
+    second: Ranger_Idle_Special_41
+  - first:
+      213: -5275352016414286988
+    second: Ranger_Idle_Special_42
+  - first:
+      213: -2239668986943443943
+    second: Ranger_Idle_Special_43
+  - first:
+      213: -54227812956529502
+    second: Ranger_Idle_Special_44
+  - first:
+      213: -2774356419346715388
+    second: Ranger_Idle_Special_45
+  - first:
+      213: -6812202509468770706
+    second: Ranger_Idle_Special_46
+  - first:
+      213: -2705368827760980835
+    second: Ranger_Idle_Special_47
+  - first:
+      213: 7403697402495524027
+    second: Ranger_Idle_Special_48
+  - first:
+      213: 1197537835497395483
+    second: Ranger_Idle_Special_49
+  - first:
+      213: 1162254703742032565
+    second: Ranger_Idle_Special_50
+  - first:
+      213: 646333784649094116
+    second: Ranger_Idle_Special_51
+  - first:
+      213: 7623072253569176859
+    second: Ranger_Idle_Special_52
+  - first:
+      213: -1438434348781875550
+    second: Ranger_Idle_Special_53
+  - first:
+      213: 3702906244993970683
+    second: Ranger_Idle_Special_54
+  - first:
+      213: 6999177854409132573
+    second: Ranger_Idle_Special_55
+  - first:
+      213: -3667912343959609481
+    second: Ranger_Idle_Special_56
+  - first:
+      213: 2923326546868670497
+    second: Ranger_Idle_Special_57
+  - first:
+      213: 8415189075138439823
+    second: Ranger_Idle_Special_58
+  - first:
+      213: 3602688348210206520
+    second: Ranger_Idle_Special_59
+  - first:
+      213: -5174830317993033504
+    second: Ranger_Idle_Special_60
+  - first:
+      213: 8918658217253315104
+    second: Ranger_Idle_Special_61
+  - first:
+      213: -8830197652543866230
+    second: Ranger_Idle_Special_62
+  - first:
+      213: -461872752112086191
+    second: Ranger_Idle_Special_63
+  - first:
+      213: 331407357039922902
+    second: Ranger_Idle_Special_64
+  - first:
+      213: -6191432603236504216
+    second: Ranger_Idle_Special_65
+  - first:
+      213: 7930957706396262014
+    second: Ranger_Idle_Special_66
+  - first:
+      213: -6855722008333497526
+    second: Ranger_Idle_Special_67
+  - first:
+      213: -74492092294699268
+    second: Ranger_Idle_Special_68
+  - first:
+      213: -1862202281044610414
+    second: Ranger_Idle_Special_69
+  - first:
+      213: -7230856468186876352
+    second: Ranger_Idle_Special_70
+  - first:
+      213: 4859315912027266809
+    second: Ranger_Idle_Special_71
+  - first:
+      213: 710084748661089999
+    second: Ranger_Idle_Special_72
+  - first:
+      213: -5337678269317965164
+    second: Ranger_Idle_Special_73
+  - first:
+      213: -3797759086336821541
+    second: Ranger_Idle_Special_74
+  - first:
+      213: 3696051628487884809
+    second: Ranger_Idle_Special_75
+  - first:
+      213: 3475308414204141901
+    second: Ranger_Idle_Special_76
+  - first:
+      213: -672777294972563089
+    second: Ranger_Idle_Special_77
+  - first:
+      213: -6278210034800391775
+    second: Ranger_Idle_Special_78
+  - first:
+      213: -3077045388482244174
+    second: Ranger_Idle_Special_79
+  - first:
+      213: -4527029680168172687
+    second: Ranger_Idle_Special_80
+  - first:
+      213: 7216877510317101315
+    second: Ranger_Idle_Special_81
+  - first:
+      213: -3148131859189549203
+    second: Ranger_Idle_Special_82
+  - first:
+      213: -3170623291523727229
+    second: Ranger_Idle_Special_83
+  - first:
+      213: 3835980699224235236
+    second: Ranger_Idle_Special_84
+  - first:
+      213: 2263610264689777541
+    second: Ranger_Idle_Special_85
+  - first:
+      213: 5121042798433640736
+    second: Ranger_Idle_Special_86
+  - first:
+      213: 5793038809768193118
+    second: Ranger_Idle_Special_87
+  - first:
+      213: -6964311670116817634
+    second: Ranger_Idle_Special_88
+  - first:
+      213: 5442125529975282507
+    second: Ranger_Idle_Special_89
+  - first:
+      213: 4272910957585319801
+    second: Ranger_Idle_Special_90
+  - first:
+      213: -3358546356393668922
+    second: Ranger_Idle_Special_91
+  - first:
+      213: -6254151179440737732
+    second: Ranger_Idle_Special_92
+  - first:
+      213: -5165588637133174498
+    second: Ranger_Idle_Special_93
+  - first:
+      213: -1045985071589482614
+    second: Ranger_Idle_Special_94
+  - first:
+      213: -7762188865449606257
+    second: Ranger_Idle_Special_95
+  - first:
+      213: -2989717148103877240
+    second: Ranger_Idle_Special_96
+  - first:
+      213: -1629211309250758678
+    second: Ranger_Idle_Special_97
+  - first:
+      213: -3330990244446161971
+    second: Ranger_Idle_Special_98
+  - first:
+      213: -3821370734173352278
+    second: Ranger_Idle_Special_99
+  - first:
+      213: 4965962489191769198
+    second: Ranger_Idle_Special_100
+  - first:
+      213: -6383891186033041675
+    second: Ranger_Idle_Special_101
+  - first:
+      213: 7395832113727583204
+    second: Ranger_Idle_Special_102
+  - first:
+      213: -8971816531830183414
+    second: Ranger_Idle_Special_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b6e4c4cdef7930800000000000000
+      internalID: 4143291611576972232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba26133c1b1da00800000000000000
+      internalID: 779599662417095647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2097fa38018f240800000000000000
+      internalID: 4825625158498190021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993faef86966377d0800000000000000
+      internalID: -2921878936387652711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c54256565263400800000000000000
+      internalID: 303471142312893568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b07bb81bd48ff490800000000000000
+      internalID: -7710297960487358288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845d62cd7404a600800000000000000
+      internalID: 478512398587483267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a956a4eebf5cbd0800000000000000
+      internalID: -2610403408122373590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f98f30a6a2fbc60800000000000000
+      internalID: 7836028511469477788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75d4701183316d0800000000000000
+      internalID: -3021009279247362090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e7b9e5a6e8fd60800000000000000
+      internalID: 7924337144623523700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5182051bd0cd3b90800000000000000
+      internalID: -7260434977068514980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3a415e3323e810800000000000000
+      internalID: 1793315827182352974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76798707d1702f0800000000000000
+      internalID: -1006803622797285385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d873ed6ad73433d90800000000000000
+      internalID: -7119272378993068147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee734a5d47c4334d0800000000000000
+      internalID: -3156094849172359186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49af399a19335b0800000000000000
+      internalID: -5389804171514178333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_17
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea9590266ddaaf80800000000000000
+      internalID: -8094413949541967135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1b6b174331fcd0800000000000000
+      internalID: -2526181535482438229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd2d07a1eb36090800000000000000
+      internalID: -8042375488782278909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e11c9909dc62a10800000000000000
+      internalID: 1884419515039686230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a39f8f37d6f5590800000000000000
+      internalID: -7683302094405027255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff782d8f9131430b0800000000000000
+      internalID: -5749949821975623681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c46cdec65f1217d0800000000000000
+      internalID: -2949260348276054846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_24
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d8f80da54d02d0800000000000000
+      internalID: -3310913541565262681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_25
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052279b332fc2840800000000000000
+      internalID: 5200797973674599685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a0494e87fc0280800000000000000
+      internalID: -9075606958572003069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3679c0ff265b10800000000000000
+      internalID: 1969814598239796185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1e21259b3bbd70800000000000000
+      internalID: 9059900587078720856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4051caf3e531050800000000000000
+      internalID: 5770059175154746553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32357b8bdc201a70800000000000000
+      internalID: 8795579393703752253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9d6dbc4c9bb8d0800000000000000
+      internalID: -2829496087462699591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c206ff15578106b50800000000000000
+      internalID: 6584289547381596204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408a2730d4281480800000000000000
+      internalID: -8928345784564678588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7ba35c7c24f990800000000000000
+      internalID: -7353203379097862201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5c4207a3344ff0800000000000000
+      internalID: -52860503230489110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2827f6d32203d9c0800000000000000
+      internalID: -3903774099046455252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab875819d74275c0800000000000000
+      internalID: -4219230903150867545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673cc7786b192e8a0800000000000000
+      internalID: -6277294717457874058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5affc1238678f3300800000000000000
+      internalID: 234054587233664933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_40
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84d0685f721d340800000000000000
+      internalID: 4886731006143187159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_41
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce7b489c247b3d70800000000000000
+      internalID: 9023934013249388229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5c748a4f2ac6b0800000000000000
+      internalID: -5275352016414286988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_43
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ce6c23ce81be0e0800000000000000
+      internalID: -2239668986943443943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac97c767185f3ff0800000000000000
+      internalID: -54227812956529502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_45
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da38829818f79d0800000000000000
+      internalID: -2774356419346715388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_46
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed61509e13671a0800000000000000
+      internalID: -6812202509468770706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_47
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c44e28269947ad0800000000000000
+      internalID: -2705368827760980835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_48
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc5a34af873fb660800000000000000
+      internalID: 7403697402495524027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1599e901528e9010800000000000000
+      internalID: 1197537835497395483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_50
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1213ce78212010800000000000000
+      internalID: 1162254703742032565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_51
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d758172d38f800800000000000000
+      internalID: 646333784649094116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15902b63d79ac960800000000000000
+      internalID: 7623072253569176859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aec228b497a90ce0800000000000000
+      internalID: -1438434348781875550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f0796c9d536330800000000000000
+      internalID: 3702906244993970683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a46d3ec23122160800000000000000
+      internalID: 6999177854409132573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f54071825f81dc0800000000000000
+      internalID: -3667912343959609481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209394810eb19820800000000000000
+      internalID: 2923326546868670497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aef55d0e1c8c470800000000000000
+      internalID: 8415189075138439823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837128ff6f15ff130800000000000000
+      internalID: 3602688348210206520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08a134e3f4f28b0800000000000000
+      internalID: -5174830317993033504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a080456075cb70800000000000000
+      internalID: 8918658217253315104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a72a7f406d47580800000000000000
+      internalID: -8830197652543866230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1535de6dd291799f0800000000000000
+      internalID: -461872752112086191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_64
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec0504c35699400800000000000000
+      internalID: 331407357039922902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_65
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86de059d9dc931aa0800000000000000
+      internalID: -6191432603236504216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_66
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5562930c601e60800000000000000
+      internalID: 7930957706396262014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b447618259bd0a0800000000000000
+      internalID: -6855722008333497526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_68
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e23436d957fef0800000000000000
+      internalID: -74492092294699268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_69
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f96a44e02826e0800000000000000
+      internalID: -1862202281044610414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_70
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b2e75a56d6ab90800000000000000
+      internalID: -7230856468186876352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_71
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed9c38312cf6340800000000000000
+      internalID: 4859315912027266809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_72
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ed54115abad900800000000000000
+      internalID: 710084748661089999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_73
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1bffe4e1cce5b0800000000000000
+      internalID: -5337678269317965164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_74
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b16c7b36ab4bc0800000000000000
+      internalID: -3797759086336821541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_75
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004683af530b4330800000000000000
+      internalID: 3696051628487884809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_76
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416099f696ca3030800000000000000
+      internalID: 3475308414204141901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_77
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6156306d90d9a6f0800000000000000
+      internalID: -672777294972563089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90e6a9c315fd8a0800000000000000
+      internalID: -6278210034800391775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b113c5a5832c45d0800000000000000
+      internalID: -3077045388482244174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730de9bd72cc21c0800000000000000
+      internalID: -4527029680168172687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d4f5ebdf772460800000000000000
+      internalID: 7216877510317101315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67baeae0c69f44d0800000000000000
+      internalID: -3148131859189549203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38006204aeeaff3d0800000000000000
+      internalID: -3170623291523727229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd38e3f142c3530800000000000000
+      internalID: 3835980699224235236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_85
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b13c8ea85f96f10800000000000000
+      internalID: 2263610264689777541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a530fa49911740800000000000000
+      internalID: 5121042798433640736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce84aca12056050800000000000000
+      internalID: 5793038809768193118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_88
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15649d3f6bc95f90800000000000000
+      internalID: -6964311670116817634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_89
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd24df550568b40800000000000000
+      internalID: 5442125529975282507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_90
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774fb780ed6c4b30800000000000000
+      internalID: 4272910957585319801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce097912eb0461d0800000000000000
+      internalID: -3358546356393668922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_92
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3238d163aac439a0800000000000000
+      internalID: -6254151179440737732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_93
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1902e3c0842058b0800000000000000
+      internalID: -5165588637133174498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f1c878e1aeb71f0800000000000000
+      internalID: -1045985071589482614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_95
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83426b4a5a274490800000000000000
+      internalID: -7762188865449606257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_96
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ddf5018146286d0800000000000000
+      internalID: -2989717148103877240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_97
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73f0832f0e369e0800000000000000
+      internalID: -1629211309250758678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_98
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3be716502f5c1d0800000000000000
+      internalID: -3330990244446161971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_99
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae06825093c7fac0800000000000000
+      internalID: -3821370734173352278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_100
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64a038b294aae440800000000000000
+      internalID: 4965962489191769198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_101
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed0c32accd767a0800000000000000
+      internalID: -6383891186033041675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b8256f1643a660800000000000000
+      internalID: 7395832113727583204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_Special_103
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ae8462664bd7380800000000000000
+      internalID: -8971816531830183414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_Idle_Special_0: 4143291611576972232
+      Ranger_Idle_Special_1: 779599662417095647
+      Ranger_Idle_Special_10: 7924337144623523700
+      Ranger_Idle_Special_100: 4965962489191769198
+      Ranger_Idle_Special_101: -6383891186033041675
+      Ranger_Idle_Special_102: 7395832113727583204
+      Ranger_Idle_Special_103: -8971816531830183414
+      Ranger_Idle_Special_11: -7260434977068514980
+      Ranger_Idle_Special_12: 1793315827182352974
+      Ranger_Idle_Special_13: -1006803622797285385
+      Ranger_Idle_Special_14: -7119272378993068147
+      Ranger_Idle_Special_15: -3156094849172359186
+      Ranger_Idle_Special_16: -5389804171514178333
+      Ranger_Idle_Special_17: -8094413949541967135
+      Ranger_Idle_Special_18: -2526181535482438229
+      Ranger_Idle_Special_19: -8042375488782278909
+      Ranger_Idle_Special_2: 4825625158498190021
+      Ranger_Idle_Special_20: 1884419515039686230
+      Ranger_Idle_Special_21: -7683302094405027255
+      Ranger_Idle_Special_22: -5749949821975623681
+      Ranger_Idle_Special_23: -2949260348276054846
+      Ranger_Idle_Special_24: -3310913541565262681
+      Ranger_Idle_Special_25: 5200797973674599685
+      Ranger_Idle_Special_26: -9075606958572003069
+      Ranger_Idle_Special_27: 1969814598239796185
+      Ranger_Idle_Special_28: 9059900587078720856
+      Ranger_Idle_Special_29: 5770059175154746553
+      Ranger_Idle_Special_3: -2921878936387652711
+      Ranger_Idle_Special_30: 8795579393703752253
+      Ranger_Idle_Special_31: -2829496087462699591
+      Ranger_Idle_Special_32: 6584289547381596204
+      Ranger_Idle_Special_33: -8928345784564678588
+      Ranger_Idle_Special_34: -7353203379097862201
+      Ranger_Idle_Special_35: -52860503230489110
+      Ranger_Idle_Special_36: -3903774099046455252
+      Ranger_Idle_Special_37: -4219230903150867545
+      Ranger_Idle_Special_38: -6277294717457874058
+      Ranger_Idle_Special_39: 234054587233664933
+      Ranger_Idle_Special_4: 303471142312893568
+      Ranger_Idle_Special_40: 4886731006143187159
+      Ranger_Idle_Special_41: 9023934013249388229
+      Ranger_Idle_Special_42: -5275352016414286988
+      Ranger_Idle_Special_43: -2239668986943443943
+      Ranger_Idle_Special_44: -54227812956529502
+      Ranger_Idle_Special_45: -2774356419346715388
+      Ranger_Idle_Special_46: -6812202509468770706
+      Ranger_Idle_Special_47: -2705368827760980835
+      Ranger_Idle_Special_48: 7403697402495524027
+      Ranger_Idle_Special_49: 1197537835497395483
+      Ranger_Idle_Special_5: -7710297960487358288
+      Ranger_Idle_Special_50: 1162254703742032565
+      Ranger_Idle_Special_51: 646333784649094116
+      Ranger_Idle_Special_52: 7623072253569176859
+      Ranger_Idle_Special_53: -1438434348781875550
+      Ranger_Idle_Special_54: 3702906244993970683
+      Ranger_Idle_Special_55: 6999177854409132573
+      Ranger_Idle_Special_56: -3667912343959609481
+      Ranger_Idle_Special_57: 2923326546868670497
+      Ranger_Idle_Special_58: 8415189075138439823
+      Ranger_Idle_Special_59: 3602688348210206520
+      Ranger_Idle_Special_6: 478512398587483267
+      Ranger_Idle_Special_60: -5174830317993033504
+      Ranger_Idle_Special_61: 8918658217253315104
+      Ranger_Idle_Special_62: -8830197652543866230
+      Ranger_Idle_Special_63: -461872752112086191
+      Ranger_Idle_Special_64: 331407357039922902
+      Ranger_Idle_Special_65: -6191432603236504216
+      Ranger_Idle_Special_66: 7930957706396262014
+      Ranger_Idle_Special_67: -6855722008333497526
+      Ranger_Idle_Special_68: -74492092294699268
+      Ranger_Idle_Special_69: -1862202281044610414
+      Ranger_Idle_Special_7: -2610403408122373590
+      Ranger_Idle_Special_70: -7230856468186876352
+      Ranger_Idle_Special_71: 4859315912027266809
+      Ranger_Idle_Special_72: 710084748661089999
+      Ranger_Idle_Special_73: -5337678269317965164
+      Ranger_Idle_Special_74: -3797759086336821541
+      Ranger_Idle_Special_75: 3696051628487884809
+      Ranger_Idle_Special_76: 3475308414204141901
+      Ranger_Idle_Special_77: -672777294972563089
+      Ranger_Idle_Special_78: -6278210034800391775
+      Ranger_Idle_Special_79: -3077045388482244174
+      Ranger_Idle_Special_8: 7836028511469477788
+      Ranger_Idle_Special_80: -4527029680168172687
+      Ranger_Idle_Special_81: 7216877510317101315
+      Ranger_Idle_Special_82: -3148131859189549203
+      Ranger_Idle_Special_83: -3170623291523727229
+      Ranger_Idle_Special_84: 3835980699224235236
+      Ranger_Idle_Special_85: 2263610264689777541
+      Ranger_Idle_Special_86: 5121042798433640736
+      Ranger_Idle_Special_87: 5793038809768193118
+      Ranger_Idle_Special_88: -6964311670116817634
+      Ranger_Idle_Special_89: 5442125529975282507
+      Ranger_Idle_Special_9: -3021009279247362090
+      Ranger_Idle_Special_90: 4272910957585319801
+      Ranger_Idle_Special_91: -3358546356393668922
+      Ranger_Idle_Special_92: -6254151179440737732
+      Ranger_Idle_Special_93: -5165588637133174498
+      Ranger_Idle_Special_94: -1045985071589482614
+      Ranger_Idle_Special_95: -7762188865449606257
+      Ranger_Idle_Special_96: -2989717148103877240
+      Ranger_Idle_Special_97: -1629211309250758678
+      Ranger_Idle_Special_98: -3330990244446161971
+      Ranger_Idle_Special_99: -3821370734173352278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

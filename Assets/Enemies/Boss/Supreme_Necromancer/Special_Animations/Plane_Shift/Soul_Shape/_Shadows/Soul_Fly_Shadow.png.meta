@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f00b995253cd79f4687a3205725baee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2030520623131847542
+    second: Soul_Fly_Shadow_0
+  - first:
+      213: 1722447729389924219
+    second: Soul_Fly_Shadow_1
+  - first:
+      213: -3308641779510209087
+    second: Soul_Fly_Shadow_2
+  - first:
+      213: 4596653485352062658
+    second: Soul_Fly_Shadow_3
+  - first:
+      213: -7164562184485043599
+    second: Soul_Fly_Shadow_4
+  - first:
+      213: 843952825464515552
+    second: Soul_Fly_Shadow_5
+  - first:
+      213: -6526105031284713881
+    second: Soul_Fly_Shadow_6
+  - first:
+      213: 5582542751249801148
+    second: Soul_Fly_Shadow_7
+  - first:
+      213: 3392296906658441058
+    second: Soul_Fly_Shadow_8
+  - first:
+      213: -8008939773953383253
+    second: Soul_Fly_Shadow_9
+  - first:
+      213: -2288530181583688068
+    second: Soul_Fly_Shadow_10
+  - first:
+      213: 4904962543054105903
+    second: Soul_Fly_Shadow_11
+  - first:
+      213: -8258458703476807818
+    second: Soul_Fly_Shadow_12
+  - first:
+      213: -5149605267431470336
+    second: Soul_Fly_Shadow_13
+  - first:
+      213: 6611624928978644201
+    second: Soul_Fly_Shadow_14
+  - first:
+      213: -2094659412550847086
+    second: Soul_Fly_Shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841f1d504422d3e0800000000000000
+      internalID: -2030520623131847542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe67e751d57e710800000000000000
+      internalID: 1722447729389924219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 104
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5174bd4d75512d0800000000000000
+      internalID: -3308641779510209087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce88f5adf79acf30800000000000000
+      internalID: 4596653485352062658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172829617ac529c90800000000000000
+      internalID: -7164562184485043599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebeff09f9256bb00800000000000000
+      internalID: 843952825464515552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76692630d0e9e65a0800000000000000
+      internalID: -6526105031284713881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf1daffd0d297d40800000000000000
+      internalID: 5582542751249801148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267680e301cd31f20800000000000000
+      internalID: 3392296906658441058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4e20275b78ad090800000000000000
+      internalID: -8008939773953383253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea1fccce18d30e0800000000000000
+      internalID: -2288530181583688068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d265ff17de11440800000000000000
+      internalID: 4904962543054105903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677280b709f046d80800000000000000
+      internalID: -8258458703476807818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b44450b4de888b0800000000000000
+      internalID: -5149605267431470336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca3efc7d531cb50800000000000000
+      internalID: 6611624928978644201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Fly_Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2957a7dbc564ee2e0800000000000000
+      internalID: -2094659412550847086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soul_Fly_Shadow_0: -2030520623131847542
+      Soul_Fly_Shadow_1: 1722447729389924219
+      Soul_Fly_Shadow_10: -2288530181583688068
+      Soul_Fly_Shadow_11: 4904962543054105903
+      Soul_Fly_Shadow_12: -8258458703476807818
+      Soul_Fly_Shadow_13: -5149605267431470336
+      Soul_Fly_Shadow_14: 6611624928978644201
+      Soul_Fly_Shadow_15: -2094659412550847086
+      Soul_Fly_Shadow_2: -3308641779510209087
+      Soul_Fly_Shadow_3: 4596653485352062658
+      Soul_Fly_Shadow_4: -7164562184485043599
+      Soul_Fly_Shadow_5: 843952825464515552
+      Soul_Fly_Shadow_6: -6526105031284713881
+      Soul_Fly_Shadow_7: 5582542751249801148
+      Soul_Fly_Shadow_8: 3392296906658441058
+      Soul_Fly_Shadow_9: -8008939773953383253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
