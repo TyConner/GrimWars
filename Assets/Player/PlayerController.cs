@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Device;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
@@ -29,9 +28,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     Vector2 velSmoothRef;
 
     [Header("Stats")]
-    [SerializeField] int maxHP = 3;
+    [SerializeField] int maxHP = 100;
     int currentHP;
-    [SerializeField] int maxMana = 10;
+    [SerializeField] int maxMana = 100;
     int currentMana;
     [Header("Grimoire")]
     [SerializeField] grimoireSystem Grimoire;
@@ -50,7 +49,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [SerializeField] Image healthBar;
     [SerializeField] Image manaBar;
     [SerializeField] Image GrimoireSprite;
-    
+
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -125,7 +124,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
             fireSecondaryAction.action.Disable();
         }
 
-        if(lookAction != null)
+        if (lookAction != null)
         {
             lookAction.action.Disable();
         }
@@ -191,10 +190,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         {
             //TryFireball();
             lookInput = lookAction.action.ReadValue<Vector2>();
-
             //attack
             Attack();
-           
+
         }
 
         if (fireSecondaryAction != null && fireSecondaryAction.action.WasPressedThisFrame())
@@ -294,6 +292,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         UpdateHealthBar();
     }
 
+    public void RestoreMana(int amount)
+    {
+        if (bDead) return;
+
+        currentMana = Math.Clamp(currentMana + amount, 0, maxMana);
+        UpdateManaBar();
+    }
+
     public void Die()
     {
         rb.linearVelocity = Vector2.zero;
@@ -310,7 +316,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         if (Grimoire != null)
         {
             //Debug.LogWarning("Cast attempt");
-            if(Grimoire.GetQuick() == null)
+            if (Grimoire.GetQuick() == null)
             {
                 return;
             }
@@ -331,7 +337,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
             {
                 Debug.LogWarning("Not Enough Mana");
             }
-            
+
         }
         else
         {
@@ -406,15 +412,15 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 
     void UpdateManaBar()
     {
-        if(manaBar != null)
+        if (manaBar != null)
         {
-            manaBar.fillAmount = (float)currentMana/ maxMana;
+            manaBar.fillAmount = (float)currentMana / maxMana;
         }
     }
     void iUseItems.GrimoirePickup(GrimoireClassData _grimoire)
     {
         Grimoire.SwapGrimoires(_grimoire);
-        
+
         //USE THIS TO UPDATE UI!!!
         GrimoireSprite.sprite = Grimoire.GetGrimoireSprite();
     }
