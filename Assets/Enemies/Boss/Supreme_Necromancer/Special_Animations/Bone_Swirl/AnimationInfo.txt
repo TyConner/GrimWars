@@ -1,0 +1,17 @@
+*Frame size* 
+
+- 32x32px: For "Bone_Swirl_Cast" and "Bone_Impact".
+- 64x64px: For "Bone_Swirl_Rise" and "Bone_Swirl"
+
+*Frame Duration*
+
+- 100ms: For all the animations.
+
+
+NOTES:
+
+- The Swirl starts with the character doing "Bone_Swirl_Cast"
+- "Bone_Swirl_Rise" has the same duration as "Bone_Swirl_Cast" and they should start simultaneously
+- "Bone_Swirl_Rise" can be centered on the character (and follow them as they move)
+- "Bone_Swirl" has 3 rows. Each row has a decreasing amount of bones (the idea is that bones get destroyed upon impact)
+

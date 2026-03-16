@@ -13,5 +13,8 @@ MonoBehaviour:
   m_Name: Fire_Grimoire
   m_EditorClassIdentifier: Assembly-CSharp::GrimoireClassData
   Type: 0
+  MaxPages: 5
+  MaxLevel: 5
   QuickSpell_Data: {fileID: 11400000, guid: 2da09280265f75346a18218e235aa3e5, type: 2}
-  HeavySpell_Data: {fileID: 0}
+  HeavySpell_Data: {fileID: 11400000, guid: 2ebc7ec83870cbb41b756c438182d8cc, type: 2}
+  Grimoire_Sprite: {fileID: -7988278825849107257, guid: de12b37df0c26de45832c0c0eaa2337e, type: 3}

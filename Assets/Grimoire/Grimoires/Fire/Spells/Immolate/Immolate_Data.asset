@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93bbc4f9dd7ad304ab637e4e192c1bce, type: 3}
+  m_Name: Immolate_Data
+  m_EditorClassIdentifier: Assembly-CSharp::SpellData
+  SpellPrefab: {fileID: 3060594969012403398, guid: cb0ec3d9b90a69a4c8a965b39c8122f0, type: 3}
+  manaCost: 10
+  level: 0
+  buffTimeMultiplier: 1
+  damageMultiplier: 1
+  speedMultiplier: 1
+  lifetimeMultiplier: 1
+  AOEMultiplier: 1
+  DOTRateMultiplier: 1
+  CoolDown: 1

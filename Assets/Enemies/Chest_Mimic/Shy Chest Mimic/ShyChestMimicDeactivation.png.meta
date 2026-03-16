@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 8c38ba78f5584c2489b1c34a6ff3ed44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2564265680637997809
+    second: ShyChestMimicDeactivation_0
+  - first:
+      213: -8673239909303755834
+    second: ShyChestMimicDeactivation_1
+  - first:
+      213: -7329195980608630742
+    second: ShyChestMimicDeactivation_2
+  - first:
+      213: 7193821398725752910
+    second: ShyChestMimicDeactivation_3
+  - first:
+      213: 9022653619312835870
+    second: ShyChestMimicDeactivation_4
+  - first:
+      213: -8282725890723402378
+    second: ShyChestMimicDeactivation_5
+  - first:
+      213: -6443384012145210610
+    second: ShyChestMimicDeactivation_6
+  - first:
+      213: 7951067830140480191
+    second: ShyChestMimicDeactivation_7
+  - first:
+      213: 1216836697804989459
+    second: ShyChestMimicDeactivation_8
+  - first:
+      213: -140117761083089812
+    second: ShyChestMimicDeactivation_9
+  - first:
+      213: -6478439877863624442
+    second: ShyChestMimicDeactivation_10
+  - first:
+      213: 941665856134794859
+    second: ShyChestMimicDeactivation_11
+  - first:
+      213: -5464724214545838531
+    second: ShyChestMimicDeactivation_12
+  - first:
+      213: -8151035285318182464
+    second: ShyChestMimicDeactivation_13
+  - first:
+      213: 5076517662251735453
+    second: ShyChestMimicDeactivation_14
+  - first:
+      213: -8596253027207586095
+    second: ShyChestMimicDeactivation_15
+  - first:
+      213: -6132561508104183524
+    second: ShyChestMimicDeactivation_16
+  - first:
+      213: -5691195874613105811
+    second: ShyChestMimicDeactivation_17
+  - first:
+      213: 9192417482772127914
+    second: ShyChestMimicDeactivation_18
+  - first:
+      213: -1036298517545545045
+    second: ShyChestMimicDeactivation_19
+  - first:
+      213: 4371894412865634889
+    second: ShyChestMimicDeactivation_20
+  - first:
+      213: -1983443738340496016
+    second: ShyChestMimicDeactivation_21
+  - first:
+      213: -4398189768538523545
+    second: ShyChestMimicDeactivation_22
+  - first:
+      213: -2433155859851449185
+    second: ShyChestMimicDeactivation_23
+  - first:
+      213: 6546199250218481542
+    second: ShyChestMimicDeactivation_24
+  - first:
+      213: -2947669447497395142
+    second: ShyChestMimicDeactivation_25
+  - first:
+      213: 3361139107355262922
+    second: ShyChestMimicDeactivation_26
+  - first:
+      213: 6189069450786651581
+    second: ShyChestMimicDeactivation_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dc8d313f5e96cd0800000000000000
+      internalID: -2564265680637997809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb553a514672a780800000000000000
+      internalID: -8673239909303755834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a201a9e5617794a90800000000000000
+      internalID: -7329195980608630742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48f6a8927695d360800000000000000
+      internalID: 7193821398725752910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1db886a9a7e63d70800000000000000
+      internalID: 9022653619312835870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d2087afa8dd0d80800000000000000
+      internalID: -8282725890723402378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b47a421608496a0800000000000000
+      internalID: -6443384012145210610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2f80a01ed75e60800000000000000
+      internalID: 7951067830140480191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3146352978213e010800000000000000
+      internalID: 1216836697804989459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c5bef73a33e0ef0800000000000000
+      internalID: -140117761083089812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601b63d5145f716a0800000000000000
+      internalID: -6478439877863624442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e47046b18711d00800000000000000
+      internalID: 941665856134794859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e058cb7466924b0800000000000000
+      internalID: -5464724214545838531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95fe21894b1ee80800000000000000
+      internalID: -8151035285318182464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d282dae9637640800000000000000
+      internalID: 5076517662251735453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de5ae9aa69f3b880800000000000000
+      internalID: -8596253027207586095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116732dcc3c4eaa0800000000000000
+      internalID: -6132561508104183524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b648a518fc401b0800000000000000
+      internalID: -5691195874613105811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa029bf3ff6029f70800000000000000
+      internalID: 9192417482772127914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba21f642df35e91f0800000000000000
+      internalID: -1036298517545545045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9420f522ec61cac30800000000000000
+      internalID: 4371894412865634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ded30cd646974e0800000000000000
+      internalID: -1983443738340496016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f08745bd76f2c0800000000000000
+      internalID: -4398189768538523545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_23
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce46a03a1bb3ed0800000000000000
+      internalID: -2433155859851449185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687733ae885c8da50800000000000000
+      internalID: 6546199250218481542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3455a24146c717d0800000000000000
+      internalID: -2947669447497395142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7596c53a25ae20800000000000000
+      internalID: 3361139107355262922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShyChestMimicDeactivation_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd3c58dfddf3e550800000000000000
+      internalID: 6189069450786651581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShyChestMimicDeactivation_0: -2564265680637997809
+      ShyChestMimicDeactivation_1: -8673239909303755834
+      ShyChestMimicDeactivation_10: -6478439877863624442
+      ShyChestMimicDeactivation_11: 941665856134794859
+      ShyChestMimicDeactivation_12: -5464724214545838531
+      ShyChestMimicDeactivation_13: -8151035285318182464
+      ShyChestMimicDeactivation_14: 5076517662251735453
+      ShyChestMimicDeactivation_15: -8596253027207586095
+      ShyChestMimicDeactivation_16: -6132561508104183524
+      ShyChestMimicDeactivation_17: -5691195874613105811
+      ShyChestMimicDeactivation_18: 9192417482772127914
+      ShyChestMimicDeactivation_19: -1036298517545545045
+      ShyChestMimicDeactivation_2: -7329195980608630742
+      ShyChestMimicDeactivation_20: 4371894412865634889
+      ShyChestMimicDeactivation_21: -1983443738340496016
+      ShyChestMimicDeactivation_22: -4398189768538523545
+      ShyChestMimicDeactivation_23: -2433155859851449185
+      ShyChestMimicDeactivation_24: 6546199250218481542
+      ShyChestMimicDeactivation_25: -2947669447497395142
+      ShyChestMimicDeactivation_26: 3361139107355262922
+      ShyChestMimicDeactivation_27: 6189069450786651581
+      ShyChestMimicDeactivation_3: 7193821398725752910
+      ShyChestMimicDeactivation_4: 9022653619312835870
+      ShyChestMimicDeactivation_5: -8282725890723402378
+      ShyChestMimicDeactivation_6: -6443384012145210610
+      ShyChestMimicDeactivation_7: 7951067830140480191
+      ShyChestMimicDeactivation_8: 1216836697804989459
+      ShyChestMimicDeactivation_9: -140117761083089812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 79c42945eaa6dfc468074f4f132065a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1913839346885229308
+    second: Dark_Wings_Landing_Only_Effect_0
+  - first:
+      213: -5617259198942567106
+    second: Dark_Wings_Landing_Only_Effect_1
+  - first:
+      213: 4426784172954801722
+    second: Dark_Wings_Landing_Only_Effect_2
+  - first:
+      213: -7197810301930390059
+    second: Dark_Wings_Landing_Only_Effect_3
+  - first:
+      213: 7931769845140898769
+    second: Dark_Wings_Landing_Only_Effect_4
+  - first:
+      213: 5598675970887116135
+    second: Dark_Wings_Landing_Only_Effect_5
+  - first:
+      213: 75736969300260765
+    second: Dark_Wings_Landing_Only_Effect_6
+  - first:
+      213: 5752553851359059213
+    second: Dark_Wings_Landing_Only_Effect_7
+  - first:
+      213: 1990384480761631876
+    second: Dark_Wings_Landing_Only_Effect_8
+  - first:
+      213: -1100809200804845706
+    second: Dark_Wings_Landing_Only_Effect_9
+  - first:
+      213: 4353276321789643347
+    second: Dark_Wings_Landing_Only_Effect_10
+  - first:
+      213: 6003998671834187640
+    second: Dark_Wings_Landing_Only_Effect_11
+  - first:
+      213: -4132361980151507714
+    second: Dark_Wings_Landing_Only_Effect_12
+  - first:
+      213: -3760750117294975351
+    second: Dark_Wings_Landing_Only_Effect_13
+  - first:
+      213: 4805482235060176320
+    second: Dark_Wings_Landing_Only_Effect_14
+  - first:
+      213: 7137757904238402504
+    second: Dark_Wings_Landing_Only_Effect_15
+  - first:
+      213: -9182475485503721561
+    second: Dark_Wings_Landing_Only_Effect_16
+  - first:
+      213: -3708168356128451155
+    second: Dark_Wings_Landing_Only_Effect_17
+  - first:
+      213: -4476946618654697465
+    second: Dark_Wings_Landing_Only_Effect_18
+  - first:
+      213: -3362626065528985983
+    second: Dark_Wings_Landing_Only_Effect_19
+  - first:
+      213: -4555056197924737624
+    second: Dark_Wings_Landing_Only_Effect_20
+  - first:
+      213: -6971075645452838310
+    second: Dark_Wings_Landing_Only_Effect_21
+  - first:
+      213: 744141992241874036
+    second: Dark_Wings_Landing_Only_Effect_22
+  - first:
+      213: 3430335841225948585
+    second: Dark_Wings_Landing_Only_Effect_23
+  - first:
+      213: -5893232069660578564
+    second: Dark_Wings_Landing_Only_Effect_24
+  - first:
+      213: -5950221958258320853
+    second: Dark_Wings_Landing_Only_Effect_25
+  - first:
+      213: 6640497168320040382
+    second: Dark_Wings_Landing_Only_Effect_26
+  - first:
+      213: -7126597064462771821
+    second: Dark_Wings_Landing_Only_Effect_27
+  - first:
+      213: 107972388055505578
+    second: Dark_Wings_Landing_Only_Effect_28
+  - first:
+      213: 7153020058851257149
+    second: Dark_Wings_Landing_Only_Effect_29
+  - first:
+      213: 884449136919168033
+    second: Dark_Wings_Landing_Only_Effect_30
+  - first:
+      213: -7884772258129892480
+    second: Dark_Wings_Landing_Only_Effect_31
+  - first:
+      213: 1185630699856078125
+    second: Dark_Wings_Landing_Only_Effect_32
+  - first:
+      213: 4675730883311725726
+    second: Dark_Wings_Landing_Only_Effect_33
+  - first:
+      213: 7936747483424735433
+    second: Dark_Wings_Landing_Only_Effect_34
+  - first:
+      213: 8939281588347962942
+    second: Dark_Wings_Landing_Only_Effect_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058db3014da075e0800000000000000
+      internalID: -1913839346885229308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 104
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35abb3258c7b02b0800000000000000
+      internalID: -5617259198942567106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 102
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36da4e40c81f6d30800000000000000
+      internalID: 4426784172954801722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddbac08aad3c1c90800000000000000
+      internalID: -7197810301930390059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 105
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d347cb56ae431e60800000000000000
+      internalID: 7931769845140898769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ed39e12e72bd40800000000000000
+      internalID: 5598675970887116135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b18f4f521d0100800000000000000
+      internalID: 75736969300260765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddf8ddf3d25df40800000000000000
+      internalID: 5752553851359059213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845f36c3244f9b10800000000000000
+      internalID: 1990384480761631876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ab8c3dd329b0f0800000000000000
+      internalID: -1100809200804845706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 72
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a046100c1f96c30800000000000000
+      internalID: 4353276321789643347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 70
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87708924bfc725350800000000000000
+      internalID: 6003998671834187640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 73
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45db95ca6e6a6c0800000000000000
+      internalID: -4132361980151507714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986df9191b12fcbc0800000000000000
+      internalID: -3760750117294975351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 74
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5463bd1a080b240800000000000000
+      internalID: 4805482235060176320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 69
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbddd61ff86e0360800000000000000
+      internalID: 7137757904238402504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af61df523b419080800000000000000
+      internalID: -9182475485503721561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59e9dd680f98cc0800000000000000
+      internalID: -3708168356128451155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70853bc25c0bed1c0800000000000000
+      internalID: -4476946618654697465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ecabc86d8551d0800000000000000
+      internalID: -3362626065528985983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 46
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad21ce858039c0c0800000000000000
+      internalID: -4555056197924737624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a186282a3c14f90800000000000000
+      internalID: -6971075645452838310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 49
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47447060339b35a00800000000000000
+      internalID: 744141992241874036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad309cd5400b9f20800000000000000
+      internalID: 3430335841225948585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce0f408a8073ea0800000000000000
+      internalID: -5893232069660578564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a984397a09c6da0800000000000000
+      internalID: -5950221958258320853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 53
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd04b1edf8c72c50800000000000000
+      internalID: 6640497168320040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399da5b6abd391d90800000000000000
+      internalID: -7126597064462771821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa599b90589f7100800000000000000
+      internalID: 107972388055505578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba21f58d1a44360800000000000000
+      internalID: 7153020058851257149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c7f3ddc1364c00800000000000000
+      internalID: 884449136919168033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b20531869a39290800000000000000
+      internalID: -7884772258129892480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2528bbf6d4347010800000000000000
+      internalID: 1185630699856078125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c6e1d177883e040800000000000000
+      internalID: 4675730883311725726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0c18519cdf42e60800000000000000
+      internalID: 7936747483424735433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Wings_Landing_Only_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368ba40e35be0c70800000000000000
+      internalID: 8939281588347962942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark_Wings_Landing_Only_Effect_0: -1913839346885229308
+      Dark_Wings_Landing_Only_Effect_1: -5617259198942567106
+      Dark_Wings_Landing_Only_Effect_10: 4353276321789643347
+      Dark_Wings_Landing_Only_Effect_11: 6003998671834187640
+      Dark_Wings_Landing_Only_Effect_12: -4132361980151507714
+      Dark_Wings_Landing_Only_Effect_13: -3760750117294975351
+      Dark_Wings_Landing_Only_Effect_14: 4805482235060176320
+      Dark_Wings_Landing_Only_Effect_15: 7137757904238402504
+      Dark_Wings_Landing_Only_Effect_16: -9182475485503721561
+      Dark_Wings_Landing_Only_Effect_17: -3708168356128451155
+      Dark_Wings_Landing_Only_Effect_18: -4476946618654697465
+      Dark_Wings_Landing_Only_Effect_19: -3362626065528985983
+      Dark_Wings_Landing_Only_Effect_2: 4426784172954801722
+      Dark_Wings_Landing_Only_Effect_20: -4555056197924737624
+      Dark_Wings_Landing_Only_Effect_21: -6971075645452838310
+      Dark_Wings_Landing_Only_Effect_22: 744141992241874036
+      Dark_Wings_Landing_Only_Effect_23: 3430335841225948585
+      Dark_Wings_Landing_Only_Effect_24: -5893232069660578564
+      Dark_Wings_Landing_Only_Effect_25: -5950221958258320853
+      Dark_Wings_Landing_Only_Effect_26: 6640497168320040382
+      Dark_Wings_Landing_Only_Effect_27: -7126597064462771821
+      Dark_Wings_Landing_Only_Effect_28: 107972388055505578
+      Dark_Wings_Landing_Only_Effect_29: 7153020058851257149
+      Dark_Wings_Landing_Only_Effect_3: -7197810301930390059
+      Dark_Wings_Landing_Only_Effect_30: 884449136919168033
+      Dark_Wings_Landing_Only_Effect_31: -7884772258129892480
+      Dark_Wings_Landing_Only_Effect_32: 1185630699856078125
+      Dark_Wings_Landing_Only_Effect_33: 4675730883311725726
+      Dark_Wings_Landing_Only_Effect_34: 7936747483424735433
+      Dark_Wings_Landing_Only_Effect_35: 8939281588347962942
+      Dark_Wings_Landing_Only_Effect_4: 7931769845140898769
+      Dark_Wings_Landing_Only_Effect_5: 5598675970887116135
+      Dark_Wings_Landing_Only_Effect_6: 75736969300260765
+      Dark_Wings_Landing_Only_Effect_7: 5752553851359059213
+      Dark_Wings_Landing_Only_Effect_8: 1990384480761631876
+      Dark_Wings_Landing_Only_Effect_9: -1100809200804845706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

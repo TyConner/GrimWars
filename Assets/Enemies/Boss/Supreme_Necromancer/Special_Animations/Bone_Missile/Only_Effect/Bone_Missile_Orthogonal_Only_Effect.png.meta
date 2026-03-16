@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: fc0bf2176903cb7459e31afdea740367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1956654363260347582
+    second: Bone_Missile_Orthogonal_Only_Effect_0
+  - first:
+      213: -9043307372420363641
+    second: Bone_Missile_Orthogonal_Only_Effect_1
+  - first:
+      213: 3904474320574443069
+    second: Bone_Missile_Orthogonal_Only_Effect_2
+  - first:
+      213: 4803780697315209452
+    second: Bone_Missile_Orthogonal_Only_Effect_3
+  - first:
+      213: 7753064311714621216
+    second: Bone_Missile_Orthogonal_Only_Effect_4
+  - first:
+      213: 9169646159513451283
+    second: Bone_Missile_Orthogonal_Only_Effect_5
+  - first:
+      213: 7199846823609172386
+    second: Bone_Missile_Orthogonal_Only_Effect_6
+  - first:
+      213: -7942683308703067104
+    second: Bone_Missile_Orthogonal_Only_Effect_7
+  - first:
+      213: -5465316393346748129
+    second: Bone_Missile_Orthogonal_Only_Effect_8
+  - first:
+      213: -8253849245422432798
+    second: Bone_Missile_Orthogonal_Only_Effect_9
+  - first:
+      213: -3950912593172130162
+    second: Bone_Missile_Orthogonal_Only_Effect_10
+  - first:
+      213: 8903097840265053874
+    second: Bone_Missile_Orthogonal_Only_Effect_11
+  - first:
+      213: -2779982689612339067
+    second: Bone_Missile_Orthogonal_Only_Effect_12
+  - first:
+      213: -2781912738448919093
+    second: Bone_Missile_Orthogonal_Only_Effect_13
+  - first:
+      213: 1920749286931020762
+    second: Bone_Missile_Orthogonal_Only_Effect_14
+  - first:
+      213: -4600880761606108404
+    second: Bone_Missile_Orthogonal_Only_Effect_15
+  - first:
+      213: -2425420557568673701
+    second: Bone_Missile_Orthogonal_Only_Effect_16
+  - first:
+      213: -3621332845091264624
+    second: Bone_Missile_Orthogonal_Only_Effect_17
+  - first:
+      213: 6943831137616352204
+    second: Bone_Missile_Orthogonal_Only_Effect_18
+  - first:
+      213: -8687363253194581316
+    second: Bone_Missile_Orthogonal_Only_Effect_19
+  - first:
+      213: -1266539736916657783
+    second: Bone_Missile_Orthogonal_Only_Effect_20
+  - first:
+      213: 6663278806920723028
+    second: Bone_Missile_Orthogonal_Only_Effect_21
+  - first:
+      213: 1706913152615125142
+    second: Bone_Missile_Orthogonal_Only_Effect_22
+  - first:
+      213: -5833936984265979447
+    second: Bone_Missile_Orthogonal_Only_Effect_23
+  - first:
+      213: 8312656699574200823
+    second: Bone_Missile_Orthogonal_Only_Effect_24
+  - first:
+      213: -4908527658278474468
+    second: Bone_Missile_Orthogonal_Only_Effect_25
+  - first:
+      213: -8761346433172098400
+    second: Bone_Missile_Orthogonal_Only_Effect_26
+  - first:
+      213: -4971599943578775997
+    second: Bone_Missile_Orthogonal_Only_Effect_27
+  - first:
+      213: 677958287421017497
+    second: Bone_Missile_Orthogonal_Only_Effect_28
+  - first:
+      213: -1470754733512431126
+    second: Bone_Missile_Orthogonal_Only_Effect_29
+  - first:
+      213: -5936535568644241530
+    second: Bone_Missile_Orthogonal_Only_Effect_30
+  - first:
+      213: 476717989153065159
+    second: Bone_Missile_Orthogonal_Only_Effect_31
+  - first:
+      213: -4604047984263469517
+    second: Bone_Missile_Orthogonal_Only_Effect_32
+  - first:
+      213: 6242385765282236794
+    second: Bone_Missile_Orthogonal_Only_Effect_33
+  - first:
+      213: 2748937344685285949
+    second: Bone_Missile_Orthogonal_Only_Effect_34
+  - first:
+      213: -1268533102103570147
+    second: Bone_Missile_Orthogonal_Only_Effect_35
+  - first:
+      213: 7870045533894593771
+    second: Bone_Missile_Orthogonal_Only_Effect_36
+  - first:
+      213: -757916266562168209
+    second: Bone_Missile_Orthogonal_Only_Effect_37
+  - first:
+      213: -3490334858405245385
+    second: Bone_Missile_Orthogonal_Only_Effect_38
+  - first:
+      213: -1516805654155282366
+    second: Bone_Missile_Orthogonal_Only_Effect_39
+  - first:
+      213: 2547504873516009922
+    second: Bone_Missile_Orthogonal_Only_Effect_40
+  - first:
+      213: 5470813147931782176
+    second: Bone_Missile_Orthogonal_Only_Effect_41
+  - first:
+      213: 1704588201095672809
+    second: Bone_Missile_Orthogonal_Only_Effect_42
+  - first:
+      213: -6231993246494575984
+    second: Bone_Missile_Orthogonal_Only_Effect_43
+  - first:
+      213: 3024953372505229832
+    second: Bone_Missile_Orthogonal_Only_Effect_44
+  - first:
+      213: -8771977751713228333
+    second: Bone_Missile_Orthogonal_Only_Effect_45
+  - first:
+      213: 8975778570998907570
+    second: Bone_Missile_Orthogonal_Only_Effect_46
+  - first:
+      213: -4101674321613626815
+    second: Bone_Missile_Orthogonal_Only_Effect_47
+  - first:
+      213: 734876051625383447
+    second: Bone_Missile_Orthogonal_Only_Effect_48
+  - first:
+      213: 1189727753534570918
+    second: Bone_Missile_Orthogonal_Only_Effect_49
+  - first:
+      213: 5584488196477154582
+    second: Bone_Missile_Orthogonal_Only_Effect_50
+  - first:
+      213: 2504385101084753655
+    second: Bone_Missile_Orthogonal_Only_Effect_51
+  - first:
+      213: 5567857179805655066
+    second: Bone_Missile_Orthogonal_Only_Effect_52
+  - first:
+      213: -6388081285121871762
+    second: Bone_Missile_Orthogonal_Only_Effect_53
+  - first:
+      213: 7726411898115320801
+    second: Bone_Missile_Orthogonal_Only_Effect_54
+  - first:
+      213: 246269732658715529
+    second: Bone_Missile_Orthogonal_Only_Effect_55
+  - first:
+      213: -7980157085770096747
+    second: Bone_Missile_Orthogonal_Only_Effect_56
+  - first:
+      213: 3769523812319221714
+    second: Bone_Missile_Orthogonal_Only_Effect_57
+  - first:
+      213: -732711462416728695
+    second: Bone_Missile_Orthogonal_Only_Effect_58
+  - first:
+      213: -7022424452023154377
+    second: Bone_Missile_Orthogonal_Only_Effect_59
+  - first:
+      213: -8466053962470413494
+    second: Bone_Missile_Orthogonal_Only_Effect_60
+  - first:
+      213: -6546123308037212075
+    second: Bone_Missile_Orthogonal_Only_Effect_61
+  - first:
+      213: -5339606990889003799
+    second: Bone_Missile_Orthogonal_Only_Effect_62
+  - first:
+      213: 3931145437114304680
+    second: Bone_Missile_Orthogonal_Only_Effect_63
+  - first:
+      213: -8705305612703298876
+    second: Bone_Missile_Orthogonal_Only_Effect_64
+  - first:
+      213: 5239612979218756705
+    second: Bone_Missile_Orthogonal_Only_Effect_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b16a1393198d4e0800000000000000
+      internalID: -1956654363260347582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a8638bbd7bf7280800000000000000
+      internalID: -9043307372420363641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e697035ba7f2630800000000000000
+      internalID: 3904474320574443069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 108
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0f95ab7157aa240800000000000000
+      internalID: 4803780697315209452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027228cf9ea689b60800000000000000
+      internalID: 7753064311714621216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bf2d56990214f70800000000000000
+      internalID: 9169646159513451283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a103762a8efae360800000000000000
+      internalID: 7199846823609172386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245455ec9be5c190800000000000000
+      internalID: -7942683308703067104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 104
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b27d52bb4724b0800000000000000
+      internalID: -5465316393346748129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 104
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed48f097df647d80800000000000000
+      internalID: -8253849245422432798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 106
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e869b59ede98b29c0800000000000000
+      internalID: -3950912593172130162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6cb89a0582e8b70800000000000000
+      internalID: 8903097840265053874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 109
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588ebe709748b69d0800000000000000
+      internalID: -2779982689612339067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 109
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53e948a19a469d0800000000000000
+      internalID: -2781912738448919093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbbb16cc4fd7aa10800000000000000
+      internalID: 1920749286931020762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0a86e2536620c0800000000000000
+      internalID: -4600880761606108404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5870337adc275ed0800000000000000
+      internalID: -2425420557568673701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09761eac6f07ebdc0800000000000000
+      internalID: -3621332845091264624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35be131a17d5060800000000000000
+      internalID: 6943831137616352204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba1e8a1629407780800000000000000
+      internalID: -8687363253194581316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9897a27d1d85c6ee0800000000000000
+      internalID: -1266539736916657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 72
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af5e575c8b87c50800000000000000
+      internalID: 6663278806920723028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690111cf77c20b710800000000000000
+      internalID: 1706913152615125142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c900dae831b90fa0800000000000000
+      internalID: -5833936984265979447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f924e5d93d7c5370800000000000000
+      internalID: 8312656699574200823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1da12ee91861ebb0800000000000000
+      internalID: -4908527658278474468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 74
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a234a0b6d1796680800000000000000
+      internalID: -8761346433172098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 79
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e82a52134510bb0800000000000000
+      internalID: -4971599943578775997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 77
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d034e6877986900800000000000000
+      internalID: 677958287421017497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 77
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9644dbc54d69be0800000000000000
+      internalID: -1470754733512431126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870d7a7a503d9da0800000000000000
+      internalID: -5936535568644241530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 78
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c1814c74ad9600800000000000000
+      internalID: 476717989153065159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366f1960c22b10c0800000000000000
+      internalID: -4604047984263469517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 46
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a794a9aa7c861a650800000000000000
+      internalID: 6242385765282236794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a5c353ff262620800000000000000
+      internalID: 2748937344685285949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19da475dd3456ee0800000000000000
+      internalID: -1268533102103570147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccfed37b4083d60800000000000000
+      internalID: 7870045533894593771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5212db275b75f0800000000000000
+      internalID: -757916266562168209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 47
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e879950f6df8fc0800000000000000
+      internalID: -3490334858405245385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24835ce3b4933fae0800000000000000
+      internalID: -1516805654155282366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98f796f2e8a5320800000000000000
+      internalID: 2547504873516009922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca20b829b3ceb40800000000000000
+      internalID: 5470813147931782176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e331a600f9e7a710800000000000000
+      internalID: 1704588201095672809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092be0c29238389a0800000000000000
+      internalID: -6231993246494575984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 32
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a4b4eb01bcaf920800000000000000
+      internalID: 3024953372505229832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 47
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d083f5bca34680800000000000000
+      internalID: -8771977751713228333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 45
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b204fafd0f509c70800000000000000
+      internalID: 8975778570998907570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 45
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e0e3afece317c0800000000000000
+      internalID: -4101674321613626815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 46
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716921b10edc23a00800000000000000
+      internalID: 734876051625383447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 46
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10ad0a613c28010800000000000000
+      internalID: 1189727753534570918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f1634d66108d40800000000000000
+      internalID: 5584488196477154582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feffea0bfc51c220800000000000000
+      internalID: 2504385101084753655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ac62fa90054d40800000000000000
+      internalID: 5567857179805655066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 13
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e607dfbaae9f857a0800000000000000
+      internalID: -6388081285121871762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe38f5faab93b60800000000000000
+      internalID: 7726411898115320801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9d0e540dea6300800000000000000
+      internalID: 246269732658715529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f5bd24969c04190800000000000000
+      internalID: -7980157085770096747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d9ad7fe9005430800000000000000
+      internalID: 3769523812319221714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 16
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3bc79ec2e4d5f0800000000000000
+      internalID: -732711462416728695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398423da265b8e90800000000000000
+      internalID: -7022424452023154377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba9a5b6c8828a80800000000000000
+      internalID: -8466053962470413494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 15
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5587980c88f7725a0800000000000000
+      internalID: -6546123308037212075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 13
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e45ed37bb7e5e5b0800000000000000
+      internalID: -5339606990889003799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 13
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8889b62fb3e8630800000000000000
+      internalID: 3931145437114304680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 14
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0b9dfaaa803780800000000000000
+      internalID: -8705305612703298876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Missile_Orthogonal_Only_Effect_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 14
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1643cd27e38d6b840800000000000000
+      internalID: 5239612979218756705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bone_Missile_Orthogonal_Only_Effect_0: -1956654363260347582
+      Bone_Missile_Orthogonal_Only_Effect_1: -9043307372420363641
+      Bone_Missile_Orthogonal_Only_Effect_10: -3950912593172130162
+      Bone_Missile_Orthogonal_Only_Effect_11: 8903097840265053874
+      Bone_Missile_Orthogonal_Only_Effect_12: -2779982689612339067
+      Bone_Missile_Orthogonal_Only_Effect_13: -2781912738448919093
+      Bone_Missile_Orthogonal_Only_Effect_14: 1920749286931020762
+      Bone_Missile_Orthogonal_Only_Effect_15: -4600880761606108404
+      Bone_Missile_Orthogonal_Only_Effect_16: -2425420557568673701
+      Bone_Missile_Orthogonal_Only_Effect_17: -3621332845091264624
+      Bone_Missile_Orthogonal_Only_Effect_18: 6943831137616352204
+      Bone_Missile_Orthogonal_Only_Effect_19: -8687363253194581316
+      Bone_Missile_Orthogonal_Only_Effect_2: 3904474320574443069
+      Bone_Missile_Orthogonal_Only_Effect_20: -1266539736916657783
+      Bone_Missile_Orthogonal_Only_Effect_21: 6663278806920723028
+      Bone_Missile_Orthogonal_Only_Effect_22: 1706913152615125142
+      Bone_Missile_Orthogonal_Only_Effect_23: -5833936984265979447
+      Bone_Missile_Orthogonal_Only_Effect_24: 8312656699574200823
+      Bone_Missile_Orthogonal_Only_Effect_25: -4908527658278474468
+      Bone_Missile_Orthogonal_Only_Effect_26: -8761346433172098400
+      Bone_Missile_Orthogonal_Only_Effect_27: -4971599943578775997
+      Bone_Missile_Orthogonal_Only_Effect_28: 677958287421017497
+      Bone_Missile_Orthogonal_Only_Effect_29: -1470754733512431126
+      Bone_Missile_Orthogonal_Only_Effect_3: 4803780697315209452
+      Bone_Missile_Orthogonal_Only_Effect_30: -5936535568644241530
+      Bone_Missile_Orthogonal_Only_Effect_31: 476717989153065159
+      Bone_Missile_Orthogonal_Only_Effect_32: -4604047984263469517
+      Bone_Missile_Orthogonal_Only_Effect_33: 6242385765282236794
+      Bone_Missile_Orthogonal_Only_Effect_34: 2748937344685285949
+      Bone_Missile_Orthogonal_Only_Effect_35: -1268533102103570147
+      Bone_Missile_Orthogonal_Only_Effect_36: 7870045533894593771
+      Bone_Missile_Orthogonal_Only_Effect_37: -757916266562168209
+      Bone_Missile_Orthogonal_Only_Effect_38: -3490334858405245385
+      Bone_Missile_Orthogonal_Only_Effect_39: -1516805654155282366
+      Bone_Missile_Orthogonal_Only_Effect_4: 7753064311714621216
+      Bone_Missile_Orthogonal_Only_Effect_40: 2547504873516009922
+      Bone_Missile_Orthogonal_Only_Effect_41: 5470813147931782176
+      Bone_Missile_Orthogonal_Only_Effect_42: 1704588201095672809
+      Bone_Missile_Orthogonal_Only_Effect_43: -6231993246494575984
+      Bone_Missile_Orthogonal_Only_Effect_44: 3024953372505229832
+      Bone_Missile_Orthogonal_Only_Effect_45: -8771977751713228333
+      Bone_Missile_Orthogonal_Only_Effect_46: 8975778570998907570
+      Bone_Missile_Orthogonal_Only_Effect_47: -4101674321613626815
+      Bone_Missile_Orthogonal_Only_Effect_48: 734876051625383447
+      Bone_Missile_Orthogonal_Only_Effect_49: 1189727753534570918
+      Bone_Missile_Orthogonal_Only_Effect_5: 9169646159513451283
+      Bone_Missile_Orthogonal_Only_Effect_50: 5584488196477154582
+      Bone_Missile_Orthogonal_Only_Effect_51: 2504385101084753655
+      Bone_Missile_Orthogonal_Only_Effect_52: 5567857179805655066
+      Bone_Missile_Orthogonal_Only_Effect_53: -6388081285121871762
+      Bone_Missile_Orthogonal_Only_Effect_54: 7726411898115320801
+      Bone_Missile_Orthogonal_Only_Effect_55: 246269732658715529
+      Bone_Missile_Orthogonal_Only_Effect_56: -7980157085770096747
+      Bone_Missile_Orthogonal_Only_Effect_57: 3769523812319221714
+      Bone_Missile_Orthogonal_Only_Effect_58: -732711462416728695
+      Bone_Missile_Orthogonal_Only_Effect_59: -7022424452023154377
+      Bone_Missile_Orthogonal_Only_Effect_6: 7199846823609172386
+      Bone_Missile_Orthogonal_Only_Effect_60: -8466053962470413494
+      Bone_Missile_Orthogonal_Only_Effect_61: -6546123308037212075
+      Bone_Missile_Orthogonal_Only_Effect_62: -5339606990889003799
+      Bone_Missile_Orthogonal_Only_Effect_63: 3931145437114304680
+      Bone_Missile_Orthogonal_Only_Effect_64: -8705305612703298876
+      Bone_Missile_Orthogonal_Only_Effect_65: 5239612979218756705
+      Bone_Missile_Orthogonal_Only_Effect_7: -7942683308703067104
+      Bone_Missile_Orthogonal_Only_Effect_8: -5465316393346748129
+      Bone_Missile_Orthogonal_Only_Effect_9: -8253849245422432798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

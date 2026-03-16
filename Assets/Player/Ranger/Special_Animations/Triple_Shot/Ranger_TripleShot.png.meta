@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: ef416a637d5477e488225c6c6468d14f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7840434631716014166
+    second: Ranger_TripleShot_0
+  - first:
+      213: -5942241263012770079
+    second: Ranger_TripleShot_1
+  - first:
+      213: 5514587883369193025
+    second: Ranger_TripleShot_2
+  - first:
+      213: 6704017396594033673
+    second: Ranger_TripleShot_3
+  - first:
+      213: 3311278111336304404
+    second: Ranger_TripleShot_4
+  - first:
+      213: 6746087508620384948
+    second: Ranger_TripleShot_5
+  - first:
+      213: 5672668773401138209
+    second: Ranger_TripleShot_6
+  - first:
+      213: 119486842787433574
+    second: Ranger_TripleShot_7
+  - first:
+      213: 2320206326353774339
+    second: Ranger_TripleShot_8
+  - first:
+      213: 2518433057148699078
+    second: Ranger_TripleShot_9
+  - first:
+      213: -4643384967057505007
+    second: Ranger_TripleShot_10
+  - first:
+      213: -8517998258437849529
+    second: Ranger_TripleShot_11
+  - first:
+      213: 7763144177230921790
+    second: Ranger_TripleShot_12
+  - first:
+      213: -127825005996031900
+    second: Ranger_TripleShot_13
+  - first:
+      213: -3701053843222229488
+    second: Ranger_TripleShot_14
+  - first:
+      213: 7575236435619207531
+    second: Ranger_TripleShot_15
+  - first:
+      213: -8240207808230484800
+    second: Ranger_TripleShot_16
+  - first:
+      213: 8149741023884188764
+    second: Ranger_TripleShot_17
+  - first:
+      213: -8112412802990676391
+    second: Ranger_TripleShot_18
+  - first:
+      213: 4545478513483162524
+    second: Ranger_TripleShot_19
+  - first:
+      213: 2221888338955178445
+    second: Ranger_TripleShot_20
+  - first:
+      213: -1610823484450900680
+    second: Ranger_TripleShot_21
+  - first:
+      213: -7311246531283051164
+    second: Ranger_TripleShot_22
+  - first:
+      213: -8261007470911939088
+    second: Ranger_TripleShot_23
+  - first:
+      213: 6370687344104192472
+    second: Ranger_TripleShot_24
+  - first:
+      213: -409331016229388222
+    second: Ranger_TripleShot_25
+  - first:
+      213: 2720777821874166158
+    second: Ranger_TripleShot_26
+  - first:
+      213: 7488498716772326231
+    second: Ranger_TripleShot_27
+  - first:
+      213: -6427374553981901358
+    second: Ranger_TripleShot_28
+  - first:
+      213: 2066537213012325007
+    second: Ranger_TripleShot_29
+  - first:
+      213: -3986113996834112900
+    second: Ranger_TripleShot_30
+  - first:
+      213: -3847376300071751477
+    second: Ranger_TripleShot_31
+  - first:
+      213: 3247112402757503072
+    second: Ranger_TripleShot_32
+  - first:
+      213: -7028297309128254382
+    second: Ranger_TripleShot_33
+  - first:
+      213: -6545341266661592799
+    second: Ranger_TripleShot_34
+  - first:
+      213: 4787228588376812163
+    second: Ranger_TripleShot_35
+  - first:
+      213: -901567931869805542
+    second: Ranger_TripleShot_36
+  - first:
+      213: -5756745653594284555
+    second: Ranger_TripleShot_37
+  - first:
+      213: -5779917158068137418
+    second: Ranger_TripleShot_38
+  - first:
+      213: 3695938912854912532
+    second: Ranger_TripleShot_39
+  - first:
+      213: -5022629203587063372
+    second: Ranger_TripleShot_40
+  - first:
+      213: -1109867351005675983
+    second: Ranger_TripleShot_41
+  - first:
+      213: -5876542833344898067
+    second: Ranger_TripleShot_42
+  - first:
+      213: -7891276473697394825
+    second: Ranger_TripleShot_43
+  - first:
+      213: -949014726099369035
+    second: Ranger_TripleShot_44
+  - first:
+      213: 7703297021380552669
+    second: Ranger_TripleShot_45
+  - first:
+      213: -6086942361386469313
+    second: Ranger_TripleShot_46
+  - first:
+      213: -4795533847134647209
+    second: Ranger_TripleShot_47
+  - first:
+      213: -4930307686212938921
+    second: Ranger_TripleShot_48
+  - first:
+      213: 5844686046276882152
+    second: Ranger_TripleShot_49
+  - first:
+      213: -3781227785573962245
+    second: Ranger_TripleShot_50
+  - first:
+      213: 1889149882651534238
+    second: Ranger_TripleShot_51
+  - first:
+      213: -7337651691989245111
+    second: Ranger_TripleShot_52
+  - first:
+      213: 5067305802831090789
+    second: Ranger_TripleShot_53
+  - first:
+      213: -8981877215427643046
+    second: Ranger_TripleShot_54
+  - first:
+      213: -1780871663158056760
+    second: Ranger_TripleShot_55
+  - first:
+      213: 5400860938828101564
+    second: Ranger_TripleShot_56
+  - first:
+      213: 2678880338774279206
+    second: Ranger_TripleShot_57
+  - first:
+      213: -1776852817459931765
+    second: Ranger_TripleShot_58
+  - first:
+      213: -1539302104316861891
+    second: Ranger_TripleShot_59
+  - first:
+      213: -7925450357053557712
+    second: Ranger_TripleShot_60
+  - first:
+      213: 3881241942365647489
+    second: Ranger_TripleShot_61
+  - first:
+      213: 3547288065159137505
+    second: Ranger_TripleShot_62
+  - first:
+      213: -3903927905948369040
+    second: Ranger_TripleShot_63
+  - first:
+      213: -2688054646638251252
+    second: Ranger_TripleShot_64
+  - first:
+      213: 8421886541778480653
+    second: Ranger_TripleShot_65
+  - first:
+      213: 9156190429324289593
+    second: Ranger_TripleShot_66
+  - first:
+      213: 4902860616889612062
+    second: Ranger_TripleShot_67
+  - first:
+      213: 3457784319172895977
+    second: Ranger_TripleShot_68
+  - first:
+      213: 7567102204749353207
+    second: Ranger_TripleShot_69
+  - first:
+      213: -5998900928673751710
+    second: Ranger_TripleShot_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_TripleShot_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 104
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa775eb2e3e213390800000000000000
+      internalID: -7840434631716014166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee847cfd0be88da0800000000000000
+      internalID: -5942241263012770079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed4ee5670c78c40800000000000000
+      internalID: 5514587883369193025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c6048d44790d50800000000000000
+      internalID: 6704017396594033673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0abaf5e504fd20800000000000000
+      internalID: 3311278111336304404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9407c8daee9d50800000000000000
+      internalID: 6746087508620384948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124960fb13e59be40800000000000000
+      internalID: 5672668773401138209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8da386a088a100800000000000000
+      internalID: 119486842787433574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074eef5c57033020800000000000000
+      internalID: 2320206326353774339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c103f1b58543f220800000000000000
+      internalID: 2518433057148699078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115062369f16f8fb0800000000000000
+      internalID: -4643384967057505007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 105
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7a68d6bdf9c980800000000000000
+      internalID: -8517998258437849529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30cdff8f7a3cbb60800000000000000
+      internalID: 7763144177230921790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c13495dfd93ef0800000000000000
+      internalID: -127825005996031900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e052c732733acc0800000000000000
+      internalID: -3701053843222229488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69dda22765a02960800000000000000
+      internalID: 7575236435619207531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4950b28a6e4ad80800000000000000
+      internalID: -8240207808230484800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9b043842b91170800000000000000
+      internalID: 8149741023884188764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 72
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e86e798bea6f80800000000000000
+      internalID: -8112412802990676391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a55200a8c41f30800000000000000
+      internalID: 4545478513483162524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 81
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc191061cabb5de10800000000000000
+      internalID: 2221888338955178445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835727d439435a9e0800000000000000
+      internalID: -1610823484450900680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 87
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1195340c398a90800000000000000
+      internalID: -7311246531283051164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd127159710b5d80800000000000000
+      internalID: -8261007470911939088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93868d26a396850800000000000000
+      internalID: 6370687344104192472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24009160c93c15af0800000000000000
+      internalID: -409331016229388222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891291830522c520800000000000000
+      internalID: 2720777821874166158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bde2a38ed7ce760800000000000000
+      internalID: 7488498716772326231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 74
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5268795e06dc6a0800000000000000
+      internalID: -6427374553981901358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 73
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b9b075a0ddac10800000000000000
+      internalID: 2066537213012325007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a7d70707a7ea8c0800000000000000
+      internalID: -3986113996834112900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc077fca3af5b9ac0800000000000000
+      internalID: -3847376300071751477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684020c68f001d20800000000000000
+      internalID: 3247112402757503072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 66
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c9399b5d8767e90800000000000000
+      internalID: -7028297309128254382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213ee2fbc64a25a0800000000000000
+      internalID: -6545341266661592799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a6bcc8907af6240800000000000000
+      internalID: 4787228588376812163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1444002ebcfc73f0800000000000000
+      internalID: -901567931869805542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd1d3f145eeb10b0800000000000000
+      internalID: -5756745653594284555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d922d7fb99cfa0800000000000000
+      internalID: -5779917158068137418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea24cfbdc9a4330800000000000000
+      internalID: 3695938912854912532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a0b1b9590c4ab0800000000000000
+      internalID: -5022629203587063372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb08b4685f890f0800000000000000
+      internalID: -1109867351005675983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1c17ad63527ea0800000000000000
+      internalID: -5876542833344898067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 41
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9ed06bdd8c7290800000000000000
+      internalID: -7891276473697394825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38b3c722c64d2f0800000000000000
+      internalID: -949014726099369035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 39
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd766beb3db97ea60800000000000000
+      internalID: 7703297021380552669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38384d1c26d68ba0800000000000000
+      internalID: -6086942361386469313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c4d25bf57d27db0800000000000000
+      internalID: -4795533847134647209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75356e10847049bb0800000000000000
+      internalID: -4930307686212938921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee040c1efe7c1150800000000000000
+      internalID: 5844686046276882152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde602ec51668bc0800000000000000
+      internalID: -3781227785573962245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e936ae22fcb973a10800000000000000
+      internalID: 1889149882651534238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ef65a9ac6b2a90800000000000000
+      internalID: -7337651691989245111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564d50aa7cfa25640800000000000000
+      internalID: 5067305802831090789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59b246b246f95380800000000000000
+      internalID: -8981877215427643046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a7e668a21947e0800000000000000
+      internalID: -1780871663158056760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b12ca866b3fa40800000000000000
+      internalID: 5400860938828101564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244b6c897b4d2520800000000000000
+      internalID: 2678880338774279206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851625d6c95757e0800000000000000
+      internalID: -1776852817459931765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ae2644ec43aae0800000000000000
+      internalID: -1539302104316861891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03474de14e4230290800000000000000
+      internalID: -7925450357053557712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823d0e9bf0fcd530800000000000000
+      internalID: 3881241942365647489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80bcf63bf7a3130800000000000000
+      internalID: 3547288065159137505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f7631e04672d9c0800000000000000
+      internalID: -3903927905948369040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f9427a8c12bad0800000000000000
+      internalID: -2688054646638251252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e695d403d80e470800000000000000
+      internalID: 8421886541778480653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a4b31fa2511f70800000000000000
+      internalID: 9156190429324289593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_67
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1735fc21c57a0440800000000000000
+      internalID: 4902860616889612062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_68
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46736a4848cff20800000000000000
+      internalID: 3457784319172895977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0192dec5fb30960800000000000000
+      internalID: 7567102204749353207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_TripleShot_70
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dd3af836f9fbca0800000000000000
+      internalID: -5998900928673751710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_TripleShot_0: -7840434631716014166
+      Ranger_TripleShot_1: -5942241263012770079
+      Ranger_TripleShot_10: -4643384967057505007
+      Ranger_TripleShot_11: -8517998258437849529
+      Ranger_TripleShot_12: 7763144177230921790
+      Ranger_TripleShot_13: -127825005996031900
+      Ranger_TripleShot_14: -3701053843222229488
+      Ranger_TripleShot_15: 7575236435619207531
+      Ranger_TripleShot_16: -8240207808230484800
+      Ranger_TripleShot_17: 8149741023884188764
+      Ranger_TripleShot_18: -8112412802990676391
+      Ranger_TripleShot_19: 4545478513483162524
+      Ranger_TripleShot_2: 5514587883369193025
+      Ranger_TripleShot_20: 2221888338955178445
+      Ranger_TripleShot_21: -1610823484450900680
+      Ranger_TripleShot_22: -7311246531283051164
+      Ranger_TripleShot_23: -8261007470911939088
+      Ranger_TripleShot_24: 6370687344104192472
+      Ranger_TripleShot_25: -409331016229388222
+      Ranger_TripleShot_26: 2720777821874166158
+      Ranger_TripleShot_27: 7488498716772326231
+      Ranger_TripleShot_28: -6427374553981901358
+      Ranger_TripleShot_29: 2066537213012325007
+      Ranger_TripleShot_3: 6704017396594033673
+      Ranger_TripleShot_30: -3986113996834112900
+      Ranger_TripleShot_31: -3847376300071751477
+      Ranger_TripleShot_32: 3247112402757503072
+      Ranger_TripleShot_33: -7028297309128254382
+      Ranger_TripleShot_34: -6545341266661592799
+      Ranger_TripleShot_35: 4787228588376812163
+      Ranger_TripleShot_36: -901567931869805542
+      Ranger_TripleShot_37: -5756745653594284555
+      Ranger_TripleShot_38: -5779917158068137418
+      Ranger_TripleShot_39: 3695938912854912532
+      Ranger_TripleShot_4: 3311278111336304404
+      Ranger_TripleShot_40: -5022629203587063372
+      Ranger_TripleShot_41: -1109867351005675983
+      Ranger_TripleShot_42: -5876542833344898067
+      Ranger_TripleShot_43: -7891276473697394825
+      Ranger_TripleShot_44: -949014726099369035
+      Ranger_TripleShot_45: 7703297021380552669
+      Ranger_TripleShot_46: -6086942361386469313
+      Ranger_TripleShot_47: -4795533847134647209
+      Ranger_TripleShot_48: -4930307686212938921
+      Ranger_TripleShot_49: 5844686046276882152
+      Ranger_TripleShot_5: 6746087508620384948
+      Ranger_TripleShot_50: -3781227785573962245
+      Ranger_TripleShot_51: 1889149882651534238
+      Ranger_TripleShot_52: -7337651691989245111
+      Ranger_TripleShot_53: 5067305802831090789
+      Ranger_TripleShot_54: -8981877215427643046
+      Ranger_TripleShot_55: -1780871663158056760
+      Ranger_TripleShot_56: 5400860938828101564
+      Ranger_TripleShot_57: 2678880338774279206
+      Ranger_TripleShot_58: -1776852817459931765
+      Ranger_TripleShot_59: -1539302104316861891
+      Ranger_TripleShot_6: 5672668773401138209
+      Ranger_TripleShot_60: -7925450357053557712
+      Ranger_TripleShot_61: 3881241942365647489
+      Ranger_TripleShot_62: 3547288065159137505
+      Ranger_TripleShot_63: -3903927905948369040
+      Ranger_TripleShot_64: -2688054646638251252
+      Ranger_TripleShot_65: 8421886541778480653
+      Ranger_TripleShot_66: 9156190429324289593
+      Ranger_TripleShot_67: 4902860616889612062
+      Ranger_TripleShot_68: 3457784319172895977
+      Ranger_TripleShot_69: 7567102204749353207
+      Ranger_TripleShot_7: 119486842787433574
+      Ranger_TripleShot_70: -5998900928673751710
+      Ranger_TripleShot_8: 2320206326353774339
+      Ranger_TripleShot_9: 2518433057148699078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

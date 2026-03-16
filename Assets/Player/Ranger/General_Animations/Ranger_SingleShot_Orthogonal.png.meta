@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 1cef4c3a92f23bc42bc2186fc6eff3dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6445922435370651146
+    second: Ranger_SingleShot_Orthogonal_0
+  - first:
+      213: 2719694121606199978
+    second: Ranger_SingleShot_Orthogonal_1
+  - first:
+      213: 1802091504767650719
+    second: Ranger_SingleShot_Orthogonal_2
+  - first:
+      213: -2710065904065040382
+    second: Ranger_SingleShot_Orthogonal_3
+  - first:
+      213: -1001852431246086725
+    second: Ranger_SingleShot_Orthogonal_4
+  - first:
+      213: 6584784071882036999
+    second: Ranger_SingleShot_Orthogonal_5
+  - first:
+      213: -4288696641768002803
+    second: Ranger_SingleShot_Orthogonal_6
+  - first:
+      213: 7965755223639164785
+    second: Ranger_SingleShot_Orthogonal_7
+  - first:
+      213: 4240302680339662088
+    second: Ranger_SingleShot_Orthogonal_8
+  - first:
+      213: 1908041393740395660
+    second: Ranger_SingleShot_Orthogonal_9
+  - first:
+      213: 526664759696619625
+    second: Ranger_SingleShot_Orthogonal_10
+  - first:
+      213: 6268888022689841806
+    second: Ranger_SingleShot_Orthogonal_11
+  - first:
+      213: -3149236983584352208
+    second: Ranger_SingleShot_Orthogonal_12
+  - first:
+      213: 8901147658970331745
+    second: Ranger_SingleShot_Orthogonal_13
+  - first:
+      213: -6700844572642283821
+    second: Ranger_SingleShot_Orthogonal_14
+  - first:
+      213: 2857267696234583378
+    second: Ranger_SingleShot_Orthogonal_15
+  - first:
+      213: 4600452073113561622
+    second: Ranger_SingleShot_Orthogonal_16
+  - first:
+      213: -2114265077697344579
+    second: Ranger_SingleShot_Orthogonal_17
+  - first:
+      213: -6986612051596783623
+    second: Ranger_SingleShot_Orthogonal_18
+  - first:
+      213: -2147745284249818630
+    second: Ranger_SingleShot_Orthogonal_19
+  - first:
+      213: -930834828991022150
+    second: Ranger_SingleShot_Orthogonal_20
+  - first:
+      213: 1126960648158118818
+    second: Ranger_SingleShot_Orthogonal_21
+  - first:
+      213: -2439534609716616997
+    second: Ranger_SingleShot_Orthogonal_22
+  - first:
+      213: -545766909740697610
+    second: Ranger_SingleShot_Orthogonal_23
+  - first:
+      213: -5080628921912866868
+    second: Ranger_SingleShot_Orthogonal_24
+  - first:
+      213: -5699344048405786755
+    second: Ranger_SingleShot_Orthogonal_25
+  - first:
+      213: -3012502143655172966
+    second: Ranger_SingleShot_Orthogonal_26
+  - first:
+      213: -8936606865404948224
+    second: Ranger_SingleShot_Orthogonal_27
+  - first:
+      213: 9102434234295816440
+    second: Ranger_SingleShot_Orthogonal_28
+  - first:
+      213: -7542453239458507260
+    second: Ranger_SingleShot_Orthogonal_29
+  - first:
+      213: 6225669050724111573
+    second: Ranger_SingleShot_Orthogonal_30
+  - first:
+      213: 5328307808473133387
+    second: Ranger_SingleShot_Orthogonal_31
+  - first:
+      213: -791351889392845514
+    second: Ranger_SingleShot_Orthogonal_32
+  - first:
+      213: 621491573312163855
+    second: Ranger_SingleShot_Orthogonal_33
+  - first:
+      213: 2602011833184114898
+    second: Ranger_SingleShot_Orthogonal_34
+  - first:
+      213: 3117959723941771296
+    second: Ranger_SingleShot_Orthogonal_35
+  - first:
+      213: -1832222417718723125
+    second: Ranger_SingleShot_Orthogonal_36
+  - first:
+      213: -8044016067778567796
+    second: Ranger_SingleShot_Orthogonal_37
+  - first:
+      213: -448243566811884230
+    second: Ranger_SingleShot_Orthogonal_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0df19d44847950800000000000000
+      internalID: 6445922435370651146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3e00e46b4eb520800000000000000
+      internalID: 2719694121606199978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bcc6afca0520910800000000000000
+      internalID: 1802091504767650719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003e463b69e36ad0800000000000000
+      internalID: -2710065904065040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd27369584b812f0800000000000000
+      internalID: -1001852431246086725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707dd27c93ad16b50800000000000000
+      internalID: 6584784071882036999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0be106702d7b74c0800000000000000
+      internalID: -4288696641768002803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17789b8eb2c0c8e60800000000000000
+      internalID: 7965755223639164785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80548c952d498da30800000000000000
+      internalID: 4240302680339662088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8433a2d989ba7a10800000000000000
+      internalID: 1908041393740395660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968fe6dfec61f4700800000000000000
+      internalID: 526664759696619625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82012151709ff650800000000000000
+      internalID: 6268888022689841806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0389ee716a9ab44d0800000000000000
+      internalID: -3149236983584352208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16af932b2aa378b70800000000000000
+      internalID: 8901147658970331745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6d802d51d103a0800000000000000
+      internalID: -6700844572642283821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d24ec4dd07a720800000000000000
+      internalID: 2857267696234583378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 76
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa42849c618df30800000000000000
+      internalID: 4600452073113561622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb06da1d1f98a2e0800000000000000
+      internalID: -2114265077697344579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4c111b519a0f90800000000000000
+      internalID: -6986612051596783623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9e4401b0da132e0800000000000000
+      internalID: -2147745284249818630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbd61a7a20513f0800000000000000
+      internalID: -930834828991022150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30f451db4c3af00800000000000000
+      internalID: 1126960648158118818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0e19a9238052ed0800000000000000
+      internalID: -2439534609716616997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f73ebe13eb0d68f0800000000000000
+      internalID: -545766909740697610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7cec1f9eafd79b0800000000000000
+      internalID: -5080628921912866868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f490ec8ccd7e0b0800000000000000
+      internalID: -5699344048405786755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a452e2417136d0800000000000000
+      internalID: -3012502143655172966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0019832776bcaf380800000000000000
+      internalID: -8936606865404948224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09e8695b7525e70800000000000000
+      internalID: 9102434234295816440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406d4178db2d35790800000000000000
+      internalID: -7542453239458507260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4dd814405066650800000000000000
+      internalID: 6225669050724111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413bf1a8b3f1f940800000000000000
+      internalID: 5328307808473133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db76c36ad8405f0800000000000000
+      internalID: -791351889392845514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f009b2a0b4bff9800800000000000000
+      internalID: 621491573312163855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d85d4ae9f33c1420800000000000000
+      internalID: 2602011833184114898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028368969d7354b20800000000000000
+      internalID: 3117959723941771296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3e5a2b63a296e0800000000000000
+      internalID: -1832222417718723125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812680610aed5090800000000000000
+      internalID: -8044016067778567796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_SingleShot_Orthogonal_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d253d9d487c9f0800000000000000
+      internalID: -448243566811884230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_SingleShot_Orthogonal_0: 6445922435370651146
+      Ranger_SingleShot_Orthogonal_1: 2719694121606199978
+      Ranger_SingleShot_Orthogonal_10: 526664759696619625
+      Ranger_SingleShot_Orthogonal_11: 6268888022689841806
+      Ranger_SingleShot_Orthogonal_12: -3149236983584352208
+      Ranger_SingleShot_Orthogonal_13: 8901147658970331745
+      Ranger_SingleShot_Orthogonal_14: -6700844572642283821
+      Ranger_SingleShot_Orthogonal_15: 2857267696234583378
+      Ranger_SingleShot_Orthogonal_16: 4600452073113561622
+      Ranger_SingleShot_Orthogonal_17: -2114265077697344579
+      Ranger_SingleShot_Orthogonal_18: -6986612051596783623
+      Ranger_SingleShot_Orthogonal_19: -2147745284249818630
+      Ranger_SingleShot_Orthogonal_2: 1802091504767650719
+      Ranger_SingleShot_Orthogonal_20: -930834828991022150
+      Ranger_SingleShot_Orthogonal_21: 1126960648158118818
+      Ranger_SingleShot_Orthogonal_22: -2439534609716616997
+      Ranger_SingleShot_Orthogonal_23: -545766909740697610
+      Ranger_SingleShot_Orthogonal_24: -5080628921912866868
+      Ranger_SingleShot_Orthogonal_25: -5699344048405786755
+      Ranger_SingleShot_Orthogonal_26: -3012502143655172966
+      Ranger_SingleShot_Orthogonal_27: -8936606865404948224
+      Ranger_SingleShot_Orthogonal_28: 9102434234295816440
+      Ranger_SingleShot_Orthogonal_29: -7542453239458507260
+      Ranger_SingleShot_Orthogonal_3: -2710065904065040382
+      Ranger_SingleShot_Orthogonal_30: 6225669050724111573
+      Ranger_SingleShot_Orthogonal_31: 5328307808473133387
+      Ranger_SingleShot_Orthogonal_32: -791351889392845514
+      Ranger_SingleShot_Orthogonal_33: 621491573312163855
+      Ranger_SingleShot_Orthogonal_34: 2602011833184114898
+      Ranger_SingleShot_Orthogonal_35: 3117959723941771296
+      Ranger_SingleShot_Orthogonal_36: -1832222417718723125
+      Ranger_SingleShot_Orthogonal_37: -8044016067778567796
+      Ranger_SingleShot_Orthogonal_38: -448243566811884230
+      Ranger_SingleShot_Orthogonal_4: -1001852431246086725
+      Ranger_SingleShot_Orthogonal_5: 6584784071882036999
+      Ranger_SingleShot_Orthogonal_6: -4288696641768002803
+      Ranger_SingleShot_Orthogonal_7: 7965755223639164785
+      Ranger_SingleShot_Orthogonal_8: 4240302680339662088
+      Ranger_SingleShot_Orthogonal_9: 1908041393740395660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

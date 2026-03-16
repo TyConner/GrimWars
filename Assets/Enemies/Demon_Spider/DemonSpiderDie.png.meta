@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: bf06607e56fd30f48983bb99e431667c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7770104690018600667
+    second: DemonSpiderDie_0
+  - first:
+      213: -2664093972933418008
+    second: DemonSpiderDie_1
+  - first:
+      213: -3084682517735499265
+    second: DemonSpiderDie_2
+  - first:
+      213: -2271893936008394430
+    second: DemonSpiderDie_3
+  - first:
+      213: 5483158664378698417
+    second: DemonSpiderDie_4
+  - first:
+      213: -827634393149094082
+    second: DemonSpiderDie_5
+  - first:
+      213: -3186582180922096069
+    second: DemonSpiderDie_6
+  - first:
+      213: -8910888748471016889
+    second: DemonSpiderDie_7
+  - first:
+      213: -5223399218814694658
+    second: DemonSpiderDie_8
+  - first:
+      213: 7304593080635063027
+    second: DemonSpiderDie_9
+  - first:
+      213: 7342259917915230173
+    second: DemonSpiderDie_10
+  - first:
+      213: 6103520794388234262
+    second: DemonSpiderDie_11
+  - first:
+      213: -7797043135091424030
+    second: DemonSpiderDie_12
+  - first:
+      213: -8218355077400849935
+    second: DemonSpiderDie_13
+  - first:
+      213: -8368486152616317102
+    second: DemonSpiderDie_14
+  - first:
+      213: -5699370422688061082
+    second: DemonSpiderDie_15
+  - first:
+      213: 1932680649275625274
+    second: DemonSpiderDie_16
+  - first:
+      213: -4498124069936569809
+    second: DemonSpiderDie_17
+  - first:
+      213: 3004371071047555370
+    second: DemonSpiderDie_18
+  - first:
+      213: -3612535593208405484
+    second: DemonSpiderDie_19
+  - first:
+      213: -5965038849268136715
+    second: DemonSpiderDie_20
+  - first:
+      213: 6207394094057653100
+    second: DemonSpiderDie_21
+  - first:
+      213: 7226656504222662856
+    second: DemonSpiderDie_22
+  - first:
+      213: -4010784267264651027
+    second: DemonSpiderDie_23
+  - first:
+      213: -1135370166816579182
+    second: DemonSpiderDie_24
+  - first:
+      213: 6390241631069229479
+    second: DemonSpiderDie_25
+  - first:
+      213: -3562941989521930643
+    second: DemonSpiderDie_26
+  - first:
+      213: 2125645033773233669
+    second: DemonSpiderDie_27
+  - first:
+      213: 5843740904493226625
+    second: DemonSpiderDie_28
+  - first:
+      213: -2419198904145828781
+    second: DemonSpiderDie_29
+  - first:
+      213: 5295984181119524068
+    second: DemonSpiderDie_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonSpiderDie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c72c3c05f4db60800000000000000
+      internalID: 7770104690018600667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e36b0785ac370bd0800000000000000
+      internalID: -2664093972933418008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9948de7910135d0800000000000000
+      internalID: -3084682517735499265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490bd0908c9870e0800000000000000
+      internalID: -2271893936008394430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac56511c7181c40800000000000000
+      internalID: 5483158664378698417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37c37887e6a384f0800000000000000
+      internalID: -827634393149094082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368c82c36cf6c3d0800000000000000
+      internalID: -3186582180922096069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422c5a25e9265480800000000000000
+      internalID: -8910888748471016889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4f72d512c287b0800000000000000
+      internalID: -5223399218814694658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa770894b02f5560800000000000000
+      internalID: 7304593080635063027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0def8e72f4e560800000000000000
+      internalID: 7342259917915230173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61088bc13df04b450800000000000000
+      internalID: 6103520794388234262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e44a7244965bc390800000000000000
+      internalID: -7797043135091424030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19e7d899982fd80800000000000000
+      internalID: -8218355077400849935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f678dae2a2ddb80800000000000000
+      internalID: -8368486152616317102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6696f401cc4c7e0b0800000000000000
+      internalID: -5699370422688061082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f485c8fc242da10800000000000000
+      internalID: 1932680649275625274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 9
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ebcf8df37391c0800000000000000
+      internalID: -4498124069936569809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 9
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29df3f329ba1b920800000000000000
+      internalID: 3004371071047555370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 9
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ab5c9402bdddc0800000000000000
+      internalID: -3612535593208405484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_20
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c7fd45cce73da0800000000000000
+      internalID: -5965038849268136715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 9
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c630a255a08152650800000000000000
+      internalID: 6207394094057653100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c045f75dcd3a4460800000000000000
+      internalID: 7226656504222662856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de017fe75f4d658c0800000000000000
+      internalID: -4010784267264651027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291625649da5e30f0800000000000000
+      internalID: -1135370166816579182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_25
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15bc018e2bea850800000000000000
+      internalID: 6390241631069229479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 9
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c8374323ed8ec0800000000000000
+      internalID: -3562941989521930643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 9
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50670a465eecf7d10800000000000000
+      internalID: 2125645033773233669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_28
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1db32463291150800000000000000
+      internalID: 5843740904493226625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354af550a674d6ed0800000000000000
+      internalID: -2419198904145828781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonSpiderDie_30
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec97bbad8d1f7940800000000000000
+      internalID: 5295984181119524068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DemonSpiderDie_0: 7770104690018600667
+      DemonSpiderDie_1: -2664093972933418008
+      DemonSpiderDie_10: 7342259917915230173
+      DemonSpiderDie_11: 6103520794388234262
+      DemonSpiderDie_12: -7797043135091424030
+      DemonSpiderDie_13: -8218355077400849935
+      DemonSpiderDie_14: -8368486152616317102
+      DemonSpiderDie_15: -5699370422688061082
+      DemonSpiderDie_16: 1932680649275625274
+      DemonSpiderDie_17: -4498124069936569809
+      DemonSpiderDie_18: 3004371071047555370
+      DemonSpiderDie_19: -3612535593208405484
+      DemonSpiderDie_2: -3084682517735499265
+      DemonSpiderDie_20: -5965038849268136715
+      DemonSpiderDie_21: 6207394094057653100
+      DemonSpiderDie_22: 7226656504222662856
+      DemonSpiderDie_23: -4010784267264651027
+      DemonSpiderDie_24: -1135370166816579182
+      DemonSpiderDie_25: 6390241631069229479
+      DemonSpiderDie_26: -3562941989521930643
+      DemonSpiderDie_27: 2125645033773233669
+      DemonSpiderDie_28: 5843740904493226625
+      DemonSpiderDie_29: -2419198904145828781
+      DemonSpiderDie_3: -2271893936008394430
+      DemonSpiderDie_30: 5295984181119524068
+      DemonSpiderDie_4: 5483158664378698417
+      DemonSpiderDie_5: -827634393149094082
+      DemonSpiderDie_6: -3186582180922096069
+      DemonSpiderDie_7: -8910888748471016889
+      DemonSpiderDie_8: -5223399218814694658
+      DemonSpiderDie_9: 7304593080635063027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

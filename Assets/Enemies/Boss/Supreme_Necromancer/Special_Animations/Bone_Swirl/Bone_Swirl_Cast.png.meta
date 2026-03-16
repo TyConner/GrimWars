@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: d032d6b2695d9f140a2c18419d31e944
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8357382998697862286
+    second: Bone_Swirl_Cast_0
+  - first:
+      213: 4512229813082911628
+    second: Bone_Swirl_Cast_1
+  - first:
+      213: -7702049964949276118
+    second: Bone_Swirl_Cast_2
+  - first:
+      213: 1017088921423077347
+    second: Bone_Swirl_Cast_3
+  - first:
+      213: -902526041275178456
+    second: Bone_Swirl_Cast_4
+  - first:
+      213: -8289555165691043026
+    second: Bone_Swirl_Cast_5
+  - first:
+      213: 6409817913851907159
+    second: Bone_Swirl_Cast_6
+  - first:
+      213: 4562197922985597051
+    second: Bone_Swirl_Cast_7
+  - first:
+      213: -5772334786006929725
+    second: Bone_Swirl_Cast_8
+  - first:
+      213: 2083039481183041007
+    second: Bone_Swirl_Cast_9
+  - first:
+      213: -8936582843932651544
+    second: Bone_Swirl_Cast_10
+  - first:
+      213: -4345720826099217642
+    second: Bone_Swirl_Cast_11
+  - first:
+      213: 5101790707504537914
+    second: Bone_Swirl_Cast_12
+  - first:
+      213: -5173445357823490694
+    second: Bone_Swirl_Cast_13
+  - first:
+      213: 1192306532134688978
+    second: Bone_Swirl_Cast_14
+  - first:
+      213: 3949978945621735072
+    second: Bone_Swirl_Cast_15
+  - first:
+      213: -4760909669284235310
+    second: Bone_Swirl_Cast_16
+  - first:
+      213: 7369850088087914868
+    second: Bone_Swirl_Cast_17
+  - first:
+      213: -9176741059257885337
+    second: Bone_Swirl_Cast_18
+  - first:
+      213: 6557887711486987786
+    second: Bone_Swirl_Cast_19
+  - first:
+      213: -6264404076999931554
+    second: Bone_Swirl_Cast_20
+  - first:
+      213: -4883184138700189742
+    second: Bone_Swirl_Cast_21
+  - first:
+      213: -3936761486775305982
+    second: Bone_Swirl_Cast_22
+  - first:
+      213: 4495371613991659121
+    second: Bone_Swirl_Cast_23
+  - first:
+      213: 429237119833493378
+    second: Bone_Swirl_Cast_24
+  - first:
+      213: -8268630719313790186
+    second: Bone_Swirl_Cast_25
+  - first:
+      213: -3698522369152708339
+    second: Bone_Swirl_Cast_26
+  - first:
+      213: -1135099669686008855
+    second: Bone_Swirl_Cast_27
+  - first:
+      213: 767520791118112965
+    second: Bone_Swirl_Cast_28
+  - first:
+      213: -6455756055131684544
+    second: Bone_Swirl_Cast_29
+  - first:
+      213: -3378081750903514777
+    second: Bone_Swirl_Cast_30
+  - first:
+      213: 1062414270345503067
+    second: Bone_Swirl_Cast_31
+  - first:
+      213: -2051475017802832438
+    second: Bone_Swirl_Cast_32
+  - first:
+      213: 5244213253497514150
+    second: Bone_Swirl_Cast_33
+  - first:
+      213: 5948352098542362630
+    second: Bone_Swirl_Cast_34
+  - first:
+      213: 825877585029969034
+    second: Bone_Swirl_Cast_35
+  - first:
+      213: 4491493788206508766
+    second: Bone_Swirl_Cast_36
+  - first:
+      213: 3912872211915096520
+    second: Bone_Swirl_Cast_37
+  - first:
+      213: -8156876665154391878
+    second: Bone_Swirl_Cast_38
+  - first:
+      213: -1881508895408827307
+    second: Bone_Swirl_Cast_39
+  - first:
+      213: -4206202023820438223
+    second: Bone_Swirl_Cast_40
+  - first:
+      213: -6971287076512060332
+    second: Bone_Swirl_Cast_41
+  - first:
+      213: -7246444158687353743
+    second: Bone_Swirl_Cast_42
+  - first:
+      213: 4561922257055610593
+    second: Bone_Swirl_Cast_43
+  - first:
+      213: 2246640993466001708
+    second: Bone_Swirl_Cast_44
+  - first:
+      213: 5011074657142226463
+    second: Bone_Swirl_Cast_45
+  - first:
+      213: 2295191291198798439
+    second: Bone_Swirl_Cast_46
+  - first:
+      213: 157417632852122973
+    second: Bone_Swirl_Cast_47
+  - first:
+      213: 2870725034194353496
+    second: Bone_Swirl_Cast_48
+  - first:
+      213: 8669313460296362703
+    second: Bone_Swirl_Cast_49
+  - first:
+      213: -3508948143360631716
+    second: Bone_Swirl_Cast_50
+  - first:
+      213: 3915771099744257910
+    second: Bone_Swirl_Cast_51
+  - first:
+      213: -9205766017702191291
+    second: Bone_Swirl_Cast_52
+  - first:
+      213: 8801171192435756100
+    second: Bone_Swirl_Cast_53
+  - first:
+      213: 5682412850564457131
+    second: Bone_Swirl_Cast_54
+  - first:
+      213: -684700105949502329
+    second: Bone_Swirl_Cast_55
+  - first:
+      213: 8376719245613740636
+    second: Bone_Swirl_Cast_56
+  - first:
+      213: 504003405835065088
+    second: Bone_Swirl_Cast_57
+  - first:
+      213: 5918187757171438016
+    second: Bone_Swirl_Cast_58
+  - first:
+      213: -3767417665644564106
+    second: Bone_Swirl_Cast_59
+  - first:
+      213: -3906493620451353596
+    second: Bone_Swirl_Cast_60
+  - first:
+      213: 2600460960399442385
+    second: Bone_Swirl_Cast_61
+  - first:
+      213: -8349908821776687283
+    second: Bone_Swirl_Cast_62
+  - first:
+      213: -2820214352555920643
+    second: Bone_Swirl_Cast_63
+  - first:
+      213: 1586451141709096714
+    second: Bone_Swirl_Cast_64
+  - first:
+      213: 1421111098262182854
+    second: Bone_Swirl_Cast_65
+  - first:
+      213: 6112613098190432061
+    second: Bone_Swirl_Cast_66
+  - first:
+      213: 4676827526713334397
+    second: Bone_Swirl_Cast_67
+  - first:
+      213: -803160650776060990
+    second: Bone_Swirl_Cast_68
+  - first:
+      213: 9220222077387857863
+    second: Bone_Swirl_Cast_69
+  - first:
+      213: -8913576468410738486
+    second: Bone_Swirl_Cast_70
+  - first:
+      213: -1945047290672995981
+    second: Bone_Swirl_Cast_71
+  - first:
+      213: 4490824409363277956
+    second: Bone_Swirl_Cast_72
+  - first:
+      213: 2895344963790330379
+    second: Bone_Swirl_Cast_73
+  - first:
+      213: 4528036049400356238
+    second: Bone_Swirl_Cast_74
+  - first:
+      213: 4958857786060657442
+    second: Bone_Swirl_Cast_75
+  - first:
+      213: 8260971730551835211
+    second: Bone_Swirl_Cast_76
+  - first:
+      213: -5882486020534981328
+    second: Bone_Swirl_Cast_77
+  - first:
+      213: 807762228481477477
+    second: Bone_Swirl_Cast_78
+  - first:
+      213: 6215875327859965479
+    second: Bone_Swirl_Cast_79
+  - first:
+      213: -4983137989553888183
+    second: Bone_Swirl_Cast_80
+  - first:
+      213: -206748011876602668
+    second: Bone_Swirl_Cast_81
+  - first:
+      213: -6229047675510127397
+    second: Bone_Swirl_Cast_82
+  - first:
+      213: -1799586236478982036
+    second: Bone_Swirl_Cast_83
+  - first:
+      213: 2189160885374262193
+    second: Bone_Swirl_Cast_84
+  - first:
+      213: 6941311143944082894
+    second: Bone_Swirl_Cast_85
+  - first:
+      213: 2747331609811919039
+    second: Bone_Swirl_Cast_86
+  - first:
+      213: -6693858909854930335
+    second: Bone_Swirl_Cast_87
+  - first:
+      213: 3660093201599159220
+    second: Bone_Swirl_Cast_88
+  - first:
+      213: -6125591145387205953
+    second: Bone_Swirl_Cast_89
+  - first:
+      213: -3955733820710317196
+    second: Bone_Swirl_Cast_90
+  - first:
+      213: 8933811995314004394
+    second: Bone_Swirl_Cast_91
+  - first:
+      213: -5044792678294071750
+    second: Bone_Swirl_Cast_92
+  - first:
+      213: 6967042663745080078
+    second: Bone_Swirl_Cast_93
+  - first:
+      213: 7006620205329349196
+    second: Bone_Swirl_Cast_94
+  - first:
+      213: -5091127939226228326
+    second: Bone_Swirl_Cast_95
+  - first:
+      213: -3439078522466833465
+    second: Bone_Swirl_Cast_96
+  - first:
+      213: -3868897050052558216
+    second: Bone_Swirl_Cast_97
+  - first:
+      213: -2734622052564115021
+    second: Bone_Swirl_Cast_98
+  - first:
+      213: 2219279163923472359
+    second: Bone_Swirl_Cast_99
+  - first:
+      213: 2675197802138731771
+    second: Bone_Swirl_Cast_100
+  - first:
+      213: 2925134300164306365
+    second: Bone_Swirl_Cast_101
+  - first:
+      213: -3666543803894499952
+    second: Bone_Swirl_Cast_102
+  - first:
+      213: 354523713303634929
+    second: Bone_Swirl_Cast_103
+  - first:
+      213: -7883439802737548854
+    second: Bone_Swirl_Cast_104
+  - first:
+      213: 4846612955323418469
+    second: Bone_Swirl_Cast_105
+  - first:
+      213: -6032311919858243059
+    second: Bone_Swirl_Cast_106
+  - first:
+      213: -49745356398249727
+    second: Bone_Swirl_Cast_107
+  - first:
+      213: -7968626118854823966
+    second: Bone_Swirl_Cast_108
+  - first:
+      213: 1519317071571351781
+    second: Bone_Swirl_Cast_109
+  - first:
+      213: 5026771726955032687
+    second: Bone_Swirl_Cast_110
+  - first:
+      213: -2086761866005595572
+    second: Bone_Swirl_Cast_111
+  - first:
+      213: -1931196636193173650
+    second: Bone_Swirl_Cast_112
+  - first:
+      213: -2453921941016106240
+    second: Bone_Swirl_Cast_113
+  - first:
+      213: -2090724426261759715
+    second: Bone_Swirl_Cast_114
+  - first:
+      213: 4429809695440569668
+    second: Bone_Swirl_Cast_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b99b6217c940c80800000000000000
+      internalID: -8357382998697862286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83fbb1bb19ae9e30800000000000000
+      internalID: 4512229813082911628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a73e43d52dc1590800000000000000
+      internalID: -7702049964949276118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef586a3cfc6d1e00800000000000000
+      internalID: 1017088921423077347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822e045e8559973f0800000000000000
+      internalID: -902526041275178456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e232bfa2f7595fc80800000000000000
+      internalID: -8289555165691043026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c04169e6f34f850800000000000000
+      internalID: 6409817913851907159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d492e6de205f30800000000000000
+      internalID: 4562197922985597051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce2d63681c84efa0800000000000000
+      internalID: -5772334786006929725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe577092f5178ec10800000000000000
+      internalID: 2083039481183041007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4b816041eaf380800000000000000
+      internalID: -8936582843932651544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc65beee5e0b3c0800000000000000
+      internalID: -4345720826099217642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 107
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3162373e933dc640800000000000000
+      internalID: 5101790707504537914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75890e6bda3438b0800000000000000
+      internalID: -5173445357823490694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 108
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8144f497ceb8010800000000000000
+      internalID: 1192306532134688978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63e045ce421d630800000000000000
+      internalID: 3949978945621735072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 107
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7379251e9ddedb0800000000000000
+      internalID: -4760909669284235310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798c54ab97f64660800000000000000
+      internalID: 7369850088087914868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 109
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d113780aaa5a080800000000000000
+      internalID: -9176741059257885337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ec410e02c420b50800000000000000
+      internalID: 6557887711486987786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5909e4aead5019a0800000000000000
+      internalID: -6264404076999931554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df04f7e5e17b3cb0800000000000000
+      internalID: -4883184138700189742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b15f1940dd59c0800000000000000
+      internalID: -3936761486775305982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e8595aa4c26e30800000000000000
+      internalID: 4495371613991659121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4614e2e4f4f500800000000000000
+      internalID: 429237119833493378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3b6c7b2cef3d80800000000000000
+      internalID: -8268630719313790186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0111d830853cacc0800000000000000
+      internalID: -3698522369152708339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3c3bb4dd05f30f0800000000000000
+      internalID: -1135099669686008855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c86250d718c6aa00800000000000000
+      internalID: 767520791118112965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418c49621c8866a0800000000000000
+      internalID: -6455756055131684544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699a2f9b84ae11d0800000000000000
+      internalID: -3378081750903514777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ef3466247ebe00800000000000000
+      internalID: 1062414270345503067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5264a2752b783e0800000000000000
+      internalID: -2051475017802832438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a86d154b2037c840800000000000000
+      internalID: 5244213253497514150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002198c7bacc8250800000000000000
+      internalID: 5948352098542362630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a843ba3b94b167b00800000000000000
+      internalID: 825877585029969034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda2cecadcdf45e30800000000000000
+      internalID: 4491493788206508766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c142b2ab805d4630800000000000000
+      internalID: 3912872211915096520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0bcc8d3e3fcce80800000000000000
+      internalID: -8156876665154391878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5545b67d0a983e5e0800000000000000
+      internalID: -1881508895408827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_40
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13557a47b8190a5c0800000000000000
+      internalID: -4206202023820438223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 75
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c2a31e653014f90800000000000000
+      internalID: -6971287076512060332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1746cb45e657f6b90800000000000000
+      internalID: -7246444158687353743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e67fb86f143f4f30800000000000000
+      internalID: 4561922257055610593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 76
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c292f51941cad2f10800000000000000
+      internalID: 2246640993466001708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_45
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 75
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebce1d9d9ea8540800000000000000
+      internalID: 5011074657142226463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_46
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a7973a1582adf10800000000000000
+      internalID: 2295191291198798439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d9887c0824f2200800000000000000
+      internalID: 157417632852122973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_48
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db9f6753dd6d720800000000000000
+      internalID: 2870725034194353496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca2a7ff8a69f4870800000000000000
+      internalID: 8669313460296362703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c19bb3146bd4fc0800000000000000
+      internalID: -3508948143360631716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774ffd811d975630800000000000000
+      internalID: 3915771099744257910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9f75c49c8e3080800000000000000
+      internalID: -9205766017702191291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc884a19a042a70800000000000000
+      internalID: 8801171192435756100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_54
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26201816cfbde40800000000000000
+      internalID: 5682412850564457131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_55
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784253f91e47f76f0800000000000000
+      internalID: -684700105949502329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_56
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c523cf9a5c5104470800000000000000
+      internalID: 8376719245613740636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d2626d649ef600800000000000000
+      internalID: 504003405835065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f444c860a12250800000000000000
+      internalID: 5918187757171438016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67179bef79177bbc0800000000000000
+      internalID: -3767417665644564106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cdaabefb859c9c0800000000000000
+      internalID: -3906493620451353596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d141e43771b61420800000000000000
+      internalID: 2600460960399442385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f99139a2a2f1c80800000000000000
+      internalID: -8349908821776687283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2327d0df59cd8d0800000000000000
+      internalID: -2820214352555920643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07651378e4340610800000000000000
+      internalID: 1586451141709096714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5846b30dc8b310800000000000000
+      internalID: 1421111098262182854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d376a0f0a3d54d450800000000000000
+      internalID: 6112613098190432061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a548d4bdd67e040800000000000000
+      internalID: 4676827526713334397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbdbe8b4a99ad4f0800000000000000
+      internalID: -803160650776060990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfdae8e02fc4ff70800000000000000
+      internalID: 9220222077387857863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_70
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 43
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d81a9d6d9c4480800000000000000
+      internalID: -8913576468410738486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 44
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371a9106bcdc105e0800000000000000
+      internalID: -1945047290672995981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_72
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 44
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48860c4c10d925e30800000000000000
+      internalID: 4490824409363277956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_73
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 44
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a50f487e45e2820800000000000000
+      internalID: 2895344963790330379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_74
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 43
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ddbaedbc0d6de30800000000000000
+      internalID: 4528036049400356238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22353dd12e661d440800000000000000
+      internalID: 4958857786060657442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_76
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a061b350ed4a270800000000000000
+      internalID: 8260971730551835211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dafcd81263d5ea0800000000000000
+      internalID: -5882486020534981328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 44
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bcd93977fb53b00800000000000000
+      internalID: 807762228481477477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e35357da9334650800000000000000
+      internalID: 6215875327859965479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_80
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 44
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e2e9766658dab0800000000000000
+      internalID: -4983137989553888183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_81
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca31257cb712df0800000000000000
+      internalID: -206748011876602668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_82
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd40f3c542afd89a0800000000000000
+      internalID: -6229047675510127397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_83
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fcff3ad59607e0800000000000000
+      internalID: -1799586236478982036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_84
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb99e00a36716e10800000000000000
+      internalID: 2189160885374262193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_85
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55f3275bd745060800000000000000
+      internalID: 6941311143944082894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_86
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0aa0b0b8b702620800000000000000
+      internalID: 2747331609811919039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a638d79c2aa13a0800000000000000
+      internalID: -6693858909854930335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_88
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd326ff534bc230800000000000000
+      internalID: 3660093201599159220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadaebde478dfaa0800000000000000
+      internalID: -6125591145387205953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47310966c096a19c0800000000000000
+      internalID: -3955733820710317196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a0d62da64bfb70800000000000000
+      internalID: 8933811995314004394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a365acc99cb4df9b0800000000000000
+      internalID: -5044792678294071750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4483c368efa060800000000000000
+      internalID: 6967042663745080078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4afabe34f38c3160800000000000000
+      internalID: 7006620205329349196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99aa5cfc1ea859b0800000000000000
+      internalID: -5091127939226228326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb60b90e40f540d0800000000000000
+      internalID: -3439078522466833465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_97
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8728f0b91aaee4ac0800000000000000
+      internalID: -3868897050052558216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_98
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b167f95bbbac0ad0800000000000000
+      internalID: -2734622052564115021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_99
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 11
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef951f24a67cce10800000000000000
+      internalID: 2219279163923472359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 12
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4826c2a36302520800000000000000
+      internalID: 2675197802138731771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_101
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ba91e52a289820800000000000000
+      internalID: 2925134300164306365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_102
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095757726d1dd1dc0800000000000000
+      internalID: -3666543803894499952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_103
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 11
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f36aeb50758be400800000000000000
+      internalID: 354523713303634929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_104
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac127a58445689290800000000000000
+      internalID: -7883439802737548854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_105
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567cbddedc0a24340800000000000000
+      internalID: 4846612955323418469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_106
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aae7af44ce84ca0800000000000000
+      internalID: -6032311919858243059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_107
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 12
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10938a6acd44f4ff0800000000000000
+      internalID: -49745356398249727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_108
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef22c5b3c0c96190800000000000000
+      internalID: -7968626118854823966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_109
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e87230b3d2b51510800000000000000
+      internalID: 1519317071571351781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_110
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60b120b04ea2c540800000000000000
+      internalID: 5026771726955032687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_111
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ab7e593255a03e0800000000000000
+      internalID: -2086761866005595572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_112
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc64c24e20335e0800000000000000
+      internalID: -1931196636193173650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_113
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba23ffefae1fdd0800000000000000
+      internalID: -2453921941016106240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_114
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d197f6126314cf2e0800000000000000
+      internalID: -2090724426261759715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_Cast_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450157a278d97d30800000000000000
+      internalID: 4429809695440569668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bone_Swirl_Cast_0: -8357382998697862286
+      Bone_Swirl_Cast_1: 4512229813082911628
+      Bone_Swirl_Cast_10: -8936582843932651544
+      Bone_Swirl_Cast_100: 2675197802138731771
+      Bone_Swirl_Cast_101: 2925134300164306365
+      Bone_Swirl_Cast_102: -3666543803894499952
+      Bone_Swirl_Cast_103: 354523713303634929
+      Bone_Swirl_Cast_104: -7883439802737548854
+      Bone_Swirl_Cast_105: 4846612955323418469
+      Bone_Swirl_Cast_106: -6032311919858243059
+      Bone_Swirl_Cast_107: -49745356398249727
+      Bone_Swirl_Cast_108: -7968626118854823966
+      Bone_Swirl_Cast_109: 1519317071571351781
+      Bone_Swirl_Cast_11: -4345720826099217642
+      Bone_Swirl_Cast_110: 5026771726955032687
+      Bone_Swirl_Cast_111: -2086761866005595572
+      Bone_Swirl_Cast_112: -1931196636193173650
+      Bone_Swirl_Cast_113: -2453921941016106240
+      Bone_Swirl_Cast_114: -2090724426261759715
+      Bone_Swirl_Cast_115: 4429809695440569668
+      Bone_Swirl_Cast_12: 5101790707504537914
+      Bone_Swirl_Cast_13: -5173445357823490694
+      Bone_Swirl_Cast_14: 1192306532134688978
+      Bone_Swirl_Cast_15: 3949978945621735072
+      Bone_Swirl_Cast_16: -4760909669284235310
+      Bone_Swirl_Cast_17: 7369850088087914868
+      Bone_Swirl_Cast_18: -9176741059257885337
+      Bone_Swirl_Cast_19: 6557887711486987786
+      Bone_Swirl_Cast_2: -7702049964949276118
+      Bone_Swirl_Cast_20: -6264404076999931554
+      Bone_Swirl_Cast_21: -4883184138700189742
+      Bone_Swirl_Cast_22: -3936761486775305982
+      Bone_Swirl_Cast_23: 4495371613991659121
+      Bone_Swirl_Cast_24: 429237119833493378
+      Bone_Swirl_Cast_25: -8268630719313790186
+      Bone_Swirl_Cast_26: -3698522369152708339
+      Bone_Swirl_Cast_27: -1135099669686008855
+      Bone_Swirl_Cast_28: 767520791118112965
+      Bone_Swirl_Cast_29: -6455756055131684544
+      Bone_Swirl_Cast_3: 1017088921423077347
+      Bone_Swirl_Cast_30: -3378081750903514777
+      Bone_Swirl_Cast_31: 1062414270345503067
+      Bone_Swirl_Cast_32: -2051475017802832438
+      Bone_Swirl_Cast_33: 5244213253497514150
+      Bone_Swirl_Cast_34: 5948352098542362630
+      Bone_Swirl_Cast_35: 825877585029969034
+      Bone_Swirl_Cast_36: 4491493788206508766
+      Bone_Swirl_Cast_37: 3912872211915096520
+      Bone_Swirl_Cast_38: -8156876665154391878
+      Bone_Swirl_Cast_39: -1881508895408827307
+      Bone_Swirl_Cast_4: -902526041275178456
+      Bone_Swirl_Cast_40: -4206202023820438223
+      Bone_Swirl_Cast_41: -6971287076512060332
+      Bone_Swirl_Cast_42: -7246444158687353743
+      Bone_Swirl_Cast_43: 4561922257055610593
+      Bone_Swirl_Cast_44: 2246640993466001708
+      Bone_Swirl_Cast_45: 5011074657142226463
+      Bone_Swirl_Cast_46: 2295191291198798439
+      Bone_Swirl_Cast_47: 157417632852122973
+      Bone_Swirl_Cast_48: 2870725034194353496
+      Bone_Swirl_Cast_49: 8669313460296362703
+      Bone_Swirl_Cast_5: -8289555165691043026
+      Bone_Swirl_Cast_50: -3508948143360631716
+      Bone_Swirl_Cast_51: 3915771099744257910
+      Bone_Swirl_Cast_52: -9205766017702191291
+      Bone_Swirl_Cast_53: 8801171192435756100
+      Bone_Swirl_Cast_54: 5682412850564457131
+      Bone_Swirl_Cast_55: -684700105949502329
+      Bone_Swirl_Cast_56: 8376719245613740636
+      Bone_Swirl_Cast_57: 504003405835065088
+      Bone_Swirl_Cast_58: 5918187757171438016
+      Bone_Swirl_Cast_59: -3767417665644564106
+      Bone_Swirl_Cast_6: 6409817913851907159
+      Bone_Swirl_Cast_60: -3906493620451353596
+      Bone_Swirl_Cast_61: 2600460960399442385
+      Bone_Swirl_Cast_62: -8349908821776687283
+      Bone_Swirl_Cast_63: -2820214352555920643
+      Bone_Swirl_Cast_64: 1586451141709096714
+      Bone_Swirl_Cast_65: 1421111098262182854
+      Bone_Swirl_Cast_66: 6112613098190432061
+      Bone_Swirl_Cast_67: 4676827526713334397
+      Bone_Swirl_Cast_68: -803160650776060990
+      Bone_Swirl_Cast_69: 9220222077387857863
+      Bone_Swirl_Cast_7: 4562197922985597051
+      Bone_Swirl_Cast_70: -8913576468410738486
+      Bone_Swirl_Cast_71: -1945047290672995981
+      Bone_Swirl_Cast_72: 4490824409363277956
+      Bone_Swirl_Cast_73: 2895344963790330379
+      Bone_Swirl_Cast_74: 4528036049400356238
+      Bone_Swirl_Cast_75: 4958857786060657442
+      Bone_Swirl_Cast_76: 8260971730551835211
+      Bone_Swirl_Cast_77: -5882486020534981328
+      Bone_Swirl_Cast_78: 807762228481477477
+      Bone_Swirl_Cast_79: 6215875327859965479
+      Bone_Swirl_Cast_8: -5772334786006929725
+      Bone_Swirl_Cast_80: -4983137989553888183
+      Bone_Swirl_Cast_81: -206748011876602668
+      Bone_Swirl_Cast_82: -6229047675510127397
+      Bone_Swirl_Cast_83: -1799586236478982036
+      Bone_Swirl_Cast_84: 2189160885374262193
+      Bone_Swirl_Cast_85: 6941311143944082894
+      Bone_Swirl_Cast_86: 2747331609811919039
+      Bone_Swirl_Cast_87: -6693858909854930335
+      Bone_Swirl_Cast_88: 3660093201599159220
+      Bone_Swirl_Cast_89: -6125591145387205953
+      Bone_Swirl_Cast_9: 2083039481183041007
+      Bone_Swirl_Cast_90: -3955733820710317196
+      Bone_Swirl_Cast_91: 8933811995314004394
+      Bone_Swirl_Cast_92: -5044792678294071750
+      Bone_Swirl_Cast_93: 6967042663745080078
+      Bone_Swirl_Cast_94: 7006620205329349196
+      Bone_Swirl_Cast_95: -5091127939226228326
+      Bone_Swirl_Cast_96: -3439078522466833465
+      Bone_Swirl_Cast_97: -3868897050052558216
+      Bone_Swirl_Cast_98: -2734622052564115021
+      Bone_Swirl_Cast_99: 2219279163923472359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

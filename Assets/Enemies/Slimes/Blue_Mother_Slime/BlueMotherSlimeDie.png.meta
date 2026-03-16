@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 984e09e566ad3894098c64a9e4407c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -587385101600129006
+    second: BlueMotherSlimeDie_0
+  - first:
+      213: -5993370296065949071
+    second: BlueMotherSlimeDie_1
+  - first:
+      213: -7884204212857698684
+    second: BlueMotherSlimeDie_2
+  - first:
+      213: -4790597896244013688
+    second: BlueMotherSlimeDie_3
+  - first:
+      213: -1802632182968346058
+    second: BlueMotherSlimeDie_4
+  - first:
+      213: 3310679848868917711
+    second: BlueMotherSlimeDie_5
+  - first:
+      213: 3256396968284918847
+    second: BlueMotherSlimeDie_6
+  - first:
+      213: 4579677929842718858
+    second: BlueMotherSlimeDie_7
+  - first:
+      213: -7516145247899427793
+    second: BlueMotherSlimeDie_8
+  - first:
+      213: 163699150991729652
+    second: BlueMotherSlimeDie_9
+  - first:
+      213: 3706133551707181743
+    second: BlueMotherSlimeDie_10
+  - first:
+      213: -1128719132718464696
+    second: BlueMotherSlimeDie_11
+  - first:
+      213: -1358329197524169074
+    second: BlueMotherSlimeDie_12
+  - first:
+      213: 8294703323337027136
+    second: BlueMotherSlimeDie_13
+  - first:
+      213: 911244936430523231
+    second: BlueMotherSlimeDie_14
+  - first:
+      213: -4344384578753281219
+    second: BlueMotherSlimeDie_15
+  - first:
+      213: -7958905830218193208
+    second: BlueMotherSlimeDie_16
+  - first:
+      213: 214108666369204003
+    second: BlueMotherSlimeDie_17
+  - first:
+      213: -7509891975388400736
+    second: BlueMotherSlimeDie_18
+  - first:
+      213: 2357851777622689405
+    second: BlueMotherSlimeDie_19
+  - first:
+      213: -49316144134783001
+    second: BlueMotherSlimeDie_20
+  - first:
+      213: 1785328966858947893
+    second: BlueMotherSlimeDie_21
+  - first:
+      213: -9214390874145007208
+    second: BlueMotherSlimeDie_22
+  - first:
+      213: 4837789839231308528
+    second: BlueMotherSlimeDie_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21084c8bc5039d7f0800000000000000
+      internalID: -587385101600129006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728c9f487543dca0800000000000000
+      internalID: -5993370296065949071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 14
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4868afb6a0ea59290800000000000000
+      internalID: -7884204212857698684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88554a45890648db0800000000000000
+      internalID: -4790597896244013688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a1c719493cbf6e0800000000000000
+      internalID: -1802632182968346058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc130e428c5e1fd20800000000000000
+      internalID: 3310679848868917711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34184e1acb013d20800000000000000
+      internalID: 3256396968284918847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b8f120d84e8f30800000000000000
+      internalID: 4579677929842718858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd6b228b941b790800000000000000
+      internalID: -7516145247899427793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f325e0b283954200800000000000000
+      internalID: 163699150991729652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d9af44d4de6330800000000000000
+      internalID: 3706133551707181743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8410123ddebf550f0800000000000000
+      internalID: -1128719132718464696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ec785aace362de0800000000000000
+      internalID: -1358329197524169074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e61c0b9b4bc1370800000000000000
+      internalID: 8294703323337027136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f539053117465ac00800000000000000
+      internalID: 911244936430523231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 12
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c9bf3e35a5b3c0800000000000000
+      internalID: -4344384578753281219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 12
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c62f05c0594c8190800000000000000
+      internalID: -7958905830218193208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd44a92baa8f200800000000000000
+      internalID: 214108666369204003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3fa69990187c790800000000000000
+      internalID: -7509891975388400736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76493603b5c8b020800000000000000
+      internalID: 2357851777622689405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef772b6a3bc05ff0800000000000000
+      internalID: -49316144134783001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db7dc7c33c6c810800000000000000
+      internalID: 1785328966858947893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995cf4e158ef1080800000000000000
+      internalID: -9214390874145007208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDie_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f250612a38432340800000000000000
+      internalID: 4837789839231308528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueMotherSlimeDie_0: -587385101600129006
+      BlueMotherSlimeDie_1: -5993370296065949071
+      BlueMotherSlimeDie_10: 3706133551707181743
+      BlueMotherSlimeDie_11: -1128719132718464696
+      BlueMotherSlimeDie_12: -1358329197524169074
+      BlueMotherSlimeDie_13: 8294703323337027136
+      BlueMotherSlimeDie_14: 911244936430523231
+      BlueMotherSlimeDie_15: -4344384578753281219
+      BlueMotherSlimeDie_16: -7958905830218193208
+      BlueMotherSlimeDie_17: 214108666369204003
+      BlueMotherSlimeDie_18: -7509891975388400736
+      BlueMotherSlimeDie_19: 2357851777622689405
+      BlueMotherSlimeDie_2: -7884204212857698684
+      BlueMotherSlimeDie_20: -49316144134783001
+      BlueMotherSlimeDie_21: 1785328966858947893
+      BlueMotherSlimeDie_22: -9214390874145007208
+      BlueMotherSlimeDie_23: 4837789839231308528
+      BlueMotherSlimeDie_3: -4790597896244013688
+      BlueMotherSlimeDie_4: -1802632182968346058
+      BlueMotherSlimeDie_5: 3310679848868917711
+      BlueMotherSlimeDie_6: 3256396968284918847
+      BlueMotherSlimeDie_7: 4579677929842718858
+      BlueMotherSlimeDie_8: -7516145247899427793
+      BlueMotherSlimeDie_9: 163699150991729652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

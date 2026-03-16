@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 02ce53591b828bb48910e80e90c087b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6891298056545397094
+    second: Hellfire_Outline_Effect_0
+  - first:
+      213: -3139919414246099355
+    second: Hellfire_Outline_Effect_1
+  - first:
+      213: -3638234330986829063
+    second: Hellfire_Outline_Effect_2
+  - first:
+      213: -7348505226079734493
+    second: Hellfire_Outline_Effect_3
+  - first:
+      213: -8648288953916408682
+    second: Hellfire_Outline_Effect_4
+  - first:
+      213: 6791846025033130643
+    second: Hellfire_Outline_Effect_5
+  - first:
+      213: -585657960112072031
+    second: Hellfire_Outline_Effect_6
+  - first:
+      213: -4452829576843201
+    second: Hellfire_Outline_Effect_7
+  - first:
+      213: -5948849719839526750
+    second: Hellfire_Outline_Effect_8
+  - first:
+      213: 7442533717229086815
+    second: Hellfire_Outline_Effect_9
+  - first:
+      213: 4506221946791879587
+    second: Hellfire_Outline_Effect_10
+  - first:
+      213: 449448168636633944
+    second: Hellfire_Outline_Effect_11
+  - first:
+      213: 4290618770105863136
+    second: Hellfire_Outline_Effect_12
+  - first:
+      213: -5323756834195641279
+    second: Hellfire_Outline_Effect_13
+  - first:
+      213: -5953975642554367954
+    second: Hellfire_Outline_Effect_14
+  - first:
+      213: -2778456009087881208
+    second: Hellfire_Outline_Effect_15
+  - first:
+      213: 2589878694992249501
+    second: Hellfire_Outline_Effect_16
+  - first:
+      213: -4424431608447166310
+    second: Hellfire_Outline_Effect_17
+  - first:
+      213: -4067411648213447924
+    second: Hellfire_Outline_Effect_18
+  - first:
+      213: 9156768643812933602
+    second: Hellfire_Outline_Effect_19
+  - first:
+      213: -6404031018127491614
+    second: Hellfire_Outline_Effect_20
+  - first:
+      213: -5767542548112248140
+    second: Hellfire_Outline_Effect_21
+  - first:
+      213: 807455961798002865
+    second: Hellfire_Outline_Effect_22
+  - first:
+      213: -962012504817912890
+    second: Hellfire_Outline_Effect_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969542ede03d50a0800000000000000
+      internalID: -6891298056545397094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5663282cde3cc64d0800000000000000
+      internalID: -3139919414246099355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa26e3f625628dc0800000000000000
+      internalID: -3638234330986829063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3257a615e6dd40a90800000000000000
+      internalID: -7348505226079734493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cb0ea540b1bf780800000000000000
+      internalID: -8648288953916408682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392af3b99fb714e50800000000000000
+      internalID: 6791846025033130643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad3af20335fd7f0800000000000000
+      internalID: -585657960112072031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b3d2dc2e20fff0800000000000000
+      internalID: -4452829576843201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a078cab2b0717da0800000000000000
+      internalID: -5948849719839526750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58ae4ccbf0394760800000000000000
+      internalID: 7442533717229086815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a369915cf0598e30800000000000000
+      internalID: 4506221946791879587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85359846ab2cc3600800000000000000
+      internalID: 449448168636633944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb88cae9075b8b30800000000000000
+      internalID: 4290618770105863136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce533ad573e16b0800000000000000
+      internalID: -5323756834195641279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200838d2ba3f5da0800000000000000
+      internalID: -5953975642554367954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800744a0bf0f079d0800000000000000
+      internalID: -2778456009087881208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928d5a83f811f320800000000000000
+      internalID: 2589878694992249501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981f7dc4e24992c0800000000000000
+      internalID: -4424431608447166310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b83f0f7a6ad87c0800000000000000
+      internalID: -4067411648213447924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efb7e02190631f70800000000000000
+      internalID: 9156768643812933602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7de118bf4027a0800000000000000
+      internalID: -6404031018127491614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b271d83c9295ffa0800000000000000
+      internalID: -5767542548112248140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8cdbe4be8a43b00800000000000000
+      internalID: 807455961798002865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_Outline_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c338dc49be36a2f0800000000000000
+      internalID: -962012504817912890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hellfire_Outline_Effect_0: -6891298056545397094
+      Hellfire_Outline_Effect_1: -3139919414246099355
+      Hellfire_Outline_Effect_10: 4506221946791879587
+      Hellfire_Outline_Effect_11: 449448168636633944
+      Hellfire_Outline_Effect_12: 4290618770105863136
+      Hellfire_Outline_Effect_13: -5323756834195641279
+      Hellfire_Outline_Effect_14: -5953975642554367954
+      Hellfire_Outline_Effect_15: -2778456009087881208
+      Hellfire_Outline_Effect_16: 2589878694992249501
+      Hellfire_Outline_Effect_17: -4424431608447166310
+      Hellfire_Outline_Effect_18: -4067411648213447924
+      Hellfire_Outline_Effect_19: 9156768643812933602
+      Hellfire_Outline_Effect_2: -3638234330986829063
+      Hellfire_Outline_Effect_20: -6404031018127491614
+      Hellfire_Outline_Effect_21: -5767542548112248140
+      Hellfire_Outline_Effect_22: 807455961798002865
+      Hellfire_Outline_Effect_23: -962012504817912890
+      Hellfire_Outline_Effect_3: -7348505226079734493
+      Hellfire_Outline_Effect_4: -8648288953916408682
+      Hellfire_Outline_Effect_5: 6791846025033130643
+      Hellfire_Outline_Effect_6: -585657960112072031
+      Hellfire_Outline_Effect_7: -4452829576843201
+      Hellfire_Outline_Effect_8: -5948849719839526750
+      Hellfire_Outline_Effect_9: 7442533717229086815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

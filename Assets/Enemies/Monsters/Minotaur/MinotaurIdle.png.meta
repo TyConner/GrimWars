@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: d48b6ed214f3964438d784df771f807c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4778936811577777369
+    second: MinotaurIdle_0
+  - first:
+      213: 1767211041134207211
+    second: MinotaurIdle_1
+  - first:
+      213: -5719487298562224095
+    second: MinotaurIdle_2
+  - first:
+      213: 1802042939335284613
+    second: MinotaurIdle_3
+  - first:
+      213: -7855231862327229579
+    second: MinotaurIdle_4
+  - first:
+      213: -1349312637488861919
+    second: MinotaurIdle_5
+  - first:
+      213: 3497257630060666110
+    second: MinotaurIdle_6
+  - first:
+      213: 5591280950285925443
+    second: MinotaurIdle_7
+  - first:
+      213: 7473571102601646250
+    second: MinotaurIdle_8
+  - first:
+      213: -210545810323472253
+    second: MinotaurIdle_9
+  - first:
+      213: -2882928611666748758
+    second: MinotaurIdle_10
+  - first:
+      213: 6684844947925370508
+    second: MinotaurIdle_11
+  - first:
+      213: 5771028301829277461
+    second: MinotaurIdle_12
+  - first:
+      213: -8898613726393217341
+    second: MinotaurIdle_13
+  - first:
+      213: 119107172317334306
+    second: MinotaurIdle_14
+  - first:
+      213: -4056886836906661222
+    second: MinotaurIdle_15
+  - first:
+      213: 4309189079213330166
+    second: MinotaurIdle_16
+  - first:
+      213: 86707651037582854
+    second: MinotaurIdle_17
+  - first:
+      213: 1354687318224132082
+    second: MinotaurIdle_18
+  - first:
+      213: 1516496940305223195
+    second: MinotaurIdle_19
+  - first:
+      213: -6420128451408383658
+    second: MinotaurIdle_20
+  - first:
+      213: -2273192415082377192
+    second: MinotaurIdle_21
+  - first:
+      213: 4135590485626028941
+    second: MinotaurIdle_22
+  - first:
+      213: 1498879554383217883
+    second: MinotaurIdle_23
+  - first:
+      213: -6209295349282036972
+    second: MinotaurIdle_24
+  - first:
+      213: 8332774945330168752
+    second: MinotaurIdle_25
+  - first:
+      213: 1239541343803162488
+    second: MinotaurIdle_26
+  - first:
+      213: -1143080931270229033
+    second: MinotaurIdle_27
+  - first:
+      213: 5577560847528239715
+    second: MinotaurIdle_28
+  - first:
+      213: -2661151122450474001
+    second: MinotaurIdle_29
+  - first:
+      213: 405190266291910192
+    second: MinotaurIdle_30
+  - first:
+      213: -5905960246626182967
+    second: MinotaurIdle_31
+  - first:
+      213: 8422335887117902981
+    second: MinotaurIdle_32
+  - first:
+      213: -7950399538358439104
+    second: MinotaurIdle_33
+  - first:
+      213: -3892012094728996591
+    second: MinotaurIdle_34
+  - first:
+      213: 2706814426515408027
+    second: MinotaurIdle_35
+  - first:
+      213: 7817007764069491912
+    second: MinotaurIdle_36
+  - first:
+      213: -5556912939544472079
+    second: MinotaurIdle_37
+  - first:
+      213: 1467913088186584576
+    second: MinotaurIdle_38
+  - first:
+      213: -111974663552051960
+    second: MinotaurIdle_39
+  - first:
+      213: 4377958541053701419
+    second: MinotaurIdle_40
+  - first:
+      213: 8806315103852315278
+    second: MinotaurIdle_41
+  - first:
+      213: -873420001714922490
+    second: MinotaurIdle_42
+  - first:
+      213: -6942655988479661130
+    second: MinotaurIdle_43
+  - first:
+      213: 4134701884228927523
+    second: MinotaurIdle_44
+  - first:
+      213: -5073495279331039859
+    second: MinotaurIdle_45
+  - first:
+      213: -9206576714467591644
+    second: MinotaurIdle_46
+  - first:
+      213: 1006948299831422159
+    second: MinotaurIdle_47
+  - first:
+      213: -6959735512746180189
+    second: MinotaurIdle_48
+  - first:
+      213: 36188929830277450
+    second: MinotaurIdle_49
+  - first:
+      213: 570282043423601002
+    second: MinotaurIdle_50
+  - first:
+      213: 6939447516762077083
+    second: MinotaurIdle_51
+  - first:
+      213: 8228890707479213715
+    second: MinotaurIdle_52
+  - first:
+      213: 3659609256773758893
+    second: MinotaurIdle_53
+  - first:
+      213: 4526195809702361801
+    second: MinotaurIdle_54
+  - first:
+      213: 7338461934141460906
+    second: MinotaurIdle_55
+  - first:
+      213: 4034947960696742530
+    second: MinotaurIdle_56
+  - first:
+      213: -8151748548579966920
+    second: MinotaurIdle_57
+  - first:
+      213: -8806976319121122880
+    second: MinotaurIdle_58
+  - first:
+      213: 2825627138763659418
+    second: MinotaurIdle_59
+  - first:
+      213: -2788683796043683202
+    second: MinotaurIdle_60
+  - first:
+      213: -5397435532088449426
+    second: MinotaurIdle_61
+  - first:
+      213: 4333865884978897360
+    second: MinotaurIdle_62
+  - first:
+      213: 6290709620658559180
+    second: MinotaurIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinotaurIdle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7236edd2a4ecdadb0800000000000000
+      internalID: -4778936811577777369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e3fd2415668810800000000000000
+      internalID: 1767211041134207211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12017d7ea9c40a0b0800000000000000
+      internalID: -5719487298562224095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58794157184220910800000000000000
+      internalID: 1802042939335284613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c7a17d3c9cf290800000000000000
+      internalID: -7855231862327229579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de78f1e47464de0800000000000000
+      internalID: -1349312637488861919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5ac70941c88030800000000000000
+      internalID: 3497257630060666110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c73318668389d40800000000000000
+      internalID: 5591280950285925443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01236325577b760800000000000000
+      internalID: 7473571102601646250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38009b673bdf31df0800000000000000
+      internalID: -210545810323472253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1bccb3b7cdf7d0800000000000000
+      internalID: -2882928611666748758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8608a3ff0755cc50800000000000000
+      internalID: 6684844947925370508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517824f0aafc61050800000000000000
+      internalID: 5771028301829277461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cecae476f5c18480800000000000000
+      internalID: -8898613726393217341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b0d28975727a100800000000000000
+      internalID: 119107172317334306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a68388aea03b7c0800000000000000
+      internalID: -4056886836906661222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fec080f2a05dcb30800000000000000
+      internalID: 4309189079213330166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065763362c043100800000000000000
+      internalID: 86707651037582854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7d97040f0dcc210800000000000000
+      internalID: 1354687318224132082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e0cd5beedab0510800000000000000
+      internalID: 1516496940305223195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bc61503f17e6a0800000000000000
+      internalID: -6420128451408383658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81017e8da8ff370e0800000000000000
+      internalID: -2273192415082377192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838938a2a1946930800000000000000
+      internalID: 4135590485626028941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48b1863071dc410800000000000000
+      internalID: 1498879554383217883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132f8037c624d9a0800000000000000
+      internalID: -6209295349282036972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b30ea1f9a6f3a370800000000000000
+      internalID: 8332774945330168752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3cc9e84cb33110800000000000000
+      internalID: 1239541343803162488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d38d1603f5f220f0800000000000000
+      internalID: -1143080931270229033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3622c062a0a776d40800000000000000
+      internalID: 5577560847528239715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb15bc4721b11bd0800000000000000
+      internalID: -2661151122450474001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03676c086668f9500800000000000000
+      internalID: 405190266291910192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c894426270d90ea0800000000000000
+      internalID: -5905960246626182967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584efaaadd522e470800000000000000
+      internalID: 8422335887117902981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04337bd2eb18aa190800000000000000
+      internalID: -7950399538358439104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1197720ee9bccf9c0800000000000000
+      internalID: -3892012094728996591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b948a5d2169809520800000000000000
+      internalID: 2706814426515408027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c425d725279b7c60800000000000000
+      internalID: 7817007764069491912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51eae8f11e1e2b0800000000000000
+      internalID: -5556912939544472079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e02862d231f5410800000000000000
+      internalID: 1467913088186584576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d22303af227ef0800000000000000
+      internalID: -111974663552051960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da4e00912a1cc30800000000000000
+      internalID: 4377958541053701419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824649dde0563a70800000000000000
+      internalID: 8806315103852315278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c9f02d22df0e3f0800000000000000
+      internalID: -873420001714922490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6ee8892bb6af90800000000000000
+      internalID: -6942655988479661130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208a950579616930800000000000000
+      internalID: 4134701884228927523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d852ad98ce25799b0800000000000000
+      internalID: -5073495279331039859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ab6c8b14bab3080800000000000000
+      internalID: -9206576714467591644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcca2a6c42669fd00800000000000000
+      internalID: 1006948299831422159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c718ec6d0a6f90800000000000000
+      internalID: -6959735512746180189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d553d3a1908000800000000000000
+      internalID: 36188929830277450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613c0c3f7c0ae700800000000000000
+      internalID: 570282043423601002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f11eefbedd4060800000000000000
+      internalID: 6939447516762077083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bfcaff74e23270800000000000000
+      internalID: 8228890707479213715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf2bb6ca3b89c230800000000000000
+      internalID: 3659609256773758893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabb2dab1740de30800000000000000
+      internalID: 4526195809702361801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15a3e8f3477d560800000000000000
+      internalID: 7338461934141460906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282248ccac30ff730800000000000000
+      internalID: 4034947960696742530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c59782eb2fde80800000000000000
+      internalID: -8151748548579966920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c91289f2b557c580800000000000000
+      internalID: -8806976319121122880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9816b179e4a63720800000000000000
+      internalID: 2825627138763659418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aade1dcda9c49d0800000000000000
+      internalID: -2788683796043683202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ebcbfaf47815b0800000000000000
+      internalID: -5397435532088449426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e9528f0cf42c30800000000000000
+      internalID: 4333865884978897360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinotaurIdle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85c7402171d4750800000000000000
+      internalID: 6290709620658559180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MinotaurIdle_0: -4778936811577777369
+      MinotaurIdle_1: 1767211041134207211
+      MinotaurIdle_10: -2882928611666748758
+      MinotaurIdle_11: 6684844947925370508
+      MinotaurIdle_12: 5771028301829277461
+      MinotaurIdle_13: -8898613726393217341
+      MinotaurIdle_14: 119107172317334306
+      MinotaurIdle_15: -4056886836906661222
+      MinotaurIdle_16: 4309189079213330166
+      MinotaurIdle_17: 86707651037582854
+      MinotaurIdle_18: 1354687318224132082
+      MinotaurIdle_19: 1516496940305223195
+      MinotaurIdle_2: -5719487298562224095
+      MinotaurIdle_20: -6420128451408383658
+      MinotaurIdle_21: -2273192415082377192
+      MinotaurIdle_22: 4135590485626028941
+      MinotaurIdle_23: 1498879554383217883
+      MinotaurIdle_24: -6209295349282036972
+      MinotaurIdle_25: 8332774945330168752
+      MinotaurIdle_26: 1239541343803162488
+      MinotaurIdle_27: -1143080931270229033
+      MinotaurIdle_28: 5577560847528239715
+      MinotaurIdle_29: -2661151122450474001
+      MinotaurIdle_3: 1802042939335284613
+      MinotaurIdle_30: 405190266291910192
+      MinotaurIdle_31: -5905960246626182967
+      MinotaurIdle_32: 8422335887117902981
+      MinotaurIdle_33: -7950399538358439104
+      MinotaurIdle_34: -3892012094728996591
+      MinotaurIdle_35: 2706814426515408027
+      MinotaurIdle_36: 7817007764069491912
+      MinotaurIdle_37: -5556912939544472079
+      MinotaurIdle_38: 1467913088186584576
+      MinotaurIdle_39: -111974663552051960
+      MinotaurIdle_4: -7855231862327229579
+      MinotaurIdle_40: 4377958541053701419
+      MinotaurIdle_41: 8806315103852315278
+      MinotaurIdle_42: -873420001714922490
+      MinotaurIdle_43: -6942655988479661130
+      MinotaurIdle_44: 4134701884228927523
+      MinotaurIdle_45: -5073495279331039859
+      MinotaurIdle_46: -9206576714467591644
+      MinotaurIdle_47: 1006948299831422159
+      MinotaurIdle_48: -6959735512746180189
+      MinotaurIdle_49: 36188929830277450
+      MinotaurIdle_5: -1349312637488861919
+      MinotaurIdle_50: 570282043423601002
+      MinotaurIdle_51: 6939447516762077083
+      MinotaurIdle_52: 8228890707479213715
+      MinotaurIdle_53: 3659609256773758893
+      MinotaurIdle_54: 4526195809702361801
+      MinotaurIdle_55: 7338461934141460906
+      MinotaurIdle_56: 4034947960696742530
+      MinotaurIdle_57: -8151748548579966920
+      MinotaurIdle_58: -8806976319121122880
+      MinotaurIdle_59: 2825627138763659418
+      MinotaurIdle_6: 3497257630060666110
+      MinotaurIdle_60: -2788683796043683202
+      MinotaurIdle_61: -5397435532088449426
+      MinotaurIdle_62: 4333865884978897360
+      MinotaurIdle_63: 6290709620658559180
+      MinotaurIdle_7: 5591280950285925443
+      MinotaurIdle_8: 7473571102601646250
+      MinotaurIdle_9: -210545810323472253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 1955d23ea4d52464eb6f050ee90debf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5174157673638782291
+    second: Bone_Swirl_No_Effect_0
+  - first:
+      213: -8288677797137364781
+    second: Bone_Swirl_No_Effect_1
+  - first:
+      213: -1235593310664188925
+    second: Bone_Swirl_No_Effect_2
+  - first:
+      213: 1499345882827779345
+    second: Bone_Swirl_No_Effect_3
+  - first:
+      213: -6533968562511513374
+    second: Bone_Swirl_No_Effect_4
+  - first:
+      213: 7399511789382830843
+    second: Bone_Swirl_No_Effect_5
+  - first:
+      213: 8515451124291330758
+    second: Bone_Swirl_No_Effect_6
+  - first:
+      213: -4303491002173970715
+    second: Bone_Swirl_No_Effect_7
+  - first:
+      213: -5473324412572987005
+    second: Bone_Swirl_No_Effect_8
+  - first:
+      213: -8251152294648527939
+    second: Bone_Swirl_No_Effect_9
+  - first:
+      213: 1120416554012062295
+    second: Bone_Swirl_No_Effect_10
+  - first:
+      213: -1305905824965556879
+    second: Bone_Swirl_No_Effect_11
+  - first:
+      213: 4520334225814622568
+    second: Bone_Swirl_No_Effect_12
+  - first:
+      213: 5887192729095888311
+    second: Bone_Swirl_No_Effect_13
+  - first:
+      213: 3211186844262405072
+    second: Bone_Swirl_No_Effect_14
+  - first:
+      213: 6427163878081428887
+    second: Bone_Swirl_No_Effect_15
+  - first:
+      213: -8394578569508573607
+    second: Bone_Swirl_No_Effect_16
+  - first:
+      213: -8746736577993629102
+    second: Bone_Swirl_No_Effect_17
+  - first:
+      213: -2534982968273572762
+    second: Bone_Swirl_No_Effect_18
+  - first:
+      213: -5864164277449443861
+    second: Bone_Swirl_No_Effect_19
+  - first:
+      213: 1518276252685433487
+    second: Bone_Swirl_No_Effect_20
+  - first:
+      213: 5273171554857378873
+    second: Bone_Swirl_No_Effect_21
+  - first:
+      213: -4472525118263562458
+    second: Bone_Swirl_No_Effect_22
+  - first:
+      213: 2285184320310081288
+    second: Bone_Swirl_No_Effect_23
+  - first:
+      213: -6530776755598930085
+    second: Bone_Swirl_No_Effect_24
+  - first:
+      213: 3966802175281134281
+    second: Bone_Swirl_No_Effect_25
+  - first:
+      213: 9156301201903753946
+    second: Bone_Swirl_No_Effect_26
+  - first:
+      213: -5702174539762968837
+    second: Bone_Swirl_No_Effect_27
+  - first:
+      213: -6445046896084461846
+    second: Bone_Swirl_No_Effect_28
+  - first:
+      213: 4230581527240235558
+    second: Bone_Swirl_No_Effect_29
+  - first:
+      213: 3410782849867871176
+    second: Bone_Swirl_No_Effect_30
+  - first:
+      213: 3329360396306228778
+    second: Bone_Swirl_No_Effect_31
+  - first:
+      213: 7170737375472417418
+    second: Bone_Swirl_No_Effect_32
+  - first:
+      213: -6870354787121817858
+    second: Bone_Swirl_No_Effect_33
+  - first:
+      213: -3552378526809510561
+    second: Bone_Swirl_No_Effect_34
+  - first:
+      213: -2390209334603234616
+    second: Bone_Swirl_No_Effect_35
+  - first:
+      213: -5183659095684675999
+    second: Bone_Swirl_No_Effect_36
+  - first:
+      213: 2071297288366256312
+    second: Bone_Swirl_No_Effect_37
+  - first:
+      213: 7596578664809616566
+    second: Bone_Swirl_No_Effect_38
+  - first:
+      213: -8763591201870195804
+    second: Bone_Swirl_No_Effect_39
+  - first:
+      213: 7248442208665810370
+    second: Bone_Swirl_No_Effect_40
+  - first:
+      213: 2259160483895809010
+    second: Bone_Swirl_No_Effect_41
+  - first:
+      213: 9005358824349550075
+    second: Bone_Swirl_No_Effect_42
+  - first:
+      213: 55970255357986500
+    second: Bone_Swirl_No_Effect_43
+  - first:
+      213: 4625727938652470709
+    second: Bone_Swirl_No_Effect_44
+  - first:
+      213: 623892098103638931
+    second: Bone_Swirl_No_Effect_45
+  - first:
+      213: 7524950659790179652
+    second: Bone_Swirl_No_Effect_46
+  - first:
+      213: 1685040318254896455
+    second: Bone_Swirl_No_Effect_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa16ea7203b138b0800000000000000
+      internalID: -5174157673638782291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 173
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c5f37573b8fc80800000000000000
+      internalID: -8288677797137364781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 172
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c130f2e6a4adee0800000000000000
+      internalID: -1235593310664188925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de465f22fbec410800000000000000
+      internalID: 1499345882827779345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 173
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87ee9f53ea255a0800000000000000
+      internalID: -6533968562511513374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 172
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8a75a4c850b660800000000000000
+      internalID: 7399511789382830843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e5954ea5fc2670800000000000000
+      internalID: 8515451124291330758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 173
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6a4510cbde644c0800000000000000
+      internalID: -4303491002173970715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 172
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3811d181278da04b0800000000000000
+      internalID: -5473324412572987005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 158
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db343d954b40e7d80800000000000000
+      internalID: -8251152294648527939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 156
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7523b5e6be48c8f00800000000000000
+      internalID: 1120416554012062295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 158
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17580d8329d70ede0800000000000000
+      internalID: -1305905824965556879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 156
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86198b357047bbe30800000000000000
+      internalID: 4520334225814622568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 158
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd50e689283b150800000000000000
+      internalID: 5887192729095888311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 156
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d31ba7db6d609c20800000000000000
+      internalID: 3211186844262405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df34a9e7fd13950800000000000000
+      internalID: 6427163878081428887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 139
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ea5557447708b80800000000000000
+      internalID: -8394578569508573607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25226ccac695d9680800000000000000
+      internalID: -8746736577993629102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 139
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6368db6ee1dcd0800000000000000
+      internalID: -2534982968273572762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5371ac8ad4e9ea0800000000000000
+      internalID: -5864164277449443861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8af9382530021510800000000000000
+      internalID: 1518276252685433487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 139
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e7f637911e2940800000000000000
+      internalID: 5273171554857378873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 139
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f63e4f9166ee1c0800000000000000
+      internalID: -4472525118263562458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ff5a280b96bf10800000000000000
+      internalID: 2285184320310081288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc52f64250e55a0800000000000000
+      internalID: -6530776755598930085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 109
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf0e7bf89ec0730800000000000000
+      internalID: 3966802175281134281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 108
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada94f35e67b11f70800000000000000
+      internalID: 9156301201903753946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d62ea77ecdd0b0800000000000000
+      internalID: -5702174539762968837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 109
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d62ecef79e86a0800000000000000
+      internalID: -6445046896084461846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 108
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62adb740c7b06ba30800000000000000
+      internalID: 4230581527240235558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c37e5c4ee8855f20800000000000000
+      internalID: 3410782849867871176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 92
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26261704a3443e20800000000000000
+      internalID: 3329360396306228778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 92
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a76aa96a3938360800000000000000
+      internalID: 7170737375472417418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 94
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef613b8c8b897a0a0800000000000000
+      internalID: -6870354787121817858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d2bc91d8a63bec0800000000000000
+      internalID: -3552378526809510561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 75
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2c628264544ded0800000000000000
+      internalID: -2390209334603234616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 75
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1660ef44481ff08b0800000000000000
+      internalID: -5183659095684675999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 75
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0fc49d8e9bebc10800000000000000
+      internalID: 2071297288366256312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d9481c087c6960800000000000000
+      internalID: 7596578664809616566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 75
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3d9cfbb38716680800000000000000
+      internalID: -8763591201870195804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5397ee8c3a79460800000000000000
+      internalID: 7248442208665810370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 45
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f395359d762a5f10800000000000000
+      internalID: 2259160483895809010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 44
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c848632679fc70800000000000000
+      internalID: 9005358824349550075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 30
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c99496a8d6c000800000000000000
+      internalID: 55970255357986500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 28
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdfaf25d03e13040800000000000000
+      internalID: 4625727938652470709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf3a5ce8288a800800000000000000
+      internalID: 623892098103638931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d822591cefd6860800000000000000
+      internalID: 7524950659790179652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_Swirl_No_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7455bc1ed37726710800000000000000
+      internalID: 1685040318254896455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bone_Swirl_No_Effect_0: -5174157673638782291
+      Bone_Swirl_No_Effect_1: -8288677797137364781
+      Bone_Swirl_No_Effect_10: 1120416554012062295
+      Bone_Swirl_No_Effect_11: -1305905824965556879
+      Bone_Swirl_No_Effect_12: 4520334225814622568
+      Bone_Swirl_No_Effect_13: 5887192729095888311
+      Bone_Swirl_No_Effect_14: 3211186844262405072
+      Bone_Swirl_No_Effect_15: 6427163878081428887
+      Bone_Swirl_No_Effect_16: -8394578569508573607
+      Bone_Swirl_No_Effect_17: -8746736577993629102
+      Bone_Swirl_No_Effect_18: -2534982968273572762
+      Bone_Swirl_No_Effect_19: -5864164277449443861
+      Bone_Swirl_No_Effect_2: -1235593310664188925
+      Bone_Swirl_No_Effect_20: 1518276252685433487
+      Bone_Swirl_No_Effect_21: 5273171554857378873
+      Bone_Swirl_No_Effect_22: -4472525118263562458
+      Bone_Swirl_No_Effect_23: 2285184320310081288
+      Bone_Swirl_No_Effect_24: -6530776755598930085
+      Bone_Swirl_No_Effect_25: 3966802175281134281
+      Bone_Swirl_No_Effect_26: 9156301201903753946
+      Bone_Swirl_No_Effect_27: -5702174539762968837
+      Bone_Swirl_No_Effect_28: -6445046896084461846
+      Bone_Swirl_No_Effect_29: 4230581527240235558
+      Bone_Swirl_No_Effect_3: 1499345882827779345
+      Bone_Swirl_No_Effect_30: 3410782849867871176
+      Bone_Swirl_No_Effect_31: 3329360396306228778
+      Bone_Swirl_No_Effect_32: 7170737375472417418
+      Bone_Swirl_No_Effect_33: -6870354787121817858
+      Bone_Swirl_No_Effect_34: -3552378526809510561
+      Bone_Swirl_No_Effect_35: -2390209334603234616
+      Bone_Swirl_No_Effect_36: -5183659095684675999
+      Bone_Swirl_No_Effect_37: 2071297288366256312
+      Bone_Swirl_No_Effect_38: 7596578664809616566
+      Bone_Swirl_No_Effect_39: -8763591201870195804
+      Bone_Swirl_No_Effect_4: -6533968562511513374
+      Bone_Swirl_No_Effect_40: 7248442208665810370
+      Bone_Swirl_No_Effect_41: 2259160483895809010
+      Bone_Swirl_No_Effect_42: 9005358824349550075
+      Bone_Swirl_No_Effect_43: 55970255357986500
+      Bone_Swirl_No_Effect_44: 4625727938652470709
+      Bone_Swirl_No_Effect_45: 623892098103638931
+      Bone_Swirl_No_Effect_46: 7524950659790179652
+      Bone_Swirl_No_Effect_47: 1685040318254896455
+      Bone_Swirl_No_Effect_5: 7399511789382830843
+      Bone_Swirl_No_Effect_6: 8515451124291330758
+      Bone_Swirl_No_Effect_7: -4303491002173970715
+      Bone_Swirl_No_Effect_8: -5473324412572987005
+      Bone_Swirl_No_Effect_9: -8251152294648527939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

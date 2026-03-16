@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 8d04fe50720670344ba6f98680905e74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8285378078044657414
+    second: Figther_Tempest_0
+  - first:
+      213: -5552233280562756512
+    second: Figther_Tempest_1
+  - first:
+      213: -6869675960484909054
+    second: Figther_Tempest_2
+  - first:
+      213: -428228919972786194
+    second: Figther_Tempest_3
+  - first:
+      213: -6628066741411446490
+    second: Figther_Tempest_4
+  - first:
+      213: -529058736549979130
+    second: Figther_Tempest_5
+  - first:
+      213: 8620559976372908698
+    second: Figther_Tempest_6
+  - first:
+      213: -1659834277164131959
+    second: Figther_Tempest_7
+  - first:
+      213: 2412874480392558161
+    second: Figther_Tempest_8
+  - first:
+      213: 7800317969085760474
+    second: Figther_Tempest_9
+  - first:
+      213: 8973823165258249421
+    second: Figther_Tempest_10
+  - first:
+      213: 3794303155717997801
+    second: Figther_Tempest_11
+  - first:
+      213: 651338986870770747
+    second: Figther_Tempest_12
+  - first:
+      213: 4346469491792623072
+    second: Figther_Tempest_13
+  - first:
+      213: -3492097710482716146
+    second: Figther_Tempest_14
+  - first:
+      213: 2172845248946326057
+    second: Figther_Tempest_15
+  - first:
+      213: 222451193321214206
+    second: Figther_Tempest_16
+  - first:
+      213: -8392645416817329395
+    second: Figther_Tempest_17
+  - first:
+      213: -7538113235310263360
+    second: Figther_Tempest_18
+  - first:
+      213: -9216008111701191137
+    second: Figther_Tempest_19
+  - first:
+      213: 5178470701206208973
+    second: Figther_Tempest_20
+  - first:
+      213: -1733402188242792801
+    second: Figther_Tempest_21
+  - first:
+      213: -3520010855697758654
+    second: Figther_Tempest_22
+  - first:
+      213: -3448871833359469128
+    second: Figther_Tempest_23
+  - first:
+      213: 5924444943422838539
+    second: Figther_Tempest_24
+  - first:
+      213: -5367736050401487568
+    second: Figther_Tempest_25
+  - first:
+      213: 1083227518146827178
+    second: Figther_Tempest_26
+  - first:
+      213: 5153530655498679118
+    second: Figther_Tempest_27
+  - first:
+      213: 1914140817543087393
+    second: Figther_Tempest_28
+  - first:
+      213: -8692910721291649345
+    second: Figther_Tempest_29
+  - first:
+      213: -4877556863708917036
+    second: Figther_Tempest_30
+  - first:
+      213: -4203229644035390924
+    second: Figther_Tempest_31
+  - first:
+      213: -1055711756990386428
+    second: Figther_Tempest_32
+  - first:
+      213: -5374024826266980386
+    second: Figther_Tempest_33
+  - first:
+      213: -4698858296237380561
+    second: Figther_Tempest_34
+  - first:
+      213: -5773726851883936472
+    second: Figther_Tempest_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther_Tempest_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 107
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8e65c298c640d80800000000000000
+      internalID: -8285378078044657414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 102
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06484f19f3182f2b0800000000000000
+      internalID: -5552233280562756512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b14d6c120aa0a0800000000000000
+      internalID: -6869675960484909054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef097ee010ae0af0800000000000000
+      internalID: -428228919972786194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621079a6a606404a0800000000000000
+      internalID: -6628066741411446490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c1f96d1e768a8f0800000000000000
+      internalID: -529058736549979130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9238a4ff9162a770800000000000000
+      internalID: 8620559976372908698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 99
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895d93e48517f8e0800000000000000
+      internalID: -1659834277164131959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 102
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15657635e804c7120800000000000000
+      internalID: 2412874480392558161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad304727ddb404c60800000000000000
+      internalID: 7800317969085760474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4b36a9f9c698c70800000000000000
+      internalID: 8973823165258249421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 87
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e407b6fd9218a430800000000000000
+      internalID: 3794303155717997801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8bcc8b550a0900800000000000000
+      internalID: 651338986870770747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 70
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53f5569f2c15c30800000000000000
+      internalID: 4346469491792623072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a09bd52a3998fc0800000000000000
+      internalID: -3492097710482716146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a475fdd3f772e10800000000000000
+      internalID: 2172845248946326057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 67
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d5c58e2e461300800000000000000
+      internalID: 222451193321214206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bfac4a575578b80800000000000000
+      internalID: -8392645416817329395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c349ac73fd336790800000000000000
+      internalID: -7538113235310263360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169eee63792a1080800000000000000
+      internalID: -9216008111701191137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 38
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc10a218aaf9dd740800000000000000
+      internalID: 5178470701206208973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e47ecc4e7b1f7e0800000000000000
+      internalID: -1733402188242792801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cd9cc6c8662fc0800000000000000
+      internalID: -3520010855697758654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 38
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b532c827552320d0800000000000000
+      internalID: -3448871833359469128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d318794bd73250800000000000000
+      internalID: 5924444943422838539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d2cb6088f185b0800000000000000
+      internalID: -5367736050401487568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d11640b5680f00800000000000000
+      internalID: 1083227518146827178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b51c93d4058740800000000000000
+      internalID: 5153530655498679118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1254bb79ee4609a10800000000000000
+      internalID: 1914140817543087393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef93981c39c5780800000000000000
+      internalID: -8692910721291649345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29cd6ffdf6f4cb0800000000000000
+      internalID: -4877556863708917036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43201ed88e02ba5c0800000000000000
+      internalID: -4203229644035390924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 21
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f626b10cb5951f0800000000000000
+      internalID: -1055711756990386428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe930b4e0ab65b0800000000000000
+      internalID: -5374024826266980386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cafd2764d4aceb0800000000000000
+      internalID: -4698858296237380561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Tempest_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d25bc40a9fdfa0800000000000000
+      internalID: -5773726851883936472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figther_Tempest_0: -8285378078044657414
+      Figther_Tempest_1: -5552233280562756512
+      Figther_Tempest_10: 8973823165258249421
+      Figther_Tempest_11: 3794303155717997801
+      Figther_Tempest_12: 651338986870770747
+      Figther_Tempest_13: 4346469491792623072
+      Figther_Tempest_14: -3492097710482716146
+      Figther_Tempest_15: 2172845248946326057
+      Figther_Tempest_16: 222451193321214206
+      Figther_Tempest_17: -8392645416817329395
+      Figther_Tempest_18: -7538113235310263360
+      Figther_Tempest_19: -9216008111701191137
+      Figther_Tempest_2: -6869675960484909054
+      Figther_Tempest_20: 5178470701206208973
+      Figther_Tempest_21: -1733402188242792801
+      Figther_Tempest_22: -3520010855697758654
+      Figther_Tempest_23: -3448871833359469128
+      Figther_Tempest_24: 5924444943422838539
+      Figther_Tempest_25: -5367736050401487568
+      Figther_Tempest_26: 1083227518146827178
+      Figther_Tempest_27: 5153530655498679118
+      Figther_Tempest_28: 1914140817543087393
+      Figther_Tempest_29: -8692910721291649345
+      Figther_Tempest_3: -428228919972786194
+      Figther_Tempest_30: -4877556863708917036
+      Figther_Tempest_31: -4203229644035390924
+      Figther_Tempest_32: -1055711756990386428
+      Figther_Tempest_33: -5374024826266980386
+      Figther_Tempest_34: -4698858296237380561
+      Figther_Tempest_35: -5773726851883936472
+      Figther_Tempest_4: -6628066741411446490
+      Figther_Tempest_5: -529058736549979130
+      Figther_Tempest_6: 8620559976372908698
+      Figther_Tempest_7: -1659834277164131959
+      Figther_Tempest_8: 2412874480392558161
+      Figther_Tempest_9: 7800317969085760474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

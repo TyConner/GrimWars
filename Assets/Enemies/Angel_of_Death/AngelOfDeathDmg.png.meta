@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 368bcaf466be1994d8353c1d4ae42886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6993532303099519790
+    second: AngelOfDeathDmg_0
+  - first:
+      213: -6860619289698262168
+    second: AngelOfDeathDmg_1
+  - first:
+      213: -162333930517142252
+    second: AngelOfDeathDmg_2
+  - first:
+      213: -6681620183062198440
+    second: AngelOfDeathDmg_3
+  - first:
+      213: -8148000016477380953
+    second: AngelOfDeathDmg_4
+  - first:
+      213: -5246214737484732781
+    second: AngelOfDeathDmg_5
+  - first:
+      213: -7019271882893104288
+    second: AngelOfDeathDmg_6
+  - first:
+      213: 5958640261546839611
+    second: AngelOfDeathDmg_7
+  - first:
+      213: 7672947038436821172
+    second: AngelOfDeathDmg_8
+  - first:
+      213: 3224457971531111046
+    second: AngelOfDeathDmg_9
+  - first:
+      213: 874222041088882524
+    second: AngelOfDeathDmg_10
+  - first:
+      213: -1773795350332857569
+    second: AngelOfDeathDmg_11
+  - first:
+      213: -1907366447918542361
+    second: AngelOfDeathDmg_12
+  - first:
+      213: -414810797135894937
+    second: AngelOfDeathDmg_13
+  - first:
+      213: -7133933328006264409
+    second: AngelOfDeathDmg_14
+  - first:
+      213: -6251015156505803694
+    second: AngelOfDeathDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23677b83940e0160800000000000000
+      internalID: 6993532303099519790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 109
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863a75aea1f2ac0a0800000000000000
+      internalID: -6860619289698262168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415688876264fbdf0800000000000000
+      internalID: -162333930517142252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 108
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574f7028dd1643a0800000000000000
+      internalID: -6681620183062198440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 77
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1dfba72d7cee80800000000000000
+      internalID: -8148000016477380953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396adcced73b137b0800000000000000
+      internalID: -5246214737484732781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be4468969869e90800000000000000
+      internalID: -7019271882893104288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 76
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e07d56fb751b250800000000000000
+      internalID: 5958640261546839611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8896eada8cb7a60800000000000000
+      internalID: 7672947038436821172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 45
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad942f0739fbc20800000000000000
+      internalID: 3224457971531111046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577be5805cd12c00800000000000000
+      internalID: 874222041088882524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13ab2fd6863267e0800000000000000
+      internalID: -1773795350332857569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1115f325ca785e0800000000000000
+      internalID: -1907366447918542361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 13
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766e7bb17cb4e3af0800000000000000
+      internalID: -414810797135894937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9cdd47f6d2ffc90800000000000000
+      internalID: -7133933328006264409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathDmg_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25483ee95deef39a0800000000000000
+      internalID: -6251015156505803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AngelOfDeathDmg_0: 6993532303099519790
+      AngelOfDeathDmg_1: -6860619289698262168
+      AngelOfDeathDmg_10: 874222041088882524
+      AngelOfDeathDmg_11: -1773795350332857569
+      AngelOfDeathDmg_12: -1907366447918542361
+      AngelOfDeathDmg_13: -414810797135894937
+      AngelOfDeathDmg_14: -7133933328006264409
+      AngelOfDeathDmg_15: -6251015156505803694
+      AngelOfDeathDmg_2: -162333930517142252
+      AngelOfDeathDmg_3: -6681620183062198440
+      AngelOfDeathDmg_4: -8148000016477380953
+      AngelOfDeathDmg_5: -5246214737484732781
+      AngelOfDeathDmg_6: -7019271882893104288
+      AngelOfDeathDmg_7: 5958640261546839611
+      AngelOfDeathDmg_8: 7672947038436821172
+      AngelOfDeathDmg_9: 3224457971531111046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

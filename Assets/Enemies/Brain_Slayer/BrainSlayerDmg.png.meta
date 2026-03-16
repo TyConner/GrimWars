@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: b730314d1ac268643913c002c02bd459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5442389726874458246
+    second: BrainSlayerDmg_0
+  - first:
+      213: -7058127710495493080
+    second: BrainSlayerDmg_1
+  - first:
+      213: 1652901901857760973
+    second: BrainSlayerDmg_2
+  - first:
+      213: 5964452351389004935
+    second: BrainSlayerDmg_3
+  - first:
+      213: -4319709750556934533
+    second: BrainSlayerDmg_4
+  - first:
+      213: 2637139837521836941
+    second: BrainSlayerDmg_5
+  - first:
+      213: 6131974344443767134
+    second: BrainSlayerDmg_6
+  - first:
+      213: 4046021696278367807
+    second: BrainSlayerDmg_7
+  - first:
+      213: 1527040031330230161
+    second: BrainSlayerDmg_8
+  - first:
+      213: -3173352681671544340
+    second: BrainSlayerDmg_9
+  - first:
+      213: 4615125957924065066
+    second: BrainSlayerDmg_10
+  - first:
+      213: -7726434246400291815
+    second: BrainSlayerDmg_11
+  - first:
+      213: -7651690917507325976
+    second: BrainSlayerDmg_12
+  - first:
+      213: -6436051986049276757
+    second: BrainSlayerDmg_13
+  - first:
+      213: -4326116117822851468
+    second: BrainSlayerDmg_14
+  - first:
+      213: 3775859590104645376
+    second: BrainSlayerDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrainSlayerDmg_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a960e06fb874b0800000000000000
+      internalID: -5442389726874458246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824339c2e3e7c0e90800000000000000
+      internalID: -7058127710495493080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6acc4b58940f610800000000000000
+      internalID: 1652901901857760973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f84400ddf5c250800000000000000
+      internalID: 5964452351389004935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e33416ede4d04c0800000000000000
+      internalID: -4319709750556934533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3586c5b0099420800000000000000
+      internalID: 2637139837521836941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 72
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59216c7d26291550800000000000000
+      internalID: 6131974344443767134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e0238cb4b562830800000000000000
+      internalID: 4046021696278367807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5d3161d2213510800000000000000
+      internalID: 1527040031330230161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13fe59c8cf5f3d0800000000000000
+      internalID: -3173352681671544340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f8fb35b983c0040800000000000000
+      internalID: 4615125957924065066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc5e24df036c490800000000000000
+      internalID: -7726434246400291815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef94e2a6abbfc590800000000000000
+      internalID: -7651690917507325976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4e59f71dc8ea6a0800000000000000
+      internalID: -6436051986049276757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b314cf4c86f3c0800000000000000
+      internalID: -4326116117822851468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainSlayerDmg_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f70f5ba4c866430800000000000000
+      internalID: 3775859590104645376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BrainSlayerDmg_0: -5442389726874458246
+      BrainSlayerDmg_1: -7058127710495493080
+      BrainSlayerDmg_10: 4615125957924065066
+      BrainSlayerDmg_11: -7726434246400291815
+      BrainSlayerDmg_12: -7651690917507325976
+      BrainSlayerDmg_13: -6436051986049276757
+      BrainSlayerDmg_14: -4326116117822851468
+      BrainSlayerDmg_15: 3775859590104645376
+      BrainSlayerDmg_2: 1652901901857760973
+      BrainSlayerDmg_3: 5964452351389004935
+      BrainSlayerDmg_4: -4319709750556934533
+      BrainSlayerDmg_5: 2637139837521836941
+      BrainSlayerDmg_6: 6131974344443767134
+      BrainSlayerDmg_7: 4046021696278367807
+      BrainSlayerDmg_8: 1527040031330230161
+      BrainSlayerDmg_9: -3173352681671544340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

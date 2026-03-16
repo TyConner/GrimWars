@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 6cb2dcd4f5f1e8743bd67fe8478c60a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690227315311440828
+    second: Spores_Attack_0
+  - first:
+      213: -7280052988024964047
+    second: Spores_Attack_1
+  - first:
+      213: -6186256823143991892
+    second: Spores_Attack_2
+  - first:
+      213: 8892575884905088106
+    second: Spores_Attack_3
+  - first:
+      213: 8173423389111746123
+    second: Spores_Attack_4
+  - first:
+      213: 231473173875414711
+    second: Spores_Attack_5
+  - first:
+      213: -5861057135621347970
+    second: Spores_Attack_6
+  - first:
+      213: -5232458634049422050
+    second: Spores_Attack_7
+  - first:
+      213: 242201738228985720
+    second: Spores_Attack_8
+  - first:
+      213: 1742943922440931443
+    second: Spores_Attack_9
+  - first:
+      213: 1323641055468957969
+    second: Spores_Attack_10
+  - first:
+      213: -7041941818194948193
+    second: Spores_Attack_11
+  - first:
+      213: 960814726639594836
+    second: Spores_Attack_12
+  - first:
+      213: -851254038093525563
+    second: Spores_Attack_13
+  - first:
+      213: -1478757453978639591
+    second: Spores_Attack_14
+  - first:
+      213: 2738649010483039255
+    second: Spores_Attack_15
+  - first:
+      213: -2238882866815681359
+    second: Spores_Attack_16
+  - first:
+      213: 4699145684828327359
+    second: Spores_Attack_17
+  - first:
+      213: 7810265916323224034
+    second: Spores_Attack_18
+  - first:
+      213: -4004675648364007961
+    second: Spores_Attack_19
+  - first:
+      213: -3442211671815903260
+    second: Spores_Attack_20
+  - first:
+      213: -4122378635201400558
+    second: Spores_Attack_21
+  - first:
+      213: 3568676408519062572
+    second: Spores_Attack_22
+  - first:
+      213: 3756267133836660594
+    second: Spores_Attack_23
+  - first:
+      213: -2521991152516424171
+    second: Spores_Attack_24
+  - first:
+      213: 1269068067991549665
+    second: Spores_Attack_25
+  - first:
+      213: -4358343126555785466
+    second: Spores_Attack_26
+  - first:
+      213: -6478807198267640655
+    second: Spores_Attack_27
+  - first:
+      213: 6385556987264394940
+    second: Spores_Attack_28
+  - first:
+      213: -3441024303181961758
+    second: Spores_Attack_29
+  - first:
+      213: -6593632907271673753
+    second: Spores_Attack_30
+  - first:
+      213: -2725704198538544048
+    second: Spores_Attack_31
+  - first:
+      213: 425120560888045713
+    second: Spores_Attack_32
+  - first:
+      213: 4835151270165984026
+    second: Spores_Attack_33
+  - first:
+      213: 2000045499054583900
+    second: Spores_Attack_34
+  - first:
+      213: -6323086072681349557
+    second: Spores_Attack_35
+  - first:
+      213: 1723415365421269493
+    second: Spores_Attack_36
+  - first:
+      213: 8462685007833368910
+    second: Spores_Attack_37
+  - first:
+      213: -8620587310344559906
+    second: Spores_Attack_38
+  - first:
+      213: 7829482853724622632
+    second: Spores_Attack_39
+  - first:
+      213: 3650090089021471518
+    second: Spores_Attack_40
+  - first:
+      213: 578431667543868125
+    second: Spores_Attack_41
+  - first:
+      213: -1609534855929804850
+    second: Spores_Attack_42
+  - first:
+      213: -1933829692518510451
+    second: Spores_Attack_43
+  - first:
+      213: -3729314774832635363
+    second: Spores_Attack_44
+  - first:
+      213: -6294047931278232414
+    second: Spores_Attack_45
+  - first:
+      213: 1623157744819432094
+    second: Spores_Attack_46
+  - first:
+      213: 4336341449058918843
+    second: Spores_Attack_47
+  - first:
+      213: -1313916681901864061
+    second: Spores_Attack_48
+  - first:
+      213: -3543121907324071583
+    second: Spores_Attack_49
+  - first:
+      213: 1998221718673148950
+    second: Spores_Attack_50
+  - first:
+      213: 4912642326939965946
+    second: Spores_Attack_51
+  - first:
+      213: -5760326290766300405
+    second: Spores_Attack_52
+  - first:
+      213: -2899221280011488342
+    second: Spores_Attack_53
+  - first:
+      213: -2934700040088874908
+    second: Spores_Attack_54
+  - first:
+      213: -1045837687091128605
+    second: Spores_Attack_55
+  - first:
+      213: -1767157694163837746
+    second: Spores_Attack_56
+  - first:
+      213: 3375274009149657197
+    second: Spores_Attack_57
+  - first:
+      213: 8138138871313126185
+    second: Spores_Attack_58
+  - first:
+      213: 8415381693472544913
+    second: Spores_Attack_59
+  - first:
+      213: -8188769631703871740
+    second: Spores_Attack_60
+  - first:
+      213: -4174234281277502353
+    second: Spores_Attack_61
+  - first:
+      213: 1151286129678608627
+    second: Spores_Attack_62
+  - first:
+      213: -5270828993133483943
+    second: Spores_Attack_63
+  - first:
+      213: 7718063788966110584
+    second: Spores_Attack_64
+  - first:
+      213: 5368569209191182072
+    second: Spores_Attack_65
+  - first:
+      213: -3376880228222360931
+    second: Spores_Attack_66
+  - first:
+      213: 4135901925942222646
+    second: Spores_Attack_67
+  - first:
+      213: 7727788395232567136
+    second: Spores_Attack_68
+  - first:
+      213: 940990586881620358
+    second: Spores_Attack_69
+  - first:
+      213: 8729636927576120325
+    second: Spores_Attack_70
+  - first:
+      213: 813749692264667571
+    second: Spores_Attack_71
+  - first:
+      213: -6282855763444089983
+    second: Spores_Attack_72
+  - first:
+      213: -4471707055049124408
+    second: Spores_Attack_73
+  - first:
+      213: 4987346204928191637
+    second: Spores_Attack_74
+  - first:
+      213: -4745069561923519383
+    second: Spores_Attack_75
+  - first:
+      213: 5099135993610877597
+    second: Spores_Attack_76
+  - first:
+      213: -2895363357129840349
+    second: Spores_Attack_77
+  - first:
+      213: 7764908141380227738
+    second: Spores_Attack_78
+  - first:
+      213: -1205725677416051383
+    second: Spores_Attack_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spores_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 105
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c077dac4c166780800000000000000
+      internalID: -8690227315311440828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c30c6f06e08fa90800000000000000
+      internalID: -7280052988024964047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 105
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57a2f0230062aa0800000000000000
+      internalID: -6186256823143991892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6409f507a6c86b70800000000000000
+      internalID: 8892575884905088106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4effda8445dd6170800000000000000
+      internalID: 8173423389111746123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b650ef00ab563300800000000000000
+      internalID: 231473173875414711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75650f969759aea0800000000000000
+      internalID: -5861057135621347970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dfe8758929267b0800000000000000
+      internalID: -5232458634049422050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fee1b92397c5300800000000000000
+      internalID: 242201738228985720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 103
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3788480534e203810800000000000000
+      internalID: 1742943922440931443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 103
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b959e6848e5210800000000000000
+      internalID: 1323641055468957969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 103
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8585e93ff54e90800000000000000
+      internalID: -7041941818194948193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 103
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d215c37ef755d00800000000000000
+      internalID: 960814726639594836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 102
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd81d566fcbf24f0800000000000000
+      internalID: -851254038093525563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91364ae2ee56a7be0800000000000000
+      internalID: -1478757453978639591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 102
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c015ad3c2a10620800000000000000
+      internalID: 2738649010483039255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3ebd05e3ede0e0800000000000000
+      internalID: -2238882866815681359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd800c6a18b63140800000000000000
+      internalID: 4699145684828327359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 102
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e959c76873a36c60800000000000000
+      internalID: 7810265916323224034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed2b9a27b88c68c0800000000000000
+      internalID: -4004675648364007961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a5bbd8beca30d0800000000000000
+      internalID: -3442211671815903260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211392bf87e5ac6c0800000000000000
+      internalID: -4122378635201400558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 73
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247810394c768130800000000000000
+      internalID: 3568676408519062572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0fc18e01f02430800000000000000
+      internalID: 3756267133836660594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e949ba866100dd0800000000000000
+      internalID: -2521991152516424171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e67d6c1fa2ac9110800000000000000
+      internalID: 1269068067991549665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6078064940e0483c0800000000000000
+      internalID: -4358343126555785466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4730bed27a616a0800000000000000
+      internalID: -6478807198267640655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb668ee6f3e0e9850800000000000000
+      internalID: 6385556987264394940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 71
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56a59a0a60f30d0800000000000000
+      internalID: -3441024303181961758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768eebe2ec5be74a0800000000000000
+      internalID: -6593632907271673753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 71
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cb15b097a5c2ad0800000000000000
+      internalID: -2725704198538544048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906272d5e456e500800000000000000
+      internalID: 425120560888045713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b5856678e91340800000000000000
+      internalID: 4835151270165984026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 69
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5074c1e8c691cb10800000000000000
+      internalID: 2000045499054583900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebb91d7b2ef38a0800000000000000
+      internalID: -6323086072681349557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f18260d42dcae710800000000000000
+      internalID: 1723415365421269493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498ee96d2f717570800000000000000
+      internalID: 8462685007833368910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 70
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22cabd3858d5880800000000000000
+      internalID: -8620587310344559906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f844f4c29e7ac60800000000000000
+      internalID: 7829482853724622632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b7c42d899b7a230800000000000000
+      internalID: 3650090089021471518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd20ac67980070800800000000000000
+      internalID: 578431667543868125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c1b28398c9a9e0800000000000000
+      internalID: -1609534855929804850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d459f328a925e0800000000000000
+      internalID: -1933829692518510451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122c7698ffce3cc0800000000000000
+      internalID: -3729314774832635363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4f0e8f0cc07a8a0800000000000000
+      internalID: -6294047931278232414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 39
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ae26a7e5d968610800000000000000
+      internalID: 1623157744819432094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 39
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a5ffa297cd2c30800000000000000
+      internalID: 4336341449058918843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b87ce3db704cde0800000000000000
+      internalID: -1313916681901864061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 39
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1615b06c56d44dec0800000000000000
+      internalID: -3543121907324071583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccbfbe01c1bbb10800000000000000
+      internalID: 1998221718673148950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af91ec50b263d2440800000000000000
+      internalID: 4912642326939965946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf78012c53f00b0800000000000000
+      internalID: -5760326290766300405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa379a74b95e3c7d0800000000000000
+      internalID: -2899221280011488342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 37
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4609d2cbcd9d547d0800000000000000
+      internalID: -2934700040088874908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e697382a207c71f0800000000000000
+      internalID: -1045837687091128605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc1441a07bc977e0800000000000000
+      internalID: -1767157694163837746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6059fe04d167de20800000000000000
+      internalID: 3375274009149657197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 38
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923da6d8f2a70f070800000000000000
+      internalID: 8138138871313126185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19891c8401179c470800000000000000
+      internalID: 8415381693472544913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc8cae765ab5e80800000000000000
+      internalID: -8188769631703871740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c423789042216c0800000000000000
+      internalID: -4174234281277502353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e35a92a03aff00800000000000000
+      internalID: 1151286129678608627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e270f4f04ad6b0800000000000000
+      internalID: -5270828993133483943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875612fbf121c1b60800000000000000
+      internalID: 7718063788966110584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea0f9704df08a40800000000000000
+      internalID: 5368569209191182072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9224cbe259e221d0800000000000000
+      internalID: -3376880228222360931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd3a183eca56930800000000000000
+      internalID: 4135901925942222646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_68
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f19351a9e9e3b60800000000000000
+      internalID: 7727788395232567136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b01404f11f0d00800000000000000
+      internalID: 940990586881620358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9e46b886e52970800000000000000
+      internalID: 8729636927576120325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 7
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d48f98050b4b00800000000000000
+      internalID: 813749692264667571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b36ec98ffcec8a0800000000000000
+      internalID: -6282855763444089983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_73
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 6
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c55034202e41f1c0800000000000000
+      internalID: -4471707055049124408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 5
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c23a403fc963540800000000000000
+      internalID: 4987346204928191637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb707bf50262eb0800000000000000
+      internalID: -4745069561923519383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab5987b25c3c640800000000000000
+      internalID: 5099135993610877597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e792fd5a91d7d0800000000000000
+      internalID: -2895363357129840349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d18870de72cb60800000000000000
+      internalID: 7764908141380227738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spores_Attack_79
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d8c0572e6644fe0800000000000000
+      internalID: -1205725677416051383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spores_Attack_0: -8690227315311440828
+      Spores_Attack_1: -7280052988024964047
+      Spores_Attack_10: 1323641055468957969
+      Spores_Attack_11: -7041941818194948193
+      Spores_Attack_12: 960814726639594836
+      Spores_Attack_13: -851254038093525563
+      Spores_Attack_14: -1478757453978639591
+      Spores_Attack_15: 2738649010483039255
+      Spores_Attack_16: -2238882866815681359
+      Spores_Attack_17: 4699145684828327359
+      Spores_Attack_18: 7810265916323224034
+      Spores_Attack_19: -4004675648364007961
+      Spores_Attack_2: -6186256823143991892
+      Spores_Attack_20: -3442211671815903260
+      Spores_Attack_21: -4122378635201400558
+      Spores_Attack_22: 3568676408519062572
+      Spores_Attack_23: 3756267133836660594
+      Spores_Attack_24: -2521991152516424171
+      Spores_Attack_25: 1269068067991549665
+      Spores_Attack_26: -4358343126555785466
+      Spores_Attack_27: -6478807198267640655
+      Spores_Attack_28: 6385556987264394940
+      Spores_Attack_29: -3441024303181961758
+      Spores_Attack_3: 8892575884905088106
+      Spores_Attack_30: -6593632907271673753
+      Spores_Attack_31: -2725704198538544048
+      Spores_Attack_32: 425120560888045713
+      Spores_Attack_33: 4835151270165984026
+      Spores_Attack_34: 2000045499054583900
+      Spores_Attack_35: -6323086072681349557
+      Spores_Attack_36: 1723415365421269493
+      Spores_Attack_37: 8462685007833368910
+      Spores_Attack_38: -8620587310344559906
+      Spores_Attack_39: 7829482853724622632
+      Spores_Attack_4: 8173423389111746123
+      Spores_Attack_40: 3650090089021471518
+      Spores_Attack_41: 578431667543868125
+      Spores_Attack_42: -1609534855929804850
+      Spores_Attack_43: -1933829692518510451
+      Spores_Attack_44: -3729314774832635363
+      Spores_Attack_45: -6294047931278232414
+      Spores_Attack_46: 1623157744819432094
+      Spores_Attack_47: 4336341449058918843
+      Spores_Attack_48: -1313916681901864061
+      Spores_Attack_49: -3543121907324071583
+      Spores_Attack_5: 231473173875414711
+      Spores_Attack_50: 1998221718673148950
+      Spores_Attack_51: 4912642326939965946
+      Spores_Attack_52: -5760326290766300405
+      Spores_Attack_53: -2899221280011488342
+      Spores_Attack_54: -2934700040088874908
+      Spores_Attack_55: -1045837687091128605
+      Spores_Attack_56: -1767157694163837746
+      Spores_Attack_57: 3375274009149657197
+      Spores_Attack_58: 8138138871313126185
+      Spores_Attack_59: 8415381693472544913
+      Spores_Attack_6: -5861057135621347970
+      Spores_Attack_60: -8188769631703871740
+      Spores_Attack_61: -4174234281277502353
+      Spores_Attack_62: 1151286129678608627
+      Spores_Attack_63: -5270828993133483943
+      Spores_Attack_64: 7718063788966110584
+      Spores_Attack_65: 5368569209191182072
+      Spores_Attack_66: -3376880228222360931
+      Spores_Attack_67: 4135901925942222646
+      Spores_Attack_68: 7727788395232567136
+      Spores_Attack_69: 940990586881620358
+      Spores_Attack_7: -5232458634049422050
+      Spores_Attack_70: 8729636927576120325
+      Spores_Attack_71: 813749692264667571
+      Spores_Attack_72: -6282855763444089983
+      Spores_Attack_73: -4471707055049124408
+      Spores_Attack_74: 4987346204928191637
+      Spores_Attack_75: -4745069561923519383
+      Spores_Attack_76: 5099135993610877597
+      Spores_Attack_77: -2895363357129840349
+      Spores_Attack_78: 7764908141380227738
+      Spores_Attack_79: -1205725677416051383
+      Spores_Attack_8: 242201738228985720
+      Spores_Attack_9: 1742943922440931443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

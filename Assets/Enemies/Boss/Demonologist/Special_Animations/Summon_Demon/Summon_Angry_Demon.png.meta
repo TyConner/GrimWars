@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: f80c829f56ed5bc41a17045568d13c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -521006085779975324
+    second: Summon_Angry_Demon_0
+  - first:
+      213: 7621307681465098241
+    second: Summon_Angry_Demon_1
+  - first:
+      213: 1194484892798872144
+    second: Summon_Angry_Demon_2
+  - first:
+      213: -1069804637010983173
+    second: Summon_Angry_Demon_3
+  - first:
+      213: 8440310340463711885
+    second: Summon_Angry_Demon_4
+  - first:
+      213: -2749803281565896717
+    second: Summon_Angry_Demon_5
+  - first:
+      213: -5700457372384329556
+    second: Summon_Angry_Demon_6
+  - first:
+      213: -5064306836648455125
+    second: Summon_Angry_Demon_7
+  - first:
+      213: 7402894837263128060
+    second: Summon_Angry_Demon_8
+  - first:
+      213: 6540653783121050726
+    second: Summon_Angry_Demon_9
+  - first:
+      213: 2118852960841703720
+    second: Summon_Angry_Demon_10
+  - first:
+      213: 5887659253748144526
+    second: Summon_Angry_Demon_11
+  - first:
+      213: 8472583094419712593
+    second: Summon_Angry_Demon_12
+  - first:
+      213: -2808917082960212177
+    second: Summon_Angry_Demon_13
+  - first:
+      213: 4632824836388548480
+    second: Summon_Angry_Demon_14
+  - first:
+      213: 4662626964094731547
+    second: Summon_Angry_Demon_15
+  - first:
+      213: 8241168164666024912
+    second: Summon_Angry_Demon_16
+  - first:
+      213: 5627006898853463968
+    second: Summon_Angry_Demon_17
+  - first:
+      213: -889708713058997674
+    second: Summon_Angry_Demon_18
+  - first:
+      213: 4184782391192161424
+    second: Summon_Angry_Demon_19
+  - first:
+      213: 8860957774704973268
+    second: Summon_Angry_Demon_20
+  - first:
+      213: 3463392838743458137
+    second: Summon_Angry_Demon_21
+  - first:
+      213: 1218525470728719875
+    second: Summon_Angry_Demon_22
+  - first:
+      213: 3843009288093099788
+    second: Summon_Angry_Demon_23
+  - first:
+      213: -8212134211632911951
+    second: Summon_Angry_Demon_24
+  - first:
+      213: 474334013049963849
+    second: Summon_Angry_Demon_25
+  - first:
+      213: -966819675285661912
+    second: Summon_Angry_Demon_26
+  - first:
+      213: 304285588952520931
+    second: Summon_Angry_Demon_27
+  - first:
+      213: -8497895754443375662
+    second: Summon_Angry_Demon_28
+  - first:
+      213: 4294591268569900358
+    second: Summon_Angry_Demon_29
+  - first:
+      213: 3821147878442650781
+    second: Summon_Angry_Demon_30
+  - first:
+      213: -8652996288928451579
+    second: Summon_Angry_Demon_31
+  - first:
+      213: -537485084091347164
+    second: Summon_Angry_Demon_32
+  - first:
+      213: 6015428335981859459
+    second: Summon_Angry_Demon_33
+  - first:
+      213: 4493584738803161948
+    second: Summon_Angry_Demon_34
+  - first:
+      213: -6188026054175987188
+    second: Summon_Angry_Demon_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4639443b9b305c8f0800000000000000
+      internalID: -521006085779975324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100eea5f4f254c960800000000000000
+      internalID: 7621307681465098241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae8dc6ea9a39010800000000000000
+      internalID: 1194484892798872144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf605e7c95a4721f0800000000000000
+      internalID: -1069804637010983173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8655653981022570800000000000000
+      internalID: 8440310340463711885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffaf080c7cb6d9d0800000000000000
+      internalID: -2749803281565896717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca086cdd838e3e0b0800000000000000
+      internalID: -5700457372384329556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 31
+        width: 170
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249cff83c7f7b9b0800000000000000
+      internalID: -5064306836648455125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf554acd1ad5cb660800000000000000
+      internalID: 7402894837263128060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 31
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cbebd36f115ca50800000000000000
+      internalID: 6540653783121050726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821214eaa8da76d10800000000000000
+      internalID: 2118852960841703720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89133aa5ea25b150800000000000000
+      internalID: 5887659253748144526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aedd84f69a49570800000000000000
+      internalID: 8472583094419712593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 40
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f41aa9bc8b409d0800000000000000
+      internalID: -2808917082960212177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 44
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08feb8794a91b4040800000000000000
+      internalID: 4632824836388548480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 44
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15460b258af4b040800000000000000
+      internalID: 4662626964094731547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d32d2d38c28e5270800000000000000
+      internalID: 8241168164666024912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_17
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a745da16f4271e40800000000000000
+      internalID: 5627006898853463968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 8
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6c8ca3ae17a3f0800000000000000
+      internalID: -889708713058997674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8151b965531a30800000000000000
+      internalID: 4184782391192161424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59603162278fa70800000000000000
+      internalID: 8860957774704973268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518feedf61701030800000000000000
+      internalID: 3463392838743458137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0d88a57219e010800000000000000
+      internalID: 1218525470728719875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e05d169c155530800000000000000
+      internalID: 3843009288093099788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a9cbb173a80e80800000000000000
+      internalID: -8212134211632911951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9458ab0954c259600800000000000000
+      internalID: 474334013049963849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8275db4b0aa2592f0800000000000000
+      internalID: -966819675285661912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e819c7812a093400800000000000000
+      internalID: 304285588952520931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3a1ac5d8611a80800000000000000
+      internalID: -8497895754443375662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 170
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6456a9a4104799b30800000000000000
+      internalID: 4294591268569900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ccfc800c1770530800000000000000
+      internalID: 3821147878442650781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50475a388b16ae780800000000000000
+      internalID: -8652996288928451579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 6
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0aaae9287a88f0800000000000000
+      internalID: -537485084091347164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382940253381b7350800000000000000
+      internalID: 6015428335981859459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b9a7c038b6c5e30800000000000000
+      internalID: 4493584738803161948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Angry_Demon_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6afbd617bf1aa0800000000000000
+      internalID: -6188026054175987188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Summon_Angry_Demon_0: -521006085779975324
+      Summon_Angry_Demon_1: 7621307681465098241
+      Summon_Angry_Demon_10: 2118852960841703720
+      Summon_Angry_Demon_11: 5887659253748144526
+      Summon_Angry_Demon_12: 8472583094419712593
+      Summon_Angry_Demon_13: -2808917082960212177
+      Summon_Angry_Demon_14: 4632824836388548480
+      Summon_Angry_Demon_15: 4662626964094731547
+      Summon_Angry_Demon_16: 8241168164666024912
+      Summon_Angry_Demon_17: 5627006898853463968
+      Summon_Angry_Demon_18: -889708713058997674
+      Summon_Angry_Demon_19: 4184782391192161424
+      Summon_Angry_Demon_2: 1194484892798872144
+      Summon_Angry_Demon_20: 8860957774704973268
+      Summon_Angry_Demon_21: 3463392838743458137
+      Summon_Angry_Demon_22: 1218525470728719875
+      Summon_Angry_Demon_23: 3843009288093099788
+      Summon_Angry_Demon_24: -8212134211632911951
+      Summon_Angry_Demon_25: 474334013049963849
+      Summon_Angry_Demon_26: -966819675285661912
+      Summon_Angry_Demon_27: 304285588952520931
+      Summon_Angry_Demon_28: -8497895754443375662
+      Summon_Angry_Demon_29: 4294591268569900358
+      Summon_Angry_Demon_3: -1069804637010983173
+      Summon_Angry_Demon_30: 3821147878442650781
+      Summon_Angry_Demon_31: -8652996288928451579
+      Summon_Angry_Demon_32: -537485084091347164
+      Summon_Angry_Demon_33: 6015428335981859459
+      Summon_Angry_Demon_34: 4493584738803161948
+      Summon_Angry_Demon_35: -6188026054175987188
+      Summon_Angry_Demon_4: 8440310340463711885
+      Summon_Angry_Demon_5: -2749803281565896717
+      Summon_Angry_Demon_6: -5700457372384329556
+      Summon_Angry_Demon_7: -5064306836648455125
+      Summon_Angry_Demon_8: 7402894837263128060
+      Summon_Angry_Demon_9: 6540653783121050726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

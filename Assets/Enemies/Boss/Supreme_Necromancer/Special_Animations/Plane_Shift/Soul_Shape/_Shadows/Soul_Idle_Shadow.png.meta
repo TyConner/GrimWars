@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8481523c4650a724894e692b514bb82a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1916841916926767556
+    second: Soul_Idle_Shadow_0
+  - first:
+      213: -6245534795067009336
+    second: Soul_Idle_Shadow_1
+  - first:
+      213: -5054516574713081352
+    second: Soul_Idle_Shadow_2
+  - first:
+      213: -3190136724855512549
+    second: Soul_Idle_Shadow_3
+  - first:
+      213: -1392642435439841027
+    second: Soul_Idle_Shadow_4
+  - first:
+      213: 4279813715186364610
+    second: Soul_Idle_Shadow_5
+  - first:
+      213: -8402305314486324726
+    second: Soul_Idle_Shadow_6
+  - first:
+      213: -3498444964155625622
+    second: Soul_Idle_Shadow_7
+  - first:
+      213: 1691256363641194304
+    second: Soul_Idle_Shadow_8
+  - first:
+      213: 4538369145657354252
+    second: Soul_Idle_Shadow_9
+  - first:
+      213: -4914287955927928685
+    second: Soul_Idle_Shadow_10
+  - first:
+      213: -400496675073819087
+    second: Soul_Idle_Shadow_11
+  - first:
+      213: -6278771878595873806
+    second: Soul_Idle_Shadow_12
+  - first:
+      213: -2249840590887232369
+    second: Soul_Idle_Shadow_13
+  - first:
+      213: -2207455795958516511
+    second: Soul_Idle_Shadow_14
+  - first:
+      213: 1696440635436402634
+    second: Soul_Idle_Shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1bffc419df99a10800000000000000
+      internalID: 1916841916926767556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c650b3b1376359a0800000000000000
+      internalID: -6245534795067009336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 104
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f117ec84ffbad9b0800000000000000
+      internalID: -5054516574713081352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122f020d8b5ab3d0800000000000000
+      internalID: -3190136724855512549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0397065175cace0800000000000000
+      internalID: -1392642435439841027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0378606e3f46b30800000000000000
+      internalID: 4279813715186364610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027aa375d3056b80800000000000000
+      internalID: -8402305314486324726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fef3537d6037fc0800000000000000
+      internalID: -3498444964155625622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c3fab3bc887710800000000000000
+      internalID: 1691256363641194304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ef7251b68bfe30800000000000000
+      internalID: 4538369145657354252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907fee1421fccbb0800000000000000
+      internalID: -4914287955927928685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eff7c5566217af0800000000000000
+      internalID: -400496675073819087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b4962e325dd8a0800000000000000
+      internalID: -6278771878595873806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c59ea17e5f6c0e0800000000000000
+      internalID: -2249840590887232369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f38036aa8d51e0800000000000000
+      internalID: -2207455795958516511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul_Idle_Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac789b115c7fa8710800000000000000
+      internalID: 1696440635436402634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soul_Idle_Shadow_0: 1916841916926767556
+      Soul_Idle_Shadow_1: -6245534795067009336
+      Soul_Idle_Shadow_10: -4914287955927928685
+      Soul_Idle_Shadow_11: -400496675073819087
+      Soul_Idle_Shadow_12: -6278771878595873806
+      Soul_Idle_Shadow_13: -2249840590887232369
+      Soul_Idle_Shadow_14: -2207455795958516511
+      Soul_Idle_Shadow_15: 1696440635436402634
+      Soul_Idle_Shadow_2: -5054516574713081352
+      Soul_Idle_Shadow_3: -3190136724855512549
+      Soul_Idle_Shadow_4: -1392642435439841027
+      Soul_Idle_Shadow_5: 4279813715186364610
+      Soul_Idle_Shadow_6: -8402305314486324726
+      Soul_Idle_Shadow_7: -3498444964155625622
+      Soul_Idle_Shadow_8: 1691256363641194304
+      Soul_Idle_Shadow_9: 4538369145657354252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
