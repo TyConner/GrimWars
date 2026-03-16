@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Device;
 using UnityEngine.InputSystem;
@@ -29,9 +30,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     Vector2 velSmoothRef;
 
     [Header("Stats")]
-    [SerializeField] int maxHP = 3;
+    [SerializeField] int maxHP = 100;
     int currentHP;
-    [SerializeField] int maxMana = 10;
+    [SerializeField] int maxMana = 100;
     int currentMana;
     [Header("Grimoire")]
     [SerializeField] grimoireSystem Grimoire;
@@ -49,6 +50,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [Header("UI")]
     [SerializeField] Image healthBar;
     [SerializeField] Image manaBar;
+    [SerializeField] grimoireSystem Grimoire;
     [SerializeField] Image GrimoireSprite;
     
 
@@ -192,6 +194,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
             //TryFireball();
             lookInput = lookAction.action.ReadValue<Vector2>();
 
+                    //attack
+                    if (attackAction.action.WasPressedThisFrame())
+                    {
+                        Attack();
+                    }
+                }
+    }
             //attack
             Attack();
            
@@ -292,6 +301,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 
         currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
         UpdateHealthBar();
+    }
+
+    public void RestoreMana(int amount)
+    {
+        if (bDead) return;
+
+        currentMana = Math.Clamp(currentMana + amount, 0, maxMana);
+        UpdateManaBar();
     }
 
     public void Die()
@@ -408,6 +425,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     {
         if(manaBar != null)
         {
+            manaBar.fillAmount = (float)currentMana / maxMana;
+        }
+    }
             manaBar.fillAmount = (float)currentMana/ maxMana;
         }
     }
