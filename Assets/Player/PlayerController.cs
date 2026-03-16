@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Device;
 using UnityEngine.InputSystem;
@@ -29,9 +30,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     Vector2 velSmoothRef;
 
     [Header("Stats")]
-    [SerializeField] int maxHP = 3;
+    [SerializeField] int maxHP = 100;
     int currentHP;
-    [SerializeField] int maxMana = 10;
+    [SerializeField] int maxMana = 100;
     int currentMana;
     [Header("Player Feedback")]
     [SerializeField] float damageFlashTime = 0.08f;
@@ -45,6 +46,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
     [Header("UI")]
     [SerializeField] Image healthBar;
+    [SerializeField] Image manaBar;
     [SerializeField] grimoireSystem Grimoire;
 
     Color originalColor;
@@ -192,7 +194,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage
                         Attack();
                     }
                 }
-            }
+    }
 
             void FixedUpdate()
     {
@@ -277,6 +279,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         UpdateHealthBar();
     }
 
+    public void RestoreMana(int amount)
+    {
+        if (bDead) return;
+
+        currentMana = Math.Clamp(currentMana + amount, 0, maxMana);
+        UpdateManaBar();
+    }
+
     public void Die()
     {
         rb.linearVelocity = Vector2.zero;
@@ -349,6 +359,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         if (healthBar != null)
         {
             healthBar.fillAmount = (float)currentHP / maxHP;
+        }
+    }
+
+    void UpdateManaBar()
+    {
+        if(manaBar != null)
+        {
+            manaBar.fillAmount = (float)currentMana / maxMana;
         }
     }
 }
