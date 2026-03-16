@@ -3917,6 +3917,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &563370619 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6866071498238066677, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
+  m_PrefabInstance: {fileID: 4494148589299266557}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &616736425
 GameObject:
   m_ObjectHideFlags: 0
@@ -8289,7 +8300,7 @@ PrefabInstance:
     - target: {fileID: 6867167808447230893, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: manaBar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 563370619}
     - target: {fileID: 6867167808447230893, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: maxMana
       value: 100
