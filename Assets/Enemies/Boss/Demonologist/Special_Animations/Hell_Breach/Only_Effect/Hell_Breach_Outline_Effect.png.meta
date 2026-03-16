@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f27b794095a118b4f88c5cfffec6ad70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2262649894556678042
+    second: Hell_Breach_Outline_Effect_0
+  - first:
+      213: -8435285224781127098
+    second: Hell_Breach_Outline_Effect_1
+  - first:
+      213: 6366953014754520041
+    second: Hell_Breach_Outline_Effect_2
+  - first:
+      213: -1705576060044873821
+    second: Hell_Breach_Outline_Effect_3
+  - first:
+      213: -6662023687015135292
+    second: Hell_Breach_Outline_Effect_4
+  - first:
+      213: -3135751848559343320
+    second: Hell_Breach_Outline_Effect_5
+  - first:
+      213: -8449466942919122731
+    second: Hell_Breach_Outline_Effect_6
+  - first:
+      213: 6978560266537874247
+    second: Hell_Breach_Outline_Effect_7
+  - first:
+      213: 7944026967014111459
+    second: Hell_Breach_Outline_Effect_8
+  - first:
+      213: 8957437748370372092
+    second: Hell_Breach_Outline_Effect_9
+  - first:
+      213: 8967604366321387207
+    second: Hell_Breach_Outline_Effect_10
+  - first:
+      213: 2197789659927111313
+    second: Hell_Breach_Outline_Effect_11
+  - first:
+      213: 449605715242729431
+    second: Hell_Breach_Outline_Effect_12
+  - first:
+      213: 3947023946493853707
+    second: Hell_Breach_Outline_Effect_13
+  - first:
+      213: -4041041876563665657
+    second: Hell_Breach_Outline_Effect_14
+  - first:
+      213: -8305788481282090897
+    second: Hell_Breach_Outline_Effect_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973020571c866f10800000000000000
+      internalID: 2262649894556678042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e1d5b7c8dfea80800000000000000
+      internalID: -8435285224781127098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebab0a8806fb5850800000000000000
+      internalID: 6366953014754520041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af6d932c939458e0800000000000000
+      internalID: -1705576060044873821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7893ae0ccbb83a0800000000000000
+      internalID: -6662023687015135292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82988d2ce429b74d0800000000000000
+      internalID: -3135751848559343320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d066e525967dba80800000000000000
+      internalID: -8449466942919122731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74335a2a693d8d060800000000000000
+      internalID: 6978560266537874247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8fffeef6ade3e60800000000000000
+      internalID: 7944026967014111459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57a417c263f4c70800000000000000
+      internalID: 8957437748370372092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c604d4a8a4537c70800000000000000
+      internalID: 8967604366321387207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966bf22d0e108e10800000000000000
+      internalID: 2197789659927111313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df370214025d3600800000000000000
+      internalID: 449605715242729431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000abafd55a6c630800000000000000
+      internalID: 3947023946493853707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd1f8d2d55be7c0800000000000000
+      internalID: -4041041876563665657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell_Breach_Outline_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6856a9d169ebbc80800000000000000
+      internalID: -8305788481282090897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hell_Breach_Outline_Effect_0: 2262649894556678042
+      Hell_Breach_Outline_Effect_1: -8435285224781127098
+      Hell_Breach_Outline_Effect_10: 8967604366321387207
+      Hell_Breach_Outline_Effect_11: 2197789659927111313
+      Hell_Breach_Outline_Effect_12: 449605715242729431
+      Hell_Breach_Outline_Effect_13: 3947023946493853707
+      Hell_Breach_Outline_Effect_14: -4041041876563665657
+      Hell_Breach_Outline_Effect_15: -8305788481282090897
+      Hell_Breach_Outline_Effect_2: 6366953014754520041
+      Hell_Breach_Outline_Effect_3: -1705576060044873821
+      Hell_Breach_Outline_Effect_4: -6662023687015135292
+      Hell_Breach_Outline_Effect_5: -3135751848559343320
+      Hell_Breach_Outline_Effect_6: -8449466942919122731
+      Hell_Breach_Outline_Effect_7: 6978560266537874247
+      Hell_Breach_Outline_Effect_8: 7944026967014111459
+      Hell_Breach_Outline_Effect_9: 8957437748370372092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: da2f84e6a5a8fa24b9509de8f0194346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6207897876685718392
+    second: CentaurKingDmg_0
+  - first:
+      213: 8864310201459565895
+    second: CentaurKingDmg_1
+  - first:
+      213: -7235343535117067973
+    second: CentaurKingDmg_2
+  - first:
+      213: 1649296699086557329
+    second: CentaurKingDmg_3
+  - first:
+      213: -5803114323090942576
+    second: CentaurKingDmg_4
+  - first:
+      213: -1594138188328167685
+    second: CentaurKingDmg_5
+  - first:
+      213: 1954953036335488167
+    second: CentaurKingDmg_6
+  - first:
+      213: -698668111039598543
+    second: CentaurKingDmg_7
+  - first:
+      213: 5881711751208061326
+    second: CentaurKingDmg_8
+  - first:
+      213: -1352934437833971825
+    second: CentaurKingDmg_9
+  - first:
+      213: 4611816529053003223
+    second: CentaurKingDmg_10
+  - first:
+      213: 4221963172251289331
+    second: CentaurKingDmg_11
+  - first:
+      213: 2578410744252027361
+    second: CentaurKingDmg_12
+  - first:
+      213: 9066913060898040946
+    second: CentaurKingDmg_13
+  - first:
+      213: 7085655340293059055
+    second: CentaurKingDmg_14
+  - first:
+      213: -6189434911659822112
+    second: CentaurKingDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CentaurKingDmg_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87301cd5a32e62650800000000000000
+      internalID: 6207897876685718392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456ed0c92b540b70800000000000000
+      internalID: 8864310201459565895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b399d69a365e69b90800000000000000
+      internalID: -7235343535117067973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19057460c9a73e610800000000000000
+      internalID: 1649296699086557329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095de25f442377fa0800000000000000
+      internalID: -5803114323090942576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf690d983cb70e9e0800000000000000
+      internalID: -1594138188328167685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac1953cd63612b10800000000000000
+      internalID: 1954953036335488167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13077910e05dd46f0800000000000000
+      internalID: -698668111039598543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894ff1dca900a150800000000000000
+      internalID: 5881711751208061326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8763840c49693de0800000000000000
+      internalID: -1352934437833971825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddaa7fd2b6700040800000000000000
+      internalID: 4611816529053003223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c1d0e22d679a30800000000000000
+      internalID: 4221963172251289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1513039ea58c320800000000000000
+      internalID: 2578410744252027361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6d2ce36524dd70800000000000000
+      internalID: 9066913060898040946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe174079dfd455260800000000000000
+      internalID: 7085655340293059055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDmg_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e37d1aadb5ba1aa0800000000000000
+      internalID: -6189434911659822112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CentaurKingDmg_0: 6207897876685718392
+      CentaurKingDmg_1: 8864310201459565895
+      CentaurKingDmg_10: 4611816529053003223
+      CentaurKingDmg_11: 4221963172251289331
+      CentaurKingDmg_12: 2578410744252027361
+      CentaurKingDmg_13: 9066913060898040946
+      CentaurKingDmg_14: 7085655340293059055
+      CentaurKingDmg_15: -6189434911659822112
+      CentaurKingDmg_2: -7235343535117067973
+      CentaurKingDmg_3: 1649296699086557329
+      CentaurKingDmg_4: -5803114323090942576
+      CentaurKingDmg_5: -1594138188328167685
+      CentaurKingDmg_6: 1954953036335488167
+      CentaurKingDmg_7: -698668111039598543
+      CentaurKingDmg_8: 5881711751208061326
+      CentaurKingDmg_9: -1352934437833971825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

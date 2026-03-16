@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 0508ed58a0cbdfa499fdcf50f79d7c2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2878337178527372332
+    second: CentaurKingIdle_0
+  - first:
+      213: 3419313731418280003
+    second: CentaurKingIdle_1
+  - first:
+      213: 5470075184892174887
+    second: CentaurKingIdle_2
+  - first:
+      213: 1621078594870961243
+    second: CentaurKingIdle_3
+  - first:
+      213: -7984410128701060343
+    second: CentaurKingIdle_4
+  - first:
+      213: -702938153977962486
+    second: CentaurKingIdle_5
+  - first:
+      213: -1584410702142307745
+    second: CentaurKingIdle_6
+  - first:
+      213: -6266878468752362562
+    second: CentaurKingIdle_7
+  - first:
+      213: -2933085199937202130
+    second: CentaurKingIdle_8
+  - first:
+      213: -5878191019077680489
+    second: CentaurKingIdle_9
+  - first:
+      213: 7977416497932032343
+    second: CentaurKingIdle_10
+  - first:
+      213: -8429216031033917633
+    second: CentaurKingIdle_11
+  - first:
+      213: -2189294916971001392
+    second: CentaurKingIdle_12
+  - first:
+      213: 8505381139159606355
+    second: CentaurKingIdle_13
+  - first:
+      213: 2589148005959963117
+    second: CentaurKingIdle_14
+  - first:
+      213: 1067024268254098894
+    second: CentaurKingIdle_15
+  - first:
+      213: -343928262540850332
+    second: CentaurKingIdle_16
+  - first:
+      213: 1927403059145743177
+    second: CentaurKingIdle_17
+  - first:
+      213: 6759272792151957627
+    second: CentaurKingIdle_18
+  - first:
+      213: 6592263187757814895
+    second: CentaurKingIdle_19
+  - first:
+      213: 68801996467424907
+    second: CentaurKingIdle_20
+  - first:
+      213: -3747917151622594226
+    second: CentaurKingIdle_21
+  - first:
+      213: -4598223796694974191
+    second: CentaurKingIdle_22
+  - first:
+      213: -5151373836665122638
+    second: CentaurKingIdle_23
+  - first:
+      213: 135608083527231518
+    second: CentaurKingIdle_24
+  - first:
+      213: 6218100005710508275
+    second: CentaurKingIdle_25
+  - first:
+      213: 7246397791831613423
+    second: CentaurKingIdle_26
+  - first:
+      213: -8993307029692640466
+    second: CentaurKingIdle_27
+  - first:
+      213: 2660769873703809851
+    second: CentaurKingIdle_28
+  - first:
+      213: -6235702051427994689
+    second: CentaurKingIdle_29
+  - first:
+      213: 8249376644432296289
+    second: CentaurKingIdle_30
+  - first:
+      213: 6636634565106616685
+    second: CentaurKingIdle_31
+  - first:
+      213: 6579114373764463407
+    second: CentaurKingIdle_32
+  - first:
+      213: -4701024004264276542
+    second: CentaurKingIdle_33
+  - first:
+      213: -5460292699850001759
+    second: CentaurKingIdle_34
+  - first:
+      213: 187140571069479734
+    second: CentaurKingIdle_35
+  - first:
+      213: -3528212654596489242
+    second: CentaurKingIdle_36
+  - first:
+      213: -7164790603802348414
+    second: CentaurKingIdle_37
+  - first:
+      213: 8090062974557438292
+    second: CentaurKingIdle_38
+  - first:
+      213: 8152390017920609812
+    second: CentaurKingIdle_39
+  - first:
+      213: 817564866015665355
+    second: CentaurKingIdle_40
+  - first:
+      213: -6842643499110368331
+    second: CentaurKingIdle_41
+  - first:
+      213: -3112024745270159791
+    second: CentaurKingIdle_42
+  - first:
+      213: -3514907661538502528
+    second: CentaurKingIdle_43
+  - first:
+      213: 7757267974390547570
+    second: CentaurKingIdle_44
+  - first:
+      213: -8041746463714618499
+    second: CentaurKingIdle_45
+  - first:
+      213: 4267828336467437320
+    second: CentaurKingIdle_46
+  - first:
+      213: -2143350349261593271
+    second: CentaurKingIdle_47
+  - first:
+      213: 7182430365052896474
+    second: CentaurKingIdle_48
+  - first:
+      213: 7037417114759891052
+    second: CentaurKingIdle_49
+  - first:
+      213: -2008906047446621543
+    second: CentaurKingIdle_50
+  - first:
+      213: 7767347662856041953
+    second: CentaurKingIdle_51
+  - first:
+      213: -7356833238700569528
+    second: CentaurKingIdle_52
+  - first:
+      213: 4920840700148805188
+    second: CentaurKingIdle_53
+  - first:
+      213: -5678350807987938507
+    second: CentaurKingIdle_54
+  - first:
+      213: -6306306952940659637
+    second: CentaurKingIdle_55
+  - first:
+      213: 6948198332583712040
+    second: CentaurKingIdle_56
+  - first:
+      213: 8425872524101433200
+    second: CentaurKingIdle_57
+  - first:
+      213: 5289610087065043080
+    second: CentaurKingIdle_58
+  - first:
+      213: -7130978430207378584
+    second: CentaurKingIdle_59
+  - first:
+      213: -912813006413040303
+    second: CentaurKingIdle_60
+  - first:
+      213: 3904193901221129608
+    second: CentaurKingIdle_61
+  - first:
+      213: 6815619931493049231
+    second: CentaurKingIdle_62
+  - first:
+      213: 4377055492442502110
+    second: CentaurKingIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CentaurKingIdle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db631216971e08d0800000000000000
+      internalID: -2878337178527372332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3405dc0f8b7d37f20800000000000000
+      internalID: 3419313731418280003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226d22266c99eb40800000000000000
+      internalID: 5470075184892174887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e548a46a3f7610800000000000000
+      internalID: 1621078594870961243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b0eb98a4da13190800000000000000
+      internalID: -7984410128701060343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0023192979ae36f0800000000000000
+      internalID: -702938153977962486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f520b786cda030ae0800000000000000
+      internalID: -1584410702142307745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b87b6c339709a0800000000000000
+      internalID: -6266878468752362562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2899c10d869b47d0800000000000000
+      internalID: -2933085199937202130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792cbf189687c6ea0800000000000000
+      internalID: -5878191019077680489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595498e90a75be60800000000000000
+      internalID: 7977416497932032343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff13ffda8650b80800000000000000
+      internalID: -8429216031033917633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d900655fdf0e91e0800000000000000
+      internalID: -2189294916971001392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3546ae6251f290670800000000000000
+      internalID: 8505381139159606355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1972eb4608ee320800000000000000
+      internalID: 2589148005959963117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b10c2be4dece00800000000000000
+      internalID: 1067024268254098894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0903411f1a3bf0800000000000000
+      internalID: -343928262540850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b1267ded28fba10800000000000000
+      internalID: 1927403059145743177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b702e24dac2cdcd50800000000000000
+      internalID: 6759272792151957627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f645034217c6c7b50800000000000000
+      internalID: 6592263187757814895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 76
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e474f1d0f64f000800000000000000
+      internalID: 68801996467424907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4101f93539bcfbc0800000000000000
+      internalID: -3747917151622594226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1118f30c1d3df20c0800000000000000
+      internalID: -4598223796694974191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b09558e9c4a288b0800000000000000
+      internalID: -5151373836665122638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ef4f55d6c1e100800000000000000
+      internalID: 135608083527231518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 76
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ba32a2012b4650800000000000000
+      internalID: 6218100005710508275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5c4b0660609460800000000000000
+      internalID: 7246397791831613423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e239523b7ea513380800000000000000
+      internalID: -8993307029692640466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 76
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333d2f4a14fce420800000000000000
+      internalID: 2660769873703809851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 76
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3b57bb5065679a0800000000000000
+      internalID: -6235702051427994689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697acdd95cab7270800000000000000
+      internalID: 8249376644432296289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 76
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69424d79ff0a1c50800000000000000
+      internalID: 6636634565106616685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb5e05aa5bd4b50800000000000000
+      internalID: 6579114373764463407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4e31439b92ceb0800000000000000
+      internalID: -4701024004264276542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a238c728b42934b0800000000000000
+      internalID: -5460292699850001759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf8ad9b5bd89200800000000000000
+      internalID: 187140571069479734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6effcbea845490fc0800000000000000
+      internalID: -3528212654596489242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284fd4218ec819c90800000000000000
+      internalID: -7164790603802348414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4514901996da54070800000000000000
+      internalID: 8090062974557438292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e2990378b132170800000000000000
+      internalID: 8152390017920609812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc14bbf9e2985b00800000000000000
+      internalID: 817564866015665355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbf3eecdfb0a01a0800000000000000
+      internalID: -6842643499110368331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15652fd7bfddfc4d0800000000000000
+      internalID: -3112024745270159791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d2b7ca1a883fc0800000000000000
+      internalID: -3514907661538502528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27400197f1a57ab60800000000000000
+      internalID: 7757267974390547570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d735980c23af56090800000000000000
+      internalID: -8041746463714618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ec75924f5a3b30800000000000000
+      internalID: 4267828336467437320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ad0b963a4142e0800000000000000
+      internalID: -2143350349261593271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405f4ec5e1da360800000000000000
+      internalID: 7182430365052896474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 12
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68848d749de9a160800000000000000
+      internalID: 7037417114759891052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926fcee79eee14e0800000000000000
+      internalID: -2008906047446621543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5be73db892bcb60800000000000000
+      internalID: 7767347662856041953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4777c52747e990800000000000000
+      internalID: -7356833238700569528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 12
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e67a88b865a4440800000000000000
+      internalID: 4920840700148805188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b93db76027231b0800000000000000
+      internalID: -5678350807987938507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c55611d3f7b78a0800000000000000
+      internalID: -6306306952940659637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251d920295fc6060800000000000000
+      internalID: 6948198332583712040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_57
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773ac12b66bee470800000000000000
+      internalID: 8425872524101433200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 12
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c5df3958786940800000000000000
+      internalID: 5289610087065043080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b348636eca90d90800000000000000
+      internalID: -7130978430207378584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f46e28690553f0800000000000000
+      internalID: -912813006413040303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_61
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2888faab7e2630800000000000000
+      internalID: 3904193901221129608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8327bc8732f59e50800000000000000
+      internalID: 6815619931493049231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingIdle_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3353d97cc6ebc30800000000000000
+      internalID: 4377055492442502110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CentaurKingIdle_0: -2878337178527372332
+      CentaurKingIdle_1: 3419313731418280003
+      CentaurKingIdle_10: 7977416497932032343
+      CentaurKingIdle_11: -8429216031033917633
+      CentaurKingIdle_12: -2189294916971001392
+      CentaurKingIdle_13: 8505381139159606355
+      CentaurKingIdle_14: 2589148005959963117
+      CentaurKingIdle_15: 1067024268254098894
+      CentaurKingIdle_16: -343928262540850332
+      CentaurKingIdle_17: 1927403059145743177
+      CentaurKingIdle_18: 6759272792151957627
+      CentaurKingIdle_19: 6592263187757814895
+      CentaurKingIdle_2: 5470075184892174887
+      CentaurKingIdle_20: 68801996467424907
+      CentaurKingIdle_21: -3747917151622594226
+      CentaurKingIdle_22: -4598223796694974191
+      CentaurKingIdle_23: -5151373836665122638
+      CentaurKingIdle_24: 135608083527231518
+      CentaurKingIdle_25: 6218100005710508275
+      CentaurKingIdle_26: 7246397791831613423
+      CentaurKingIdle_27: -8993307029692640466
+      CentaurKingIdle_28: 2660769873703809851
+      CentaurKingIdle_29: -6235702051427994689
+      CentaurKingIdle_3: 1621078594870961243
+      CentaurKingIdle_30: 8249376644432296289
+      CentaurKingIdle_31: 6636634565106616685
+      CentaurKingIdle_32: 6579114373764463407
+      CentaurKingIdle_33: -4701024004264276542
+      CentaurKingIdle_34: -5460292699850001759
+      CentaurKingIdle_35: 187140571069479734
+      CentaurKingIdle_36: -3528212654596489242
+      CentaurKingIdle_37: -7164790603802348414
+      CentaurKingIdle_38: 8090062974557438292
+      CentaurKingIdle_39: 8152390017920609812
+      CentaurKingIdle_4: -7984410128701060343
+      CentaurKingIdle_40: 817564866015665355
+      CentaurKingIdle_41: -6842643499110368331
+      CentaurKingIdle_42: -3112024745270159791
+      CentaurKingIdle_43: -3514907661538502528
+      CentaurKingIdle_44: 7757267974390547570
+      CentaurKingIdle_45: -8041746463714618499
+      CentaurKingIdle_46: 4267828336467437320
+      CentaurKingIdle_47: -2143350349261593271
+      CentaurKingIdle_48: 7182430365052896474
+      CentaurKingIdle_49: 7037417114759891052
+      CentaurKingIdle_5: -702938153977962486
+      CentaurKingIdle_50: -2008906047446621543
+      CentaurKingIdle_51: 7767347662856041953
+      CentaurKingIdle_52: -7356833238700569528
+      CentaurKingIdle_53: 4920840700148805188
+      CentaurKingIdle_54: -5678350807987938507
+      CentaurKingIdle_55: -6306306952940659637
+      CentaurKingIdle_56: 6948198332583712040
+      CentaurKingIdle_57: 8425872524101433200
+      CentaurKingIdle_58: 5289610087065043080
+      CentaurKingIdle_59: -7130978430207378584
+      CentaurKingIdle_6: -1584410702142307745
+      CentaurKingIdle_60: -912813006413040303
+      CentaurKingIdle_61: 3904193901221129608
+      CentaurKingIdle_62: 6815619931493049231
+      CentaurKingIdle_63: 4377055492442502110
+      CentaurKingIdle_7: -6266878468752362562
+      CentaurKingIdle_8: -2933085199937202130
+      CentaurKingIdle_9: -5878191019077680489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

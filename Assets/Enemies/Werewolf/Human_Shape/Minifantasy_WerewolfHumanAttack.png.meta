@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 23c32e2d6283aad4588ee5422cf52cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2353019184203097028
+    second: Minifantasy_WerewolfHumanAttack_0
+  - first:
+      213: 1544518469823033412
+    second: Minifantasy_WerewolfHumanAttack_1
+  - first:
+      213: 4295090558796435327
+    second: Minifantasy_WerewolfHumanAttack_2
+  - first:
+      213: 5787966840345825934
+    second: Minifantasy_WerewolfHumanAttack_3
+  - first:
+      213: 8222302836651524588
+    second: Minifantasy_WerewolfHumanAttack_4
+  - first:
+      213: -2722442143855402822
+    second: Minifantasy_WerewolfHumanAttack_5
+  - first:
+      213: 7590654231022614372
+    second: Minifantasy_WerewolfHumanAttack_6
+  - first:
+      213: -1178612366642023966
+    second: Minifantasy_WerewolfHumanAttack_7
+  - first:
+      213: 1053819452673466256
+    second: Minifantasy_WerewolfHumanAttack_8
+  - first:
+      213: 1103054607444970554
+    second: Minifantasy_WerewolfHumanAttack_9
+  - first:
+      213: 6224895532060680134
+    second: Minifantasy_WerewolfHumanAttack_10
+  - first:
+      213: -1243873688963873535
+    second: Minifantasy_WerewolfHumanAttack_11
+  - first:
+      213: 2351413388139707859
+    second: Minifantasy_WerewolfHumanAttack_12
+  - first:
+      213: 8795136873299994586
+    second: Minifantasy_WerewolfHumanAttack_13
+  - first:
+      213: 4054323471571155904
+    second: Minifantasy_WerewolfHumanAttack_14
+  - first:
+      213: -4519527159721559587
+    second: Minifantasy_WerewolfHumanAttack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ea103b7a97a020800000000000000
+      internalID: 2353019184203097028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440f4d67d5b3f6510800000000000000
+      internalID: 1544518469823033412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f023b5b1a3b9b30800000000000000
+      internalID: 4295090558796435327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829d82ec2df25050800000000000000
+      internalID: 5787966840345825934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10d46cddc7b1270800000000000000
+      internalID: 8222302836651524588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab022f55b41f73ad0800000000000000
+      internalID: -2722442143855402822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673bec5ecb675960800000000000000
+      internalID: 7590654231022614372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e17b6e0c4ab4afe0800000000000000
+      internalID: -1178612366642023966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f9ff5753bef9e00800000000000000
+      internalID: 1053819452673466256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c8d9c3256de4f00800000000000000
+      internalID: 1103054607444970554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf94686185436650800000000000000
+      internalID: 6224895532060680134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058adf587fdcbee0800000000000000
+      internalID: -1243873688963873535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd3a28a406e1a020800000000000000
+      internalID: 2351413388139707859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad76cfb336a9e0a70800000000000000
+      internalID: 8795136873299994586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbf68777b9d34830800000000000000
+      internalID: 4054323471571155904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_WerewolfHumanAttack_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f0146ef96741c0800000000000000
+      internalID: -4519527159721559587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_WerewolfHumanAttack_0: 2353019184203097028
+      Minifantasy_WerewolfHumanAttack_1: 1544518469823033412
+      Minifantasy_WerewolfHumanAttack_10: 6224895532060680134
+      Minifantasy_WerewolfHumanAttack_11: -1243873688963873535
+      Minifantasy_WerewolfHumanAttack_12: 2351413388139707859
+      Minifantasy_WerewolfHumanAttack_13: 8795136873299994586
+      Minifantasy_WerewolfHumanAttack_14: 4054323471571155904
+      Minifantasy_WerewolfHumanAttack_15: -4519527159721559587
+      Minifantasy_WerewolfHumanAttack_2: 4295090558796435327
+      Minifantasy_WerewolfHumanAttack_3: 5787966840345825934
+      Minifantasy_WerewolfHumanAttack_4: 8222302836651524588
+      Minifantasy_WerewolfHumanAttack_5: -2722442143855402822
+      Minifantasy_WerewolfHumanAttack_6: 7590654231022614372
+      Minifantasy_WerewolfHumanAttack_7: -1178612366642023966
+      Minifantasy_WerewolfHumanAttack_8: 1053819452673466256
+      Minifantasy_WerewolfHumanAttack_9: 1103054607444970554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

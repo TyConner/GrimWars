@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 36ff90f27d49bbe4bb91474c60ee8a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5476185803713479096
+    second: Cataclysm_Effect_0
+  - first:
+      213: 381704445474629352
+    second: Cataclysm_Effect_1
+  - first:
+      213: -8600357168167585903
+    second: Cataclysm_Effect_2
+  - first:
+      213: 747326560957241115
+    second: Cataclysm_Effect_3
+  - first:
+      213: -9007033584489414760
+    second: Cataclysm_Effect_4
+  - first:
+      213: -4922961836652989612
+    second: Cataclysm_Effect_5
+  - first:
+      213: 572378485622024457
+    second: Cataclysm_Effect_6
+  - first:
+      213: -4559105963053354092
+    second: Cataclysm_Effect_7
+  - first:
+      213: -109873815342366242
+    second: Cataclysm_Effect_8
+  - first:
+      213: 5543747944383953498
+    second: Cataclysm_Effect_9
+  - first:
+      213: -1521205297604058219
+    second: Cataclysm_Effect_10
+  - first:
+      213: -603991503840834576
+    second: Cataclysm_Effect_11
+  - first:
+      213: 9151549822379984176
+    second: Cataclysm_Effect_12
+  - first:
+      213: 3655982993323883183
+    second: Cataclysm_Effect_13
+  - first:
+      213: 1052206212627175332
+    second: Cataclysm_Effect_14
+  - first:
+      213: 3772238253032049908
+    second: Cataclysm_Effect_15
+  - first:
+      213: 4388458792294090691
+    second: Cataclysm_Effect_16
+  - first:
+      213: 8179497311813738417
+    second: Cataclysm_Effect_17
+  - first:
+      213: 8892714212961244176
+    second: Cataclysm_Effect_18
+  - first:
+      213: -2009352116881695355
+    second: Cataclysm_Effect_19
+  - first:
+      213: -884867024432276794
+    second: Cataclysm_Effect_20
+  - first:
+      213: -3561477836827546958
+    second: Cataclysm_Effect_21
+  - first:
+      213: -3430958195427815541
+    second: Cataclysm_Effect_22
+  - first:
+      213: 4924745913816661006
+    second: Cataclysm_Effect_23
+  - first:
+      213: -7647722471189096629
+    second: Cataclysm_Effect_24
+  - first:
+      213: 128493143102703752
+    second: Cataclysm_Effect_25
+  - first:
+      213: -2023718849560338898
+    second: Cataclysm_Effect_26
+  - first:
+      213: -4017467778823107268
+    second: Cataclysm_Effect_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cataclysm_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 117
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84efe9d860ea004b0800000000000000
+      internalID: -5476185803713479096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e3b9bb261c4500800000000000000
+      internalID: 381704445474629352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 99
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197f2e1e8b465a880800000000000000
+      internalID: -8600357168167585903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1712153c890f5a00800000000000000
+      internalID: 747326560957241115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbe7c1da6900380800000000000000
+      internalID: -9007033584489414760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4537e73ea402eabb0800000000000000
+      internalID: -4922961836652989612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a398333f71f700800000000000000
+      internalID: 572378485622024457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 85
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f6d2284dcab0c0800000000000000
+      internalID: -4559105963053354092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 77
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1c66ad856a97ef0800000000000000
+      internalID: -109873815342366242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5abe4522695fec40800000000000000
+      internalID: 5543747944383953498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932edd67d793eae0800000000000000
+      internalID: -1521205297604058219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 77
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb86366de03e97f0800000000000000
+      internalID: -603991503840834576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358f339316d00f70800000000000000
+      internalID: 9151549822379984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa70f58929acb230800000000000000
+      internalID: 3655982993323883183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 53
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71a1eb9ff2a9e00800000000000000
+      internalID: 1052206212627175332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8d1874bea95430800000000000000
+      internalID: 3772238253032049908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c701224500f6ec30800000000000000
+      internalID: 4388458792294090691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9befd779638170800000000000000
+      internalID: 8179497311813738417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 51
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0145f980674496b70800000000000000
+      internalID: 8892714212961244176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 38
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d569c45e85d14e0800000000000000
+      internalID: -2009352116881695355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 40
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad147212258b3f0800000000000000
+      internalID: -884867024432276794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 21
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa774e6c6139ec0800000000000000
+      internalID: -3561477836827546958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4f4203b9c260d0800000000000000
+      internalID: -3430958195427815541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3912f056385440800000000000000
+      internalID: 4924745913816661006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47500c8ee4ddd590800000000000000
+      internalID: -7647722471189096629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c5b635df78c100800000000000000
+      internalID: 128493143102703752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e91bead6e4ae3e0800000000000000
+      internalID: -2023718849560338898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cataclysm_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dcba237561f38c0800000000000000
+      internalID: -4017467778823107268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cataclysm_Effect_0: -5476185803713479096
+      Cataclysm_Effect_1: 381704445474629352
+      Cataclysm_Effect_10: -1521205297604058219
+      Cataclysm_Effect_11: -603991503840834576
+      Cataclysm_Effect_12: 9151549822379984176
+      Cataclysm_Effect_13: 3655982993323883183
+      Cataclysm_Effect_14: 1052206212627175332
+      Cataclysm_Effect_15: 3772238253032049908
+      Cataclysm_Effect_16: 4388458792294090691
+      Cataclysm_Effect_17: 8179497311813738417
+      Cataclysm_Effect_18: 8892714212961244176
+      Cataclysm_Effect_19: -2009352116881695355
+      Cataclysm_Effect_2: -8600357168167585903
+      Cataclysm_Effect_20: -884867024432276794
+      Cataclysm_Effect_21: -3561477836827546958
+      Cataclysm_Effect_22: -3430958195427815541
+      Cataclysm_Effect_23: 4924745913816661006
+      Cataclysm_Effect_24: -7647722471189096629
+      Cataclysm_Effect_25: 128493143102703752
+      Cataclysm_Effect_26: -2023718849560338898
+      Cataclysm_Effect_27: -4017467778823107268
+      Cataclysm_Effect_3: 747326560957241115
+      Cataclysm_Effect_4: -9007033584489414760
+      Cataclysm_Effect_5: -4922961836652989612
+      Cataclysm_Effect_6: 572378485622024457
+      Cataclysm_Effect_7: -4559105963053354092
+      Cataclysm_Effect_8: -109873815342366242
+      Cataclysm_Effect_9: 5543747944383953498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

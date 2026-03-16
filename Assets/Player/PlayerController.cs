@@ -1,18 +1,17 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Device;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-public class PlayerController : MonoBehaviour, ITakeDamage
+public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 {
     [Header("Input System")]
     [SerializeField] InputActionReference moveAction;
     [SerializeField] InputActionReference firePrimaryAction;
     [SerializeField] InputActionReference lookAction;
-    [SerializeField] InputActionReference attackAction;
+    [SerializeField] InputActionReference fireSecondaryAction;
 
     [Header("Refs")]
     [SerializeField] Rigidbody2D rb;
@@ -30,10 +29,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     Vector2 velSmoothRef;
 
     [Header("Stats")]
-    [SerializeField] int maxHP = 100;
+    [SerializeField] int maxHP = 3;
     int currentHP;
-    [SerializeField] int maxMana = 100;
+    [SerializeField] int maxMana = 10;
     int currentMana;
+    [Header("Grimoire")]
+    [SerializeField] grimoireSystem Grimoire;
+
     [Header("Player Feedback")]
     [SerializeField] float damageFlashTime = 0.08f;
     [SerializeField] float damageCameraShakeDuration = 0.2f;
@@ -47,7 +49,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     [Header("UI")]
     [SerializeField] Image healthBar;
     [SerializeField] Image manaBar;
-    [SerializeField] grimoireSystem Grimoire;
+    [SerializeField] Image GrimoireSprite;
+    
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -77,8 +80,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.freezeRotation = true;
 
         currentHP = maxHP;
+        currentMana = maxMana;
         originalColor = spr.color;
-
+        GrimoireSprite.sprite = Grimoire.GetGrimoireSprite();
         UpdateHealthBar();
     }
 
@@ -93,9 +97,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         {
             firePrimaryAction.action.Enable();
         }
-        if (attackAction != null)
+        if (fireSecondaryAction != null)
         {
-            attackAction.action.Enable();
+            fireSecondaryAction.action.Enable();
 
         }
         if (lookAction != null)
@@ -116,9 +120,9 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         }
 
 
-        if (attackAction != null)
+        if (fireSecondaryAction != null)
         {
-            attackAction.action.Disable();
+            fireSecondaryAction.action.Disable();
         }
 
         if(lookAction != null)
@@ -128,75 +132,86 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     }
 
     void Update()
+    {
+        if (bDead) return;
+
+        if (!bMovementLocked)
+            //move
+            if (moveAction == null)
             {
-                if (bDead) return;
-
-                if (!bMovementLocked)
-                    //move
-                    if (moveAction == null)
-                    {
-                        moveInput = Vector2.zero;
-                        return;
-                    }
+                moveInput = Vector2.zero;
+                return;
+            }
 
 
+        moveInput = moveAction.action.ReadValue<Vector2>();
+
+
+        if (moveInput.sqrMagnitude > 0f)
+        {
+            if (moveAction == null)
+            {
+                moveInput = Vector2.zero;
+            }
+            else
+            {
                 moveInput = moveAction.action.ReadValue<Vector2>();
-
 
                 if (moveInput.sqrMagnitude > 0f)
                 {
-                    if (moveAction == null)
+                    moveInput = moveInput.normalized;
+
+                    anim.SetFloat("LastInputX", moveInput.x);
+                    anim.SetFloat("LastInputY", moveInput.y);
+                    anim.SetBool("bIsMoving", true);
+
+                    if (moveInput.x < 0f)
                     {
-                        moveInput = Vector2.zero;
+                        spr.flipX = true;
                     }
-                    else
+                    else if (moveInput.x > 0f)
                     {
-                        moveInput = moveAction.action.ReadValue<Vector2>();
-
-                        if (moveInput.sqrMagnitude > 0f)
-                        {
-                            moveInput = moveInput.normalized;
-
-                            anim.SetFloat("LastInputX", moveInput.x);
-                            anim.SetFloat("LastInputY", moveInput.y);
-                            anim.SetBool("bIsMoving", true);
-
-                            if (moveInput.x < 0f)
-                            {
-                                spr.flipX = true;
-                            }
-                            else if (moveInput.x > 0f)
-                            {
-                                spr.flipX = false;
-                            }
-                        }
-                        else
-                        {
-                            anim.SetBool("bIsMoving", false);
-                        }
+                        spr.flipX = false;
                     }
                 }
                 else
                 {
-                    moveInput = Vector2.zero;
                     anim.SetBool("bIsMoving", false);
                 }
-                //look
+            }
+        }
+        else
+        {
+            moveInput = Vector2.zero;
+            anim.SetBool("bIsMoving", false);
+        }
+        //look
 
-                if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
-                {
-                    //TryFireball();
-                    lookInput = lookAction.action.ReadValue<Vector2>();
+        if (firePrimaryAction != null && firePrimaryAction.action.WasPressedThisFrame())
+        {
+            //TryFireball();
+            lookInput = lookAction.action.ReadValue<Vector2>();
 
-                    //attack
-                    if (attackAction.action.WasPressedThisFrame())
-                    {
-                        Attack();
-                    }
-                }
+            //attack
+            Attack();
+           
+        }
+
+        if (fireSecondaryAction != null && fireSecondaryAction.action.WasPressedThisFrame())
+        {
+            //TryFireball();
+            lookInput = lookAction.action.ReadValue<Vector2>();
+
+            //attack
+            AttackHeavy();
+
+        }
+
     }
 
-            void FixedUpdate()
+
+
+    void FixedUpdate()
     {
         if (bDead) return;
 
@@ -220,34 +235,34 @@ public class PlayerController : MonoBehaviour, ITakeDamage
         rb.linearVelocity = newVel;
     }
 
-    //void TryFireball()
-    //{
-    //    if (bDead) return;
-    //    if (bMovementLocked) return;
-    //    if (bIsCastingFireball) return;
+    void TryFireball()
+    {
+        if (bDead) return;
+        if (bMovementLocked) return;
+        if (bIsCastingFireball) return;
 
-    //    fireballRoutine = StartCoroutine(FireballRoutine());
-    //}
+        fireballRoutine = StartCoroutine(FireballRoutine());
+    }
 
-    //IEnumerator FireballRoutine()
-    //{
-    //    bIsCastingFireball = true;
-    //    bMovementLocked = true;
+    IEnumerator FireballRoutine()
+    {
+        bIsCastingFireball = true;
+        bMovementLocked = true;
 
-    //    moveInput = Vector2.zero;
-    //    rb.linearVelocity = Vector2.zero;
-    //    velSmoothRef = Vector2.zero;
+        moveInput = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
+        velSmoothRef = Vector2.zero;
 
-    //    anim.SetBool("bIsMoving", false);
-    //    anim.SetBool("bIsFireball", true);
+        anim.SetBool("bIsMoving", false);
+        anim.SetBool("bIsFireball", true);
 
-    //    yield return new WaitForSeconds(fireballLockTime / 2);
-    //    anim.SetBool("bIsFireball", false); //Must do this or blend out will cause two fireball casts on animation
-    //    yield return new WaitForSeconds(fireballLockTime / 2);
-    //    bMovementLocked = false;
-    //    bIsCastingFireball = false;
-    //    fireballRoutine = null;
-    //}
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        anim.SetBool("bIsFireball", false); //Must do this or blend out will cause two fireball casts on animation
+        yield return new WaitForSeconds(fireballLockTime / 2);
+        bMovementLocked = false;
+        bIsCastingFireball = false;
+        fireballRoutine = null;
+    }
 
     public void TakeDamage(int amount)
     {
@@ -277,14 +292,6 @@ public class PlayerController : MonoBehaviour, ITakeDamage
 
         currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
         UpdateHealthBar();
-    }
-
-    public void RestoreMana(int amount)
-    {
-        if (bDead) return;
-
-        currentMana = Math.Clamp(currentMana + amount, 0, maxMana);
-        UpdateManaBar();
     }
 
     public void Die()
@@ -318,12 +325,47 @@ public class PlayerController : MonoBehaviour, ITakeDamage
                 float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
                 Quaternion rot = Quaternion.Euler(0f, 0f, angle);
                 Grimoire.GetQuick().cast(rot, transform.position);
+                UpdateManaBar();
             }
             else
             {
                 Debug.LogWarning("Not Enough Mana");
             }
             
+        }
+        else
+        {
+            Debug.LogWarning("Grimoire reference null");
+        }
+    }
+
+    private void AttackHeavy()
+    {
+        if (Grimoire != null)
+        {
+            //Debug.LogWarning("Cast attempt");
+            if (Grimoire.GetHeavy() == null)
+            {
+                return;
+            }
+            if (Grimoire.GetHeavy().CanCast(currentMana))
+            {
+                //Debug.LogWarning("I can cast this and have the mana");
+                currentMana -= Grimoire.GetHeavy().manaCost;
+                Vector3 playerpos = Camera.main.WorldToScreenPoint(transform.position);
+                Vector2 playerScreenPos = new Vector2(playerpos.x, playerpos.y);
+                Vector2 dir = lookInput - playerScreenPos;
+                Debug.Log(dir);
+                float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+                Quaternion rot = Quaternion.Euler(0f, 0f, angle);
+                Grimoire.GetHeavy().cast(rot, transform.position);
+                UpdateManaBar();
+            }
+            else
+            {
+                Debug.LogWarning("Not Enough Mana");
+            }
+
         }
         else
         {
@@ -366,7 +408,29 @@ public class PlayerController : MonoBehaviour, ITakeDamage
     {
         if(manaBar != null)
         {
-            manaBar.fillAmount = (float)currentMana / maxMana;
+            manaBar.fillAmount = (float)currentMana/ maxMana;
         }
+    }
+    void iUseItems.GrimoirePickup(GrimoireClassData _grimoire)
+    {
+        Grimoire.SwapGrimoires(_grimoire);
+        
+        //USE THIS TO UPDATE UI!!!
+        GrimoireSprite.sprite = Grimoire.GetGrimoireSprite();
+    }
+
+    void iUseItems.PagePickup()
+    {
+        Grimoire.PageAquired();
+    }
+
+    void iUseItems.HealthPotion(int _heal)
+    {
+        Heal(_heal);
+    }
+
+    void iUseItems.ManaPotion(int _mana)
+    {
+        throw new NotImplementedException();
     }
 }

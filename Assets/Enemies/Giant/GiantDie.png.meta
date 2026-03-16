@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 8c5e84a88f5da4f46a4c8e4c2a13af99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4552103597491104756
+    second: GiantDie_0
+  - first:
+      213: 6674425316426812253
+    second: GiantDie_1
+  - first:
+      213: 61604980065817435
+    second: GiantDie_2
+  - first:
+      213: 8988103814201906770
+    second: GiantDie_3
+  - first:
+      213: -4644959058068068180
+    second: GiantDie_4
+  - first:
+      213: 5243519102652237870
+    second: GiantDie_5
+  - first:
+      213: -4363115198845648486
+    second: GiantDie_6
+  - first:
+      213: 3750035148334250497
+    second: GiantDie_7
+  - first:
+      213: -2762165771304899236
+    second: GiantDie_8
+  - first:
+      213: 358153652779018559
+    second: GiantDie_9
+  - first:
+      213: 521913047172002205
+    second: GiantDie_10
+  - first:
+      213: -6482679457457709039
+    second: GiantDie_11
+  - first:
+      213: 3449518692994141617
+    second: GiantDie_12
+  - first:
+      213: 6669259512951043923
+    second: GiantDie_13
+  - first:
+      213: 1081468296514505776
+    second: GiantDie_14
+  - first:
+      213: -8699296990078306723
+    second: GiantDie_15
+  - first:
+      213: -4984700135121855615
+    second: GiantDie_16
+  - first:
+      213: -8521395692672889521
+    second: GiantDie_17
+  - first:
+      213: -6794176226258769321
+    second: GiantDie_18
+  - first:
+      213: -1267600874084298966
+    second: GiantDie_19
+  - first:
+      213: 103311250327111169
+    second: GiantDie_20
+  - first:
+      213: 6619759656006725937
+    second: GiantDie_21
+  - first:
+      213: -5133990819746582023
+    second: GiantDie_22
+  - first:
+      213: 4868631460064505028
+    second: GiantDie_23
+  - first:
+      213: -1164876572844250980
+    second: GiantDie_24
+  - first:
+      213: -8452158481333937800
+    second: GiantDie_25
+  - first:
+      213: -3984710142276658
+    second: GiantDie_26
+  - first:
+      213: -3263530434998158923
+    second: GiantDie_27
+  - first:
+      213: -5967366982192122958
+    second: GiantDie_28
+  - first:
+      213: -4354828766895235407
+    second: GiantDie_29
+  - first:
+      213: -7665227259499535832
+    second: GiantDie_30
+  - first:
+      213: 2723607093617593399
+    second: GiantDie_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantDie_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2c359a125c2f30800000000000000
+      internalID: 4552103597491104756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8e71767250ac50800000000000000
+      internalID: 6674425316426812253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53d739276ddad000800000000000000
+      internalID: 61604980065817435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25696d94cc82cbc70800000000000000
+      internalID: 8988103814201906770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8ae93c85ac98fb0800000000000000
+      internalID: -4644959058068068180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28cf8ea7d8b4c840800000000000000
+      internalID: 5243519102652237870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9182bae7d91373c0800000000000000
+      internalID: -4363115198845648486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a31bf491dca0430800000000000000
+      internalID: 3750035148334250497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de0a69dd0daa9d0800000000000000
+      internalID: -2762165771304899236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e6e089da68f400800000000000000
+      internalID: 358153652779018559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d913454b6253e3700800000000000000
+      internalID: 521913047172002205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110e2815165e806a0800000000000000
+      internalID: -6482679457457709039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd4cf599f62fdf20800000000000000
+      internalID: 3449518692994141617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35777581138fd8c50800000000000000
+      internalID: 6669259512951043923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c08919fa5220f00800000000000000
+      internalID: 1081468296514505776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f1c67a73e54780800000000000000
+      internalID: -8699296990078306723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b583e13a9c2dab0800000000000000
+      internalID: -4984700135121855615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d40bb04cbedb980800000000000000
+      internalID: -8521395692672889521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a217428bc36b1a0800000000000000
+      internalID: -6794176226258769321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f0b3798b3986ee0800000000000000
+      internalID: -1267600874084298966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 8
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068c09e8090f6100800000000000000
+      internalID: 103311250327111169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313eba855c1edb50800000000000000
+      internalID: 6619759656006725937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 8
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f173ecec8660c8b0800000000000000
+      internalID: -5133990819746582023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_23
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 19
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccaf6f848ad09340800000000000000
+      internalID: 4868631460064505028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_24
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 9
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a174cde685dfe0800000000000000
+      internalID: -1164876572844250980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_25
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87919c684a6e3ba80800000000000000
+      internalID: -8452158481333937800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 11
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbcf6f5de7d1fff0800000000000000
+      internalID: -3984710142276658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_27
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 11
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9324c3c5c95b2d0800000000000000
+      internalID: -3263530434998158923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 10
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33b0e9857af2da0800000000000000
+      internalID: -5967366982192122958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 10
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9e833f4a8093c0800000000000000
+      internalID: -4354828766895235407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_30
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 10
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a3ea6b64af9590800000000000000
+      internalID: -7665227259499535832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantDie_31
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 10
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c8fcaa8323cc520800000000000000
+      internalID: 2723607093617593399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GiantDie_0: 4552103597491104756
+      GiantDie_1: 6674425316426812253
+      GiantDie_10: 521913047172002205
+      GiantDie_11: -6482679457457709039
+      GiantDie_12: 3449518692994141617
+      GiantDie_13: 6669259512951043923
+      GiantDie_14: 1081468296514505776
+      GiantDie_15: -8699296990078306723
+      GiantDie_16: -4984700135121855615
+      GiantDie_17: -8521395692672889521
+      GiantDie_18: -6794176226258769321
+      GiantDie_19: -1267600874084298966
+      GiantDie_2: 61604980065817435
+      GiantDie_20: 103311250327111169
+      GiantDie_21: 6619759656006725937
+      GiantDie_22: -5133990819746582023
+      GiantDie_23: 4868631460064505028
+      GiantDie_24: -1164876572844250980
+      GiantDie_25: -8452158481333937800
+      GiantDie_26: -3984710142276658
+      GiantDie_27: -3263530434998158923
+      GiantDie_28: -5967366982192122958
+      GiantDie_29: -4354828766895235407
+      GiantDie_3: 8988103814201906770
+      GiantDie_30: -7665227259499535832
+      GiantDie_31: 2723607093617593399
+      GiantDie_4: -4644959058068068180
+      GiantDie_5: 5243519102652237870
+      GiantDie_6: -4363115198845648486
+      GiantDie_7: 3750035148334250497
+      GiantDie_8: -2762165771304899236
+      GiantDie_9: 358153652779018559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

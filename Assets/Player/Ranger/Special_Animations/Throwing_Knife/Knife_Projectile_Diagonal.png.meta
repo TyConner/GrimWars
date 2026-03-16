@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f2233f235eab0b940b31cf564cafb66a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9069274087241245239
+    second: Knife_Projectile_Diagonal_0
+  - first:
+      213: 2035760341946722802
+    second: Knife_Projectile_Diagonal_1
+  - first:
+      213: 3453442523119801383
+    second: Knife_Projectile_Diagonal_2
+  - first:
+      213: 7975804532303149501
+    second: Knife_Projectile_Diagonal_3
+  - first:
+      213: 3292409108103615709
+    second: Knife_Projectile_Diagonal_4
+  - first:
+      213: 8030643585261536465
+    second: Knife_Projectile_Diagonal_5
+  - first:
+      213: -3295522779986882658
+    second: Knife_Projectile_Diagonal_6
+  - first:
+      213: 7410171481017526194
+    second: Knife_Projectile_Diagonal_7
+  - first:
+      213: 1387243475069221658
+    second: Knife_Projectile_Diagonal_8
+  - first:
+      213: 8464950792481881686
+    second: Knife_Projectile_Diagonal_9
+  - first:
+      213: -8802214044110112120
+    second: Knife_Projectile_Diagonal_10
+  - first:
+      213: -8940680742899856339
+    second: Knife_Projectile_Diagonal_11
+  - first:
+      213: -105870927542168159
+    second: Knife_Projectile_Diagonal_12
+  - first:
+      213: 8133843046970042206
+    second: Knife_Projectile_Diagonal_13
+  - first:
+      213: -3784093239742786612
+    second: Knife_Projectile_Diagonal_14
+  - first:
+      213: -2796352162540122935
+    second: Knife_Projectile_Diagonal_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7326ba43bb88cdd70800000000000000
+      internalID: 9069274087241245239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9ef8dbe39704c10800000000000000
+      internalID: 2035760341946722802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724d8ca7da71def20800000000000000
+      internalID: 3453442523119801383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 109
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db931e9e6ffbfae60800000000000000
+      internalID: 7975804532303149501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 77
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d6cfc3acf0bd20800000000000000
+      internalID: 3292409108103615709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48849eac3927f60800000000000000
+      internalID: 8030643585261536465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8ca5fd73f342d0800000000000000
+      internalID: -3295522779986882658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 77
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a7c283b736d660800000000000000
+      internalID: 7410171481017526194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bba74379a704310800000000000000
+      internalID: 1387243475069221658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3b0385eb897570800000000000000
+      internalID: 8464950792481881686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88abcd786f048d580800000000000000
+      internalID: -8802214044110112120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c474deb325ce380800000000000000
+      internalID: -8940680742899856339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5decbc3fed78ef0800000000000000
+      internalID: -105870927542168159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e572e61082731e070800000000000000
+      internalID: 8133843046970042206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39c285f333c7bc0800000000000000
+      internalID: -3784093239742786612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Projectile_Diagonal_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc86ec168c5139d0800000000000000
+      internalID: -2796352162540122935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Knife_Projectile_Diagonal_0: 9069274087241245239
+      Knife_Projectile_Diagonal_1: 2035760341946722802
+      Knife_Projectile_Diagonal_10: -8802214044110112120
+      Knife_Projectile_Diagonal_11: -8940680742899856339
+      Knife_Projectile_Diagonal_12: -105870927542168159
+      Knife_Projectile_Diagonal_13: 8133843046970042206
+      Knife_Projectile_Diagonal_14: -3784093239742786612
+      Knife_Projectile_Diagonal_15: -2796352162540122935
+      Knife_Projectile_Diagonal_2: 3453442523119801383
+      Knife_Projectile_Diagonal_3: 7975804532303149501
+      Knife_Projectile_Diagonal_4: 3292409108103615709
+      Knife_Projectile_Diagonal_5: 8030643585261536465
+      Knife_Projectile_Diagonal_6: -3295522779986882658
+      Knife_Projectile_Diagonal_7: 7410171481017526194
+      Knife_Projectile_Diagonal_8: 1387243475069221658
+      Knife_Projectile_Diagonal_9: 8464950792481881686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

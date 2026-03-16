@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: fe50ae2316e0f9e4b99a3473a1cd3c85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4166721803943735789
+    second: MotherSlimeGreenJumpAttack_0
+  - first:
+      213: 6410593021451962680
+    second: MotherSlimeGreenJumpAttack_1
+  - first:
+      213: 2679607430302970268
+    second: MotherSlimeGreenJumpAttack_2
+  - first:
+      213: 6785026724424009417
+    second: MotherSlimeGreenJumpAttack_3
+  - first:
+      213: 4126205783903405484
+    second: MotherSlimeGreenJumpAttack_4
+  - first:
+      213: 8577634012714554408
+    second: MotherSlimeGreenJumpAttack_5
+  - first:
+      213: -6015863451757707453
+    second: MotherSlimeGreenJumpAttack_6
+  - first:
+      213: -6962538933610080249
+    second: MotherSlimeGreenJumpAttack_7
+  - first:
+      213: 1196659476009362872
+    second: MotherSlimeGreenJumpAttack_8
+  - first:
+      213: -9091644185137448593
+    second: MotherSlimeGreenJumpAttack_9
+  - first:
+      213: 2507518233865425462
+    second: MotherSlimeGreenJumpAttack_10
+  - first:
+      213: 870877671385994884
+    second: MotherSlimeGreenJumpAttack_11
+  - first:
+      213: 7989467704653643076
+    second: MotherSlimeGreenJumpAttack_12
+  - first:
+      213: 8129933765283742565
+    second: MotherSlimeGreenJumpAttack_13
+  - first:
+      213: -4994062726676362628
+    second: MotherSlimeGreenJumpAttack_14
+  - first:
+      213: 3680480749900014479
+    second: MotherSlimeGreenJumpAttack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f0f9876b23d930800000000000000
+      internalID: 4166721803943735789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 108
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390e33636007f850800000000000000
+      internalID: 6410593021451962680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b4bcb2c0ef2520800000000000000
+      internalID: 2679607430302970268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c643d47bd1492e50800000000000000
+      internalID: 6785026724424009417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca589b38c4a334930800000000000000
+      internalID: 4126205783903405484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824d82530b0e90770800000000000000
+      internalID: 8577634012714554408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff9b4601c538ca0800000000000000
+      internalID: -6015863451757707453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708185f9ab7106f90800000000000000
+      internalID: -6962538933610080249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a4a804736b9010800000000000000
+      internalID: 1196659476009362872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f2a088cdf3d180800000000000000
+      internalID: -9091644185137448593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6321d5d5c8e7cc220800000000000000
+      internalID: 2507518233865425462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48618c5c0aaf51c00800000000000000
+      internalID: 870877671385994884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44df5502c8a40ee60800000000000000
+      internalID: 7989467704653643076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563013f6fa353d070800000000000000
+      internalID: 8129933765283742565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7acf66e86681bab0800000000000000
+      internalID: -4994062726676362628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MotherSlimeGreenJumpAttack_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f832474fdb1b31330800000000000000
+      internalID: 3680480749900014479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MotherSlimeGreenJumpAttack_0: 4166721803943735789
+      MotherSlimeGreenJumpAttack_1: 6410593021451962680
+      MotherSlimeGreenJumpAttack_10: 2507518233865425462
+      MotherSlimeGreenJumpAttack_11: 870877671385994884
+      MotherSlimeGreenJumpAttack_12: 7989467704653643076
+      MotherSlimeGreenJumpAttack_13: 8129933765283742565
+      MotherSlimeGreenJumpAttack_14: -4994062726676362628
+      MotherSlimeGreenJumpAttack_15: 3680480749900014479
+      MotherSlimeGreenJumpAttack_2: 2679607430302970268
+      MotherSlimeGreenJumpAttack_3: 6785026724424009417
+      MotherSlimeGreenJumpAttack_4: 4126205783903405484
+      MotherSlimeGreenJumpAttack_5: 8577634012714554408
+      MotherSlimeGreenJumpAttack_6: -6015863451757707453
+      MotherSlimeGreenJumpAttack_7: -6962538933610080249
+      MotherSlimeGreenJumpAttack_8: 1196659476009362872
+      MotherSlimeGreenJumpAttack_9: -9091644185137448593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

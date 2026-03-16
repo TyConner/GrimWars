@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b39ac74860ad0d1408d757a41ecbe5db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3378535303506883432
+    second: CentaurKingDie_0
+  - first:
+      213: 6088185556747231409
+    second: CentaurKingDie_1
+  - first:
+      213: -6981829760845984664
+    second: CentaurKingDie_2
+  - first:
+      213: 3075814472456385466
+    second: CentaurKingDie_3
+  - first:
+      213: 6713010067687461294
+    second: CentaurKingDie_4
+  - first:
+      213: 1141038209422400210
+    second: CentaurKingDie_5
+  - first:
+      213: 4351757878129266726
+    second: CentaurKingDie_6
+  - first:
+      213: -7218142923321511021
+    second: CentaurKingDie_7
+  - first:
+      213: -7305344846904304782
+    second: CentaurKingDie_8
+  - first:
+      213: -6406831754172625141
+    second: CentaurKingDie_9
+  - first:
+      213: -9047085189000435988
+    second: CentaurKingDie_10
+  - first:
+      213: 1727327573907402880
+    second: CentaurKingDie_11
+  - first:
+      213: -4400327672797994348
+    second: CentaurKingDie_12
+  - first:
+      213: 6238050545910230729
+    second: CentaurKingDie_13
+  - first:
+      213: -7775625698283807625
+    second: CentaurKingDie_14
+  - first:
+      213: 4968659096696477783
+    second: CentaurKingDie_15
+  - first:
+      213: 2075318132830876587
+    second: CentaurKingDie_16
+  - first:
+      213: -819044307461919759
+    second: CentaurKingDie_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CentaurKingDie_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0b5daa080d11d0800000000000000
+      internalID: -3378535303506883432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0259cd1849d7450800000000000000
+      internalID: 6088185556747231409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c4686e2de8b1f90800000000000000
+      internalID: -6981829760845984664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3b4c167fc7faa20800000000000000
+      internalID: 3075814472456385466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1d12ae617692d50800000000000000
+      internalID: 6713010067687461294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da15cbb438c5df00800000000000000
+      internalID: 1141038209422400210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620176acbbc846c30800000000000000
+      internalID: 4351757878129266726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393fb6d214104db90800000000000000
+      internalID: -7218142923321511021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd98e21933e9a90800000000000000
+      internalID: -7305344846904304782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f09d4e67c5617a0800000000000000
+      internalID: -6406831754172625141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66ee044fb427280800000000000000
+      internalID: -9047085189000435988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080fc75d643b8f710800000000000000
+      internalID: 1727327573907402880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492ed87ab45eee2c0800000000000000
+      internalID: -4400327672797994348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 11
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce29efbbe1029650800000000000000
+      internalID: 6238050545910230729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 11
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c156bdf9d671490800000000000000
+      internalID: -7775625698283807625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 11
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7585b949f1934f440800000000000000
+      internalID: 4968659096696477783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3bf47a8d20dcc10800000000000000
+      internalID: 2075318132830876587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurKingDie_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 11
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2d66ba8b22a4f0800000000000000
+      internalID: -819044307461919759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CentaurKingDie_0: -3378535303506883432
+      CentaurKingDie_1: 6088185556747231409
+      CentaurKingDie_10: -9047085189000435988
+      CentaurKingDie_11: 1727327573907402880
+      CentaurKingDie_12: -4400327672797994348
+      CentaurKingDie_13: 6238050545910230729
+      CentaurKingDie_14: -7775625698283807625
+      CentaurKingDie_15: 4968659096696477783
+      CentaurKingDie_16: 2075318132830876587
+      CentaurKingDie_17: -819044307461919759
+      CentaurKingDie_2: -6981829760845984664
+      CentaurKingDie_3: 3075814472456385466
+      CentaurKingDie_4: 6713010067687461294
+      CentaurKingDie_5: 1141038209422400210
+      CentaurKingDie_6: 4351757878129266726
+      CentaurKingDie_7: -7218142923321511021
+      CentaurKingDie_8: -7305344846904304782
+      CentaurKingDie_9: -6406831754172625141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

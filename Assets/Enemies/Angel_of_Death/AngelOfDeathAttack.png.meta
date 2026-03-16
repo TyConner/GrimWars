@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: b73a35eabdf2d9041ac6a3d15a9db379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -952941488803213094
+    second: AngelOfDeathAttack_0
+  - first:
+      213: -6926777873029626520
+    second: AngelOfDeathAttack_1
+  - first:
+      213: -4176306284572759180
+    second: AngelOfDeathAttack_2
+  - first:
+      213: 4495179350497901302
+    second: AngelOfDeathAttack_3
+  - first:
+      213: 1367606229111223508
+    second: AngelOfDeathAttack_4
+  - first:
+      213: -8117667762949174951
+    second: AngelOfDeathAttack_5
+  - first:
+      213: -1476215264141556293
+    second: AngelOfDeathAttack_6
+  - first:
+      213: 5627021804563497772
+    second: AngelOfDeathAttack_7
+  - first:
+      213: -3343667914435159433
+    second: AngelOfDeathAttack_8
+  - first:
+      213: 9003815812191345475
+    second: AngelOfDeathAttack_9
+  - first:
+      213: -403760474879570805
+    second: AngelOfDeathAttack_10
+  - first:
+      213: 6388719540836019514
+    second: AngelOfDeathAttack_11
+  - first:
+      213: 4932901944212471137
+    second: AngelOfDeathAttack_12
+  - first:
+      213: 3522494644085612442
+    second: AngelOfDeathAttack_13
+  - first:
+      213: -5559741030857108515
+    second: AngelOfDeathAttack_14
+  - first:
+      213: -1489562108643936943
+    second: AngelOfDeathAttack_15
+  - first:
+      213: -5519205438210880311
+    second: AngelOfDeathAttack_16
+  - first:
+      213: 1439037923909765216
+    second: AngelOfDeathAttack_17
+  - first:
+      213: -4294187132643143180
+    second: AngelOfDeathAttack_18
+  - first:
+      213: -6107201209051632574
+    second: AngelOfDeathAttack_19
+  - first:
+      213: 8457685059720108484
+    second: AngelOfDeathAttack_20
+  - first:
+      213: -4818393343075638674
+    second: AngelOfDeathAttack_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0172cc3c876c2f0800000000000000
+      internalID: -952941488803213094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865880069342fdf90800000000000000
+      internalID: -6926777873029626520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b2fcaaf87ca06c0800000000000000
+      internalID: -4176306284572759180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa39148dc5126e30800000000000000
+      internalID: 4495179350497901302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 107
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d439c69e96baf210800000000000000
+      internalID: 1367606229111223508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95946c8cd20485f80800000000000000
+      internalID: -8117667762949174951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb545d0e90e638be0800000000000000
+      internalID: -1476215264141556293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23826c9482371e40800000000000000
+      internalID: 5627021804563497772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a98315fb7e891d0800000000000000
+      internalID: -3343667914435159433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd5b4e6caf3fc70800000000000000
+      internalID: 9003815812191345475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 75
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc570ccfd856af0800000000000000
+      internalID: -403760474879570805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da021d29a49a850800000000000000
+      internalID: 6388719540836019514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d3e90ce20357440800000000000000
+      internalID: 4932901944212471137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f50ff373a62e030800000000000000
+      internalID: 3522494644085612442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3199c3df4d7d2b0800000000000000
+      internalID: -5559741030857108515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155756b7723045be0800000000000000
+      internalID: -1489562108643936943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 44
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc490d55e7d763b0800000000000000
+      internalID: -5519205438210880311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06805f01e5d78f310800000000000000
+      internalID: 1439037923909765216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f190cfed8bf764c0800000000000000
+      internalID: -4294187132643143180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c24a29bdcde3ba0800000000000000
+      internalID: -6107201209051632574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9deb640cbbf5570800000000000000
+      internalID: 8457685059720108484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelOfDeathAttack_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62aedd88c0a12db0800000000000000
+      internalID: -4818393343075638674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AngelOfDeathAttack_0: -952941488803213094
+      AngelOfDeathAttack_1: -6926777873029626520
+      AngelOfDeathAttack_10: -403760474879570805
+      AngelOfDeathAttack_11: 6388719540836019514
+      AngelOfDeathAttack_12: 4932901944212471137
+      AngelOfDeathAttack_13: 3522494644085612442
+      AngelOfDeathAttack_14: -5559741030857108515
+      AngelOfDeathAttack_15: -1489562108643936943
+      AngelOfDeathAttack_16: -5519205438210880311
+      AngelOfDeathAttack_17: 1439037923909765216
+      AngelOfDeathAttack_18: -4294187132643143180
+      AngelOfDeathAttack_19: -6107201209051632574
+      AngelOfDeathAttack_2: -4176306284572759180
+      AngelOfDeathAttack_20: 8457685059720108484
+      AngelOfDeathAttack_21: -4818393343075638674
+      AngelOfDeathAttack_3: 4495179350497901302
+      AngelOfDeathAttack_4: 1367606229111223508
+      AngelOfDeathAttack_5: -8117667762949174951
+      AngelOfDeathAttack_6: -1476215264141556293
+      AngelOfDeathAttack_7: 5627021804563497772
+      AngelOfDeathAttack_8: -3343667914435159433
+      AngelOfDeathAttack_9: 9003815812191345475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

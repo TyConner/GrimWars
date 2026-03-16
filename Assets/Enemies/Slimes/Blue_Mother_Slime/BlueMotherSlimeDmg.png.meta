@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2f5cb43dc7855b84b999eca5aa9eb165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5302714609617679896
+    second: BlueMotherSlimeDmg_0
+  - first:
+      213: -6293433421017121559
+    second: BlueMotherSlimeDmg_1
+  - first:
+      213: -3876931669600899259
+    second: BlueMotherSlimeDmg_2
+  - first:
+      213: -1372812786814031197
+    second: BlueMotherSlimeDmg_3
+  - first:
+      213: -8963148871217360160
+    second: BlueMotherSlimeDmg_4
+  - first:
+      213: 6803649036206941561
+    second: BlueMotherSlimeDmg_5
+  - first:
+      213: -5950574141891095735
+    second: BlueMotherSlimeDmg_6
+  - first:
+      213: -1984791599125591743
+    second: BlueMotherSlimeDmg_7
+  - first:
+      213: -1874380106309670524
+    second: BlueMotherSlimeDmg_8
+  - first:
+      213: 6676940093080253008
+    second: BlueMotherSlimeDmg_9
+  - first:
+      213: -4304512598927162414
+    second: BlueMotherSlimeDmg_10
+  - first:
+      213: -3257723524411294982
+    second: BlueMotherSlimeDmg_11
+  - first:
+      213: -3836890069389311896
+    second: BlueMotherSlimeDmg_12
+  - first:
+      213: 6603523289619004987
+    second: BlueMotherSlimeDmg_13
+  - first:
+      213: -2002612065213883860
+    second: BlueMotherSlimeDmg_14
+  - first:
+      213: -953220072850089313
+    second: BlueMotherSlimeDmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816398ba7d6079940800000000000000
+      internalID: 5302714609617679896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf3bac5ab39a8a0800000000000000
+      internalID: -6293433421017121559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 108
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe9f6ff2f523ac0800000000000000
+      internalID: -3876931669600899259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae5da3b0ac2fce0800000000000000
+      internalID: -1372812786814031197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25526279f7c9380800000000000000
+      internalID: -8963148871217360160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9752b8b40ca6b6e50800000000000000
+      internalID: 6803649036206941561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d4fe68505b6da0800000000000000
+      internalID: -5950574141891095735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14980f47e8a9474e0800000000000000
+      internalID: -1984791599125591743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4896a55693ddcf5e0800000000000000
+      internalID: -1874380106309670524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052bc9283a149ac50800000000000000
+      internalID: 6676940093080253008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c0c9f89c4344c0800000000000000
+      internalID: -4304512598927162414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaf707f6bd3ac2d0800000000000000
+      internalID: -3257723524411294982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86083d38fc0a0cac0800000000000000
+      internalID: -3836890069389311896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e72c7e17d64ab50800000000000000
+      internalID: 6603523289619004987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ad30edfea4534e0800000000000000
+      internalID: -2002612065213883860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeDmg_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9ff4e46b75c2f0800000000000000
+      internalID: -953220072850089313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueMotherSlimeDmg_0: 5302714609617679896
+      BlueMotherSlimeDmg_1: -6293433421017121559
+      BlueMotherSlimeDmg_10: -4304512598927162414
+      BlueMotherSlimeDmg_11: -3257723524411294982
+      BlueMotherSlimeDmg_12: -3836890069389311896
+      BlueMotherSlimeDmg_13: 6603523289619004987
+      BlueMotherSlimeDmg_14: -2002612065213883860
+      BlueMotherSlimeDmg_15: -953220072850089313
+      BlueMotherSlimeDmg_2: -3876931669600899259
+      BlueMotherSlimeDmg_3: -1372812786814031197
+      BlueMotherSlimeDmg_4: -8963148871217360160
+      BlueMotherSlimeDmg_5: 6803649036206941561
+      BlueMotherSlimeDmg_6: -5950574141891095735
+      BlueMotherSlimeDmg_7: -1984791599125591743
+      BlueMotherSlimeDmg_8: -1874380106309670524
+      BlueMotherSlimeDmg_9: 6676940093080253008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

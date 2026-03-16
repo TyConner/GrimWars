@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: f1b0ecfab7d4e954ab6e58f605701e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4878868307503001731
+    second: Figther_Taunt_0
+  - first:
+      213: -4699934108982099205
+    second: Figther_Taunt_1
+  - first:
+      213: 6108628834616202487
+    second: Figther_Taunt_2
+  - first:
+      213: 3585776469256904943
+    second: Figther_Taunt_3
+  - first:
+      213: 9149062136107179986
+    second: Figther_Taunt_4
+  - first:
+      213: -5232253064090513296
+    second: Figther_Taunt_5
+  - first:
+      213: -470846608715300391
+    second: Figther_Taunt_6
+  - first:
+      213: 765625997785995530
+    second: Figther_Taunt_7
+  - first:
+      213: 6511779031260891274
+    second: Figther_Taunt_8
+  - first:
+      213: -2930805393655885249
+    second: Figther_Taunt_9
+  - first:
+      213: -5503492596613841686
+    second: Figther_Taunt_10
+  - first:
+      213: -346537971066088901
+    second: Figther_Taunt_11
+  - first:
+      213: -7006460842964628189
+    second: Figther_Taunt_12
+  - first:
+      213: 944719781968179289
+    second: Figther_Taunt_13
+  - first:
+      213: -5253641735901806679
+    second: Figther_Taunt_14
+  - first:
+      213: 8442568711134117102
+    second: Figther_Taunt_15
+  - first:
+      213: -1099015077821956529
+    second: Figther_Taunt_16
+  - first:
+      213: -2276550622960859095
+    second: Figther_Taunt_17
+  - first:
+      213: -7161222790226646561
+    second: Figther_Taunt_18
+  - first:
+      213: 4252019765377589340
+    second: Figther_Taunt_19
+  - first:
+      213: 384301201144601807
+    second: Figther_Taunt_20
+  - first:
+      213: 5930980915790897440
+    second: Figther_Taunt_21
+  - first:
+      213: 701927510918588454
+    second: Figther_Taunt_22
+  - first:
+      213: -8214560305744011364
+    second: Figther_Taunt_23
+  - first:
+      213: 671575398825020028
+    second: Figther_Taunt_24
+  - first:
+      213: 8348265470257790520
+    second: Figther_Taunt_25
+  - first:
+      213: 5635832681607220002
+    second: Figther_Taunt_26
+  - first:
+      213: 6388753018915372017
+    second: Figther_Taunt_27
+  - first:
+      213: -6240063794044926831
+    second: Figther_Taunt_28
+  - first:
+      213: 7611062603532037176
+    second: Figther_Taunt_29
+  - first:
+      213: 4035070897132460190
+    second: Figther_Taunt_30
+  - first:
+      213: -8727779539525907842
+    second: Figther_Taunt_31
+  - first:
+      213: -514629770789216187
+    second: Figther_Taunt_32
+  - first:
+      213: 3079289232421936604
+    second: Figther_Taunt_33
+  - first:
+      213: 4157595647411159978
+    second: Figther_Taunt_34
+  - first:
+      213: 8707508613126734707
+    second: Figther_Taunt_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther_Taunt_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f4f59af17ca4cb0800000000000000
+      internalID: -4878868307503001731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2416644da76ceb0800000000000000
+      internalID: -4699934108982099205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d1086f8536c450800000000000000
+      internalID: 6108628834616202487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0230653bc33c130800000000000000
+      internalID: 3585776469256904943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df15aaf98ff7fe70800000000000000
+      internalID: 9149062136107179986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709fe35f8d4367b0800000000000000
+      internalID: -5232253064090513296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c3d701873779f0800000000000000
+      internalID: -470846608715300391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0996dcd9cc00aa00800000000000000
+      internalID: 765625997785995530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88842e278c7e5a50800000000000000
+      internalID: 6511779031260891274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329755c500b357d0800000000000000
+      internalID: -2930805393655885249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 74
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf6d264aaaf93b0800000000000000
+      internalID: -5503492596613841686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32db652d89d03bf0800000000000000
+      internalID: -346537971066088901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc8623cfc04ce90800000000000000
+      internalID: -7006460842964628189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507f78e2a15c1d00800000000000000
+      internalID: 944719781968179289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff76a1da05717b0800000000000000
+      internalID: -5253641735901806679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 74
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf9fa13870a2570800000000000000
+      internalID: 8442568711134117102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 76
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ebf9b0c938fb0f0800000000000000
+      internalID: -1099015077821956529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928493525411860e0800000000000000
+      internalID: -2276550622960859095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9eb1760d93e9c90800000000000000
+      internalID: -7161222790226646561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50654dc275320b30800000000000000
+      internalID: 4252019765377589340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccdaf408ef455500800000000000000
+      internalID: 384301201144601807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021665f18b31f4250800000000000000
+      internalID: 5930980915790897440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628606a2a5fbdb900800000000000000
+      internalID: 701927510918588454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9a1eace4000e80800000000000000
+      internalID: -8214560305744011364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4bde544ae15900800000000000000
+      internalID: 671575398825020028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eff55d63ffad370800000000000000
+      internalID: 8348265470257790520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4cb8c6ff763e40800000000000000
+      internalID: 5635832681607220002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb72a850969a850800000000000000
+      internalID: 6388753018915372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940d246a07d669a0800000000000000
+      internalID: -6240063794044926831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c69cedc1def9960800000000000000
+      internalID: 7611062603532037176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d81b2a937ff730800000000000000
+      internalID: 4035070897132460190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac2a420c2b0e680800000000000000
+      internalID: -8727779539525907842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540a44933faabd8f0800000000000000
+      internalID: -514629770789216187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd13bfd35dbba20800000000000000
+      internalID: 3079289232421936604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 12
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa307a3a63fb2b930800000000000000
+      internalID: 4157595647411159978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther_Taunt_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373c21403f847d870800000000000000
+      internalID: 8707508613126734707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figther_Taunt_0: -4878868307503001731
+      Figther_Taunt_1: -4699934108982099205
+      Figther_Taunt_10: -5503492596613841686
+      Figther_Taunt_11: -346537971066088901
+      Figther_Taunt_12: -7006460842964628189
+      Figther_Taunt_13: 944719781968179289
+      Figther_Taunt_14: -5253641735901806679
+      Figther_Taunt_15: 8442568711134117102
+      Figther_Taunt_16: -1099015077821956529
+      Figther_Taunt_17: -2276550622960859095
+      Figther_Taunt_18: -7161222790226646561
+      Figther_Taunt_19: 4252019765377589340
+      Figther_Taunt_2: 6108628834616202487
+      Figther_Taunt_20: 384301201144601807
+      Figther_Taunt_21: 5930980915790897440
+      Figther_Taunt_22: 701927510918588454
+      Figther_Taunt_23: -8214560305744011364
+      Figther_Taunt_24: 671575398825020028
+      Figther_Taunt_25: 8348265470257790520
+      Figther_Taunt_26: 5635832681607220002
+      Figther_Taunt_27: 6388753018915372017
+      Figther_Taunt_28: -6240063794044926831
+      Figther_Taunt_29: 7611062603532037176
+      Figther_Taunt_3: 3585776469256904943
+      Figther_Taunt_30: 4035070897132460190
+      Figther_Taunt_31: -8727779539525907842
+      Figther_Taunt_32: -514629770789216187
+      Figther_Taunt_33: 3079289232421936604
+      Figther_Taunt_34: 4157595647411159978
+      Figther_Taunt_35: 8707508613126734707
+      Figther_Taunt_4: 9149062136107179986
+      Figther_Taunt_5: -5232253064090513296
+      Figther_Taunt_6: -470846608715300391
+      Figther_Taunt_7: 765625997785995530
+      Figther_Taunt_8: 6511779031260891274
+      Figther_Taunt_9: -2930805393655885249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

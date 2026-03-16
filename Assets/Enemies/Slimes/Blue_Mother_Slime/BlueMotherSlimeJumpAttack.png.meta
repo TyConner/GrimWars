@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 291fff1d25185ea46a7f7a405201fa53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5884189185682215663
+    second: BlueMotherSlimeJumpAttack_0
+  - first:
+      213: -7692138752638666804
+    second: BlueMotherSlimeJumpAttack_1
+  - first:
+      213: -1629179186443754334
+    second: BlueMotherSlimeJumpAttack_2
+  - first:
+      213: 8066628424375518435
+    second: BlueMotherSlimeJumpAttack_3
+  - first:
+      213: -2284966220074101839
+    second: BlueMotherSlimeJumpAttack_4
+  - first:
+      213: 3073150818538447172
+    second: BlueMotherSlimeJumpAttack_5
+  - first:
+      213: 2085743008539296384
+    second: BlueMotherSlimeJumpAttack_6
+  - first:
+      213: 7431468704464882320
+    second: BlueMotherSlimeJumpAttack_7
+  - first:
+      213: 6228897159026938782
+    second: BlueMotherSlimeJumpAttack_8
+  - first:
+      213: 2293304447677914291
+    second: BlueMotherSlimeJumpAttack_9
+  - first:
+      213: 5332386570556291811
+    second: BlueMotherSlimeJumpAttack_10
+  - first:
+      213: -3947944491188954706
+    second: BlueMotherSlimeJumpAttack_11
+  - first:
+      213: -5465128207582152134
+    second: BlueMotherSlimeJumpAttack_12
+  - first:
+      213: -4798622065360870024
+    second: BlueMotherSlimeJumpAttack_13
+  - first:
+      213: 7497645482637881034
+    second: BlueMotherSlimeJumpAttack_14
+  - first:
+      213: 6638319778564948281
+    second: BlueMotherSlimeJumpAttack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d67348c19275ea0800000000000000
+      internalID: -5884189185682215663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b4f52f88004590800000000000000
+      internalID: -7692138752638666804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46f84692ef369e0800000000000000
+      internalID: -1629179186443754334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c8f920db62ff60800000000000000
+      internalID: 8066628424375518435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b357b0445b2a40e0800000000000000
+      internalID: -2284966220074101839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416f20236606aa20800000000000000
+      internalID: 3073150818538447172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824dbc273c02fc10800000000000000
+      internalID: 2085743008539296384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 76
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09acf01c961e12760800000000000000
+      internalID: 7431468704464882320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939d3ac6fc717650800000000000000
+      internalID: 6228897159026938782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc5aa5ae3473df10800000000000000
+      internalID: 2293304447677914291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea321f6551700a40800000000000000
+      internalID: 5332386570556291811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9d8b107651639c0800000000000000
+      internalID: -3947944491188954706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3917c9d6f724b0800000000000000
+      internalID: -5465128207582152134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87560ded7aed76db0800000000000000
+      internalID: -4798622065360870024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace617c97dcfc0860800000000000000
+      internalID: 7497645482637881034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMotherSlimeJumpAttack_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 12
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93140d2daac002c50800000000000000
+      internalID: 6638319778564948281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueMotherSlimeJumpAttack_0: -5884189185682215663
+      BlueMotherSlimeJumpAttack_1: -7692138752638666804
+      BlueMotherSlimeJumpAttack_10: 5332386570556291811
+      BlueMotherSlimeJumpAttack_11: -3947944491188954706
+      BlueMotherSlimeJumpAttack_12: -5465128207582152134
+      BlueMotherSlimeJumpAttack_13: -4798622065360870024
+      BlueMotherSlimeJumpAttack_14: 7497645482637881034
+      BlueMotherSlimeJumpAttack_15: 6638319778564948281
+      BlueMotherSlimeJumpAttack_2: -1629179186443754334
+      BlueMotherSlimeJumpAttack_3: 8066628424375518435
+      BlueMotherSlimeJumpAttack_4: -2284966220074101839
+      BlueMotherSlimeJumpAttack_5: 3073150818538447172
+      BlueMotherSlimeJumpAttack_6: 2085743008539296384
+      BlueMotherSlimeJumpAttack_7: 7431468704464882320
+      BlueMotherSlimeJumpAttack_8: 6228897159026938782
+      BlueMotherSlimeJumpAttack_9: 2293304447677914291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
