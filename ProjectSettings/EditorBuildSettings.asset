@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 96bc0bd5e1abc48498e2ed730b98fb6a
+  - enabled: 1
     path: Assets/Scenes/Grimoire Selection.unity
     guid: ac9815bdc4f3ab9458829808c01cf11c
   - enabled: 1
