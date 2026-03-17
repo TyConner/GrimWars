@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Device;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
@@ -28,7 +29,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     Vector2 velSmoothRef;
 
     [Header("Stats")]
-    [SerializeField] int maxHP = 100;
+    [SerializeField] int maxHP = 3;
     int currentHP;
     [SerializeField] int maxMana = 100;
     int currentMana;
@@ -49,7 +50,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [SerializeField] Image healthBar;
     [SerializeField] Image manaBar;
     [SerializeField] Image GrimoireSprite;
+    [SerializeField] ButtonFunctions Screen;
 
+    [Header("Audio")]
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip healing;
+    [SerializeField] AudioClip damageTaken;
+    [SerializeField] AudioClip pickupClip;
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -280,6 +287,11 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
             StopCoroutine(flashRoutine);
         }
 
+        if (audioSource != null && damageTaken != null)
+        {
+            audioSource.PlayOneShot(damageTaken);
+        }
+
         flashRoutine = StartCoroutine(DamageFlash());
         UpdateHealthBar();
     }
@@ -290,6 +302,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 
         currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
         UpdateHealthBar();
+
+        if (audioSource != null && healing != null)
+        {
+            audioSource.PlayOneShot(healing);
+        }
+
+        StartCoroutine(HealFlash());
     }
 
     public void RestoreMana(int amount)
@@ -298,6 +317,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
 
         currentMana = Math.Clamp(currentMana + amount, 0, maxMana);
         UpdateManaBar();
+
+        if (audioSource != null && healing != null)
+        {
+            audioSource.PlayOneShot(healing);
+        }
+
+        StartCoroutine(HealFlash());
     }
 
     public void Die()
@@ -309,6 +335,14 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         anim.SetBool("bIsMoving", false);
         anim.SetBool("bIsFireball", false);
         anim.SetBool("bIsDead", true);
+
+        if (Screen != null)
+            StartCoroutine(WaitForDeathAnimation(4.0f));
+    }
+    private IEnumerator WaitForDeathAnimation(float delay)
+    {
+        yield return new WaitForSeconds(delay); 
+        Screen.GameOver();
     }
 
     public void Attack()
@@ -438,5 +472,13 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     void iUseItems.ManaPotion(int _mana)
     {
         throw new NotImplementedException();
+    }
+
+    public void PlayPickupSound()
+    {
+        if (audioSource != null && pickupClip != null)
+        {
+            audioSource.PlayOneShot(pickupClip);
+        }
     }
 }
