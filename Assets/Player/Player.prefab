@@ -1485,7 +1485,6 @@ GameObject:
   - component: {fileID: 7065769245737664389}
   - component: {fileID: 5016908843338267605}
   - component: {fileID: -1076165738380439592}
-  - component: {fileID: 4046282455847471079}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -1590,7 +1589,7 @@ MonoBehaviour:
   moveSpeed: 4
   acceleration: 60
   deceleration: 80
-  maxHP: 100
+  maxHP: 5
   maxMana: 100
   Grimoire: {fileID: 7065769245737664389}
   damageFlashTime: 0.08
@@ -1832,34 +1831,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &4046282455847471079
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3027872983339938515}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c981f3b0a684b0240b5ca9e90fe1c7e9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Inventory
-  cursorOffset: {x: 0, y: 60, z: 0}
-  potionText: {fileID: 0}
-  hiPotionText: {fileID: 0}
-  etherText: {fileID: 0}
-  hiEtherText: {fileID: 0}
-  elixirText: {fileID: 0}
-  cursor: {fileID: 0}
-  itemSlots:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  nextItem: {fileID: 7476244043514120974, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  previousItem: {fileID: 2411907206095950430, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  useItem: {fileID: 7401905580220624861, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!1 &3202462182888477275
 GameObject:
   m_ObjectHideFlags: 0
