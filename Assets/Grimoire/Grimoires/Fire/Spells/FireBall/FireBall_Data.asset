@@ -13,12 +13,20 @@ MonoBehaviour:
   m_Name: FireBall_Data
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 8208468500846820942, guid: 6a73148ce6d55984083d2b730ba59ffb, type: 3}
-  manaCost: 2
-  level: 0
+  manaCost: 4
+  MINmanaCost: 1
+  Maxlevel: 5
   buffTimeMultiplier: 1
+  MAXbuffTimeMultiplier: 1
   damageMultiplier: 1
+  MAXdamageMultiplier: 2.2
   speedMultiplier: 1
+  MAXspeedMultiplier: 1.8
   lifetimeMultiplier: 1
+  MAXlifetimeMultiplier: 2
   AOEMultiplier: 1
+  MAXAOEMultiplier: 1.75
   DOTRateMultiplier: 1
+  MINDOTRateMultiplier: 1
   CoolDown: 1
+  MinCoolDown: 0.4
