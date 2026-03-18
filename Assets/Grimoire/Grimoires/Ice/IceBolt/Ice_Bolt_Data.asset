@@ -10,15 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 93bbc4f9dd7ad304ab637e4e192c1bce, type: 3}
-  m_Name: IceBolt_Data
+  m_Name: Ice_Bolt_Data
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 1657529885188028449, guid: 5dd48d49473f10a4dbbd7b6b6dbd7bb9, type: 3}
-  manaCost: 2
-  level: 0
+  manaCost: 4
+  MINmanaCost: 1
+  Maxlevel: 5
   buffTimeMultiplier: 1
+  MAXbuffTimeMultiplier: 1
   damageMultiplier: 1
+  MAXdamageMultiplier: 2.2
   speedMultiplier: 1
+  MAXspeedMultiplier: 1.8
   lifetimeMultiplier: 1
+  MAXlifetimeMultiplier: 2
   AOEMultiplier: 1
+  MAXAOEMultiplier: 1.75
   DOTRateMultiplier: 1
+  MINDOTRateMultiplier: 1
   CoolDown: 1
+  MinCoolDown: 0.4

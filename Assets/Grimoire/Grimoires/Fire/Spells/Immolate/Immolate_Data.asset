@@ -14,11 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
   SpellPrefab: {fileID: 3060594969012403398, guid: cb0ec3d9b90a69a4c8a965b39c8122f0, type: 3}
   manaCost: 10
-  level: 0
+  MINmanaCost: 3
+  Maxlevel: 5
   buffTimeMultiplier: 1
+  MAXbuffTimeMultiplier: 1
   damageMultiplier: 1
+  MAXdamageMultiplier: 2.2
   speedMultiplier: 1
+  MAXspeedMultiplier: 1
   lifetimeMultiplier: 1
+  MAXlifetimeMultiplier: 2
   AOEMultiplier: 1
+  MAXAOEMultiplier: 1.5
   DOTRateMultiplier: 1
+  MINDOTRateMultiplier: 0.5
   CoolDown: 1
+  MinCoolDown: 0.6
