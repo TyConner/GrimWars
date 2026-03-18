@@ -11,6 +11,7 @@ public class Ability : MonoBehaviour
     public int manaCost = 0;
 
     int level = 0;
+    int Maxlevel = 0;
 
     float bufftimeMultiplier = 1f;
 
@@ -30,11 +31,29 @@ public class Ability : MonoBehaviour
 
     int spellLayer;
     int spellTargetLayer;
+    public void levelUP()
+    {
+        AbilityUpgrade(upgrade.levelUP, 1f);
+        ScaleSpellonLVL();
+    }
+
+    float Scale(float a, float b)
+    {
+        float x = (float)level / Maxlevel;
+        return Mathf.Lerp(a, b, x);
+    }
     void ScaleSpellonLVL()
     {
-        //when we level up rescale our values
+        damageMultiplier = Scale(spelldetails.damageMultiplier, spelldetails.MAXdamageMultiplier);
+        speedMultiplier = Scale(spelldetails.speedMultiplier, spelldetails.MAXspeedMultiplier); 
+        lifetimeMultiplier = Scale(spelldetails.lifetimeMultiplier, spelldetails.MAXlifetimeMultiplier);
+        AOEMultiplier  = Scale(spelldetails.AOEMultiplier, spelldetails.MAXAOEMultiplier);
+        DOTRateMultiplier = Scale(spelldetails.MINDOTRateMultiplier, spelldetails.DOTRateMultiplier);
+        bufftimeMultiplier = Scale(spelldetails.buffTimeMultiplier, spelldetails.MAXbuffTimeMultiplier);
+        CoolDown = Scale(spelldetails.MinCoolDown, spelldetails.CoolDown);
+        manaCost = (int)Scale((float)spelldetails.MINmanaCost, (float)spelldetails.manaCost);
 
-        //suggested growth rates
+
 
     }
     void loadValues()
@@ -43,13 +62,13 @@ public class Ability : MonoBehaviour
         {
             SpellPrefab = spelldetails.SpellPrefab;
             manaCost = spelldetails.manaCost;
-            level = spelldetails.level;
+            Maxlevel = spelldetails.Maxlevel;
             damageMultiplier = spelldetails.damageMultiplier;
             speedMultiplier = spelldetails.speedMultiplier;
             bufftimeMultiplier = spelldetails.buffTimeMultiplier;
             lifetimeMultiplier = spelldetails.lifetimeMultiplier;
             AOEMultiplier = spelldetails.AOEMultiplier;
-            DOTRateMultiplier += spelldetails.DOTRateMultiplier;
+            DOTRateMultiplier = spelldetails.DOTRateMultiplier;
             CoolDown = spelldetails.CoolDown;
         }
        
@@ -75,7 +94,7 @@ public class Ability : MonoBehaviour
     }
     public enum upgrade { damageUP = 0, speedUP = 1, lifetimeUP = 2 , AOEUP = 3, bufftimeUP =4 , DOTRateUP = 5, levelUP = 6, manaUP = 7};
 
-    public void AbilityUpgrade (upgrade stat, float amount)
+    private void AbilityUpgrade (upgrade stat, float amount)
     {
         switch (stat)
         {

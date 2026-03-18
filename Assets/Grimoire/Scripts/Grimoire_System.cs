@@ -23,11 +23,14 @@ public class grimoireSystem : MonoBehaviour
     public void PageAquired()
     {
         Pages = (int)Mathf.Clamp(Pages + 1,0, grimoire.MaxPages);
+        LevelUP();
     }
 
     public void LevelUP()
     {
         Level = (int)Mathf.Clamp(Level + 1, 0, grimoire.MaxLevel);
+        QuickSpell.levelUP();
+        HeavySpell.levelUP();
     }
 
     public void SwapGrimoires(GrimoireClassData newGrimoire)
@@ -35,6 +38,11 @@ public class grimoireSystem : MonoBehaviour
         grimoire = newGrimoire;
         LoadQuickSpell();
         LoadHeavySpell();
+        for (int i = 0; i < Level; i++)
+        {
+            QuickSpell.levelUP();
+            HeavySpell.levelUP();
+        }
 
     }
     void getSpellLayer()
