@@ -276,7 +276,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -328,12 +328,12 @@ TextureImporter:
       name: Wizard_Idle_Special_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 108
-        width: 13
-        height: 9
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,12 +350,12 @@ TextureImporter:
       name: Wizard_Idle_Special_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 108
-        width: 13
-        height: 10
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,12 +372,12 @@ TextureImporter:
       name: Wizard_Idle_Special_2
       rect:
         serializedVersion: 2
-        x: 74
-        y: 108
-        width: 13
-        height: 10
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -394,12 +394,12 @@ TextureImporter:
       name: Wizard_Idle_Special_3
       rect:
         serializedVersion: 2
-        x: 106
-        y: 108
-        width: 13
-        height: 9
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: Wizard_Idle_Special_4
       rect:
         serializedVersion: 2
-        x: 138
-        y: 108
-        width: 13
-        height: 9
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -438,12 +438,12 @@ TextureImporter:
       name: Wizard_Idle_Special_5
       rect:
         serializedVersion: 2
-        x: 170
-        y: 108
-        width: 13
-        height: 11
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -460,12 +460,12 @@ TextureImporter:
       name: Wizard_Idle_Special_6
       rect:
         serializedVersion: 2
-        x: 202
-        y: 108
-        width: 13
-        height: 14
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -482,12 +482,12 @@ TextureImporter:
       name: Wizard_Idle_Special_7
       rect:
         serializedVersion: 2
-        x: 234
-        y: 108
-        width: 13
-        height: 9
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,12 +504,12 @@ TextureImporter:
       name: Wizard_Idle_Special_8
       rect:
         serializedVersion: 2
-        x: 242
-        y: 117
-        width: 6
-        height: 7
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,12 +526,12 @@ TextureImporter:
       name: Wizard_Idle_Special_9
       rect:
         serializedVersion: 2
-        x: 266
-        y: 108
-        width: 13
-        height: 17
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: Wizard_Idle_Special_10
       rect:
         serializedVersion: 2
-        x: 298
-        y: 108
-        width: 13
-        height: 19
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -570,12 +570,12 @@ TextureImporter:
       name: Wizard_Idle_Special_11
       rect:
         serializedVersion: 2
-        x: 330
-        y: 108
-        width: 13
-        height: 20
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -592,12 +592,12 @@ TextureImporter:
       name: Wizard_Idle_Special_12
       rect:
         serializedVersion: 2
-        x: 362
-        y: 108
-        width: 13
-        height: 9
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -614,12 +614,12 @@ TextureImporter:
       name: Wizard_Idle_Special_13
       rect:
         serializedVersion: 2
-        x: 394
-        y: 108
-        width: 13
-        height: 9
+        x: 416
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -636,12 +636,12 @@ TextureImporter:
       name: Wizard_Idle_Special_14
       rect:
         serializedVersion: 2
-        x: 426
-        y: 108
-        width: 13
-        height: 9
+        x: 448
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -658,12 +658,12 @@ TextureImporter:
       name: Wizard_Idle_Special_15
       rect:
         serializedVersion: 2
-        x: 458
-        y: 108
-        width: 13
-        height: 9
+        x: 480
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,12 +680,12 @@ TextureImporter:
       name: Wizard_Idle_Special_16
       rect:
         serializedVersion: 2
-        x: 490
-        y: 108
-        width: 13
-        height: 9
+        x: 512
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -702,12 +702,12 @@ TextureImporter:
       name: Wizard_Idle_Special_17
       rect:
         serializedVersion: 2
-        x: 522
-        y: 108
-        width: 13
-        height: 9
+        x: 544
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -724,12 +724,12 @@ TextureImporter:
       name: Wizard_Idle_Special_18
       rect:
         serializedVersion: 2
-        x: 554
-        y: 108
-        width: 13
-        height: 9
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -746,12 +746,12 @@ TextureImporter:
       name: Wizard_Idle_Special_19
       rect:
         serializedVersion: 2
-        x: 9
-        y: 76
-        width: 13
-        height: 9
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -768,12 +768,12 @@ TextureImporter:
       name: Wizard_Idle_Special_20
       rect:
         serializedVersion: 2
-        x: 41
-        y: 76
-        width: 13
-        height: 10
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -790,12 +790,12 @@ TextureImporter:
       name: Wizard_Idle_Special_21
       rect:
         serializedVersion: 2
-        x: 73
-        y: 76
-        width: 13
-        height: 10
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -812,12 +812,12 @@ TextureImporter:
       name: Wizard_Idle_Special_22
       rect:
         serializedVersion: 2
-        x: 105
-        y: 76
-        width: 13
-        height: 9
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -834,12 +834,12 @@ TextureImporter:
       name: Wizard_Idle_Special_23
       rect:
         serializedVersion: 2
-        x: 137
-        y: 76
-        width: 13
-        height: 9
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -856,12 +856,12 @@ TextureImporter:
       name: Wizard_Idle_Special_24
       rect:
         serializedVersion: 2
-        x: 169
-        y: 76
-        width: 13
-        height: 11
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -878,12 +878,12 @@ TextureImporter:
       name: Wizard_Idle_Special_25
       rect:
         serializedVersion: 2
-        x: 201
-        y: 76
-        width: 13
-        height: 14
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -900,12 +900,12 @@ TextureImporter:
       name: Wizard_Idle_Special_26
       rect:
         serializedVersion: 2
-        x: 232
-        y: 85
-        width: 6
-        height: 7
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -922,12 +922,12 @@ TextureImporter:
       name: Wizard_Idle_Special_27
       rect:
         serializedVersion: 2
-        x: 233
-        y: 76
-        width: 13
-        height: 9
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -944,12 +944,12 @@ TextureImporter:
       name: Wizard_Idle_Special_28
       rect:
         serializedVersion: 2
-        x: 265
-        y: 76
-        width: 13
-        height: 17
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -966,12 +966,12 @@ TextureImporter:
       name: Wizard_Idle_Special_29
       rect:
         serializedVersion: 2
-        x: 297
-        y: 76
-        width: 13
-        height: 19
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -988,12 +988,12 @@ TextureImporter:
       name: Wizard_Idle_Special_30
       rect:
         serializedVersion: 2
-        x: 329
-        y: 76
-        width: 13
-        height: 10
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1010,12 +1010,12 @@ TextureImporter:
       name: Wizard_Idle_Special_31
       rect:
         serializedVersion: 2
-        x: 361
-        y: 76
-        width: 13
-        height: 9
+        x: 416
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1032,12 +1032,12 @@ TextureImporter:
       name: Wizard_Idle_Special_32
       rect:
         serializedVersion: 2
-        x: 393
-        y: 76
-        width: 13
-        height: 9
+        x: 448
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1054,12 +1054,12 @@ TextureImporter:
       name: Wizard_Idle_Special_33
       rect:
         serializedVersion: 2
-        x: 425
-        y: 76
-        width: 13
-        height: 9
+        x: 480
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1076,12 +1076,12 @@ TextureImporter:
       name: Wizard_Idle_Special_34
       rect:
         serializedVersion: 2
-        x: 457
-        y: 76
-        width: 13
-        height: 9
+        x: 512
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1098,12 +1098,12 @@ TextureImporter:
       name: Wizard_Idle_Special_35
       rect:
         serializedVersion: 2
-        x: 489
-        y: 76
-        width: 13
-        height: 9
+        x: 544
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1120,12 +1120,12 @@ TextureImporter:
       name: Wizard_Idle_Special_36
       rect:
         serializedVersion: 2
-        x: 521
-        y: 76
-        width: 13
-        height: 9
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1142,12 +1142,12 @@ TextureImporter:
       name: Wizard_Idle_Special_37
       rect:
         serializedVersion: 2
-        x: 553
-        y: 76
-        width: 13
-        height: 9
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1164,12 +1164,12 @@ TextureImporter:
       name: Wizard_Idle_Special_38
       rect:
         serializedVersion: 2
-        x: 10
-        y: 44
-        width: 13
-        height: 9
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1186,12 +1186,12 @@ TextureImporter:
       name: Wizard_Idle_Special_39
       rect:
         serializedVersion: 2
-        x: 42
-        y: 44
-        width: 13
-        height: 10
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1208,12 +1208,12 @@ TextureImporter:
       name: Wizard_Idle_Special_40
       rect:
         serializedVersion: 2
-        x: 74
-        y: 44
-        width: 13
-        height: 10
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1230,12 +1230,12 @@ TextureImporter:
       name: Wizard_Idle_Special_41
       rect:
         serializedVersion: 2
-        x: 106
-        y: 44
-        width: 13
-        height: 9
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1252,12 +1252,12 @@ TextureImporter:
       name: Wizard_Idle_Special_42
       rect:
         serializedVersion: 2
-        x: 138
-        y: 44
-        width: 13
-        height: 9
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1274,12 +1274,12 @@ TextureImporter:
       name: Wizard_Idle_Special_43
       rect:
         serializedVersion: 2
-        x: 170
-        y: 44
-        width: 13
-        height: 11
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1296,12 +1296,12 @@ TextureImporter:
       name: Wizard_Idle_Special_44
       rect:
         serializedVersion: 2
-        x: 202
-        y: 44
-        width: 13
-        height: 14
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1318,12 +1318,12 @@ TextureImporter:
       name: Wizard_Idle_Special_45
       rect:
         serializedVersion: 2
-        x: 234
-        y: 44
-        width: 13
-        height: 9
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1340,12 +1340,12 @@ TextureImporter:
       name: Wizard_Idle_Special_46
       rect:
         serializedVersion: 2
-        x: 242
-        y: 53
-        width: 6
-        height: 7
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1362,12 +1362,12 @@ TextureImporter:
       name: Wizard_Idle_Special_47
       rect:
         serializedVersion: 2
-        x: 266
-        y: 44
-        width: 13
-        height: 17
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1384,12 +1384,12 @@ TextureImporter:
       name: Wizard_Idle_Special_48
       rect:
         serializedVersion: 2
-        x: 298
-        y: 44
-        width: 13
-        height: 19
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1406,12 +1406,12 @@ TextureImporter:
       name: Wizard_Idle_Special_49
       rect:
         serializedVersion: 2
-        x: 330
-        y: 44
-        width: 13
-        height: 10
+        x: 416
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1428,12 +1428,12 @@ TextureImporter:
       name: Wizard_Idle_Special_50
       rect:
         serializedVersion: 2
-        x: 362
-        y: 44
-        width: 13
-        height: 9
+        x: 448
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1450,12 +1450,12 @@ TextureImporter:
       name: Wizard_Idle_Special_51
       rect:
         serializedVersion: 2
-        x: 394
-        y: 44
-        width: 13
-        height: 9
+        x: 480
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1472,12 +1472,12 @@ TextureImporter:
       name: Wizard_Idle_Special_52
       rect:
         serializedVersion: 2
-        x: 426
-        y: 44
-        width: 13
-        height: 9
+        x: 512
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1494,12 +1494,12 @@ TextureImporter:
       name: Wizard_Idle_Special_53
       rect:
         serializedVersion: 2
-        x: 458
-        y: 44
-        width: 13
-        height: 9
+        x: 544
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1516,12 +1516,12 @@ TextureImporter:
       name: Wizard_Idle_Special_54
       rect:
         serializedVersion: 2
-        x: 490
-        y: 44
-        width: 13
-        height: 9
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1538,12 +1538,12 @@ TextureImporter:
       name: Wizard_Idle_Special_55
       rect:
         serializedVersion: 2
-        x: 522
-        y: 44
-        width: 13
-        height: 9
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1560,12 +1560,12 @@ TextureImporter:
       name: Wizard_Idle_Special_56
       rect:
         serializedVersion: 2
-        x: 554
-        y: 44
-        width: 13
-        height: 9
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1582,12 +1582,12 @@ TextureImporter:
       name: Wizard_Idle_Special_57
       rect:
         serializedVersion: 2
-        x: 9
-        y: 12
-        width: 13
-        height: 9
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1604,12 +1604,12 @@ TextureImporter:
       name: Wizard_Idle_Special_58
       rect:
         serializedVersion: 2
-        x: 41
-        y: 12
-        width: 13
-        height: 10
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1626,12 +1626,12 @@ TextureImporter:
       name: Wizard_Idle_Special_59
       rect:
         serializedVersion: 2
-        x: 73
-        y: 12
-        width: 13
-        height: 10
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1648,12 +1648,12 @@ TextureImporter:
       name: Wizard_Idle_Special_60
       rect:
         serializedVersion: 2
-        x: 105
-        y: 12
-        width: 13
-        height: 9
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1670,12 +1670,12 @@ TextureImporter:
       name: Wizard_Idle_Special_61
       rect:
         serializedVersion: 2
-        x: 137
-        y: 12
-        width: 13
-        height: 9
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1692,12 +1692,12 @@ TextureImporter:
       name: Wizard_Idle_Special_62
       rect:
         serializedVersion: 2
-        x: 169
-        y: 12
-        width: 13
-        height: 11
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1714,12 +1714,12 @@ TextureImporter:
       name: Wizard_Idle_Special_63
       rect:
         serializedVersion: 2
-        x: 201
-        y: 12
-        width: 13
-        height: 14
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1736,12 +1736,12 @@ TextureImporter:
       name: Wizard_Idle_Special_64
       rect:
         serializedVersion: 2
-        x: 232
-        y: 21
-        width: 6
-        height: 7
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1758,12 +1758,12 @@ TextureImporter:
       name: Wizard_Idle_Special_65
       rect:
         serializedVersion: 2
-        x: 233
-        y: 12
-        width: 13
-        height: 9
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1780,12 +1780,12 @@ TextureImporter:
       name: Wizard_Idle_Special_66
       rect:
         serializedVersion: 2
-        x: 265
-        y: 12
-        width: 13
-        height: 17
+        x: 384
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1802,12 +1802,12 @@ TextureImporter:
       name: Wizard_Idle_Special_67
       rect:
         serializedVersion: 2
-        x: 297
-        y: 12
-        width: 13
-        height: 19
+        x: 416
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1824,12 +1824,12 @@ TextureImporter:
       name: Wizard_Idle_Special_68
       rect:
         serializedVersion: 2
-        x: 329
-        y: 12
-        width: 13
-        height: 10
+        x: 448
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1846,12 +1846,12 @@ TextureImporter:
       name: Wizard_Idle_Special_69
       rect:
         serializedVersion: 2
-        x: 361
-        y: 12
-        width: 13
-        height: 9
+        x: 480
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1868,12 +1868,12 @@ TextureImporter:
       name: Wizard_Idle_Special_70
       rect:
         serializedVersion: 2
-        x: 393
-        y: 12
-        width: 13
-        height: 9
+        x: 512
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1890,12 +1890,12 @@ TextureImporter:
       name: Wizard_Idle_Special_71
       rect:
         serializedVersion: 2
-        x: 425
-        y: 12
-        width: 13
-        height: 9
+        x: 544
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1908,99 +1908,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_72
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2ed2518484d9bc40800000000000000
-      internalID: 5528683683144457770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_73
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71bbe32a5fee59740800000000000000
-      internalID: 5158291686979189527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_74
-      rect:
-        serializedVersion: 2
-        x: 521
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b0b805059e841000800000000000000
-      internalID: 5786270219940017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_75
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9ebaf903813f0480800000000000000
-      internalID: -8930865097174499685
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d8dd4291c29019840b684d219ddbb7bd
     internalID: 0
     vertices: []
     indices: 
@@ -2008,7 +1920,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Wizard_Idle_Special_0: -6802936167326294342
       Wizard_Idle_Special_1: -5936299140040444537
@@ -2080,10 +1994,6 @@ TextureImporter:
       Wizard_Idle_Special_7: 8393146659747097959
       Wizard_Idle_Special_70: -5524580280062320019
       Wizard_Idle_Special_71: -1430288917112279211
-      Wizard_Idle_Special_72: 5528683683144457770
-      Wizard_Idle_Special_73: 5158291686979189527
-      Wizard_Idle_Special_74: 5786270219940017
-      Wizard_Idle_Special_75: -8930865097174499685
       Wizard_Idle_Special_8: 4822188644801218740
       Wizard_Idle_Special_9: 8423494164248729494
   mipmapLimitGroupName: 
