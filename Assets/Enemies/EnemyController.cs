@@ -5,6 +5,8 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 {
     [SerializeField] int maxHP = 1;
     public int currentHP;
+    public Action OnDeath;
+
     public void Heal(int amount)
     {
         currentHP = Math.Clamp(currentHP+amount, 0, maxHP);
@@ -21,6 +23,7 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     public void Death()
     {
+        OnDeath?.Invoke();
         Destroy(gameObject);
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created

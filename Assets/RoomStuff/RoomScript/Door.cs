@@ -4,6 +4,9 @@ public class Door : MonoBehaviour
 {
     [HideInInspector] public Room currentRoom;
     [HideInInspector] public RoomManager roomManager;
+    
+    [SerializeField] GameObject TimedRoomIndicator;
+
     public Vector2Int doorDirection;
 
     private void Start()
@@ -15,8 +18,16 @@ public class Door : MonoBehaviour
 
         if (roomManager == null)
         {
-            roomManager = FindObjectOfType<RoomManager>();
+            roomManager = FindFirstObjectByType<RoomManager>();
         }
+
+        Room targetRoom = roomManager.GetRoomScriptAt(currentRoom.RoomIndex + doorDirection);
+
+        if (targetRoom != null && targetRoom.isTimedRoom)
+        {
+            TimedRoomIndicator.SetActive(true);
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -33,6 +44,16 @@ public class Door : MonoBehaviour
         if (targetRoom != null)
         {
             Camera.main.transform.position = new Vector3(targetRoom.transform.position.x, targetRoom.transform.position.y, Camera.main.transform.position.z);
+        }
+
+        if (currentRoom.isTimedRoom && !currentRoom.challengeCompleted)
+        {
+            return;
+        }
+
+        if (targetRoom.isTimedRoom)
+        {
+            targetRoom.StartChallenge();
         }
     }
 }

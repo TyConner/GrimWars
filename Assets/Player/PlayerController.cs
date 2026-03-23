@@ -57,6 +57,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [SerializeField] AudioClip healing;
     [SerializeField] AudioClip damageTaken;
     [SerializeField] AudioClip pickupClip;
+    [SerializeField] private AudioClip challengeRoomMusic;
+    [SerializeField] private AudioClip dungeonMusic;
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -479,6 +481,31 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         if (audioSource != null && pickupClip != null)
         {
             audioSource.PlayOneShot(pickupClip);
+        }
+    }
+
+    public void PlayChallengeRoomMusic()
+    {
+        if (audioSource != null && challengeRoomMusic != null)
+        {
+            audioSource.clip = challengeRoomMusic;
+            audioSource.loop = true;
+            audioSource.Play();
+        }
+    }
+
+    public void StopChallengeRoomMusic()
+    {
+        if (audioSource != null)
+        {
+            audioSource.Stop();
+
+            if (dungeonMusic != null)
+            {
+                audioSource.clip = dungeonMusic;
+                audioSource.loop = true;
+                audioSource.Play();
+            }
         }
     }
 }

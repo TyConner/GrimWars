@@ -99,6 +99,13 @@ public class RoomManager : MonoBehaviour
 
         OpenDoors(newRoom, x, y);
 
+        Room roomScript = newRoom.GetComponent<Room>();
+
+        if (Random.value < 0.2f && roomCount > 2)
+        {
+            roomScript.isTimedRoom = true;
+        }
+
         return true;
     }
 
