@@ -59,10 +59,7 @@ public class Room : MonoBehaviour
 
         TimedRoomUI.Instance.Show();
 
-        if (player != null)
-        {
-            player.PlayChallengeRoomMusic();
-        }
+        MusicManager.Instance.PlayMusic(MusicManager.Instance.timedRoomMusic);
     }
 
     private void Awake()
@@ -120,10 +117,7 @@ public class Room : MonoBehaviour
             Instantiate(rewardPrefab, transform.position, Quaternion.identity);
         }
 
-        if (player != null)
-        {
-            player.StopChallengeRoomMusic();
-        }
+        MusicManager.Instance.PopMusic();
     }
 
     void LockDoors(bool locked)

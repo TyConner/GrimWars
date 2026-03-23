@@ -11,6 +11,7 @@ public class ButtonFunctions : MonoBehaviour
     [SerializeField] GameObject pauseMenuUI;
     [SerializeField] GameObject gameOverUI;
     [SerializeField] private GameObject tutorialScreen;
+    [SerializeField] private PlayerController player;
 
     bool isPaused = false;
     bool isGameOver = false;
@@ -46,6 +47,9 @@ public class ButtonFunctions : MonoBehaviour
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;
+        MusicManager.Instance.ResumeMusic();
+        if (player != null)
+            player.PlayResumeSFX();
     }
 
     public void Pause()
@@ -53,6 +57,9 @@ public class ButtonFunctions : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
+        MusicManager.Instance.PauseMusic();
+        if (player != null)
+            player.PlayPauseSFX();
     }
 
     public void GameOver()
@@ -60,6 +67,7 @@ public class ButtonFunctions : MonoBehaviour
         gameOverUI.SetActive(true);
         Time.timeScale = 0f;
         isGameOver = true;
+        MusicManager.Instance.PlayMusic(MusicManager.Instance.loseMusic);
     }
 
 
@@ -72,18 +80,20 @@ public class ButtonFunctions : MonoBehaviour
     public void StartGame()
     {
         Time.timeScale = 1f; 
-        SceneManager.LoadScene("SampleScene"); 
+        SceneManager.LoadScene("SampleScene");
     }
 
     public void ShowTutorial()
     {
         tutorialScreen.SetActive(true);
         Time.timeScale = 0f;
+        MusicManager.Instance.PlayMusic(MusicManager.Instance.tutorialMusic);
     }
 
     public void HideTutorial()
     {
         tutorialScreen.SetActive(false);
+        MusicManager.Instance.StopMusic();
     }
 
     public void Quit()
