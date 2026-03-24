@@ -1,5 +1,6 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-
 public class Room : MonoBehaviour
 {
     [SerializeField] GameObject topDoor;
@@ -7,7 +8,11 @@ public class Room : MonoBehaviour
     [SerializeField] GameObject leftDoor;
     [SerializeField] GameObject rightDoor;
 
+    private PlayerController player;
+
     public Vector2Int RoomIndex { get; set; }
+
+    private List<GameObject> spawnedEnemies = new List<GameObject>();
 
     public void OpenDoors(Vector2Int direction)
     {
@@ -30,6 +35,4 @@ public class Room : MonoBehaviour
             leftDoor.SetActive(true);
         }
     }
-
-
 }

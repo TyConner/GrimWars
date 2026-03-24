@@ -5,6 +5,7 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 {
     [SerializeField] int maxHP = 1;
     public int currentHP;
+
     public void Heal(int amount)
     {
         currentHP = Math.Clamp(currentHP+amount, 0, maxHP);

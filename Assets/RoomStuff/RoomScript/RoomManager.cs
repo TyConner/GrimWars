@@ -112,6 +112,8 @@ public class RoomManager : MonoBehaviour
 
         OpenDoors(newRoom, x, y);
 
+        Room roomScript = newRoom.GetComponent<Room>();
+
         return true;
     }
 

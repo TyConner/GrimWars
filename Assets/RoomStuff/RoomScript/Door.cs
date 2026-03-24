@@ -4,6 +4,7 @@ public class Door : MonoBehaviour
 {
     [HideInInspector] public Room currentRoom;
     [HideInInspector] public RoomManager roomManager;
+
     public Vector2Int doorDirection;
 
     private void Start()
@@ -15,8 +16,11 @@ public class Door : MonoBehaviour
 
         if (roomManager == null)
         {
-            roomManager = FindObjectOfType<RoomManager>();
+            roomManager = FindFirstObjectByType<RoomManager>();
         }
+
+        Room targetRoom = roomManager.GetRoomScriptAt(currentRoom.RoomIndex + doorDirection);
+
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -34,5 +38,6 @@ public class Door : MonoBehaviour
         {
             Camera.main.transform.position = new Vector3(targetRoom.transform.position.x, targetRoom.transform.position.y, Camera.main.transform.position.z);
         }
+
     }
 }
