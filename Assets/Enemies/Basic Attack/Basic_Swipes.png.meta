@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c1cd81d002c96094896863d954b7ff9a
+guid: 364cb4a889d383347a795b204fb6ed17
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -122,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack_Only_Effect_0
+      name: Swipe_L_1
       rect:
         serializedVersion: 2
         x: 128
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_4
+      name: Swipe_L_0
       rect:
         serializedVersion: 2
         x: 128
@@ -166,7 +166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_2
+      name: Swipe_R_1
       rect:
         serializedVersion: 2
         x: 128
@@ -188,7 +188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_6
+      name: Swipe_R_0
       rect:
         serializedVersion: 2
         x: 128
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_7
+      name: Swipe_R_2
       rect:
         serializedVersion: 2
         x: 160
@@ -232,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_5
+      name: Swipe_L_2
       rect:
         serializedVersion: 2
         x: 160
@@ -254,7 +254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_3
+      name: Swipe_R_3
       rect:
         serializedVersion: 2
         x: 160
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_Only_Effect_1
+      name: Swipe_L_3
       rect:
         serializedVersion: 2
         x: 160
@@ -315,15 +315,16 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":160.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Attack_Only_Effect_0: 13398314965582695
-      Attack_Only_Effect_1: -855814312
-      Attack_Only_Effect_2: 1241937301819468226
-      Attack_Only_Effect_3: -1410296889
-      Attack_Only_Effect_4: -209281167395031844
-      Attack_Only_Effect_5: 357981311
-      Attack_Only_Effect_6: -1798633599
-      Attack_Only_Effect_7: 596950150
+      Attack_Only_Effect_3: 6343308012583570519
       Attack_Only_Effect_9: -1113382918
+      Swipe_L_0: -209281167395031844
+      Swipe_L_1: 13398314965582695
+      Swipe_L_2: 357981311
+      Swipe_L_3: -855814312
+      Swipe_R_0: -1798633599
+      Swipe_R_1: 1241937301819468226
+      Swipe_R_2: 596950150
+      Swipe_R_3: -1410296889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
