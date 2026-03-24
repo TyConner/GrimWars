@@ -1,7 +1,6 @@
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
+using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class Inventory : MonoBehaviour
@@ -53,7 +52,15 @@ public class Inventory : MonoBehaviour
             inventory[item] = 0;
         }
         UpdateCursor();
-        UpdateInventoryUI();
+        InitItemsText();
+    }
+    void InitItemsText()
+    {
+        potionText.text = "0";
+        hiPotionText.text = "0";
+        etherText.text = "0";
+        hiEtherText.text = "0";
+        elixirText.text = "0";
     }
 
     // Update is called once per frame
