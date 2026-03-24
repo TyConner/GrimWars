@@ -1,235 +1,133 @@
 fileFormatVersion: 2
-guid: 68bdc48852fd0374683355a7aa154c13
+guid: 0e0934e17934a7e4eba22c09be993b85
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6802936167326294342
-    second: Wizard_Idle_Special_0
+      213: -6653566230648393093
+    second: Minifantasy_GuiIcons_0
   - first:
-      213: -5936299140040444537
-    second: Wizard_Idle_Special_1
+      213: -6127004993338504681
+    second: Minifantasy_GuiIcons_1
   - first:
-      213: 6363423369091623765
-    second: Wizard_Idle_Special_2
+      213: -3170862492722684555
+    second: Minifantasy_GuiIcons_2
   - first:
-      213: 7774247488403888903
-    second: Wizard_Idle_Special_3
+      213: 736045897804969402
+    second: Minifantasy_GuiIcons_3
   - first:
-      213: -9205265219401481555
-    second: Wizard_Idle_Special_4
+      213: 2820465038806899520
+    second: Minifantasy_GuiIcons_4
   - first:
-      213: -4451904145700850698
-    second: Wizard_Idle_Special_5
+      213: -4962620171716188753
+    second: Minifantasy_GuiIcons_5
   - first:
-      213: 3717138015599642317
-    second: Wizard_Idle_Special_6
+      213: 9002649185400518867
+    second: Minifantasy_GuiIcons_6
   - first:
-      213: 8393146659747097959
-    second: Wizard_Idle_Special_7
+      213: 9179539717740091878
+    second: Minifantasy_GuiIcons_7
   - first:
-      213: 4822188644801218740
-    second: Wizard_Idle_Special_8
+      213: 1755206034969059475
+    second: Minifantasy_GuiIcons_8
   - first:
-      213: 8423494164248729494
-    second: Wizard_Idle_Special_9
+      213: -93476541135247488
+    second: Minifantasy_GuiIcons_9
   - first:
-      213: 5650203627939987679
-    second: Wizard_Idle_Special_10
+      213: 6281899245235094697
+    second: Minifantasy_GuiIcons_10
   - first:
-      213: -3530120800020821939
-    second: Wizard_Idle_Special_11
+      213: 641218809772502558
+    second: Minifantasy_GuiIcons_11
   - first:
-      213: 821941832131112192
-    second: Wizard_Idle_Special_12
+      213: -3072522989128426697
+    second: Minifantasy_GuiIcons_12
   - first:
-      213: 1350898713017777191
-    second: Wizard_Idle_Special_13
+      213: 2468583198426277761
+    second: Minifantasy_GuiIcons_13
   - first:
-      213: -7750856881962950829
-    second: Wizard_Idle_Special_14
+      213: 3155143482733083688
+    second: Minifantasy_GuiIcons_14
   - first:
-      213: -6232195540882673931
-    second: Wizard_Idle_Special_15
+      213: 3804395621267604264
+    second: Minifantasy_GuiIcons_15
   - first:
-      213: 5014019389921229640
-    second: Wizard_Idle_Special_16
+      213: -4656633597752375982
+    second: Minifantasy_GuiIcons_16
   - first:
-      213: -3250600939172067087
-    second: Wizard_Idle_Special_17
+      213: -3078085440120702889
+    second: Minifantasy_GuiIcons_17
   - first:
-      213: -7311641821867510841
-    second: Wizard_Idle_Special_18
+      213: -5922007223787167671
+    second: Minifantasy_GuiIcons_18
   - first:
-      213: 162016009406109866
-    second: Wizard_Idle_Special_19
+      213: -5426084903880390604
+    second: Minifantasy_GuiIcons_19
   - first:
-      213: -645106333343103098
-    second: Wizard_Idle_Special_20
+      213: 3271250336021712569
+    second: Minifantasy_GuiIcons_20
   - first:
-      213: -8114896276769652303
-    second: Wizard_Idle_Special_21
+      213: -6023675913605741150
+    second: Minifantasy_GuiIcons_21
   - first:
-      213: 7189919139615725426
-    second: Wizard_Idle_Special_22
+      213: -7924472646117520984
+    second: Minifantasy_GuiIcons_22
   - first:
-      213: 2197152947522113246
-    second: Wizard_Idle_Special_23
+      213: 2043590541696547473
+    second: Minifantasy_GuiIcons_23
   - first:
-      213: 3718128512386660767
-    second: Wizard_Idle_Special_24
+      213: 6300575179160526308
+    second: Minifantasy_GuiIcons_24
   - first:
-      213: -3149227243071890780
-    second: Wizard_Idle_Special_25
+      213: 8747834109828757906
+    second: Minifantasy_GuiIcons_25
   - first:
-      213: -6328366989257356725
-    second: Wizard_Idle_Special_26
+      213: -8270369080936893206
+    second: Minifantasy_GuiIcons_26
   - first:
-      213: -4351134774269872024
-    second: Wizard_Idle_Special_27
+      213: -9124605956303114437
+    second: Minifantasy_GuiIcons_27
   - first:
-      213: 6398072005122800458
-    second: Wizard_Idle_Special_28
+      213: 8693732260962584558
+    second: Minifantasy_GuiIcons_28
   - first:
-      213: 8044536427836883095
-    second: Wizard_Idle_Special_29
+      213: -3569710221289502196
+    second: Minifantasy_GuiIcons_29
   - first:
-      213: -6059413772014538244
-    second: Wizard_Idle_Special_30
+      213: -1745548149226604189
+    second: Minifantasy_GuiIcons_30
   - first:
-      213: -8118074266303580375
-    second: Wizard_Idle_Special_31
+      213: 185315266645945705
+    second: Minifantasy_GuiIcons_31
   - first:
-      213: -7017100070728660373
-    second: Wizard_Idle_Special_32
+      213: 2157394332103048861
+    second: Minifantasy_GuiIcons_32
   - first:
-      213: 6117722085364018632
-    second: Wizard_Idle_Special_33
+      213: -8323632590165924942
+    second: Minifantasy_GuiIcons_33
   - first:
-      213: 368107506619679230
-    second: Wizard_Idle_Special_34
+      213: -3188620692751501178
+    second: Minifantasy_GuiIcons_34
   - first:
-      213: 2195771732343107829
-    second: Wizard_Idle_Special_35
+      213: 2883003641785664008
+    second: Minifantasy_GuiIcons_35
   - first:
-      213: 9063464311047348654
-    second: Wizard_Idle_Special_36
+      213: -769320338680706661
+    second: Minifantasy_GuiIcons_36
   - first:
-      213: 4966948562281338706
-    second: Wizard_Idle_Special_37
+      213: -7325809026662745606
+    second: Minifantasy_GuiIcons_37
   - first:
-      213: 3571700788728382577
-    second: Wizard_Idle_Special_38
+      213: -7348709857896123731
+    second: Minifantasy_GuiIcons_38
   - first:
-      213: -2647464534323849770
-    second: Wizard_Idle_Special_39
+      213: -8595811926605492336
+    second: Minifantasy_GuiIcons_39
   - first:
-      213: -1374731456704683640
-    second: Wizard_Idle_Special_40
+      213: 8777032897203136952
+    second: Minifantasy_GuiIcons_40
   - first:
-      213: 7162319014671145592
-    second: Wizard_Idle_Special_41
-  - first:
-      213: 1940449896101993865
-    second: Wizard_Idle_Special_42
-  - first:
-      213: -6898119859998330716
-    second: Wizard_Idle_Special_43
-  - first:
-      213: -5944011598515047791
-    second: Wizard_Idle_Special_44
-  - first:
-      213: -6231453124467250404
-    second: Wizard_Idle_Special_45
-  - first:
-      213: -3009473507838573696
-    second: Wizard_Idle_Special_46
-  - first:
-      213: -1024904470311707409
-    second: Wizard_Idle_Special_47
-  - first:
-      213: 6268311584336085345
-    second: Wizard_Idle_Special_48
-  - first:
-      213: -628110953092752527
-    second: Wizard_Idle_Special_49
-  - first:
-      213: -2675137073219505464
-    second: Wizard_Idle_Special_50
-  - first:
-      213: -2599865094951395513
-    second: Wizard_Idle_Special_51
-  - first:
-      213: 3318147449626653003
-    second: Wizard_Idle_Special_52
-  - first:
-      213: 3862451763545799018
-    second: Wizard_Idle_Special_53
-  - first:
-      213: -3535745581060852419
-    second: Wizard_Idle_Special_54
-  - first:
-      213: 4291408257494472559
-    second: Wizard_Idle_Special_55
-  - first:
-      213: -2962798563685855120
-    second: Wizard_Idle_Special_56
-  - first:
-      213: -5887606039796903921
-    second: Wizard_Idle_Special_57
-  - first:
-      213: -4220779608096399775
-    second: Wizard_Idle_Special_58
-  - first:
-      213: 3082222425655569245
-    second: Wizard_Idle_Special_59
-  - first:
-      213: -3467396651965421403
-    second: Wizard_Idle_Special_60
-  - first:
-      213: -2890793899426270947
-    second: Wizard_Idle_Special_61
-  - first:
-      213: 42707136540735651
-    second: Wizard_Idle_Special_62
-  - first:
-      213: -1777603217694019519
-    second: Wizard_Idle_Special_63
-  - first:
-      213: -5664830033287721532
-    second: Wizard_Idle_Special_64
-  - first:
-      213: -3878893327843466508
-    second: Wizard_Idle_Special_65
-  - first:
-      213: -3611172324040495440
-    second: Wizard_Idle_Special_66
-  - first:
-      213: -6990913745082529658
-    second: Wizard_Idle_Special_67
-  - first:
-      213: 6859914383363386354
-    second: Wizard_Idle_Special_68
-  - first:
-      213: 3460769110191606598
-    second: Wizard_Idle_Special_69
-  - first:
-      213: -5524580280062320019
-    second: Wizard_Idle_Special_70
-  - first:
-      213: -1430288917112279211
-    second: Wizard_Idle_Special_71
-  - first:
-      213: 5528683683144457770
-    second: Wizard_Idle_Special_72
-  - first:
-      213: 5158291686979189527
-    second: Wizard_Idle_Special_73
-  - first:
-      213: 5786270219940017
-    second: Wizard_Idle_Special_74
-  - first:
-      213: -8930865097174499685
-    second: Wizard_Idle_Special_75
+      213: 1932273658437715451
+    second: Minifantasy_GuiIcons_41
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -276,7 +174,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -325,13 +223,145 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wizard_Idle_Special_0
+      name: Minifantasy_GuiIcons_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72faace3c8c9a3a0800000000000000
+      internalID: -6653566230648393093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a830bbb6188faa0800000000000000
+      internalID: -6127004993338504681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d97a1ec55def3d0800000000000000
+      internalID: -3170862492722684555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57c0528d5f63a00800000000000000
+      internalID: 736045897804969402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b5e73620e442720800000000000000
+      internalID: 2820465038806899520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52ba53f3b312bb0800000000000000
+      internalID: -4962620171716188753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_6
+      rect:
+        serializedVersion: 2
+        x: 8
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: abedbdc699d1791a0800000000000000
-      internalID: -6802936167326294342
+      spriteID: 3d8f14d6cb5dfec70800000000000000
+      internalID: 9002649185400518867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_1
+      name: Minifantasy_GuiIcons_7
       rect:
         serializedVersion: 2
-        x: 32
+        x: 24
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 785be6d42670e9da0800000000000000
-      internalID: -5936299140040444537
+      spriteID: 6e9dc7decb6446f70800000000000000
+      internalID: 9179539717740091878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_2
+      name: Minifantasy_GuiIcons_8
       rect:
         serializedVersion: 2
-        x: 64
+        x: 40
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +414,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55b202ed6db6f4850800000000000000
-      internalID: 6363423369091623765
+      spriteID: 390e3fdd69ebb5810800000000000000
+      internalID: 1755206034969059475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_3
+      name: Minifantasy_GuiIcons_9
       rect:
         serializedVersion: 2
-        x: 96
+        x: 56
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,20 +436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70b5946a6eca3eb60800000000000000
-      internalID: 7774247488403888903
+      spriteID: 0872dc2c497e3bef0800000000000000
+      internalID: -93476541135247488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_4
+      name: Minifantasy_GuiIcons_10
       rect:
         serializedVersion: 2
-        x: 128
+        x: 72
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,20 +458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da20156fd04504080800000000000000
-      internalID: -9205265219401481555
+      spriteID: 9a44803a41acd2750800000000000000
+      internalID: 6281899245235094697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_5
+      name: Minifantasy_GuiIcons_11
       rect:
         serializedVersion: 2
-        x: 160
+        x: 88
         y: 96
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,20 +480,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f3796544c8a732c0800000000000000
-      internalID: -4451904145700850698
+      spriteID: e1ee9c33c1116e800800000000000000
+      internalID: 641218809772502558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_6
+      name: Minifantasy_GuiIcons_12
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 32
-        height: 32
+        x: 8
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,20 +502,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc6cae8b45de59330800000000000000
-      internalID: 3717138015599642317
+      spriteID: 73b57ccce943c55d0800000000000000
+      internalID: -3072522989128426697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_7
+      name: Minifantasy_GuiIcons_13
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
+        x: 24
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,20 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76d6bf11b627a7470800000000000000
-      internalID: 8393146659747097959
+      spriteID: 18722b0075b224220800000000000000
+      internalID: 2468583198426277761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_8
+      name: Minifantasy_GuiIcons_14
       rect:
         serializedVersion: 2
-        x: 256
-        y: 96
-        width: 32
-        height: 32
+        x: 40
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,20 +546,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b88c4df50bdbe240800000000000000
-      internalID: 4822188644801218740
+      spriteID: 82cb1b7e74259cb20800000000000000
+      internalID: 3155143482733083688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_9
+      name: Minifantasy_GuiIcons_15
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
-        width: 32
-        height: 32
+        x: 56
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +568,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6971f93105346e470800000000000000
-      internalID: 8423494164248729494
+      spriteID: 82305b639adebc430800000000000000
+      internalID: 3804395621267604264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_10
+      name: Minifantasy_GuiIcons_16
       rect:
         serializedVersion: 2
-        x: 320
-        y: 96
-        width: 32
-        height: 32
+        x: 72
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,20 +590,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd08cf7734e896e40800000000000000
-      internalID: 5650203627939987679
+      spriteID: 25502dc2a60506fb0800000000000000
+      internalID: -4656633597752375982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_11
+      name: Minifantasy_GuiIcons_17
       rect:
         serializedVersion: 2
-        x: 352
-        y: 96
-        width: 32
-        height: 32
+        x: 88
+        y: 88
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,20 +612,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d488a84f5dd720fc0800000000000000
-      internalID: -3530120800020821939
+      spriteID: 758bd41c9917845d0800000000000000
+      internalID: -3078085440120702889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_12
+      name: Minifantasy_GuiIcons_18
       rect:
         serializedVersion: 2
-        x: 384
-        y: 96
-        width: 32
-        height: 32
+        x: 8
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,20 +634,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00d6532ddbf186b00800000000000000
-      internalID: 821941832131112192
+      spriteID: 9406edc5ecdc0dda0800000000000000
+      internalID: -5922007223787167671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_13
+      name: Minifantasy_GuiIcons_19
       rect:
         serializedVersion: 2
-        x: 416
-        y: 96
-        width: 32
-        height: 32
+        x: 24
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,20 +656,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72cf4fcd83b5fb210800000000000000
-      internalID: 1350898713017777191
+      spriteID: 438891f478ca2b4b0800000000000000
+      internalID: -5426084903880390604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_14
+      name: Minifantasy_GuiIcons_20
       rect:
         serializedVersion: 2
-        x: 448
-        y: 96
-        width: 32
-        height: 32
+        x: 40
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,20 +678,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35fd4bd4bbc6f6490800000000000000
-      internalID: -7750856881962950829
+      spriteID: 9be83f949d0d56d20800000000000000
+      internalID: 3271250336021712569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_15
+      name: Minifantasy_GuiIcons_21
       rect:
         serializedVersion: 2
-        x: 480
-        y: 96
-        width: 32
-        height: 32
+        x: 56
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,20 +700,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5fe2ae6dc2bc289a0800000000000000
-      internalID: -6232195540882673931
+      spriteID: 2a5047fdbaa976ca0800000000000000
+      internalID: -6023675913605741150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_16
+      name: Minifantasy_GuiIcons_22
       rect:
         serializedVersion: 2
-        x: 512
-        y: 96
-        width: 32
-        height: 32
+        x: 72
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,20 +722,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84bfc29d110659540800000000000000
-      internalID: 5014019389921229640
+      spriteID: 8a98ddf2d1e960290800000000000000
+      internalID: -7924472646117520984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_17
+      name: Minifantasy_GuiIcons_23
       rect:
         serializedVersion: 2
-        x: 544
-        y: 96
-        width: 32
-        height: 32
+        x: 88
+        y: 80
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,20 +744,152 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f809121bab83e2d0800000000000000
-      internalID: -3250600939172067087
+      spriteID: 19abb2035ca4c5c10800000000000000
+      internalID: 2043590541696547473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_18
+      name: Minifantasy_GuiIcons_24
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed918a5eb3207750800000000000000
+      internalID: 6300575179160526308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299736e56cc866970800000000000000
+      internalID: 8747834109828757906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f161a32fb93d80800000000000000
+      internalID: -8270369080936893206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fa32b1a33ee5180800000000000000
+      internalID: -9124605956303114437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee747031e6756a870800000000000000
+      internalID: 8693732260962584558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a45f48777d57ec0800000000000000
+      internalID: -3569710221289502196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_30
+      rect:
+        serializedVersion: 2
+        x: 8
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,20 +898,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c372b27084d78a90800000000000000
-      internalID: -7311641821867510841
+      spriteID: 369f103e43196c7e0800000000000000
+      internalID: -1745548149226604189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_19
+      name: Minifantasy_GuiIcons_31
       rect:
         serializedVersion: 2
-        x: 32
+        x: 24
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,20 +920,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa8d390c3b89f3200800000000000000
-      internalID: 162016009406109866
+      spriteID: 96d63efc04f529200800000000000000
+      internalID: 185315266645945705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_20
+      name: Minifantasy_GuiIcons_32
       rect:
         serializedVersion: 2
-        x: 64
+        x: 40
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,20 +942,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 687cabe253f1c07f0800000000000000
-      internalID: -645106333343103098
+      spriteID: d9e7175f6ba90fd10800000000000000
+      internalID: 2157394332103048861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_21
+      name: Minifantasy_GuiIcons_33
       rect:
         serializedVersion: 2
-        x: 96
+        x: 56
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,20 +964,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b14102b4d8126f80800000000000000
-      internalID: -8114896276769652303
+      spriteID: 2b3ab4e72448c7c80800000000000000
+      internalID: -8323632590165924942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_22
+      name: Minifantasy_GuiIcons_34
       rect:
         serializedVersion: 2
-        x: 128
+        x: 72
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,20 +986,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 277d3981d59b7c360800000000000000
-      internalID: 7189919139615725426
+      spriteID: 688361dbf5ebfb3d0800000000000000
+      internalID: -3188620692751501178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_23
+      name: Minifantasy_GuiIcons_35
       rect:
         serializedVersion: 2
-        x: 160
+        x: 88
         y: 64
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,20 +1008,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ede024af6fadd7e10800000000000000
-      internalID: 2197152947522113246
+      spriteID: 802cac2998c720820800000000000000
+      internalID: 2883003641785664008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_24
+      name: Minifantasy_GuiIcons_36
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
+        x: 8
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,20 +1030,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f99fe0abe22799330800000000000000
-      internalID: 3718128512386660767
+      spriteID: b99047e5a33d255f0800000000000000
+      internalID: -769320338680706661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_25
+      name: Minifantasy_GuiIcons_37
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
+        x: 24
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,20 +1052,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4aa97bbf182bb44d0800000000000000
-      internalID: -3149227243071890780
+      spriteID: af9ba69018f755a90800000000000000
+      internalID: -7325809026662745606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_26
+      name: Minifantasy_GuiIcons_38
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 32
-        height: 32
+        x: 40
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,20 +1074,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4ac10d90cf1d28a0800000000000000
-      internalID: -6328366989257356725
+      spriteID: da2b0b2c153240a90800000000000000
+      internalID: -7348709857896123731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_27
+      name: Minifantasy_GuiIcons_39
       rect:
         serializedVersion: 2
-        x: 288
-        y: 64
-        width: 32
-        height: 32
+        x: 56
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,20 +1096,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8687bc1e9f9ad93c0800000000000000
-      internalID: -4351134774269872024
+      spriteID: 09f0d96689a85b880800000000000000
+      internalID: -8595811926605492336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_28
+      name: Minifantasy_GuiIcons_40
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 32
-        height: 32
+        x: 72
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,20 +1118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4b37b817948ac850800000000000000
-      internalID: 6398072005122800458
+      spriteID: 8b9e5b3dae84ec970800000000000000
+      internalID: 8777032897203136952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_29
+      name: Minifantasy_GuiIcons_41
       rect:
         serializedVersion: 2
-        x: 352
-        y: 64
-        width: 32
-        height: 32
+        x: 88
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -978,932 +1140,668 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79048e3624fe3af60800000000000000
-      internalID: 8044536427836883095
+      spriteID: bf5460c97a0d0da10800000000000000
+      internalID: 1932273658437715451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_30
+      name: Minifantasy_GuiIcons_42
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 32
-        height: 32
+        x: 8
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf1b6fb4743a8eba0800000000000000
-      internalID: -6059413772014538244
+      spriteID: 8eebf75507eece9499215f132ac0de49
+      internalID: 1819600367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_31
+      name: Minifantasy_GuiIcons_43
       rect:
         serializedVersion: 2
-        x: 416
-        y: 64
-        width: 32
-        height: 32
+        x: 24
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9273cb8577ec65f80800000000000000
-      internalID: -8118074266303580375
+      spriteID: 2f396689971e3e74fb617761111ec3ec
+      internalID: -1131357799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_32
+      name: Minifantasy_GuiIcons_44
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 32
-        height: 32
+        x: 40
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6a89d2f9a04e9e90800000000000000
-      internalID: -7017100070728660373
+      spriteID: 508cb51b7edad1e48a982a09931efefa
+      internalID: -1691859785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_33
+      name: Minifantasy_GuiIcons_45
       rect:
         serializedVersion: 2
-        x: 480
-        y: 64
-        width: 32
-        height: 32
+        x: 56
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8cd2fa4d2d386e450800000000000000
-      internalID: 6117722085364018632
+      spriteID: d698e30ea62a3e84e936920d0dfe6832
+      internalID: -665101547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_34
+      name: Minifantasy_GuiIcons_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 32
-        height: 32
+        x: 72
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef18833b3d7cb1500800000000000000
-      internalID: 368107506619679230
+      spriteID: b9c8441636087b54e8e20b580a368871
+      internalID: 1509283642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_35
+      name: Minifantasy_GuiIcons_47
       rect:
         serializedVersion: 2
-        x: 544
-        y: 64
-        width: 32
-        height: 32
+        x: 88
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5f0b722c1c2f87e10800000000000000
-      internalID: 2195771732343107829
+      spriteID: 6d565d9dd161beb42a605bc8cae3b0ee
+      internalID: -1667309267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_36
+      name: Minifantasy_GuiIcons_48
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea80680cabbbf438705ccc6f56aacb
+      internalID: 1069292098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d6850abd0f6c47b793cabc12b863e
+      internalID: -2091459865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95719a132d693b14e97f38cec9f00bb9
+      internalID: 507022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd6f9616efe9d24a8d9b89fa62788b9
+      internalID: 53735759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805e9c0e37edda4c92dd94e7ef68462
+      internalID: 921801680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f718f811dbb94f8192424df3cb151
+      internalID: 203398896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_GuiIcons_54
+      rect:
+        serializedVersion: 2
+        x: 8
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ea1686645c4e7cd70800000000000000
-      internalID: 9063464311047348654
+      spriteID: d822926a9d705a540a6701e7907eb5b8
+      internalID: -1196743207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_37
+      name: Minifantasy_GuiIcons_55
       rect:
         serializedVersion: 2
-        x: 32
+        x: 24
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2579a60c6652ee440800000000000000
-      internalID: 4966948562281338706
+      spriteID: 16e199675d06ee5449367cb075eddff4
+      internalID: -1213636597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_38
+      name: Minifantasy_GuiIcons_56
       rect:
         serializedVersion: 2
-        x: 64
+        x: 40
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 174432491fa319130800000000000000
-      internalID: 3571700788728382577
+      spriteID: 801e4f1236d78b34eaa763ab627a5bf5
+      internalID: 1650887563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_39
+      name: Minifantasy_GuiIcons_57
       rect:
         serializedVersion: 2
-        x: 96
+        x: 56
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d59e2c6801524bd0800000000000000
-      internalID: -2647464534323849770
+      spriteID: f1d4191ce693aba40aedd09c7b271958
+      internalID: 228072466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_40
+      name: Minifantasy_GuiIcons_58
       rect:
         serializedVersion: 2
-        x: 128
+        x: 72
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 881ef851609fbece0800000000000000
-      internalID: -1374731456704683640
+      spriteID: a08512d3f03ceb94b8fde0f1d2f3d095
+      internalID: 2069966487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_41
+      name: Minifantasy_GuiIcons_59
       rect:
         serializedVersion: 2
-        x: 160
+        x: 88
         y: 32
-        width: 32
-        height: 32
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87adf7d323ba56360800000000000000
-      internalID: 7162319014671145592
+      spriteID: 60298a13753c4fd4582095bf6a3c552e
+      internalID: -247421722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_42
+      name: Minifantasy_GuiIcons_60
       rect:
         serializedVersion: 2
-        x: 192
-        y: 32
-        width: 32
-        height: 32
+        x: 8
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 98d5a9946ecddea10800000000000000
-      internalID: 1940449896101993865
+      spriteID: 79ee6f79e2e98a548ade25cdc34d9e16
+      internalID: 166123241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_43
+      name: Minifantasy_GuiIcons_61
       rect:
         serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
+        x: 24
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a07bbef884f440a0800000000000000
-      internalID: -6898119859998330716
+      spriteID: 148be7af0b8d704478fc1f23448869b2
+      internalID: -329749630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_44
+      name: Minifantasy_GuiIcons_62
       rect:
         serializedVersion: 2
-        x: 256
-        y: 32
-        width: 32
-        height: 32
+        x: 40
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 19275b1a1f0a28da0800000000000000
-      internalID: -5944011598515047791
+      spriteID: 44304feca7225564a9b77fa894044796
+      internalID: 88316021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_45
+      name: Minifantasy_GuiIcons_63
       rect:
         serializedVersion: 2
-        x: 288
-        y: 32
-        width: 32
-        height: 32
+        x: 56
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c1ba1a1266e6589a0800000000000000
-      internalID: -6231453124467250404
+      spriteID: 853d8029004d48e41831410bb399684e
+      internalID: 2036909694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_46
+      name: Minifantasy_GuiIcons_64
       rect:
         serializedVersion: 2
-        x: 320
-        y: 32
-        width: 32
-        height: 32
+        x: 72
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 083455c1ac33c36d0800000000000000
-      internalID: -3009473507838573696
+      spriteID: 1ac546f2a6617c34896934baaaa20833
+      internalID: -1696262387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_47
+      name: Minifantasy_GuiIcons_65
       rect:
         serializedVersion: 2
-        x: 352
-        y: 32
-        width: 32
-        height: 32
+        x: 88
+        y: 24
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fec5c5e70dec6c1f0800000000000000
-      internalID: -1024904470311707409
+      spriteID: d01252ad952de4a4dbbb33b3523ae7dd
+      internalID: 416252940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_48
+      name: Minifantasy_GuiIcons_66
       rect:
         serializedVersion: 2
-        x: 384
-        y: 32
-        width: 32
-        height: 32
+        x: 8
+        y: 16
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 16181ddcc248df650800000000000000
-      internalID: 6268311584336085345
+      spriteID: 772e3f951910ce342b578e905c3eed40
+      internalID: -1153958235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_49
+      name: Minifantasy_GuiIcons_67
       rect:
         serializedVersion: 2
-        x: 416
-        y: 32
-        width: 32
-        height: 32
+        x: 40
+        y: 16
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17bdf518a608847f0800000000000000
-      internalID: -628110953092752527
+      spriteID: 95bc42ef2fc03f64faaa23bbe6876884
+      internalID: -1366439878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_50
+      name: Minifantasy_GuiIcons_68
       rect:
         serializedVersion: 2
-        x: 448
-        y: 32
-        width: 32
-        height: 32
+        x: 56
+        y: 16
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8c2f541610100ead0800000000000000
-      internalID: -2675137073219505464
+      spriteID: a9ce6b9567633d740a4e6fca40795a26
+      internalID: -1864997024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_51
+      name: Minifantasy_GuiIcons_69
       rect:
         serializedVersion: 2
-        x: 480
-        y: 32
-        width: 32
-        height: 32
+        x: 88
+        y: 16
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74f1c77887c6bebd0800000000000000
-      internalID: -2599865094951395513
+      spriteID: 3d3016f653bbf3c428a208aa49cd54e6
+      internalID: -314372820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_52
+      name: Minifantasy_GuiIcons_70
       rect:
         serializedVersion: 2
-        x: 512
-        y: 32
-        width: 32
-        height: 32
+        x: 8
+        y: 8
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b417d5f668d6c0e20800000000000000
-      internalID: 3318147449626653003
+      spriteID: 5776bf95754e0d2408ae36b03e64d3c1
+      internalID: -538138507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_53
+      name: Minifantasy_GuiIcons_71
       rect:
         serializedVersion: 2
-        x: 544
-        y: 32
-        width: 32
-        height: 32
+        x: 56
+        y: 8
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a697a303a6f2a9530800000000000000
-      internalID: 3862451763545799018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_54
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d35f5b090228eeec0800000000000000
-      internalID: -3535745581060852419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_55
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f67d226c2152e8b30800000000000000
-      internalID: 4291408257494472559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_56
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0709776676602e6d0800000000000000
-      internalID: -2962798563685855120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_57
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f00167c20850b4ea0800000000000000
-      internalID: -5887606039796903921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_58
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16e93302f47cc65c0800000000000000
-      internalID: -4220779608096399775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_59
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5b61ff37f046ca20800000000000000
-      internalID: 3082222425655569245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_60
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a8e838bd1551efc0800000000000000
-      internalID: -3467396651965421403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_61
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d11b4d9b346d1e7d0800000000000000
-      internalID: -2890793899426270947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_62
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a872e61ae9b79000800000000000000
-      internalID: 42707136540735651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_63
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 140b1c9aa4fa457e0800000000000000
-      internalID: -1777603217694019519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_64
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cdcbe8291b7261b0800000000000000
-      internalID: -5664830033287721532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_65
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f2e140d1176b2ac0800000000000000
-      internalID: -3878893327843466508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_66
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0be28d277e982edc0800000000000000
-      internalID: -3611172324040495440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_67
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 688c5f00df84bfe90800000000000000
-      internalID: -6990913745082529658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_68
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fba7f949cf433f50800000000000000
-      internalID: 6859914383363386354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_69
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64b8d967b2f170030800000000000000
-      internalID: 3460769110191606598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_70
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d62e1c9718fb453b0800000000000000
-      internalID: -5524580280062320019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_71
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55f2851dec7962ce0800000000000000
-      internalID: -1430288917112279211
+      spriteID: e7edff693e84baf49b7a6d705e60cf3f
+      internalID: -132085123
       vertices: []
       indices: 
       edges: []
@@ -1912,7 +1810,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d8dd4291c29019840b684d219ddbb7bd
+    spriteID: 28b208caa69768d40a677060ccfc4e1b
     internalID: 0
     vertices: []
     indices: 
@@ -1922,80 +1820,80 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Wizard_Idle_Special_0: -6802936167326294342
-      Wizard_Idle_Special_1: -5936299140040444537
-      Wizard_Idle_Special_10: 5650203627939987679
-      Wizard_Idle_Special_11: -3530120800020821939
-      Wizard_Idle_Special_12: 821941832131112192
-      Wizard_Idle_Special_13: 1350898713017777191
-      Wizard_Idle_Special_14: -7750856881962950829
-      Wizard_Idle_Special_15: -6232195540882673931
-      Wizard_Idle_Special_16: 5014019389921229640
-      Wizard_Idle_Special_17: -3250600939172067087
-      Wizard_Idle_Special_18: -7311641821867510841
-      Wizard_Idle_Special_19: 162016009406109866
-      Wizard_Idle_Special_2: 6363423369091623765
-      Wizard_Idle_Special_20: -645106333343103098
-      Wizard_Idle_Special_21: -8114896276769652303
-      Wizard_Idle_Special_22: 7189919139615725426
-      Wizard_Idle_Special_23: 2197152947522113246
-      Wizard_Idle_Special_24: 3718128512386660767
-      Wizard_Idle_Special_25: -3149227243071890780
-      Wizard_Idle_Special_26: -6328366989257356725
-      Wizard_Idle_Special_27: -4351134774269872024
-      Wizard_Idle_Special_28: 6398072005122800458
-      Wizard_Idle_Special_29: 8044536427836883095
-      Wizard_Idle_Special_3: 7774247488403888903
-      Wizard_Idle_Special_30: -6059413772014538244
-      Wizard_Idle_Special_31: -8118074266303580375
-      Wizard_Idle_Special_32: -7017100070728660373
-      Wizard_Idle_Special_33: 6117722085364018632
-      Wizard_Idle_Special_34: 368107506619679230
-      Wizard_Idle_Special_35: 2195771732343107829
-      Wizard_Idle_Special_36: 9063464311047348654
-      Wizard_Idle_Special_37: 4966948562281338706
-      Wizard_Idle_Special_38: 3571700788728382577
-      Wizard_Idle_Special_39: -2647464534323849770
-      Wizard_Idle_Special_4: -9205265219401481555
-      Wizard_Idle_Special_40: -1374731456704683640
-      Wizard_Idle_Special_41: 7162319014671145592
-      Wizard_Idle_Special_42: 1940449896101993865
-      Wizard_Idle_Special_43: -6898119859998330716
-      Wizard_Idle_Special_44: -5944011598515047791
-      Wizard_Idle_Special_45: -6231453124467250404
-      Wizard_Idle_Special_46: -3009473507838573696
-      Wizard_Idle_Special_47: -1024904470311707409
-      Wizard_Idle_Special_48: 6268311584336085345
-      Wizard_Idle_Special_49: -628110953092752527
-      Wizard_Idle_Special_5: -4451904145700850698
-      Wizard_Idle_Special_50: -2675137073219505464
-      Wizard_Idle_Special_51: -2599865094951395513
-      Wizard_Idle_Special_52: 3318147449626653003
-      Wizard_Idle_Special_53: 3862451763545799018
-      Wizard_Idle_Special_54: -3535745581060852419
-      Wizard_Idle_Special_55: 4291408257494472559
-      Wizard_Idle_Special_56: -2962798563685855120
-      Wizard_Idle_Special_57: -5887606039796903921
-      Wizard_Idle_Special_58: -4220779608096399775
-      Wizard_Idle_Special_59: 3082222425655569245
-      Wizard_Idle_Special_6: 3717138015599642317
-      Wizard_Idle_Special_60: -3467396651965421403
-      Wizard_Idle_Special_61: -2890793899426270947
-      Wizard_Idle_Special_62: 42707136540735651
-      Wizard_Idle_Special_63: -1777603217694019519
-      Wizard_Idle_Special_64: -5664830033287721532
-      Wizard_Idle_Special_65: -3878893327843466508
-      Wizard_Idle_Special_66: -3611172324040495440
-      Wizard_Idle_Special_67: -6990913745082529658
-      Wizard_Idle_Special_68: 6859914383363386354
-      Wizard_Idle_Special_69: 3460769110191606598
-      Wizard_Idle_Special_7: 8393146659747097959
-      Wizard_Idle_Special_70: -5524580280062320019
-      Wizard_Idle_Special_71: -1430288917112279211
-      Wizard_Idle_Special_8: 4822188644801218740
-      Wizard_Idle_Special_9: 8423494164248729494
+      Minifantasy_GuiIcons_0: -6653566230648393093
+      Minifantasy_GuiIcons_1: -6127004993338504681
+      Minifantasy_GuiIcons_10: 6281899245235094697
+      Minifantasy_GuiIcons_11: 641218809772502558
+      Minifantasy_GuiIcons_12: -3072522989128426697
+      Minifantasy_GuiIcons_13: 2468583198426277761
+      Minifantasy_GuiIcons_14: 3155143482733083688
+      Minifantasy_GuiIcons_15: 3804395621267604264
+      Minifantasy_GuiIcons_16: -4656633597752375982
+      Minifantasy_GuiIcons_17: -3078085440120702889
+      Minifantasy_GuiIcons_18: -5922007223787167671
+      Minifantasy_GuiIcons_19: -5426084903880390604
+      Minifantasy_GuiIcons_2: -3170862492722684555
+      Minifantasy_GuiIcons_20: 3271250336021712569
+      Minifantasy_GuiIcons_21: -6023675913605741150
+      Minifantasy_GuiIcons_22: -7924472646117520984
+      Minifantasy_GuiIcons_23: 2043590541696547473
+      Minifantasy_GuiIcons_24: 6300575179160526308
+      Minifantasy_GuiIcons_25: 8747834109828757906
+      Minifantasy_GuiIcons_26: -8270369080936893206
+      Minifantasy_GuiIcons_27: -9124605956303114437
+      Minifantasy_GuiIcons_28: 8693732260962584558
+      Minifantasy_GuiIcons_29: -3569710221289502196
+      Minifantasy_GuiIcons_3: 736045897804969402
+      Minifantasy_GuiIcons_30: -1745548149226604189
+      Minifantasy_GuiIcons_31: 185315266645945705
+      Minifantasy_GuiIcons_32: 2157394332103048861
+      Minifantasy_GuiIcons_33: -8323632590165924942
+      Minifantasy_GuiIcons_34: -3188620692751501178
+      Minifantasy_GuiIcons_35: 2883003641785664008
+      Minifantasy_GuiIcons_36: -769320338680706661
+      Minifantasy_GuiIcons_37: -7325809026662745606
+      Minifantasy_GuiIcons_38: -7348709857896123731
+      Minifantasy_GuiIcons_39: -8595811926605492336
+      Minifantasy_GuiIcons_4: 2820465038806899520
+      Minifantasy_GuiIcons_40: 8777032897203136952
+      Minifantasy_GuiIcons_41: 1932273658437715451
+      Minifantasy_GuiIcons_42: 1819600367
+      Minifantasy_GuiIcons_43: -1131357799
+      Minifantasy_GuiIcons_44: -1691859785
+      Minifantasy_GuiIcons_45: -665101547
+      Minifantasy_GuiIcons_46: 1509283642
+      Minifantasy_GuiIcons_47: -1667309267
+      Minifantasy_GuiIcons_48: 1069292098
+      Minifantasy_GuiIcons_49: -2091459865
+      Minifantasy_GuiIcons_5: -4962620171716188753
+      Minifantasy_GuiIcons_50: 507022701
+      Minifantasy_GuiIcons_51: 53735759
+      Minifantasy_GuiIcons_52: 921801680
+      Minifantasy_GuiIcons_53: 203398896
+      Minifantasy_GuiIcons_54: -1196743207
+      Minifantasy_GuiIcons_55: -1213636597
+      Minifantasy_GuiIcons_56: 1650887563
+      Minifantasy_GuiIcons_57: 228072466
+      Minifantasy_GuiIcons_58: 2069966487
+      Minifantasy_GuiIcons_59: -247421722
+      Minifantasy_GuiIcons_6: 9002649185400518867
+      Minifantasy_GuiIcons_60: 166123241
+      Minifantasy_GuiIcons_61: -329749630
+      Minifantasy_GuiIcons_62: 88316021
+      Minifantasy_GuiIcons_63: 2036909694
+      Minifantasy_GuiIcons_64: -1696262387
+      Minifantasy_GuiIcons_65: 416252940
+      Minifantasy_GuiIcons_66: -1153958235
+      Minifantasy_GuiIcons_67: -1366439878
+      Minifantasy_GuiIcons_68: -1864997024
+      Minifantasy_GuiIcons_69: -314372820
+      Minifantasy_GuiIcons_7: 9179539717740091878
+      Minifantasy_GuiIcons_70: -538138507
+      Minifantasy_GuiIcons_71: -132085123
+      Minifantasy_GuiIcons_8: 1755206034969059475
+      Minifantasy_GuiIcons_9: -93476541135247488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

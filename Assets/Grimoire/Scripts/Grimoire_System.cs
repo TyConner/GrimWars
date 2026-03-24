@@ -1,7 +1,5 @@
 using Unity.VisualScripting;
-using UnityEditor.SceneManagement;
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 
 public class grimoireSystem : MonoBehaviour
@@ -22,7 +20,7 @@ public class grimoireSystem : MonoBehaviour
 
     public void PageAquired()
     {
-        Pages = (int)Mathf.Clamp(Pages + 1,0, grimoire.MaxPages);
+        Pages = (int)Mathf.Clamp(Pages + 1, 0, grimoire.MaxPages);
         LevelUP();
     }
 
@@ -61,7 +59,7 @@ public class grimoireSystem : MonoBehaviour
             default:
                 SpellPhysicsLayer = parentlayer;
                 break;
-        }   
+        }
     }
     void Awake()
     {
@@ -102,7 +100,8 @@ public class grimoireSystem : MonoBehaviour
         return HeavySpell;
     }
 
-    public  Sprite GetGrimoireSprite() {
+    public Sprite GetGrimoireSprite()
+    {
         return grimoire.Grimoire_Sprite;
     }
 }

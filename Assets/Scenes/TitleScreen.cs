@@ -109,7 +109,7 @@ public class TitleScreen : MonoBehaviour
     {
         if (selectedIndex == 0)
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("Grimoire Selection");
         }
         else if (selectedIndex == 1)
         {

@@ -10,6 +10,7 @@ public class ButtonFunctions : MonoBehaviour
     [SerializeField] private InputActionReference pause;
     [SerializeField] GameObject pauseMenuUI;
     [SerializeField] GameObject gameOverUI;
+    [SerializeField] private GameObject tutorialScreen;
 
     bool isPaused = false;
     bool isGameOver = false;
@@ -74,6 +75,16 @@ public class ButtonFunctions : MonoBehaviour
         SceneManager.LoadScene("SampleScene"); 
     }
 
+    public void ShowTutorial()
+    {
+        tutorialScreen.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
+    public void HideTutorial()
+    {
+        tutorialScreen.SetActive(false);
+    }
 
     public void Quit()
     {

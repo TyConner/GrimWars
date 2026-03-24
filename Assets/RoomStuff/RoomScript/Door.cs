@@ -21,6 +21,10 @@ public class Door : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (!other.gameObject.GetComponent<PlayerController>())
+        {
+            return;
+        }
         Vector3 targetPosition = roomManager.GetRoomPositionFromDoor(currentRoom, doorDirection);
         other.transform.position = targetPosition;
 
