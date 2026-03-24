@@ -139,4 +139,9 @@ public class MusicManager : MonoBehaviour
             audioSource.UnPause();
         }
     }
+
+    public void PlaySceneMusic()
+    {
+        OnSceneLoaded(SceneManager.GetActiveScene(), LoadSceneMode.Single);
+    }
 }
