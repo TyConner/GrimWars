@@ -45,7 +45,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoomManager
   roomParent: {fileID: 0}
-  roomPrefab: {fileID: 7441130172397870983, guid: c3048206fe714f0468607d9da108447b, type: 3}
+  roomPool: []
+  startRoomPrefab: {fileID: 0}
+  bossRoomPrefab: {fileID: 0}
   maxRooms: 15
   minRooms: 7
   gridSizeX: 10

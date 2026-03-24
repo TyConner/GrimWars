@@ -2910,8 +2910,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3ab1a7658f719242b2f0a646bfd0a0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  roomManager: {fileID: 0}
   currentRoom: {fileID: 3353687733476657160}
+  roomManager: {fileID: 0}
   doorDirection: {x: 0, y: 1}
 --- !u!1 &6138972260758168495
 GameObject:
@@ -3064,8 +3064,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3ab1a7658f719242b2f0a646bfd0a0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  roomManager: {fileID: 0}
   currentRoom: {fileID: 3353687733476657160}
+  roomManager: {fileID: 0}
   doorDirection: {x: 1, y: 0}
 --- !u!1 &7441130172397870983
 GameObject:
@@ -3269,8 +3269,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3ab1a7658f719242b2f0a646bfd0a0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  roomManager: {fileID: 0}
   currentRoom: {fileID: 3353687733476657160}
+  roomManager: {fileID: 0}
   doorDirection: {x: 0, y: -1}
 --- !u!1 &8143576335339999918
 GameObject:
@@ -3458,6 +3458,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3ab1a7658f719242b2f0a646bfd0a0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  roomManager: {fileID: 0}
   currentRoom: {fileID: 3353687733476657160}
+  roomManager: {fileID: 0}
   doorDirection: {x: -1, y: 0}
