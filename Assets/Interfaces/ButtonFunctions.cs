@@ -87,13 +87,11 @@ public class ButtonFunctions : MonoBehaviour
     {
         tutorialScreen.SetActive(true);
         Time.timeScale = 0f;
-        MusicManager.Instance.PlayMusic(MusicManager.Instance.tutorialMusic);
     }
 
     public void HideTutorial()
     {
         tutorialScreen.SetActive(false);
-        MusicManager.Instance.StopMusic();
     }
 
     public void Quit()

@@ -21,6 +21,7 @@ public class TutorialUI : MonoBehaviour
     {
         int count = screenContainer.childCount;
         tutorialScreens = new GameObject[count];
+        MusicManager.Instance.PlayMusic(MusicManager.Instance.tutorialMusic);
 
         for (int i = 0; i < count; i++)
         {
@@ -56,6 +57,7 @@ public class TutorialUI : MonoBehaviour
     {
         tutorialScreen.SetActive(false);
         pauseMenuUI.SetActive(true);
+        MusicManager.Instance.StopMusic();
     }
 
     private void UpdateScreen()
