@@ -114,11 +114,6 @@ public class RoomManager : MonoBehaviour
 
         Room roomScript = newRoom.GetComponent<Room>();
 
-        if (Random.value < 0.2f && roomCount > 2)
-        {
-            roomScript.isTimedRoom = true;
-        }
-
         return true;
     }
 

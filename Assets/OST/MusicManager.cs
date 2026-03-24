@@ -19,7 +19,6 @@ public class MusicManager : MonoBehaviour
     public AudioClip aerodungeonMusic;
     public AudioClip lightdungeonMusic;
     public AudioClip darkdungeonMusic;
-    public AudioClip timedRoomMusic;
 
     public AudioClip bossMusic;
     public AudioClip finalBossMusic;
@@ -138,29 +137,6 @@ public class MusicManager : MonoBehaviour
         if (audioSource.clip != null)
         {
             audioSource.UnPause();
-        }
-    }
-
-    public void PlayChallengeMusic()
-    {
-        if (audioSource.clip == timedRoomMusic) return;
-
-        previousMusic = audioSource.clip;
-
-        audioSource.clip = timedRoomMusic;
-        audioSource.loop = true;
-        audioSource.Play();
-    }
-
-    public void StopChallengeMusicAndRestorePrevious()
-    {
-        audioSource.Stop();
-
-        if (previousMusic != null)
-        {
-            audioSource.clip = previousMusic;
-            audioSource.loop = true;
-            audioSource.Play();
         }
     }
 }

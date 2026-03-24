@@ -296,7 +296,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.48, y: 0.37, z: -10}
+  m_LocalPosition: {x: 1.7, y: 0.91, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -445,51 +445,51 @@ PrefabInstance:
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: bossRoomPrefab
       value: 
-      objectReference: {fileID: 7449115386762431210, guid: cd7c5fe00335309489c78acaa2e81987, type: 3}
+      objectReference: {fileID: 4248992347123287815, guid: d3f5bdd5d4ea06248a39461ce921bfaf, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: startRoomPrefab
       value: 
-      objectReference: {fileID: 8511723291703145110, guid: 41563867df7d57843b05b79615123a9c, type: 3}
+      objectReference: {fileID: 4737908360357257003, guid: 019e75066a149c647a47682a14c8cfaf, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.size
-      value: 9
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[0].prefab
       value: 
-      objectReference: {fileID: 5520314559438070134, guid: e851fe855f4b31d41a09b724143d76aa, type: 3}
+      objectReference: {fileID: 4737908360357257003, guid: 019e75066a149c647a47682a14c8cfaf, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[0].weight
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[1].prefab
       value: 
-      objectReference: {fileID: 7345077301383922821, guid: da96b40cc18f6f64ebcbb2f84728a0b9, type: 3}
+      objectReference: {fileID: 9002274478001460878, guid: 260f43a72fcdc904cb1398e1efa899a7, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[1].weight
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[2].prefab
       value: 
-      objectReference: {fileID: 530298186854267599, guid: 6dfc8b9bf7d3780479bdec3811884b4e, type: 3}
+      objectReference: {fileID: 6723420092681101119, guid: 0f1f92160d1e4f442a32ac2191c05d05, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[2].weight
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[3].prefab
       value: 
-      objectReference: {fileID: 2867804271451037995, guid: dc6b44cd41127c5448fd756891b63cbb, type: 3}
+      objectReference: {fileID: 3655434319942341867, guid: 3f9b6ff099146f6468bf10d514062547, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[3].weight
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[4].prefab
       value: 
-      objectReference: {fileID: 8511723291703145110, guid: 41563867df7d57843b05b79615123a9c, type: 3}
+      objectReference: {fileID: 5223179666827608681, guid: 42f3e1b06c0cfa1469fe7234001177cc, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[4].weight
       value: 20
@@ -497,33 +497,65 @@ PrefabInstance:
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[5].prefab
       value: 
-      objectReference: {fileID: 6929841776324599017, guid: df5f71d418dc5b547ab685736eabd706, type: 3}
+      objectReference: {fileID: 788024706250894908, guid: 000c8874b7b6a4446bf956721d5c75f5, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[5].weight
-      value: 10
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[6].prefab
       value: 
-      objectReference: {fileID: 2894641576548997500, guid: a0e00613d59d5204190897c7068d7dcb, type: 3}
+      objectReference: {fileID: 6943695635070093232, guid: 78db81eb9b96e8a43b17e907a9605ee5, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[6].weight
-      value: 15
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[7].prefab
       value: 
-      objectReference: {fileID: 61171549813434090, guid: ab0539f219a7383498a16b8260234285, type: 3}
+      objectReference: {fileID: 5704147463725875068, guid: d7b0db4503de04b47a9a81ad88b6c3a9, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[7].weight
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[8].prefab
       value: 
-      objectReference: {fileID: 7449115386762431210, guid: cd7c5fe00335309489c78acaa2e81987, type: 3}
+      objectReference: {fileID: 211651208730005802, guid: 84d3cc545b6e71340b7f141f0c5d1960, type: 3}
     - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
       propertyPath: roomPool.Array.data[8].weight
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[9].prefab
+      value: 
+      objectReference: {fileID: 1333905462920749301, guid: 7f932af695c3a04449508dfc1740cc4e, type: 3}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[9].weight
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[10].prefab
+      value: 
+      objectReference: {fileID: 4016946614556981580, guid: 2e684f22635f6c3418628c9d8052befc, type: 3}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[10].weight
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[11].prefab
+      value: 
+      objectReference: {fileID: 1550254141512178042, guid: a641759c85113df4d8abb43c0dccb745, type: 3}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[11].weight
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[12].prefab
+      value: 
+      objectReference: {fileID: 7449115386762431210, guid: cd7c5fe00335309489c78acaa2e81987, type: 3}
+    - target: {fileID: 5115137125386349169, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
+      propertyPath: roomPool.Array.data[12].weight
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8732557485926770365, guid: aab66c68a5d125f44bbb03bc96fd0f73, type: 3}
@@ -732,17 +764,21 @@ PrefabInstance:
       propertyPath: m_PlayOnAwake
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 889660565493175024, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3027872983339938515, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5839851316601904787, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.93
+      value: 1.61
       objectReference: {fileID: 0}
     - target: {fileID: 5839851316601904787, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.77
+      value: 1.11
       objectReference: {fileID: 0}
     - target: {fileID: 5839851316601904787, guid: 91d41d10aa6d2834284cefed773dbb09, type: 3}
       propertyPath: m_LocalPosition.z

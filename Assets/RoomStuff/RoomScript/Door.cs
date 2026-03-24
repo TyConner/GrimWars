@@ -4,8 +4,6 @@ public class Door : MonoBehaviour
 {
     [HideInInspector] public Room currentRoom;
     [HideInInspector] public RoomManager roomManager;
-    
-    [SerializeField] GameObject TimedRoomIndicator;
 
     public Vector2Int doorDirection;
 
@@ -22,11 +20,6 @@ public class Door : MonoBehaviour
         }
 
         Room targetRoom = roomManager.GetRoomScriptAt(currentRoom.RoomIndex + doorDirection);
-
-        if (targetRoom != null && targetRoom.isTimedRoom)
-        {
-            TimedRoomIndicator.SetActive(true);
-        }
 
     }
 
@@ -46,14 +39,5 @@ public class Door : MonoBehaviour
             Camera.main.transform.position = new Vector3(targetRoom.transform.position.x, targetRoom.transform.position.y, Camera.main.transform.position.z);
         }
 
-        if (currentRoom.isTimedRoom && !currentRoom.challengeCompleted)
-        {
-            return;
-        }
-
-        if (targetRoom.isTimedRoom)
-        {
-            targetRoom.StartChallenge();
-        }
     }
 }
