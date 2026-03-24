@@ -2027,6 +2027,8 @@ MonoBehaviour:
   healing: {fileID: 8300000, guid: a71d21f477610144793992d9db92e166, type: 3}
   damageTaken: {fileID: 8300000, guid: 64ab4f8c2f6fcea40989ad07e16eecf5, type: 3}
   pickupClip: {fileID: 8300000, guid: 5dbc1bcf67f6bd54093e6ee902c999d7, type: 3}
+  pauseSFX: {fileID: 0}
+  resumeSFX: {fileID: 0}
 --- !u!50 &579560831940334851
 Rigidbody2D:
   serializedVersion: 5
@@ -2168,7 +2170,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -6482,3 +6484,4 @@ MonoBehaviour:
   pauseMenuUI: {fileID: 6370002217902724046}
   gameOverUI: {fileID: 2650649309964783592}
   tutorialScreen: {fileID: 7409012732176960486}
+  player: {fileID: 0}

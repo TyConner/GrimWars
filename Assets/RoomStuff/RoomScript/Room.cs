@@ -1,24 +1,25 @@
-using UnityEngine;
+using System.Collections;
 using System.Collections.Generic;
+using UnityEngine;
 public class Room : MonoBehaviour
 {
     [SerializeField] GameObject topDoor;
     [SerializeField] GameObject bottomDoor;
     [SerializeField] GameObject leftDoor;
     [SerializeField] GameObject rightDoor;
-    
-    [Header("Timed Room")]
-    [SerializeField] private List<Transform> spawnPoints;
-    [SerializeField] private GameObject enemyPrefab;
-    [SerializeField] private GameObject rewardPrefab;
 
-   
+    [Header("TimedRoom Settings")]
+    [SerializeField] private GameObject rewardPrefab;
     public bool isTimedRoom = false;
     public bool challengeCompleted = false;
     private bool challengeActive = false;
     public float challengeTime = 60f;
     private float timer;
     public int enemiesRemaining;
+
+    [Header("Enemy Spawners")]
+    [SerializeField] private enemySpawner[] spawners;
+
     private PlayerController player;
 
     public Vector2Int RoomIndex { get; set; }
@@ -54,12 +55,40 @@ public class Room : MonoBehaviour
         challengeActive = true;
         timer = challengeTime;
 
-        SpawnEnemies();
-        LockDoors(true);
-
         TimedRoomUI.Instance.Show();
 
         MusicManager.Instance.PlayMusic(MusicManager.Instance.timedRoomMusic);
+
+        foreach (var spawner in spawners)
+        {
+            if (spawner != null)
+                spawner.gameObject.SetActive(true);
+        }
+
+        StartCoroutine(ChallengeTimer());
+   
+        TimedRoomUI.Instance?.Show();
+        TimedRoomUI.Instance?.UpdateUI(timer, GetActiveEnemyCount());
+        MusicManager.Instance?.PlayChallengeMusic();
+    }
+
+    private IEnumerator ChallengeTimer()
+    {
+        while (timer > 0f)
+        {
+            timer -= Time.deltaTime;
+
+            TimedRoomUI.Instance?.UpdateUI(timer, GetActiveEnemyCount());
+
+            if (GetActiveEnemyCount() <= 0)
+            {
+                CompleteChallenge();
+                yield break;
+            }
+
+            yield return null;
+        }
+        FailChallenge();
     }
 
     private void Awake()
@@ -67,64 +96,63 @@ public class Room : MonoBehaviour
         player = FindFirstObjectByType<PlayerController>();
     }
 
-    private void Update()
-    {
-        if (!challengeActive) return;
-
-        timer -= Time.deltaTime;
-        TimedRoomUI.Instance.UpdateUI(timer, enemiesRemaining);
-
-        if (enemiesRemaining <= 0)
-        {
-            CompleteChallenge(true);
-        }
-        else if (timer <= 0)
-        {
-            CompleteChallenge(false);
-        }
-    }
-
-    void SpawnEnemies()
-    {
-        int count = Random.Range(10, 16);
-        enemiesRemaining = count;
-
-        for (int i = 0; i < count; i++)
-        {
-            Transform spawn = spawnPoints[Random.Range(0, spawnPoints.Count)];
-            GameObject enemy = Instantiate(enemyPrefab, spawn.position, Quaternion.identity);
-            spawnedEnemies.Add(enemy);
-
-            enemy.GetComponent<EnemyController>().OnDeath += OnEnemyKilled;
-        }
-    }
-
     void OnEnemyKilled()
     {
         enemiesRemaining--;
     }
 
-    void CompleteChallenge(bool success)
+    private void CompleteChallenge()
     {
         challengeActive = false;
-        challengeCompleted = success;
+        challengeCompleted = true;
 
-        LockDoors(false);
+        UnlockDoors();
         TimedRoomUI.Instance.Hide();
 
-        if (success)
-        {
+        if (rewardPrefab != null)
             Instantiate(rewardPrefab, transform.position, Quaternion.identity);
-        }
 
-        MusicManager.Instance.PopMusic();
+        MusicManager.Instance?.StopChallengeMusicAndRestorePrevious();
+
+        TimedRoomUI.Instance?.Hide();
     }
 
-    void LockDoors(bool locked)
+    private void FailChallenge()
     {
-        topDoor.GetComponent<Collider2D>().enabled = !locked;
-        bottomDoor.GetComponent<Collider2D>().enabled = !locked;
-        leftDoor.GetComponent<Collider2D>().enabled = !locked;
-        rightDoor.GetComponent<Collider2D>().enabled = !locked;
+        challengeActive = false;
+
+        UnlockDoors();
+
+        MusicManager.Instance?.StopChallengeMusicAndRestorePrevious();
+
+        TimedRoomUI.Instance?.Hide();
     }
+
+    public void OpenDoor(Vector2Int direction)
+    { 
+        if (direction == Vector2Int.up) topDoor?.SetActive(true);
+        if (direction == Vector2Int.down) bottomDoor?.SetActive(true);
+        if (direction == Vector2Int.left) leftDoor?.SetActive(true);
+        if (direction == Vector2Int.right) rightDoor?.SetActive(true);
+    }
+
+    private void UnlockDoors()
+    {
+        topDoor?.SetActive(true);
+        bottomDoor?.SetActive(true);
+        leftDoor?.SetActive(true);
+        rightDoor?.SetActive(true);
+    }
+
+    private int GetActiveEnemyCount()
+    {
+        int count = 0;
+        foreach (var spawner in spawners)
+        {
+            if (spawner != null && spawner.spawnedEnemy != null)
+                count++;
+        }
+        return count;
+    }
+
 }

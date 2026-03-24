@@ -28,6 +28,7 @@ public class MusicManager : MonoBehaviour
     public AudioClip loseMusic;
 
     private AudioClip currentClip;
+    private AudioClip previousMusic;
     private Stack<AudioClip> musicStack = new Stack<AudioClip>();
 
     void Awake()
@@ -137,6 +138,29 @@ public class MusicManager : MonoBehaviour
         if (audioSource.clip != null)
         {
             audioSource.UnPause();
+        }
+    }
+
+    public void PlayChallengeMusic()
+    {
+        if (audioSource.clip == timedRoomMusic) return;
+
+        previousMusic = audioSource.clip;
+
+        audioSource.clip = timedRoomMusic;
+        audioSource.loop = true;
+        audioSource.Play();
+    }
+
+    public void StopChallengeMusicAndRestorePrevious()
+    {
+        audioSource.Stop();
+
+        if (previousMusic != null)
+        {
+            audioSource.clip = previousMusic;
+            audioSource.loop = true;
+            audioSource.Play();
         }
     }
 }
