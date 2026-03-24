@@ -54,7 +54,6 @@ MonoBehaviour:
   aerodungeonMusic: {fileID: 8300000, guid: c7792071da5d31148b85916d633c75cc, type: 3}
   lightdungeonMusic: {fileID: 8300000, guid: da22bb32111a2ab4c90093df48021ae5, type: 3}
   darkdungeonMusic: {fileID: 8300000, guid: df5bd796573f5f84aab84b48784f4e11, type: 3}
-  timedRoomMusic: {fileID: 8300000, guid: 7d4ba5d3722e35a4d8eb58bed251078f, type: 3}
   bossMusic: {fileID: 8300000, guid: 809d0317b7190ff46a7dd334668537c0, type: 3}
   finalBossMusic: {fileID: 8300000, guid: 27ca3dd24503a9d40a1362d80a63882a, type: 3}
   winMusic: {fileID: 8300000, guid: bb0d23c1d1687e34aac296dbb352b930, type: 3}
@@ -72,7 +71,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 1
   Mute: 0
