@@ -46,7 +46,9 @@ public class EnemyController : MonoBehaviour, ITakeDamage
     public void Death()
     {
         bDead = true;
-        Destroy(gameObject);
+        anim.SetBool("bIsDead", true);
+        Pivot.gameObject.SetActive(false);
+        Destroy(gameObject, 3f);
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -69,7 +71,12 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     void FixedUpdate()
     {
-        if (bDead) return;
+        if (bDead)
+        {
+            desiredVelocity = Vector2.zero;
+            return;
+        }
+       
 
         desiredVelocity = moveInput * moveSpeed;
 

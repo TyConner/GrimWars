@@ -9,7 +9,7 @@ public class Enemy_Attack_Script : MonoBehaviour
     [SerializeField] SpriteRenderer Spr;
     [SerializeField] GameObject effect;
     [SerializeField] float effectkilltime = .4f;
-    [SerializeField] float hitboxtime = 0.2f;
+    [SerializeField] float hitboxtime = 0.1f;
     public float AttackRate = 0.5f;
     public int damage;
     int randVal;
