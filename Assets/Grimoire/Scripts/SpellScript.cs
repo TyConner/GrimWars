@@ -115,11 +115,12 @@ public class SpellScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (mystate != state.playing)
+        if (collision.isTrigger || mystate != state.playing)
         {
             return;
         }
-        if(mystate == state.playing)
+        
+        if (mystate == state.playing)
         {
             if (Type == spellType.projectile)
             {
@@ -169,24 +170,29 @@ public class SpellScript : MonoBehaviour
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, spellTargetLayer);
         foreach (Collider2D hit in hits)
         {
-            if (isBuff)
+            if (hit.isTrigger == false)
             {
-                iSpellEffects eff = hit.GetComponent<iSpellEffects>();
-                if(eff != null)
+                if (isBuff)
                 {
-                    eff.enactBuff(Buff, BuffTime, dmgAmount);
+                    iSpellEffects eff = hit.GetComponent<iSpellEffects>();
+                    if (eff != null)
+                    {
+                        eff.enactBuff(Buff, BuffTime, dmgAmount);
+                    }
                 }
-            }
-            else
-            {
-               
-                ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
-                if (dmg != null)
+                else
                 {
-                    dmg.TakeDamage((int)dmgAmount);
+
+                    ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
+                    if (dmg != null)
+                    {
+                        dmg.TakeDamage((int)dmgAmount);
+                    }
+
                 }
-          
+                continue;
             }
+           
         }
         PlayHitFX();
     }
@@ -196,26 +202,29 @@ public class SpellScript : MonoBehaviour
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, spellTargetLayer);
         foreach (Collider2D hit in hits)
         {
-            if (isBuff)
+            if (hit.isTrigger == false)
             {
-                iSpellEffects eff = hit.GetComponent<iSpellEffects>();
-                if (eff != null)
+                if (isBuff)
                 {
-                    eff.enactBuff(Buff, BuffTime, dmgAmount);
+                    iSpellEffects eff = hit.GetComponent<iSpellEffects>();
+                    if (eff != null)
+                    {
+                        eff.enactBuff(Buff, BuffTime, dmgAmount);
+                    }
+                }
+                else
+                {
+
+                    ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
+                    if (dmg != null)
+                    {
+                        dmg.TakeDamage((int)dmgAmount);
+                    }
+
                 }
             }
-            else
-            {
-
-                ITakeDamage dmg = hit.GetComponent<ITakeDamage>();
-                if (dmg != null)
-                {
-                    dmg.TakeDamage((int)dmgAmount);
-                }
-
-            }
+            continue;
         }
-       
     }
 
     private void Start()

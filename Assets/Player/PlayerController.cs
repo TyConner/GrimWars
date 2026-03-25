@@ -57,6 +57,8 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     [SerializeField] AudioClip healing;
     [SerializeField] AudioClip damageTaken;
     [SerializeField] AudioClip pickupClip;
+    [SerializeField] AudioClip pauseSFX;
+    [SerializeField] AudioClip resumeSFX;
 
     Color originalColor;
     Coroutine flashRoutine;
@@ -479,6 +481,22 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
         if (audioSource != null && pickupClip != null)
         {
             audioSource.PlayOneShot(pickupClip);
+        }
+    }
+
+    public void PlayPauseSFX()
+    {
+        if (audioSource != null && pauseSFX != null)
+        {
+            audioSource.PlayOneShot(pauseSFX);
+        }
+    }
+
+    public void PlayResumeSFX()
+    {
+        if (audioSource != null && resumeSFX != null)
+        {
+            audioSource.PlayOneShot(resumeSFX);
         }
     }
 }
