@@ -7,6 +7,7 @@ public class TitleScreen : MonoBehaviour
 {
     [SerializeField] TextMeshPro playText;
     [SerializeField] TextMeshPro quitText;
+    [SerializeField] TextWaveBounce waveBounce;
 
     [SerializeField] InputActionReference navigateAction;
     [SerializeField] InputActionReference submitAction;
@@ -88,6 +89,7 @@ public class TitleScreen : MonoBehaviour
             selectedIndex = 0;
         }
 
+        waveBounce.SetActiveIndex(selectedIndex);
         navigateTimer = navigateCooldown;
         UpdateVisuals();
     }
@@ -97,6 +99,7 @@ public class TitleScreen : MonoBehaviour
         if (playText != null)
         {
             playText.color = selectedIndex == 0 ? highlightedColor : normalColor;
+
         }
 
         if (quitText != null)
