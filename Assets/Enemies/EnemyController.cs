@@ -75,6 +75,7 @@ public class EnemyController : MonoBehaviour, ITakeDamage
         if (bDead)
         {
             desiredVelocity = Vector2.zero;
+            rb.linearVelocity = desiredVelocity;
             return;
         }
        
@@ -154,7 +155,7 @@ private void OnTriggerStay2D(Collider2D collision)
         }
         if ( collision.CompareTag("Player"))
         {
-            if (attack_script != null)
+            if (attack_script != null && bDead != true)
             {
                 Vector2 dir = collision.transform.position - transform.position;
                 attack_script.Attack();
