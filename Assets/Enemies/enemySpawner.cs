@@ -7,9 +7,12 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] private float respawnDelay = 3f;
     [SerializeField] private float spawnEffectDuration = 0.2f;
 
-    public GameObject spawnedEnemy;
+    [SerializeField] private int maxSpawns = 3;
+
+    private GameObject spawnedEnemy;
     private float respawnTimer = 0f;
     private SpriteRenderer spawnerRenderer;
+    private int spawnCount = 0;
 
     private void Awake()
     {
@@ -26,6 +29,9 @@ public class enemySpawner : MonoBehaviour
 
     private void Update()
     {
+        if (spawnCount >= maxSpawns)
+            return;
+
         if (spawnedEnemy == null)
         {
             respawnTimer += Time.deltaTime;
@@ -49,7 +55,10 @@ public class enemySpawner : MonoBehaviour
             yield break;
         }
 
-        if(spawnerRenderer != null)
+        if (spawnCount >= maxSpawns)
+            yield break;
+
+        if (spawnerRenderer != null)
         {
             spawnerRenderer.enabled = true;
         }
@@ -62,5 +71,7 @@ public class enemySpawner : MonoBehaviour
         }
 
         spawnedEnemy = Instantiate(enemyPrefab, transform.position, Quaternion.identity);
+
+        spawnCount++;
     }
 }
