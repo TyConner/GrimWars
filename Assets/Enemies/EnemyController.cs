@@ -47,7 +47,9 @@ public class EnemyController : MonoBehaviour, ITakeDamage
     public void Death()
     {
         bDead = true;
-        Destroy(gameObject);
+        anim.SetBool("bIsDead", true);
+        Pivot.gameObject.SetActive(false);
+        Destroy(gameObject, 3f);
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -70,7 +72,13 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     void FixedUpdate()
     {
-        if (bDead) return;
+        if (bDead)
+        {
+            desiredVelocity = Vector2.zero;
+            rb.linearVelocity = desiredVelocity;
+            return;
+        }
+       
 
         desiredVelocity = moveInput * moveSpeed;
 
@@ -147,7 +155,7 @@ private void OnTriggerStay2D(Collider2D collision)
         }
         if ( collision.CompareTag("Player"))
         {
-            if (attack_script != null)
+            if (attack_script != null && bDead != true)
             {
                 Vector2 dir = collision.transform.position - transform.position;
                 attack_script.Attack();
