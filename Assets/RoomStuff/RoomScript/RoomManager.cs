@@ -1,10 +1,19 @@
 using UnityEngine;
 using System.Collections.Generic;
 
+[System.Serializable]
+public class RoomData
+{
+    public GameObject prefab;
+    public int weight = 1;
+}
+
 public class RoomManager : MonoBehaviour
 {
     [SerializeField] private Transform roomParent;
-    [SerializeField] GameObject roomPrefab;
+    [SerializeField] private RoomData[] roomPool;
+    [SerializeField] private GameObject startRoomPrefab;
+    [SerializeField] private GameObject bossRoomPrefab;
     [SerializeField] private int maxRooms = 15;
     [SerializeField] private int minRooms = 7;
 
@@ -19,6 +28,7 @@ public class RoomManager : MonoBehaviour
     private int[,] roomGrid;
     private int roomCount;
     private bool generationComplete = false;
+    private Vector2Int lastRoomIndex;
 
     private void Start()
     {
@@ -37,7 +47,7 @@ public class RoomManager : MonoBehaviour
         roomGrid[x, y] = 1;
         roomCount++;
 
-        var initialRoom = Instantiate(roomPrefab, GetPositionFromGridIndex(roomIndex), Quaternion.identity, roomParent);
+        var initialRoom = Instantiate(startRoomPrefab, GetPositionFromGridIndex(roomIndex), Quaternion.identity, roomParent);
         initialRoom.name = $"Room-{roomCount}";
         initialRoom.GetComponent<Room>().RoomIndex = roomIndex;
         roomObjects.Add(initialRoom);
@@ -64,6 +74,9 @@ public class RoomManager : MonoBehaviour
         else if (!generationComplete)
         {
             Debug.Log($"Generation complete, {roomCount} rooms");
+
+            SpawnBossRoom();
+
             generationComplete = true;
         }
     }
@@ -92,12 +105,14 @@ public class RoomManager : MonoBehaviour
         roomGrid[x, y] = 1;
         roomCount++;
 
-        var newRoom = Instantiate(roomPrefab, GetPositionFromGridIndex(roomIndex), Quaternion.identity, roomParent);
+        var newRoom = Instantiate(GetWeightedRandomRoom(), GetPositionFromGridIndex(roomIndex), Quaternion.identity, roomParent);
         newRoom.name = $"Room-{roomCount}";
         newRoom.GetComponent<Room>().RoomIndex = roomIndex;
         roomObjects.Add(newRoom);
 
         OpenDoors(newRoom, x, y);
+
+        Room roomScript = newRoom.GetComponent<Room>();
 
         return true;
     }
@@ -209,5 +224,43 @@ public class RoomManager : MonoBehaviour
             Debug.LogWarning($"No room exists at {targetIndex}");
             return currentRoom.transform.position;
         }
+    }
+
+    private GameObject GetWeightedRandomRoom()
+    {
+        int totalWeight = 0;
+
+        foreach (var room in roomPool)
+            totalWeight += room.weight;
+
+        int randomValue = Random.Range(0, totalWeight);
+
+        foreach (var room in roomPool)
+        {
+            if (randomValue < room.weight)
+                return room.prefab;
+
+            randomValue -= room.weight;
+        }
+
+        return roomPool[0].prefab; // fallback
+    }
+
+    private void SpawnBossRoom()
+    {
+        Room oldRoom = GetRoomScriptAt(lastRoomIndex);
+        if (oldRoom == null) return;
+
+        Vector3 pos = oldRoom.transform.position;
+
+        roomObjects.Remove(oldRoom.gameObject);
+        Destroy(oldRoom.gameObject);
+
+        GameObject bossRoom = Instantiate(bossRoomPrefab, pos, Quaternion.identity, roomParent);
+        bossRoom.GetComponent<Room>().RoomIndex = lastRoomIndex;
+
+        roomObjects.Add(bossRoom);
+
+        OpenDoors(bossRoom, lastRoomIndex.x, lastRoomIndex.y);
     }
 }

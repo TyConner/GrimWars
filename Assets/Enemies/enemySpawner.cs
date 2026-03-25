@@ -7,7 +7,7 @@ public class enemySpawner : MonoBehaviour
     [SerializeField] private float respawnDelay = 3f;
     [SerializeField] private float spawnEffectDuration = 0.2f;
 
-    private GameObject spawnedEnemy;
+    public GameObject spawnedEnemy;
     private float respawnTimer = 0f;
     private SpriteRenderer spawnerRenderer;
 

@@ -83,8 +83,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -6735715535609320245, guid: 1a4929797b49d5c4e81770382478d0a5, type: 3}
-  m_Color: {r: 1, g: 0.5411765, b: 0, a: 1}
+  m_Sprite: {fileID: -6279787018933160571, guid: 9451c044fea172547af6ecccd12ad1a6, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -106,7 +106,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::iPickUp
   itemType: 4
-  pickupSound: {fileID: 8300000, guid: 5dbc1bcf67f6bd54093e6ee902c999d7, type: 3}
 --- !u!70 &9206712978974621147
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
