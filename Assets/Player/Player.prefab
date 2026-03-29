@@ -2220,7 +2220,7 @@ MonoBehaviour:
   moveSpeed: 4
   acceleration: 60
   deceleration: 80
-  maxHP: 5
+  maxHP: 100
   maxMana: 100
   Grimoire: {fileID: 7065769245737664389}
   damageFlashTime: 0.08

@@ -1,0 +1,143 @@
+commit 22ae2e31f7d94936c24a0c6875c9d0462fd08cff
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 24 19:48:46 2026 -0500
+
+    Title credits
+
+commit 75e81a7a33fdc7e9aef5320ec9afa70d311296ae
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 24 17:09:33 2026 -0500
+
+    update potion and items sizing to assets sizing
+
+commit baf7c3c75444f7b31465fd8ed355f886d9d3ea20
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 23 22:08:48 2026 -0500
+
+    ui overhaul to potions and world items
+
+commit b916c6c278668e099ca74dbeac43bb9d7263bd03
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:50:29 2026 -0500
+
+    Update SampleScene.unity
+
+commit 8f0118589583576123ddc90b4957e82f30e3e81a
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:48:26 2026 -0500
+
+    update player prefab with new ui
+
+commit 26582b1baa614110abed689b3ea505f659448f3e
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:47:54 2026 -0500
+
+    Updated hp and mp bars assets
+
+commit 0ae8561f4dadf8fb6e8911edf4a0710af7c7793d
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 13:15:22 2026 -0500
+
+    game icon addition
+
+commit a8e4155efc8951630bbaffdc3e181cc125406290
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 21:31:41 2026 -0500
+
+    Final build code freeze alpha
+
+commit 3d4577bb73677b051c64d9028e6fc63c9df48bb0
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 21:11:20 2026 -0500
+
+    final integrations for build
+
+commit e322552c532be03c3c2fb8b96ecad1ee7b5f75a2
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 20:19:51 2026 -0500
+
+    revert samplescene
+
+commit 64d550c10cbc03e439fe72b67614f7575ea6e3c9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 17:48:33 2026 -0500
+
+    Update EditorBuildSettings.asset
+
+commit 7c808f535ca93b158e24b970418eb5caea154e8d
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 20:12:58 2026 -0500
+
+    title screen v2
+
+commit 600e185f886ec5a9b1d1554e28c1f9607811cba2
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 20:11:36 2026 -0500
+
+    title screen
+
+commit d3492643c588659133025e5a8d1902198919bedc
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 10:39:41 2026 -0500
+
+    fix sample scene prefabs
+
+commit 292bf873b91ae3b69279fb5c8804a6e98f63dbab
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 10:38:51 2026 -0500
+
+    fix main branch
+    
+    input fixed
+    player controller compile issues fixed
+    sample scene corruption fixed
+
+commit a6a5ab7c297098ed72d6fc810add211a617653b3
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 15 12:31:00 2026 -0500
+
+    assets and animations
+
+commit b70c8f458b5324403dfa0db9a7a20bfde566460c
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sat Mar 14 13:15:37 2026 -0500
+
+    primary fire anim
+
+commit 926f69344395a1cd334106beb98fd71dfc120425
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 10 18:40:39 2026 -0500
+
+    player and dungeon tilesets
+
+commit f3f48c3a1fc5fa1b7b885e46aadda69dfd02f5c9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 8 17:44:24 2026 -0500
+
+    Multiple Rooms testing
+
+commit 1c1d9f23ddab102a077335ce68c8160e119249d9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Fri Mar 6 10:58:37 2026 -0600
+
+    player dmg,collision, and feedback. GInst. Etc
+    
+    Foundational things with folder structure
+
+commit 14ba49c18923d74bbeea0c7976bb95b4a7499f60
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 21:16:01 2026 -0600
+
+    Update SampleScene.unity
+
+commit b7703e168ec72e10c5546143d056b31658315954
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 21:15:50 2026 -0600
+
+    Player and Cosmetics Tileset
+
+commit 95eba3526c82e8ba2b2e91da9a399847c43d8e33
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 19:53:25 2026 -0600
+
+    Initial commit

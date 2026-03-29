@@ -1,0 +1,425 @@
+commit 9a90811b0274e4fa2dd95e9345835dc6c684b451
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 24 21:08:50 2026 -0400
+
+    Add Demonologist boss controller; update assets
+    
+    Add a new empty Boss_Controller MonoBehaviour and its .meta for the Demonologist boss. Update Attack.gif.meta to correct sprite slicing (split into 4 sprites), adjust rects/pivots, add per-platform texture settings and sprite metadata. Rename OrceAnimController to OrcAnimationController (and its .meta) and update the animator controller content (state positions, motion GUIDs, and transition entries) to reflect the corrected name and references.
+
+commit 3c0472c2cb31eebaf967e1a56b898deebcbeaca9
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 24 21:08:50 2026 -0400
+
+    Add Demonologist boss controller; update assets
+    
+    Add a new empty Boss_Controller MonoBehaviour and its .meta for the Demonologist boss. Update Attack.gif.meta to correct sprite slicing (split into 4 sprites), adjust rects/pivots, add per-platform texture settings and sprite metadata. Rename OrceAnimController to OrcAnimationController (and its .meta) and update the animator controller content (state positions, motion GUIDs, and transition entries) to reflect the corrected name and references.
+
+commit ea60b13ee73837aa6d8019a70a980a24a679d9e5
+Author: NajarinPrime <97047271+NajarinPrime@users.noreply.github.com>
+Date:   Tue Mar 24 20:53:22 2026 -0400
+
+    Beta Contribution
+    
+    Added
+    -Skeleton and spawner
+    -Scorpion and spawner
+    -Slime and spawner
+    -Fire dungeon Rooms based on Enemies
+
+commit 619e8ba12153b251195d250f202a5fe5f8e234f3
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 24 20:53:13 2026 -0400
+
+    Stop dead enemy movement; rename Idle_0 to Orc
+    
+    When an enemy is marked dead, its Rigidbody2D velocity is now cleared to ensure it stops moving (rb.linearVelocity set to zero). Also prevent dead enemies from triggering attacks by checking bDead before calling Attack(). The enemy prefab Idle_0 was renamed to Orc and its Damage value was increased from 1 to 12 (prefab and .meta files updated).
+
+commit 22ae2e31f7d94936c24a0c6875c9d0462fd08cff
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 24 19:48:46 2026 -0500
+
+    Title credits
+
+commit 48c984a28a6f4c44c4bf108dc5825d93e6691596
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 24 20:41:44 2026 -0400
+
+    Add Orc animations; tweak enemy death & timing
+    
+    Adds Orc animation assets (Orc_Die, Orc_Idle, Orc_Walk_Right, Orc_Walk_Up) with corresponding .meta files and an Orc animator controller. Simplifies Enemy_Basic_Attack animator (removes Attack/Rand parameters and some transitions, repositions states). Tweaks Swipe_R.anim (removes a frame and shortens clip to 0.25s). EnemyController: play death animation, disable pivot, delay Destroy by 3s, and stop movement when dead. Enemy_Attack_Script: reduces hitbox time from 0.2s to 0.1s. Idle_0 prefab now references the animator controller, and Die.png importer/platform settings updated. Also includes a minor Player.controller update.
+
+commit fbd59205584f47ccd828960a4924af999d366425
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 24 19:00:45 2026 -0400
+
+    Guess what, even more tiny changes!
+
+commit 75e81a7a33fdc7e9aef5320ec9afa70d311296ae
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 24 17:09:33 2026 -0500
+
+    update potion and items sizing to assets sizing
+
+commit 92f6e6af060243fd2018a6dd3bbc339ad9ff39f0
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 24 16:22:48 2026 -0400
+
+    More Tiny Adjustments
+
+commit 514c40d831cd0f2e5a0946f9514c62f96f147575
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 24 15:23:37 2026 -0400
+
+    Basic Enemy Ai and movement
+
+commit aca4e46e32251e8b93913d29c0068c07d703e2ce
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 24 14:49:00 2026 -0400
+
+    Small fixes to Music Manager + Win Screen Beta + LoadScene Script in ButtonFunctions (etc.)
+
+commit a21d171991f2efe5809823de4d6e8d6659f0366c
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 24 13:31:01 2026 -0400
+
+    Sure Whatever
+
+commit 67cc86cc69633cf9428f494cada098995649d0e7
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 24 04:58:13 2026 -0400
+
+    NO MORE TIMEDROOMSTUFF + DARK DUNGEON AND LIGHT DUNGEON LEVEL LAYOUTS
+
+commit baf7c3c75444f7b31465fd8ed355f886d9d3ea20
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 23 22:08:48 2026 -0500
+
+    ui overhaul to potions and world items
+
+commit dcef2be8dbe248bea4851b7fdeb17decc6cdcf99
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 23 22:54:50 2026 -0400
+
+    Commit to Update #2
+
+commit 82d2fbd330f477fb60a58093260b2178d4037833
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 23 22:53:20 2026 -0400
+
+    Commit to Update
+
+commit ef4ff4cedcf469d76f7e8417aadf5a87f2c80e68
+Author: NajarinPrime <97047271+NajarinPrime@users.noreply.github.com>
+Date:   Mon Mar 23 20:17:51 2026 -0400
+
+    Commit
+    
+    Commit
+
+commit 8573ea9c8d5b01c4f47af0dd218175e0309402c6
+Author: NajarinPrime <97047271+NajarinPrime@users.noreply.github.com>
+Date:   Mon Mar 23 20:13:28 2026 -0400
+
+    Room Pool added to Generator
+    
+    Room Pool added to generator
+    Start room area added for prefabs
+    Boss Room area added for prefabs
+    
+    generator is completely modular now. Plug and play prefabs
+
+commit ebb0b3b8d5bc92c833bf83145aeb36b60e858d61
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 23 19:08:51 2026 -0400
+
+    Music Manager + other things commit and push
+
+commit 701903a4f73af220e16134767be6e6692526895a
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 23 17:03:03 2026 -0400
+
+    Background OST's Commit and Push
+
+commit 1e5e7f2e04486d285dcfb4fcfbc121b56fea9c02
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 23 00:46:00 2026 -0400
+
+    TimedRoom Beta Stage (InComplete) Commit and Push
+
+commit b916c6c278668e099ca74dbeac43bb9d7263bd03
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:50:29 2026 -0500
+
+    Update SampleScene.unity
+
+commit 8f0118589583576123ddc90b4957e82f30e3e81a
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:48:26 2026 -0500
+
+    update player prefab with new ui
+
+commit 26582b1baa614110abed689b3ea505f659448f3e
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 20:47:54 2026 -0500
+
+    Updated hp and mp bars assets
+
+commit 0ae8561f4dadf8fb6e8911edf4a0710af7c7793d
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 22 13:15:22 2026 -0500
+
+    game icon addition
+
+commit b0a2cc703c60f0357154e0a553f425c7f13dfe94
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 21 22:24:48 2026 -0400
+
+    Tutorial Screen Rough Draft Commit
+
+commit a8e4155efc8951630bbaffdc3e181cc125406290
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 21:31:41 2026 -0500
+
+    Final build code freeze alpha
+
+commit 3d4577bb73677b051c64d9028e6fc63c9df48bb0
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 21:11:20 2026 -0500
+
+    final integrations for build
+
+commit 3e0bb2dd3ebd1ef161fae636979c2a7017322441
+Author: NajarinPrime <97047271+NajarinPrime@users.noreply.github.com>
+Date:   Tue Mar 17 21:33:53 2026 -0400
+
+    Merge Fix
+    
+    Merge Fix
+
+commit e322552c532be03c3c2fb8b96ecad1ee7b5f75a2
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 20:19:51 2026 -0500
+
+    revert samplescene
+
+commit 8a976ff0289f35038f29806fd5d45076d734d545
+Author: NajarinPrime <97047271+NajarinPrime@users.noreply.github.com>
+Date:   Tue Mar 17 20:47:32 2026 -0400
+
+    Alpha Milestone
+    
+    Alpha Milestone
+    Room Generation
+    Slime Spawn
+    Spike Trap with custom asset
+
+commit d08590e4a3eeb073a03b0703ad6ac127abeee73e
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 17 20:41:59 2026 -0400
+
+    Leveling up changes spell Stats
+
+commit 64d550c10cbc03e439fe72b67614f7575ea6e3c9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 17 17:48:33 2026 -0500
+
+    Update EditorBuildSettings.asset
+
+commit b22a11c9ba2378464ed152f6eb4755212f778258
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Tue Mar 17 18:46:33 2026 -0400
+
+    Fix Null Ref errors.
+
+commit c5ab2d4437d25117b720f79d83b73eb66cab24d1
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Tue Mar 17 18:40:18 2026 -0400
+
+    Final Alpha Merge
+
+commit 7c808f535ca93b158e24b970418eb5caea154e8d
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 20:12:58 2026 -0500
+
+    title screen v2
+
+commit 600e185f886ec5a9b1d1554e28c1f9607811cba2
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 20:11:36 2026 -0500
+
+    title screen
+
+commit d3492643c588659133025e5a8d1902198919bedc
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 10:39:41 2026 -0500
+
+    fix sample scene prefabs
+
+commit 292bf873b91ae3b69279fb5c8804a6e98f63dbab
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 16 10:38:51 2026 -0500
+
+    fix main branch
+    
+    input fixed
+    player controller compile issues fixed
+    sample scene corruption fixed
+
+commit f4c576572b9f72f03f3a298c24765516378c59df
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Mon Mar 16 01:31:26 2026 -0400
+
+    INVENTORY COMMIT (INCOMPLETE)
+
+commit a6a5ab7c297098ed72d6fc810add211a617653b3
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 15 12:31:00 2026 -0500
+
+    assets and animations
+
+commit 89d6d58bebad987947697e4a7b7a32d3773962fa
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 21:42:27 2026 -0400
+
+    HeavyAttack / SpellTimout/ ManaUI
+
+commit d7191bca2ddffbf9cbc053dd382401d2e163b892
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 21:17:09 2026 -0400
+
+    Dynamic Swapping of Grimoires
+    
+    Ice Grimoire example/
+    Grimoire PickUP
+    Page PickUP
+
+commit 3b0d2033a20272e7ba6a866b191d593126e4d977
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 21:11:01 2026 -0400
+
+    Grimoire Swapping/PagePickups
+
+commit 1736b8007c0308924c23d12abffbe635d450216b
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 14 20:31:17 2026 -0400
+
+    Yet another UI update
+
+commit a7e5283e4d31f99f9cb1f76ca073b40b149702d6
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 14 20:09:21 2026 -0400
+
+    Update SampleScene.unity
+
+commit 76ecc007c8ebcaf29dd3a844518db13f4d1211fb
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 14 20:08:26 2026 -0400
+
+    If this doesn't work Imma crash out
+
+commit 7a5b8b62e7a42799b84fefde7bc841c676ccd7e1
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 19:56:08 2026 -0400
+
+    DOT Spells
+
+commit 6de57cd89ef673f36a6e1668e6deda03134355c9
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 14 19:32:59 2026 -0400
+
+    PROPER UI UPDATE
+
+commit 572edab042ef6a54b0808292ad2e3f6620daf422
+Author: MaxwellLaird <thewallace900@gmail.com>
+Date:   Sat Mar 14 19:04:37 2026 -0400
+
+    HUGE COMMIT AND PUSH FOR PLAYER UI (STILL IN CONSTRUCTION)
+
+commit 62d95ba105bb9f2b3e43f8a6c26d212a9fcb6b14
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 17:53:15 2026 -0400
+
+    Fix Physics Layers
+
+commit 60bb1f143e690d1692125a422fa18ec54dcd81e0
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 17:38:32 2026 -0400
+
+    Restructed SpellScript
+    
+    SpellScript can now handle
+    -Buffs
+    -AoE Buffs
+    -Projectiles that explode
+    -have a bufftimer that can be modified through ability upgrades.
+
+commit 91c4c32a15a1259e0b37be693c82b5f633d2dc09
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 16:20:21 2026 -0400
+
+    Dynamic Spell Physics Layers
+
+commit b0621892f6b37587d8aaa165a3aae70770cd9151
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 15:49:46 2026 -0400
+
+    Refactored Grimoire System/Abilities
+    
+    Player can now aim his shots.
+    Refactored Grimoire System/Abilties/SpellData for decoupled adaptability.
+
+commit b70c8f458b5324403dfa0db9a7a20bfde566460c
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sat Mar 14 13:15:37 2026 -0500
+
+    primary fire anim
+
+commit 96ad50a58f8c4f65b117df555df92d7407b0b7f3
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 14:08:09 2026 -0400
+
+    Staged Changes to Player
+
+commit 90d348643cfaf74d51b8975c4316adb658ac6324
+Author: xelectrowolfx <116964236+xelectrowolfx@users.noreply.github.com>
+Date:   Sat Mar 14 12:47:55 2026 -0400
+
+    init
+
+commit 926f69344395a1cd334106beb98fd71dfc120425
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Tue Mar 10 18:40:39 2026 -0500
+
+    player and dungeon tilesets
+
+commit f3f48c3a1fc5fa1b7b885e46aadda69dfd02f5c9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Sun Mar 8 17:44:24 2026 -0500
+
+    Multiple Rooms testing
+
+commit 1c1d9f23ddab102a077335ce68c8160e119249d9
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Fri Mar 6 10:58:37 2026 -0600
+
+    player dmg,collision, and feedback. GInst. Etc
+    
+    Foundational things with folder structure
+
+commit 14ba49c18923d74bbeea0c7976bb95b4a7499f60
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 21:16:01 2026 -0600
+
+    Update SampleScene.unity
+
+commit b7703e168ec72e10c5546143d056b31658315954
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 21:15:50 2026 -0600
+
+    Player and Cosmetics Tileset
+
+commit 95eba3526c82e8ba2b2e91da9a399847c43d8e33
+Author: Ty Conner <tyconner@hotmail.com>
+Date:   Mon Mar 2 19:53:25 2026 -0600
+
+    Initial commit

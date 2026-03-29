@@ -1,7 +1,7 @@
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.InputSystem;
 using UnityEditor;
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 #if UNITY_EDITOR
 #endif
 
@@ -74,14 +74,14 @@ public class ButtonFunctions : MonoBehaviour
 
     public void Restart()
     {
-        Time.timeScale = 1f; 
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void StartGame()
     {
-        Time.timeScale = 1f; 
-        SceneManager.LoadScene("SampleScene");
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("DarkDungeon");
     }
 
     public void ShowTutorial()
@@ -111,7 +111,7 @@ public class ButtonFunctions : MonoBehaviour
     public void Quit()
     {
 #if UNITY_EDITOR
-    EditorApplication.isPlaying = false; 
+        EditorApplication.isPlaying = false;
 #else
         Application.Quit(); 
 #endif

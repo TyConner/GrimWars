@@ -1,5 +1,5 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
 
 public class GameInstance : MonoBehaviour
 {
@@ -59,6 +59,7 @@ public class GameInstance : MonoBehaviour
     IEnumerator CameraShake(float duration, float magnitude)
     {
         float timeLeft = duration;
+        camStartLocalPos = cam.transform.localPosition;
 
         while (timeLeft > 0f)
         {

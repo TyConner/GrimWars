@@ -153,7 +153,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Door
   currentRoom: {fileID: 5871716064494494532}
   roomManager: {fileID: 0}
-  TimedRoomIndicator: {fileID: 7834519411638033177, guid: 5a4df27b01c46854ea3ab1fed8a21c3e, type: 3}
   doorDirection: {x: -1, y: 0}
 --- !u!1 &276403658411472691
 GameObject:
@@ -308,7 +307,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Door
   currentRoom: {fileID: 5871716064494494532}
   roomManager: {fileID: 0}
-  TimedRoomIndicator: {fileID: 7834519411638033177, guid: 5a4df27b01c46854ea3ab1fed8a21c3e, type: 3}
   doorDirection: {x: 1, y: 0}
 --- !u!1 &530298186854267599
 GameObject:
@@ -373,12 +371,6 @@ MonoBehaviour:
   bottomDoor: {fileID: 3255207164788416965}
   leftDoor: {fileID: 132409565007526979}
   rightDoor: {fileID: 276403658411472691}
-  rewardPrefab: {fileID: 4914736204742287214, guid: a28a7332cdba85141b59faef8ae61cc3, type: 3}
-  isTimedRoom: 0
-  challengeCompleted: 0
-  challengeTime: 60
-  enemiesRemaining: 0
-  spawners: []
 --- !u!1 &909986034776346619
 GameObject:
   m_ObjectHideFlags: 0
@@ -427,7 +419,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &3786575197830851417
 SpriteRenderer:
   serializedVersion: 2
@@ -792,7 +784,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Door
   currentRoom: {fileID: 5871716064494494532}
   roomManager: {fileID: 0}
-  TimedRoomIndicator: {fileID: 7834519411638033177, guid: 5a4df27b01c46854ea3ab1fed8a21c3e, type: 3}
   doorDirection: {x: 0, y: -1}
 --- !u!1 &3368542929723635608
 GameObject:
@@ -2434,10 +2425,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3791fe153b136c34dbc981d7e584bec1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::enemySpawner
-  enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
+  enemyPrefab: {fileID: 5499998775641301351, guid: afbe9e0c98679144db65ec830230e50c, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &6900342675572880040
 SpriteRenderer:
   serializedVersion: 2
@@ -2732,7 +2723,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &6684492656892962285
 SpriteRenderer:
   serializedVersion: 2
@@ -2840,7 +2831,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &5161229948912869703
 SpriteRenderer:
   serializedVersion: 2
@@ -2948,7 +2939,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &834516333025254380
 SpriteRenderer:
   serializedVersion: 2
@@ -3161,7 +3152,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Door
   currentRoom: {fileID: 5871716064494494532}
   roomManager: {fileID: 0}
-  TimedRoomIndicator: {fileID: 7834519411638033177, guid: 5a4df27b01c46854ea3ab1fed8a21c3e, type: 3}
   doorDirection: {x: 0, y: 1}
 --- !u!1 &5727658333501564092
 GameObject:
@@ -4667,10 +4657,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3791fe153b136c34dbc981d7e584bec1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::enemySpawner
-  enemyPrefab: {fileID: 5325021736969196914, guid: 98ace23c96227ae429b2d0c1822e7edf, type: 3}
+  enemyPrefab: {fileID: 8760952064825836099, guid: ea1a0ea59a38aca40be57284abe9a03f, type: 3}
   respawnDelay: 3
   spawnEffectDuration: 0.2
-  spawnedEnemy: {fileID: 0}
+  maxSpawns: 3
 --- !u!212 &8697640524287703694
 SpriteRenderer:
   serializedVersion: 2
