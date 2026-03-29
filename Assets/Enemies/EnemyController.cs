@@ -1,7 +1,5 @@
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class EnemyController : MonoBehaviour, ITakeDamage
 {
@@ -31,14 +29,14 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     public void Heal(int amount)
     {
-        currentHP = Math.Clamp(currentHP+amount, 0, maxHP);
+        currentHP = Math.Clamp(currentHP + amount, 0, maxHP);
     }
 
     public void TakeDamage(int amount)
     {
-        if(bDead) return;
+        if (bDead) return;
         currentHP = Math.Clamp(currentHP - amount, 0, maxHP);
-        if(currentHP <= 0)
+        if (currentHP <= 0)
         {
             Death();
         }
@@ -46,6 +44,12 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     public void Death()
     {
+        CapsuleCollider2D col = GetComponent<CapsuleCollider2D>();
+        if (col != null)
+        {
+            Destroy(col);
+        }
+        Destroy(rb);
         bDead = true;
         anim.SetBool("bIsDead", true);
         Pivot.gameObject.SetActive(false);
@@ -61,7 +65,7 @@ public class EnemyController : MonoBehaviour, ITakeDamage
             attack_script.damage = Damage;
             attack_script.AttackRate = AttackRate;
         }
-        
+
     }
 
     // Update is called once per frame
@@ -78,7 +82,7 @@ public class EnemyController : MonoBehaviour, ITakeDamage
             rb.linearVelocity = desiredVelocity;
             return;
         }
-       
+
 
         desiredVelocity = moveInput * moveSpeed;
 
@@ -100,36 +104,36 @@ public class EnemyController : MonoBehaviour, ITakeDamage
         if (bDead) return;
         if (dir.sqrMagnitude > 0f)
         {
-           
 
-                if (dir.sqrMagnitude > 0f)
-                {
-                    moveInput = dir.normalized;
-                   if(anim.runtimeAnimatorController != null)
+
+            if (dir.sqrMagnitude > 0f)
+            {
+                moveInput = dir.normalized;
+                if (anim.runtimeAnimatorController != null)
                 {
                     anim.SetFloat("LastInputX", moveInput.x);
                     anim.SetFloat("LastInputY", moveInput.y);
                     anim.SetBool("bIsMoving", true);
                 }
-                    
 
-                    if (dir.x < 0f)
-                    {
-                    Spr.flipX = true;
-                    }
-                    else if (dir.x > 0f)
-                    {
-                    Spr.flipX = false;
-                    }
-                }
-                else
+
+                if (dir.x < 0f)
                 {
+                    Spr.flipX = true;
+                }
+                else if (dir.x > 0f)
+                {
+                    Spr.flipX = false;
+                }
+            }
+            else
+            {
                 if (anim.runtimeAnimatorController != null)
                 {
                     anim.SetBool("bIsMoving", false);
                 }
-                }
-          
+            }
+
         }
         else
         {
@@ -139,21 +143,21 @@ public class EnemyController : MonoBehaviour, ITakeDamage
             }
         }
     }
-void look(Vector2 dir)
+    void look(Vector2 dir)
     {
         if (bDead) return;
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-        Quaternion rot = Quaternion.Euler(0f, 0f, angle+270);
+        Quaternion rot = Quaternion.Euler(0f, 0f, angle + 270);
         Pivot.rotation = rot;
     }
-     
-private void OnTriggerStay2D(Collider2D collision)
+
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.isTrigger)
         {
             return;
         }
-        if ( collision.CompareTag("Player"))
+        if (collision.CompareTag("Player"))
         {
             if (attack_script != null && bDead != true)
             {
@@ -163,8 +167,8 @@ private void OnTriggerStay2D(Collider2D collision)
                 movement(dir);
             }
         }
-        
+
     }
 
-  
+
 }
