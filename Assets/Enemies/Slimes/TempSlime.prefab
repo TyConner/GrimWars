@@ -48,8 +48,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0863f92afb13aa049b21473a8587b0cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlimeEnemy
-  maxHP: 3
-  currentHP: 0
+  maxHP: 1
+  currentHP: 1
   damage: 1
   speed: 2
   attackDistance: 1.5
@@ -159,7 +159,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.5, y: 0.5}
   m_EdgeRadius: 0
 --- !u!61 &4248548269714453767
 BoxCollider2D:
@@ -205,7 +205,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.5, y: 0.5}
   m_EdgeRadius: 0
 --- !u!50 &-7358899532346104324
 Rigidbody2D:

@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
-using UnityEngine.EventSystems;
-using static UnityEngine.UI.Image;
+﻿using UnityEngine;
 
 public class SpellScript : MonoBehaviour
 {
@@ -34,7 +31,7 @@ public class SpellScript : MonoBehaviour
 
     public int spellTargetLayer = 0;
 
-  
+
 
     //timers
 
@@ -49,13 +46,13 @@ public class SpellScript : MonoBehaviour
     private void Update()
     {
         lifeTimer += Time.deltaTime;
-        if(Type == spellType.DOT)
+        if (Type == spellType.DOT)
         {
             dmgTimer += Time.deltaTime;
         }
-        if(lifeTimer >= lifetime && DestroyAfterSeconds && mystate == state.playing)
+        if (lifeTimer >= lifetime && DestroyAfterSeconds && mystate == state.playing)
         {
-            if(Type == spellType.aoe)
+            if (Type == spellType.aoe)
             {
                 HandleAOE();
                 mystate = state.markedfordeath;
@@ -64,7 +61,7 @@ public class SpellScript : MonoBehaviour
             {
                 mystate = state.markedfordeath;
             }
-            if(Type == spellType.DOT)
+            if (Type == spellType.DOT)
             {
                 mystate = state.markedfordeath;
             }
@@ -78,7 +75,7 @@ public class SpellScript : MonoBehaviour
                 Destroy(gameObject);
             }
         }
-        if(Type == spellType.DOT && dmgTimer >= dmgRate)
+        if (Type == spellType.DOT && dmgTimer >= dmgRate)
         {
             dmgTimer = 0;
             HandleDOT();
@@ -106,7 +103,7 @@ public class SpellScript : MonoBehaviour
         dmgRate = dmgRateOrig * DOTAdj;
     }
 
-  
+
     public enum spellType
     {
         projectile, aoe, self, DOT
@@ -119,7 +116,7 @@ public class SpellScript : MonoBehaviour
         {
             return;
         }
-        
+
         if (mystate == state.playing)
         {
             if (Type == spellType.projectile)
@@ -149,6 +146,10 @@ public class SpellScript : MonoBehaviour
     }
     private void HandleHit(Collider2D col)
     {
+        if (col.isTrigger || col.GetComponent<PlayerController>() != null || col.GetComponent<SkeletonProjectile>() != null) //Eventually need to fix actual projectiles not colliding with each other, but for now this is a quick fix to prevent spell projectiles from colliding with each other and the player
+        {
+            return;
+        }
         mystate = state.markedfordeath;
         ITakeDamage damage = col.GetComponent<ITakeDamage>();
         if (damage != null)
@@ -161,11 +162,11 @@ public class SpellScript : MonoBehaviour
     private void HandleAOE()
     {
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        if(rb != null)
+        if (rb != null)
         {
             rb.linearVelocity = Vector2.zero;
         }
-        
+
         mystate = state.markedfordeath;
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, AOESize, spellTargetLayer);
         foreach (Collider2D hit in hits)
@@ -192,7 +193,7 @@ public class SpellScript : MonoBehaviour
                 }
                 continue;
             }
-           
+
         }
         PlayHitFX();
     }
@@ -232,20 +233,20 @@ public class SpellScript : MonoBehaviour
         if (Type == spellType.self)
         {
             iSpellEffects owner = transform.root.GetComponent<iSpellEffects>();
-            if(owner != null)
+            if (owner != null)
             {
                 owner.enactBuff(Buff, BuffTime, dmgAmount);
                 mystate = state.markedfordeath;
             }
         }
-    
+
         if (spr && spell && spellCastSFX)
         {
             spr.sprite = spell;
             AudioSource.PlayClipAtPoint(spellCastSFX, transform.position, SpellCastVol);
-            
+
         }
-        if(Type == spellType.projectile)
+        if (Type == spellType.projectile)
         {
             if (GetComponent<Rigidbody2D>() != null)
             {
@@ -254,12 +255,12 @@ public class SpellScript : MonoBehaviour
             }
         }
 
-        if(Type == spellType.aoe)
+        if (Type == spellType.aoe)
         {
             HandleAOE();
         }
-        
-        if(Type == spellType.DOT)
+
+        if (Type == spellType.DOT)
         {
             dmgTimer = dmgRate;
         }

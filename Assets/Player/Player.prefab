@@ -2233,9 +2233,9 @@ MonoBehaviour:
   GrimoireSprite: {fileID: 8713019500081371354}
   Screen: {fileID: 6470882483111956303}
   audioSource: {fileID: -1076165738380439592}
-  healing: {fileID: 8300000, guid: a71d21f477610144793992d9db92e166, type: 3}
-  damageTaken: {fileID: 8300000, guid: 64ab4f8c2f6fcea40989ad07e16eecf5, type: 3}
-  pickupClip: {fileID: 8300000, guid: 5dbc1bcf67f6bd54093e6ee902c999d7, type: 3}
+  healing: {fileID: 8300000, guid: be340918df9eecf49816ad6e0812e365, type: 3}
+  damageTaken: {fileID: 8300000, guid: 53686136631e0e049aacbededa4a37fa, type: 3}
+  pickupClip: {fileID: 8300000, guid: 33adcf793c6c1774ea15df692092b826, type: 3}
   pauseSFX: {fileID: 8300000, guid: 3c12af57c02845e419649b547dd4c620, type: 3}
   resumeSFX: {fileID: 8300000, guid: 3c12af57c02845e419649b547dd4c620, type: 3}
 --- !u!50 &579560831940334851

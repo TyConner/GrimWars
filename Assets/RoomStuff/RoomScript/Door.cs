@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Door : MonoBehaviour
@@ -6,6 +7,12 @@ public class Door : MonoBehaviour
     [HideInInspector] public RoomManager roomManager;
 
     public Vector2Int doorDirection;
+
+    float hOffset = 7f;
+    float vOffset = 3f;
+    [SerializeField] private float teleportCooldown = 0.2f;
+
+    private static bool isTeleporting = false;
 
     private void Start()
     {
@@ -18,26 +25,60 @@ public class Door : MonoBehaviour
         {
             roomManager = FindFirstObjectByType<RoomManager>();
         }
-
-        Room targetRoom = roomManager.GetRoomScriptAt(currentRoom.RoomIndex + doorDirection);
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other.gameObject.GetComponent<PlayerController>())
+        if (isTeleporting)
         {
             return;
         }
+
+        PlayerController player = other.GetComponent<PlayerController>();
+        if (player == null)
+        {
+            return;
+        }
+
         Vector3 targetPosition = roomManager.GetRoomPositionFromDoor(currentRoom, doorDirection);
+
+        if (doorDirection.x == -1)
+        {
+            targetPosition += Vector3.right * hOffset;
+        }
+        else if (doorDirection.x == 1)
+        {
+            targetPosition += Vector3.left * hOffset;
+        }
+        else if (doorDirection.y == 1)
+        {
+            targetPosition += Vector3.down * vOffset;
+        }
+        else if (doorDirection.y == -1)
+        {
+            targetPosition += Vector3.up * vOffset;
+        }
+
+        isTeleporting = true;
         other.transform.position = targetPosition;
 
         Room targetRoom = roomManager.GetRoomScriptAt(currentRoom.RoomIndex + doorDirection);
 
-        if (targetRoom != null)
+        if (targetRoom != null && Camera.main != null)
         {
-            Camera.main.transform.position = new Vector3(targetRoom.transform.position.x, targetRoom.transform.position.y, Camera.main.transform.position.z);
+            Camera.main.transform.position = new Vector3(
+                targetRoom.transform.position.x,
+                targetRoom.transform.position.y,
+                Camera.main.transform.position.z
+            );
         }
 
+        StartCoroutine(ResetTeleportLock());
+    }
+
+    private IEnumerator ResetTeleportLock()
+    {
+        yield return new WaitForSeconds(teleportCooldown);
+        isTeleporting = false;
     }
 }
