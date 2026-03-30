@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: d5059979c00876744bb6b08ef7d4f669
+guid: 3b2fc1173c95b054fb301ee98ffde30a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7008412969330441016
-    second: Attack_0
+      213: -8715083502711245780
+    second: Dmg_0
   - first:
-      213: -7763475090823894447
-    second: Attack_1
+      213: 6983038044538951761
+    second: Dmg_1
   - first:
-      213: 302641331129538988
-    second: Attack_2
+      213: 8460677757513319468
+    second: Dmg_2
   - first:
-      213: -6329420634031446844
-    second: Attack_3
+      213: 8939994805267563645
+    second: Dmg_3
   - first:
-      213: -910092549403018386
-    second: Attack_4
+      213: 4135715945018276396
+    second: Dmg_4
   - first:
-      213: 221524225039350300
-    second: Attack_5
+      213: 1728710457996777757
+    second: Dmg_5
   - first:
-      213: 1290532464073988732
-    second: Attack_6
+      213: -8378223661584353612
+    second: Dmg_6
   - first:
-      213: 4780903288873104255
-    second: Attack_7
+      213: 7141793096451478947
+    second: Dmg_7
   - first:
-      213: -2238382357930459393
-    second: Attack_8
+      213: 5781619277977669947
+    second: Dmg_8
   - first:
-      213: -297473348006037033
-    second: Attack_9
+      213: 6999477368760325883
+    second: Dmg_9
   - first:
-      213: -4098942091326826159
-    second: Attack_10
+      213: -6549780542099676699
+    second: Dmg_10
   - first:
-      213: -9192815492500660022
-    second: Attack_11
+      213: 580713180529800988
+    second: Dmg_11
   - first:
-      213: -8528791842903838742
-    second: Attack_12
+      213: 4697177126368311698
+    second: Dmg_12
   - first:
-      213: 5714683192730101994
-    second: Attack_13
+      213: -6090393123492917104
+    second: Dmg_13
   - first:
-      213: 967789818437793053
-    second: Attack_14
+      213: -3522525753678546947
+    second: Dmg_14
   - first:
-      213: -1764178081267469583
-    second: Attack_15
+      213: 5866811183706171711
+    second: Dmg_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,7 +146,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -158,7 +158,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack_0
+      name: Dmg_0
       rect:
         serializedVersion: 2
         x: 0
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c481db598d1dbe90800000000000000
-      internalID: -7008412969330441016
+      spriteID: c2477019abdcd0780800000000000000
+      internalID: -8715083502711245780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_1
+      name: Dmg_1
       rect:
         serializedVersion: 2
         x: 32
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15a29dc9988924490800000000000000
-      internalID: -7763475090823894447
+      spriteID: 15858c19a1cb8e060800000000000000
+      internalID: 6983038044538951761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_2
+      name: Dmg_2
       rect:
         serializedVersion: 2
         x: 64
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca9d35cefa2333400800000000000000
-      internalID: 302641331129538988
+      spriteID: c2441a7089d5a6570800000000000000
+      internalID: 8460677757513319468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_3
+      name: Dmg_3
       rect:
         serializedVersion: 2
         x: 96
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c42782d7716928a0800000000000000
-      internalID: -6329420634031446844
+      spriteID: d748fc5c8ed311c70800000000000000
+      internalID: 8939994805267563645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_4
+      name: Dmg_4
       rect:
         serializedVersion: 2
         x: 0
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6b7a10f5a3be53f0800000000000000
-      internalID: -910092549403018386
+      spriteID: c2abbb27db3056930800000000000000
+      internalID: 4135715945018276396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_5
+      name: Dmg_5
       rect:
         serializedVersion: 2
         x: 32
@@ -283,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1a3d96eb13031300800000000000000
-      internalID: 221524225039350300
+      spriteID: d199660a00d9df710800000000000000
+      internalID: 1728710457996777757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_6
+      name: Dmg_6
       rect:
         serializedVersion: 2
         x: 64
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7a5d344074e8e110800000000000000
-      internalID: 1290532464073988732
+      spriteID: 4b6fd7238f19abb80800000000000000
+      internalID: -8378223661584353612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_7
+      name: Dmg_7
       rect:
         serializedVersion: 2
         x: 96
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7337cef53e295240800000000000000
-      internalID: 4780903288873104255
+      spriteID: 3a5d35d7bfebc1360800000000000000
+      internalID: 7141793096451478947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_8
+      name: Dmg_8
       rect:
         serializedVersion: 2
         x: 0
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffebd0cda1bafe0e0800000000000000
-      internalID: -2238382357930459393
+      spriteID: b31d86ad9107c3050800000000000000
+      internalID: 5781619277977669947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_9
+      name: Dmg_9
       rect:
         serializedVersion: 2
         x: 32
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d934f9e0992fdbf0800000000000000
-      internalID: -297473348006037033
+      spriteID: bf658520593232160800000000000000
+      internalID: 6999477368760325883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_10
+      name: Dmg_10
       rect:
         serializedVersion: 2
         x: 64
@@ -393,14 +393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 159519392e1ad17c0800000000000000
-      internalID: -4098942091326826159
+      spriteID: 5e122679c418a15a0800000000000000
+      internalID: -6549780542099676699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_11
+      name: Dmg_11
       rect:
         serializedVersion: 2
         x: 96
@@ -415,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac06ac3e30f8c6080800000000000000
-      internalID: -9192815492500660022
+      spriteID: c17bdd99f8b1f0800800000000000000
+      internalID: 580713180529800988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_12
+      name: Dmg_12
       rect:
         serializedVersion: 2
         x: 0
@@ -437,14 +437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aefa770a105a3a980800000000000000
-      internalID: -8528791842903838742
+      spriteID: 299f540b5b9bf2140800000000000000
+      internalID: 4697177126368311698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_13
+      name: Dmg_13
       rect:
         serializedVersion: 2
         x: 32
@@ -459,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae8a29a0612ae4f40800000000000000
-      internalID: 5714683192730101994
+      spriteID: 09019b3f8b39a7ba0800000000000000
+      internalID: -6090393123492917104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_14
+      name: Dmg_14
       rect:
         serializedVersion: 2
         x: 64
@@ -481,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d15793956b74e6d00800000000000000
-      internalID: 967789818437793053
+      spriteID: df733db7d797d1fc0800000000000000
+      internalID: -3522525753678546947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_15
+      name: Dmg_15
       rect:
         serializedVersion: 2
         x: 96
@@ -503,8 +503,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f2b581d1616487e0800000000000000
-      internalID: -1764178081267469583
+      spriteID: f39681910b91b6150800000000000000
+      internalID: 5866811183706171711
       vertices: []
       indices: 
       edges: []
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5690c557a1261894ebd6b8a81cf9026a
+    spriteID: 674bd94516bfb3043ad2cd239afcf083
     internalID: 0
     vertices: []
     indices: 
@@ -523,24 +523,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
     nameFileIdTable:
-      Attack_0: -7008412969330441016
-      Attack_1: -7763475090823894447
-      Attack_10: -4098942091326826159
-      Attack_11: -9192815492500660022
-      Attack_12: -8528791842903838742
-      Attack_13: 5714683192730101994
-      Attack_14: 967789818437793053
-      Attack_15: -1764178081267469583
-      Attack_2: 302641331129538988
-      Attack_3: -6329420634031446844
-      Attack_4: -910092549403018386
-      Attack_5: 221524225039350300
-      Attack_6: 1290532464073988732
-      Attack_7: 4780903288873104255
-      Attack_8: -2238382357930459393
-      Attack_9: -297473348006037033
+      Dmg_0: -8715083502711245780
+      Dmg_1: 6983038044538951761
+      Dmg_10: -6549780542099676699
+      Dmg_11: 580713180529800988
+      Dmg_12: 4697177126368311698
+      Dmg_13: -6090393123492917104
+      Dmg_14: -3522525753678546947
+      Dmg_15: 5866811183706171711
+      Dmg_2: 8460677757513319468
+      Dmg_3: 8939994805267563645
+      Dmg_4: 4135715945018276396
+      Dmg_5: 1728710457996777757
+      Dmg_6: -8378223661584353612
+      Dmg_7: 7141793096451478947
+      Dmg_8: 5781619277977669947
+      Dmg_9: 6999477368760325883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

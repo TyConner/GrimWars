@@ -1,0 +1,1854 @@
+fileFormatVersion: 2
+guid: 3a9e0882379178f4fa3e664028a5b02e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1983434036056564680
+    second: Hellfire_0
+  - first:
+      213: -1306004534457479558
+    second: Hellfire_1
+  - first:
+      213: 1494300946904221586
+    second: Hellfire_2
+  - first:
+      213: -4740696711727041443
+    second: Hellfire_3
+  - first:
+      213: 5734725939856485141
+    second: Hellfire_4
+  - first:
+      213: 7370209628738063071
+    second: Hellfire_5
+  - first:
+      213: 4284193084541023780
+    second: Hellfire_6
+  - first:
+      213: 3116206022147324438
+    second: Hellfire_7
+  - first:
+      213: -6547529655641304321
+    second: Hellfire_8
+  - first:
+      213: 5087719592461735539
+    second: Hellfire_9
+  - first:
+      213: -7836112837574106658
+    second: Hellfire_10
+  - first:
+      213: 8980671671034549250
+    second: Hellfire_11
+  - first:
+      213: 2981632458345543570
+    second: Hellfire_12
+  - first:
+      213: 5877274073847199102
+    second: Hellfire_13
+  - first:
+      213: -8306018761935444397
+    second: Hellfire_14
+  - first:
+      213: -3636854053536815212
+    second: Hellfire_15
+  - first:
+      213: -1580720987528138210
+    second: Hellfire_16
+  - first:
+      213: 8813470103241734055
+    second: Hellfire_17
+  - first:
+      213: -679688594761965153
+    second: Hellfire_18
+  - first:
+      213: 6575564182911285428
+    second: Hellfire_19
+  - first:
+      213: -8979583585739869913
+    second: Hellfire_20
+  - first:
+      213: -6069665070569380187
+    second: Hellfire_21
+  - first:
+      213: 1154252683022406530
+    second: Hellfire_22
+  - first:
+      213: -5134083574079794161
+    second: Hellfire_23
+  - first:
+      213: 5688666682174006678
+    second: Hellfire_24
+  - first:
+      213: -6671148946619495977
+    second: Hellfire_25
+  - first:
+      213: 149409848510948380
+    second: Hellfire_26
+  - first:
+      213: -6453902082015518532
+    second: Hellfire_27
+  - first:
+      213: -2284249905569879056
+    second: Hellfire_28
+  - first:
+      213: -411111179216084572
+    second: Hellfire_29
+  - first:
+      213: -539902208355179776
+    second: Hellfire_30
+  - first:
+      213: 1512994455521866821
+    second: Hellfire_31
+  - first:
+      213: -2960088594541386178
+    second: Hellfire_32
+  - first:
+      213: -5316757461549048990
+    second: Hellfire_33
+  - first:
+      213: -7860655010226587221
+    second: Hellfire_34
+  - first:
+      213: 8132593842799653153
+    second: Hellfire_35
+  - first:
+      213: -9122907685603041972
+    second: Hellfire_36
+  - first:
+      213: -469120107152064004
+    second: Hellfire_37
+  - first:
+      213: -475795050200731485
+    second: Hellfire_38
+  - first:
+      213: -3706660614018738593
+    second: Hellfire_39
+  - first:
+      213: -5255014269182146183
+    second: Hellfire_40
+  - first:
+      213: -1742213944061355580
+    second: Hellfire_41
+  - first:
+      213: 134341388427223733
+    second: Hellfire_42
+  - first:
+      213: 1346373426587347536
+    second: Hellfire_43
+  - first:
+      213: 2242120900086828321
+    second: Hellfire_44
+  - first:
+      213: -1257467872817447122
+    second: Hellfire_45
+  - first:
+      213: -3184818766848296041
+    second: Hellfire_46
+  - first:
+      213: -9092836261691687820
+    second: Hellfire_47
+  - first:
+      213: -2922586239165371554
+    second: Hellfire_48
+  - first:
+      213: -4150451955450153037
+    second: Hellfire_49
+  - first:
+      213: -7322539900000023498
+    second: Hellfire_50
+  - first:
+      213: 54012113798600772
+    second: Hellfire_51
+  - first:
+      213: -1271650867641193035
+    second: Hellfire_52
+  - first:
+      213: 2388290179710766735
+    second: Hellfire_53
+  - first:
+      213: -2100008641465903897
+    second: Hellfire_54
+  - first:
+      213: 6740491873879275849
+    second: Hellfire_55
+  - first:
+      213: 783935383925376461
+    second: Hellfire_56
+  - first:
+      213: -196409994493990030
+    second: Hellfire_57
+  - first:
+      213: -1472595078012301369
+    second: Hellfire_58
+  - first:
+      213: 5358443047996147959
+    second: Hellfire_59
+  - first:
+      213: -4781712320242147487
+    second: Hellfire_60
+  - first:
+      213: -5460210232719995978
+    second: Hellfire_61
+  - first:
+      213: 110672959746613137
+    second: Hellfire_62
+  - first:
+      213: -1080417125490337141
+    second: Hellfire_63
+  - first:
+      213: 7170772979394087370
+    second: Hellfire_64
+  - first:
+      213: 8212359082982671116
+    second: Hellfire_65
+  - first:
+      213: -4981496731594231750
+    second: Hellfire_66
+  - first:
+      213: 6738750695268847998
+    second: Hellfire_67
+  - first:
+      213: -3859739272782564631
+    second: Hellfire_68
+  - first:
+      213: 1011222227644430017
+    second: Hellfire_69
+  - first:
+      213: 8039324351592676032
+    second: Hellfire_70
+  - first:
+      213: -8782125433476357243
+    second: Hellfire_71
+  - first:
+      213: 2744217548616229865
+    second: Hellfire_72
+  - first:
+      213: 279443180761430094
+    second: Hellfire_73
+  - first:
+      213: 7654677089784157860
+    second: Hellfire_74
+  - first:
+      213: 1289560889248892496
+    second: Hellfire_75
+  - first:
+      213: -4109340302186737730
+    second: Hellfire_76
+  - first:
+      213: -7830689892077827353
+    second: Hellfire_77
+  - first:
+      213: -3165892625785608746
+    second: Hellfire_78
+  - first:
+      213: -7720503789661659346
+    second: Hellfire_79
+  - first:
+      213: 401883714626363615
+    second: Hellfire_80
+  - first:
+      213: 2378971723673416285
+    second: Hellfire_81
+  - first:
+      213: 2684857089489461321
+    second: Hellfire_82
+  - first:
+      213: 4899650247633948319
+    second: Hellfire_83
+  - first:
+      213: 5270287710938786965
+    second: Hellfire_84
+  - first:
+      213: -702107081635543513
+    second: Hellfire_85
+  - first:
+      213: 7484951862126154280
+    second: Hellfire_86
+  - first:
+      213: 7408031665838054025
+    second: Hellfire_87
+  - first:
+      213: 1194484816668720647
+    second: Hellfire_88
+  - first:
+      213: -8021586117912542863
+    second: Hellfire_89
+  - first:
+      213: -8618758922637954859
+    second: Hellfire_90
+  - first:
+      213: 3603457185311475151
+    second: Hellfire_91
+  - first:
+      213: -5120697780020958558
+    second: Hellfire_92
+  - first:
+      213: -1525533874539313707
+    second: Hellfire_93
+  - first:
+      213: 272274014678474998
+    second: Hellfire_94
+  - first:
+      213: -4805784201483553234
+    second: Hellfire_95
+  - first:
+      213: 6025467162281650534
+    second: Hellfire_96
+  - first:
+      213: -1723457629128429421
+    second: Hellfire_97
+  - first:
+      213: 3983814123409040
+    second: Hellfire_98
+  - first:
+      213: -8657848934780432075
+    second: Hellfire_99
+  - first:
+      213: 1389495269987999342
+    second: Hellfire_100
+  - first:
+      213: 5198401977242080168
+    second: Hellfire_101
+  - first:
+      213: 2719412598308344155
+    second: Hellfire_102
+  - first:
+      213: 7388458052938443342
+    second: Hellfire_103
+  - first:
+      213: 6172841820397456683
+    second: Hellfire_104
+  - first:
+      213: -3501459818313914966
+    second: Hellfire_105
+  - first:
+      213: 1864713343176990997
+    second: Hellfire_106
+  - first:
+      213: 6243081300905900171
+    second: Hellfire_107
+  - first:
+      213: -885149243200719815
+    second: Hellfire_108
+  - first:
+      213: -722710234245012544
+    second: Hellfire_109
+  - first:
+      213: 3789242836310821529
+    second: Hellfire_110
+  - first:
+      213: 7293140197691099425
+    second: Hellfire_111
+  - first:
+      213: 6833633395986614826
+    second: Hellfire_112
+  - first:
+      213: 7443713969473590763
+    second: Hellfire_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hellfire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cdd6db04d6974e0800000000000000
+      internalID: -1983434036056564680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ecc90abc320ede0800000000000000
+      internalID: -1306004534457479558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29781c74bc2dcb410800000000000000
+      internalID: 1494300946904221586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b5ad3579a53eb0800000000000000
+      internalID: -4740696711727041443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2d51cbd6d59f40800000000000000
+      internalID: 5734725939856485141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8819bb9e384660800000000000000
+      internalID: 7370209628738063071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b04969e2847b30800000000000000
+      internalID: 4284193084541023780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a3605eddcfe3b20800000000000000
+      internalID: 3116206022147324438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21a2fe7708225a0800000000000000
+      internalID: -6547529655641304321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3761a7173063b9640800000000000000
+      internalID: 5087719592461735539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1648844e8804390800000000000000
+      internalID: -7836112837574106658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049d6c9d41c1ac70800000000000000
+      internalID: 8980671671034549250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297f57a6ce2e06920800000000000000
+      internalID: 2981632458345543570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75764b81a5409150800000000000000
+      internalID: 5877274073847199102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ab1571f71bbc80800000000000000
+      internalID: -8306018761935444397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497aff6d18c478dc0800000000000000
+      internalID: -3636854053536815212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12716903a6201ae0800000000000000
+      internalID: -1580720987528138210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7bf36fc5cbf4a70800000000000000
+      internalID: 8813470103241734055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91245ff2d24196f0800000000000000
+      internalID: -679688594761965153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8753819c8114b50800000000000000
+      internalID: 6575564182911285428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721fb0dfd4c126380800000000000000
+      internalID: -8979583585739869913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ad1bd6c734cba0800000000000000
+      internalID: -6069665070569380187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283979023bab40010800000000000000
+      internalID: 1154252683022406530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f045ecfd03210c8b0800000000000000
+      internalID: -5134083574079794161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695e494253432fe40800000000000000
+      internalID: 5688666682174006678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90609d0615b63a0800000000000000
+      internalID: -6671148946619495977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14a072377fc21200800000000000000
+      internalID: 149409848510948380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0af4a20422f66a0800000000000000
+      internalID: -6453902082015518532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba94830d6bc40e0800000000000000
+      internalID: -2284249905569879056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a122a78f807b4af0800000000000000
+      internalID: -411111179216084572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036a815dc1e188f0800000000000000
+      internalID: -539902208355179776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544348ce07c3ff410800000000000000
+      internalID: 1512994455521866821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36eca24b17abe6d0800000000000000
+      internalID: -2960088594541386178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b167312451736b0800000000000000
+      internalID: -5316757461549048990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9bc8d6ae759e290800000000000000
+      internalID: -7860655010226587221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213a9ef207ccd070800000000000000
+      internalID: 8132593842799653153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d13f09bcbe46180800000000000000
+      internalID: -9122907685603041972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf145308fb95d79f0800000000000000
+      internalID: -469120107152064004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a075e63ce2a569f0800000000000000
+      internalID: -475795050200731485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565b7e6fcb4f8cc0800000000000000
+      internalID: -3706660614018738593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790acb4d507217b0800000000000000
+      internalID: -5255014269182146183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99d7506a962d7e0800000000000000
+      internalID: -1742213944061355580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b266dfe7c64dd100800000000000000
+      internalID: 134341388427223733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa3c28f774fa210800000000000000
+      internalID: 1346373426587347536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8721541d9d1f10800000000000000
+      internalID: 2242120900086828321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fff3cc1a39c8ee0800000000000000
+      internalID: -1257467872817447122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b720894304dc3d0800000000000000
+      internalID: -3184818766848296041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c731d8891cfc180800000000000000
+      internalID: -9092836261691687820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6a1dcc43e077d0800000000000000
+      internalID: -2922586239165371554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77112cfe1a666c0800000000000000
+      internalID: -4150451955450153037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ccfd6e1cc116a90800000000000000
+      internalID: -7322539900000023498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44898883bb3efb000800000000000000
+      internalID: 54012113798600772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdedebf5403a5ee0800000000000000
+      internalID: -1271650867641193035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec636c349e42120800000000000000
+      internalID: 2388290179710766735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e49c2454454bd2e0800000000000000
+      internalID: -2100008641465903897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493bf985a90b8d50800000000000000
+      internalID: 6740491873879275849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc54bb5041911ea00800000000000000
+      internalID: 783935383925376461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b69df8626364df0800000000000000
+      internalID: -196409994493990030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf8615249a409be0800000000000000
+      internalID: -1472595078012301369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellfire_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8c8f8df830d5a40800000000000000
+      internalID: 5358443047996147959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69f40ccba40f8744eab461bce82824f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":28.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hellfire_0: -1983434036056564680
+      Hellfire_1: -1306004534457479558
+      Hellfire_10: -7836112837574106658
+      Hellfire_11: 8980671671034549250
+      Hellfire_12: 2981632458345543570
+      Hellfire_13: 5877274073847199102
+      Hellfire_14: -8306018761935444397
+      Hellfire_15: -3636854053536815212
+      Hellfire_16: -1580720987528138210
+      Hellfire_17: 8813470103241734055
+      Hellfire_18: -679688594761965153
+      Hellfire_19: 6575564182911285428
+      Hellfire_2: 1494300946904221586
+      Hellfire_20: -8979583585739869913
+      Hellfire_21: -6069665070569380187
+      Hellfire_22: 1154252683022406530
+      Hellfire_23: -5134083574079794161
+      Hellfire_24: 5688666682174006678
+      Hellfire_25: -6671148946619495977
+      Hellfire_26: 149409848510948380
+      Hellfire_27: -6453902082015518532
+      Hellfire_28: -2284249905569879056
+      Hellfire_29: -411111179216084572
+      Hellfire_3: -4740696711727041443
+      Hellfire_30: -539902208355179776
+      Hellfire_31: 1512994455521866821
+      Hellfire_32: -2960088594541386178
+      Hellfire_33: -5316757461549048990
+      Hellfire_34: -7860655010226587221
+      Hellfire_35: 8132593842799653153
+      Hellfire_36: -9122907685603041972
+      Hellfire_37: -469120107152064004
+      Hellfire_38: -475795050200731485
+      Hellfire_39: -3706660614018738593
+      Hellfire_4: 5734725939856485141
+      Hellfire_40: -5255014269182146183
+      Hellfire_41: -1742213944061355580
+      Hellfire_42: 134341388427223733
+      Hellfire_43: 1346373426587347536
+      Hellfire_44: 2242120900086828321
+      Hellfire_45: -1257467872817447122
+      Hellfire_46: -3184818766848296041
+      Hellfire_47: -9092836261691687820
+      Hellfire_48: -2922586239165371554
+      Hellfire_49: -4150451955450153037
+      Hellfire_5: 7370209628738063071
+      Hellfire_50: -7322539900000023498
+      Hellfire_51: 54012113798600772
+      Hellfire_52: -1271650867641193035
+      Hellfire_53: 2388290179710766735
+      Hellfire_54: -2100008641465903897
+      Hellfire_55: 6740491873879275849
+      Hellfire_56: 783935383925376461
+      Hellfire_57: -196409994493990030
+      Hellfire_58: -1472595078012301369
+      Hellfire_59: 5358443047996147959
+      Hellfire_6: 4284193084541023780
+      Hellfire_7: 3116206022147324438
+      Hellfire_8: -6547529655641304321
+      Hellfire_9: 5087719592461735539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

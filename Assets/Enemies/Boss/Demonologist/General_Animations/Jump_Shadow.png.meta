@@ -1,55 +1,10 @@
 fileFormatVersion: 2
-guid: d5059979c00876744bb6b08ef7d4f669
+guid: d4e8d6bb812b8ec449c1a9b3ca8f8db0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7008412969330441016
-    second: Attack_0
-  - first:
-      213: -7763475090823894447
-    second: Attack_1
-  - first:
-      213: 302641331129538988
-    second: Attack_2
-  - first:
-      213: -6329420634031446844
-    second: Attack_3
-  - first:
-      213: -910092549403018386
-    second: Attack_4
-  - first:
-      213: 221524225039350300
-    second: Attack_5
-  - first:
-      213: 1290532464073988732
-    second: Attack_6
-  - first:
-      213: 4780903288873104255
-    second: Attack_7
-  - first:
-      213: -2238382357930459393
-    second: Attack_8
-  - first:
-      213: -297473348006037033
-    second: Attack_9
-  - first:
-      213: -4098942091326826159
-    second: Attack_10
-  - first:
-      213: -9192815492500660022
-    second: Attack_11
-  - first:
-      213: -8528791842903838742
-    second: Attack_12
-  - first:
-      213: 5714683192730101994
-    second: Attack_13
-  - first:
-      213: 967789818437793053
-    second: Attack_14
-  - first:
-      213: -1764178081267469583
-    second: Attack_15
+      213: -7735695619198142792
+    second: Jump_Shadow_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,7 +101,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -158,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack_0
+      name: Jump_Shadow_0
       rect:
         serializedVersion: 2
         x: 0
@@ -173,14 +128,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c481db598d1dbe90800000000000000
-      internalID: -7008412969330441016
+      spriteID: 8b6362fd1d945a490800000000000000
+      internalID: -7735695619198142792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_1
+      name: Jump_Shadow_1
       rect:
         serializedVersion: 2
         x: 32
@@ -193,16 +148,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15a29dc9988924490800000000000000
-      internalID: -7763475090823894447
+      spriteID: b54eb95f95f51354ebe43ac1331bbdf6
+      internalID: -1143371965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_2
+      name: Jump_Shadow_2
       rect:
         serializedVersion: 2
         x: 64
@@ -215,16 +170,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ca9d35cefa2333400800000000000000
-      internalID: 302641331129538988
+      spriteID: cf34ada8d54d77d42b29a50cb44561b8
+      internalID: 509789032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_3
+      name: Jump_Shadow_3
       rect:
         serializedVersion: 2
         x: 96
@@ -237,16 +192,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c42782d7716928a0800000000000000
-      internalID: -6329420634031446844
+      spriteID: fce4b03e0052a6c4fa9649666e45aff0
+      internalID: -84593778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_4
+      name: Jump_Shadow_4
       rect:
         serializedVersion: 2
         x: 0
@@ -259,16 +214,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e6b7a10f5a3be53f0800000000000000
-      internalID: -910092549403018386
+      spriteID: 38552301b97e84346a8507e8cf8aa1c7
+      internalID: 463674334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_5
+      name: Jump_Shadow_5
       rect:
         serializedVersion: 2
         x: 32
@@ -281,16 +236,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c1a3d96eb13031300800000000000000
-      internalID: 221524225039350300
+      spriteID: 87957227025256c4a8e5742127064398
+      internalID: -659874472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_6
+      name: Jump_Shadow_6
       rect:
         serializedVersion: 2
         x: 64
@@ -303,16 +258,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c7a5d344074e8e110800000000000000
-      internalID: 1290532464073988732
+      spriteID: 47114625e3190074b814b429e1a51bfb
+      internalID: 484125019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_7
+      name: Jump_Shadow_7
       rect:
         serializedVersion: 2
         x: 96
@@ -325,16 +280,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f7337cef53e295240800000000000000
-      internalID: 4780903288873104255
+      spriteID: b27e92a8fa1e01441a9124d891c8a0ce
+      internalID: 406611636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_8
+      name: Jump_Shadow_8
       rect:
         serializedVersion: 2
         x: 0
@@ -347,16 +302,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ffebd0cda1bafe0e0800000000000000
-      internalID: -2238382357930459393
+      spriteID: 383bc9fc899cda94fb55450e2fd88ff9
+      internalID: -2138013970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_9
+      name: Jump_Shadow_9
       rect:
         serializedVersion: 2
         x: 32
@@ -369,16 +324,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d934f9e0992fdbf0800000000000000
-      internalID: -297473348006037033
+      spriteID: 6984b336ec46fbd498ef4a35ec34ed49
+      internalID: 1247490187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_10
+      name: Jump_Shadow_10
       rect:
         serializedVersion: 2
         x: 64
@@ -391,16 +346,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 159519392e1ad17c0800000000000000
-      internalID: -4098942091326826159
+      spriteID: 5faf3daeeac6214428691ced47b954f2
+      internalID: -1737139863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_11
+      name: Jump_Shadow_11
       rect:
         serializedVersion: 2
         x: 96
@@ -413,16 +368,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac06ac3e30f8c6080800000000000000
-      internalID: -9192815492500660022
+      spriteID: 4190625018fe36849bdb53e04b556cfb
+      internalID: -309844692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_12
+      name: Jump_Shadow_12
       rect:
         serializedVersion: 2
         x: 0
@@ -435,16 +390,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aefa770a105a3a980800000000000000
-      internalID: -8528791842903838742
+      spriteID: 1b9334c7282f84a4296a1033e47e5684
+      internalID: 1543920035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_13
+      name: Jump_Shadow_13
       rect:
         serializedVersion: 2
         x: 32
@@ -457,16 +412,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae8a29a0612ae4f40800000000000000
-      internalID: 5714683192730101994
+      spriteID: 8e1b7ed2d9f20584c8b2b5368c6f71b6
+      internalID: -1466317839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_14
+      name: Jump_Shadow_14
       rect:
         serializedVersion: 2
         x: 64
@@ -479,16 +434,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d15793956b74e6d00800000000000000
-      internalID: 967789818437793053
+      spriteID: 1977b1f45a9cda548ab5ab45704de026
+      internalID: 245409783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_15
+      name: Jump_Shadow_15
       rect:
         serializedVersion: 2
         x: 96
@@ -501,10 +456,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f2b581d1616487e0800000000000000
-      internalID: -1764178081267469583
+      spriteID: b81504da53b8d58439418b7a23758212
+      internalID: 1286201567
       vertices: []
       indices: 
       edges: []
@@ -513,7 +468,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5690c557a1261894ebd6b8a81cf9026a
+    spriteID: 82e0f81f0fb725e48830805319dfb093
     internalID: 0
     vertices: []
     indices: 
@@ -523,24 +478,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Attack_0: -7008412969330441016
-      Attack_1: -7763475090823894447
-      Attack_10: -4098942091326826159
-      Attack_11: -9192815492500660022
-      Attack_12: -8528791842903838742
-      Attack_13: 5714683192730101994
-      Attack_14: 967789818437793053
-      Attack_15: -1764178081267469583
-      Attack_2: 302641331129538988
-      Attack_3: -6329420634031446844
-      Attack_4: -910092549403018386
-      Attack_5: 221524225039350300
-      Attack_6: 1290532464073988732
-      Attack_7: 4780903288873104255
-      Attack_8: -2238382357930459393
-      Attack_9: -297473348006037033
+      Jump_Shadow_0: -7735695619198142792
+      Jump_Shadow_1: -1143371965
+      Jump_Shadow_10: -1737139863
+      Jump_Shadow_11: -309844692
+      Jump_Shadow_12: 1543920035
+      Jump_Shadow_13: -1466317839
+      Jump_Shadow_14: 245409783
+      Jump_Shadow_15: 1286201567
+      Jump_Shadow_2: 509789032
+      Jump_Shadow_3: -84593778
+      Jump_Shadow_4: 463674334
+      Jump_Shadow_5: -659874472
+      Jump_Shadow_6: 484125019
+      Jump_Shadow_7: 406611636
+      Jump_Shadow_8: -2138013970
+      Jump_Shadow_9: 1247490187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
