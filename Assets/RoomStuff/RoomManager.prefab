@@ -45,10 +45,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoomManager
   roomParent: {fileID: 0}
-  roomPool: []
+  roomPool:
+  - prefab: {fileID: 0}
+    weight: 0
+  - prefab: {fileID: 5520314559438070134, guid: e851fe855f4b31d41a09b724143d76aa, type: 3}
+    weight: 1
+  - prefab: {fileID: 7345077301383922821, guid: da96b40cc18f6f64ebcbb2f84728a0b9, type: 3}
+    weight: 1
+  - prefab: {fileID: 530298186854267599, guid: 6dfc8b9bf7d3780479bdec3811884b4e, type: 3}
+    weight: 1
+  - prefab: {fileID: 2867804271451037995, guid: dc6b44cd41127c5448fd756891b63cbb, type: 3}
+    weight: 1
+  - prefab: {fileID: 8511723291703145110, guid: 41563867df7d57843b05b79615123a9c, type: 3}
+    weight: 1
+  - prefab: {fileID: 6929841776324599017, guid: df5f71d418dc5b547ab685736eabd706, type: 3}
+    weight: 1
+  - prefab: {fileID: 2894641576548997500, guid: a0e00613d59d5204190897c7068d7dcb, type: 3}
+    weight: 1
+  - prefab: {fileID: 61171549813434090, guid: ab0539f219a7383498a16b8260234285, type: 3}
+    weight: 1
   startRoomPrefab: {fileID: 0}
   bossRoomPrefab: {fileID: 0}
   maxRooms: 15
   minRooms: 7
-  gridSizeX: 10
-  gridSizeY: 10
+  gridSizeX: 20
+  gridSizeY: 20

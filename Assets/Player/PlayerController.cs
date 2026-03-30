@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Device;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
@@ -275,7 +274,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     {
         if (bDead) return;
 
-        GameInstance.Instance.ShakeCamera(damageCameraShakeDuration, damageCameraShakeAmplitude);
+        //GameInstance.Instance.ShakeCamera(damageCameraShakeDuration, damageCameraShakeAmplitude);
         currentHP = Math.Clamp(currentHP - amount, 0, maxHP);
         print("New Player HP: " + currentHP.ToString());
 
@@ -343,7 +342,7 @@ public class PlayerController : MonoBehaviour, ITakeDamage, iUseItems
     }
     private IEnumerator WaitForDeathAnimation(float delay)
     {
-        yield return new WaitForSeconds(delay); 
+        yield return new WaitForSeconds(delay);
         Screen.GameOver();
     }
 

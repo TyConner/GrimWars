@@ -95,7 +95,7 @@ MonoBehaviour:
   Spr: {fileID: 3885638253376749421}
   rb: {fileID: 7102810637910370222}
   maxHP: 1
-  currentHP: 0
+  currentHP: 1
 --- !u!212 &3885638253376749421
 SpriteRenderer:
   serializedVersion: 2

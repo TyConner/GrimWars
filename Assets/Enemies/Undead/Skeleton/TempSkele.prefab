@@ -49,8 +49,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82046efd8d704ae409aee77aae1888d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkeletonEnemy
-  maxHP: 3
-  currentHP: 3
+  maxHP: 1
+  currentHP: 1
   speed: 2
   stopDistance: 5
   projectilePrefab: {fileID: 5609466689616030288}
@@ -150,7 +150,7 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.7, y: 0.7}
   m_Direction: 0
 --- !u!50 &3110204880175089673
 Rigidbody2D:
@@ -214,7 +214,7 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.7, y: 0.7}
   m_Direction: 0
 --- !u!1 &5609466689616030288
 GameObject:
