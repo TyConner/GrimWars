@@ -21,7 +21,6 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
 
     Vector2 moveInput;
-    Vector2 lookInput;
     Vector2 desiredVelocity;
     Vector2 velSmoothRef;
     bool bDead = false;
@@ -97,48 +96,23 @@ public class EnemyController : MonoBehaviour, ITakeDamage
 
     void movement(Vector2 dir)
     {
-        if (bDead) return;
+        if (bDead) { 
+            return; 
+        }
         if (dir.sqrMagnitude > 0f)
         {
-           
-
-                if (dir.sqrMagnitude > 0f)
-                {
-                    moveInput = dir.normalized;
-                   if(anim.runtimeAnimatorController != null)
-                {
+            moveInput = dir.normalized;
+            if(anim.runtimeAnimatorController != null){
                     anim.SetFloat("LastInputX", moveInput.x);
                     anim.SetFloat("LastInputY", moveInput.y);
                     anim.SetBool("bIsMoving", true);
-                }
-                    
-
-                    if (dir.x < 0f)
-                    {
-                    Spr.flipX = true;
-                    }
-                    else if (dir.x > 0f)
-                    {
-                    Spr.flipX = false;
-                    }
-                }
-                else
-                {
-                if (anim.runtimeAnimatorController != null)
-                {
-                    anim.SetBool("bIsMoving", false);
-                }
-                }
-          
-        }
-        else
-        {
-            if (anim.runtimeAnimatorController != null)
-            {
-                anim.SetBool("bIsMoving", false);
             }
         }
-    }
+        else{
+            anim.SetBool("bIsMoving", false);
+        }
+    } 
+    
 void look(Vector2 dir)
     {
         if (bDead) return;

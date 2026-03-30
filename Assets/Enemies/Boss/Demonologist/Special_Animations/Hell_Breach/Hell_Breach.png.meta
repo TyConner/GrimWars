@@ -190,7 +190,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -204,7 +204,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -256,16 +269,24 @@ TextureImporter:
       name: Hell_Breach_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 108
-        width: 15
-        height: 19
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 28a442036065abcf0800000000000000
@@ -278,16 +299,24 @@ TextureImporter:
       name: Hell_Breach_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 108
-        width: 15
-        height: 20
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 3be54b4fc017f4530800000000000000
@@ -300,16 +329,24 @@ TextureImporter:
       name: Hell_Breach_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 110
-        width: 19
-        height: 18
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: f4af18886990c00e0800000000000000
@@ -322,16 +359,24 @@ TextureImporter:
       name: Hell_Breach_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 113
-        width: 17
-        height: 15
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: a52216e4a4ae0df60800000000000000
@@ -344,16 +389,24 @@ TextureImporter:
       name: Hell_Breach_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 113
-        width: 15
-        height: 15
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b74d7b8782db07d20800000000000000
@@ -366,16 +419,24 @@ TextureImporter:
       name: Hell_Breach_5
       rect:
         serializedVersion: 2
-        x: 167
-        y: 105
-        width: 19
-        height: 23
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: d7c36d309b9a47800800000000000000
@@ -388,16 +449,24 @@ TextureImporter:
       name: Hell_Breach_6
       rect:
         serializedVersion: 2
-        x: 198
-        y: 102
-        width: 22
-        height: 23
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 15e1c33b0ef3dedd0800000000000000
@@ -410,16 +479,24 @@ TextureImporter:
       name: Hell_Breach_7
       rect:
         serializedVersion: 2
-        x: 226
-        y: 101
-        width: 30
-        height: 19
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 0122d5111c77556a0800000000000000
@@ -432,16 +509,24 @@ TextureImporter:
       name: Hell_Breach_8
       rect:
         serializedVersion: 2
-        x: 257
-        y: 100
+        x: 256
+        y: 96
         width: 32
-        height: 20
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 35bff0143da8d1610800000000000000
@@ -454,16 +539,24 @@ TextureImporter:
       name: Hell_Breach_9
       rect:
         serializedVersion: 2
-        x: 289
-        y: 99
+        x: 288
+        y: 96
         width: 32
-        height: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: d3151944d89233b90800000000000000
@@ -476,16 +569,24 @@ TextureImporter:
       name: Hell_Breach_10
       rect:
         serializedVersion: 2
-        x: 330
-        y: 108
-        width: 14
-        height: 19
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 10a9bcd13c25c45e0800000000000000
@@ -498,16 +599,24 @@ TextureImporter:
       name: Hell_Breach_11
       rect:
         serializedVersion: 2
-        x: 361
-        y: 108
-        width: 14
-        height: 19
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 08fa414ee351cec70800000000000000
@@ -520,16 +629,24 @@ TextureImporter:
       name: Hell_Breach_12
       rect:
         serializedVersion: 2
-        x: 393
-        y: 108
-        width: 15
-        height: 18
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 47a8c5a2faecf48c0800000000000000
@@ -542,16 +659,24 @@ TextureImporter:
       name: Hell_Breach_13
       rect:
         serializedVersion: 2
-        x: 8
-        y: 76
-        width: 15
-        height: 19
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: d439cfe6afbd03590800000000000000
@@ -564,16 +689,24 @@ TextureImporter:
       name: Hell_Breach_14
       rect:
         serializedVersion: 2
-        x: 40
-        y: 76
-        width: 15
-        height: 20
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 916182c989f7f7900800000000000000
@@ -586,16 +719,24 @@ TextureImporter:
       name: Hell_Breach_15
       rect:
         serializedVersion: 2
-        x: 71
-        y: 78
-        width: 19
-        height: 18
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 54fc0de8d19be7580800000000000000
@@ -608,16 +749,24 @@ TextureImporter:
       name: Hell_Breach_16
       rect:
         serializedVersion: 2
-        x: 106
-        y: 81
-        width: 17
-        height: 15
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 97fa02ac6e6612100800000000000000
@@ -630,16 +779,24 @@ TextureImporter:
       name: Hell_Breach_17
       rect:
         serializedVersion: 2
-        x: 139
-        y: 81
-        width: 15
-        height: 16
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: d62eabc002bd6d300800000000000000
@@ -652,16 +809,24 @@ TextureImporter:
       name: Hell_Breach_18
       rect:
         serializedVersion: 2
-        x: 166
-        y: 73
-        width: 19
-        height: 23
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b28f34569a647c640800000000000000
@@ -674,16 +839,24 @@ TextureImporter:
       name: Hell_Breach_19
       rect:
         serializedVersion: 2
-        x: 196
-        y: 70
-        width: 22
-        height: 23
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 3a306b5ad688d49f0800000000000000
@@ -697,15 +870,23 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 69
-        width: 30
-        height: 19
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 74aeab05732f19ac0800000000000000
@@ -718,16 +899,24 @@ TextureImporter:
       name: Hell_Breach_21
       rect:
         serializedVersion: 2
-        x: 255
-        y: 68
+        x: 256
+        y: 64
         width: 32
-        height: 20
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: db74fb76f903391c0800000000000000
@@ -740,16 +929,24 @@ TextureImporter:
       name: Hell_Breach_22
       rect:
         serializedVersion: 2
-        x: 287
-        y: 67
+        x: 288
+        y: 64
         width: 32
-        height: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 2111e38aa17367850800000000000000
@@ -762,16 +959,24 @@ TextureImporter:
       name: Hell_Breach_23
       rect:
         serializedVersion: 2
-        x: 328
-        y: 76
-        width: 14
-        height: 19
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: a5d4db793b90413e0800000000000000
@@ -784,16 +989,24 @@ TextureImporter:
       name: Hell_Breach_24
       rect:
         serializedVersion: 2
-        x: 361
-        y: 76
-        width: 14
-        height: 19
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 1e05386cce5bd15e0800000000000000
@@ -806,16 +1019,24 @@ TextureImporter:
       name: Hell_Breach_25
       rect:
         serializedVersion: 2
-        x: 392
-        y: 76
-        width: 15
-        height: 18
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 47d7382ccc5b72ec0800000000000000
@@ -828,16 +1049,24 @@ TextureImporter:
       name: Hell_Breach_26
       rect:
         serializedVersion: 2
-        x: 10
-        y: 44
-        width: 14
-        height: 19
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: df3cfac09e06ff080800000000000000
@@ -850,16 +1079,24 @@ TextureImporter:
       name: Hell_Breach_27
       rect:
         serializedVersion: 2
-        x: 42
-        y: 44
-        width: 14
-        height: 20
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 266f6b4ea430272a0800000000000000
@@ -872,16 +1109,24 @@ TextureImporter:
       name: Hell_Breach_28
       rect:
         serializedVersion: 2
-        x: 70
-        y: 46
-        width: 19
-        height: 18
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 7d2eb3d5c92b00dc0800000000000000
@@ -894,16 +1139,24 @@ TextureImporter:
       name: Hell_Breach_29
       rect:
         serializedVersion: 2
-        x: 101
-        y: 49
-        width: 17
-        height: 15
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 82b36ce8122da4bd0800000000000000
@@ -916,16 +1169,24 @@ TextureImporter:
       name: Hell_Breach_30
       rect:
         serializedVersion: 2
-        x: 134
-        y: 49
-        width: 16
-        height: 16
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: c1aec64ddf492a580800000000000000
@@ -938,16 +1199,24 @@ TextureImporter:
       name: Hell_Breach_31
       rect:
         serializedVersion: 2
-        x: 167
-        y: 41
-        width: 19
-        height: 23
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 4693adaaa93cfad50800000000000000
@@ -960,16 +1229,24 @@ TextureImporter:
       name: Hell_Breach_32
       rect:
         serializedVersion: 2
-        x: 198
-        y: 38
-        width: 22
-        height: 23
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 698f36a3d7116ddd0800000000000000
@@ -982,16 +1259,24 @@ TextureImporter:
       name: Hell_Breach_33
       rect:
         serializedVersion: 2
-        x: 226
-        y: 37
-        width: 30
-        height: 19
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: a7fa3d1965a120e70800000000000000
@@ -1004,16 +1289,24 @@ TextureImporter:
       name: Hell_Breach_34
       rect:
         serializedVersion: 2
-        x: 257
-        y: 36
+        x: 256
+        y: 32
         width: 32
-        height: 20
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 3d37956c722a4ed20800000000000000
@@ -1026,16 +1319,24 @@ TextureImporter:
       name: Hell_Breach_35
       rect:
         serializedVersion: 2
-        x: 289
-        y: 35
+        x: 288
+        y: 32
         width: 32
-        height: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 4c7017518a1993100800000000000000
@@ -1048,16 +1349,24 @@ TextureImporter:
       name: Hell_Breach_36
       rect:
         serializedVersion: 2
-        x: 331
-        y: 44
-        width: 13
-        height: 19
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b80e82e6422478390800000000000000
@@ -1070,16 +1379,24 @@ TextureImporter:
       name: Hell_Breach_37
       rect:
         serializedVersion: 2
-        x: 362
-        y: 44
-        width: 13
-        height: 19
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 84d90d024f1347d10800000000000000
@@ -1092,16 +1409,24 @@ TextureImporter:
       name: Hell_Breach_38
       rect:
         serializedVersion: 2
-        x: 394
-        y: 44
-        width: 14
-        height: 18
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 2b5ab29a4cf422b60800000000000000
@@ -1114,16 +1439,24 @@ TextureImporter:
       name: Hell_Breach_39
       rect:
         serializedVersion: 2
-        x: 8
-        y: 12
-        width: 14
-        height: 19
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 007b2a1990b650c90800000000000000
@@ -1136,16 +1469,24 @@ TextureImporter:
       name: Hell_Breach_40
       rect:
         serializedVersion: 2
-        x: 40
-        y: 12
-        width: 14
-        height: 20
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: ba1663add5272b200800000000000000
@@ -1158,16 +1499,24 @@ TextureImporter:
       name: Hell_Breach_41
       rect:
         serializedVersion: 2
-        x: 71
-        y: 14
-        width: 19
-        height: 18
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: d2fb608d06eedf640800000000000000
@@ -1180,16 +1529,24 @@ TextureImporter:
       name: Hell_Breach_42
       rect:
         serializedVersion: 2
-        x: 106
-        y: 17
-        width: 17
-        height: 15
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 7f48be13430e7b0f0800000000000000
@@ -1202,16 +1559,24 @@ TextureImporter:
       name: Hell_Breach_43
       rect:
         serializedVersion: 2
-        x: 138
-        y: 17
-        width: 16
-        height: 16
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 9e5ee38d58192e860800000000000000
@@ -1224,16 +1589,24 @@ TextureImporter:
       name: Hell_Breach_44
       rect:
         serializedVersion: 2
-        x: 166
-        y: 9
-        width: 19
-        height: 23
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 5ecb3eaa99bbc0240800000000000000
@@ -1246,16 +1619,24 @@ TextureImporter:
       name: Hell_Breach_45
       rect:
         serializedVersion: 2
-        x: 196
-        y: 6
-        width: 22
-        height: 23
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b6727a929635cc040800000000000000
@@ -1269,15 +1650,23 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 5
-        width: 30
-        height: 19
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 1196f805de34e2e90800000000000000
@@ -1290,16 +1679,24 @@ TextureImporter:
       name: Hell_Breach_47
       rect:
         serializedVersion: 2
-        x: 255
-        y: 4
+        x: 256
+        y: 0
         width: 32
-        height: 20
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b27bd4ea3b315c500800000000000000
@@ -1312,16 +1709,24 @@ TextureImporter:
       name: Hell_Breach_48
       rect:
         serializedVersion: 2
-        x: 287
-        y: 3
+        x: 288
+        y: 0
         width: 32
-        height: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: c0c436c85813c8420800000000000000
@@ -1334,16 +1739,24 @@ TextureImporter:
       name: Hell_Breach_49
       rect:
         serializedVersion: 2
-        x: 328
-        y: 12
-        width: 13
-        height: 19
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: bc15e05d96ca39c30800000000000000
@@ -1356,16 +1769,24 @@ TextureImporter:
       name: Hell_Breach_50
       rect:
         serializedVersion: 2
-        x: 361
-        y: 12
-        width: 13
-        height: 19
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: 8b1e55c817148a060800000000000000
@@ -1378,16 +1799,24 @@ TextureImporter:
       name: Hell_Breach_51
       rect:
         serializedVersion: 2
-        x: 392
-        y: 12
-        width: 14
-        height: 18
+        x: 384
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: -1
       bones: []
       spriteID: b616e9aca72533740800000000000000
@@ -1400,7 +1829,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6e404c4888125fe4b868b5396400acd5
     internalID: 0
     vertices: []
     indices: 
@@ -1408,7 +1837,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":28.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Hell_Breach_0: -235781445906052478
       Hell_Breach_1: 3841413307629330099

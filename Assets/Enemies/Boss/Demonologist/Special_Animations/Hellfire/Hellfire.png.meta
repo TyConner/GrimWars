@@ -376,7 +376,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -390,7 +390,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -435,6 +435,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -442,12 +455,12 @@ TextureImporter:
       name: Hellfire_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 108
-        width: 15
-        height: 19
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -464,12 +477,12 @@ TextureImporter:
       name: Hellfire_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 108
-        width: 16
-        height: 20
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -486,12 +499,12 @@ TextureImporter:
       name: Hellfire_2
       rect:
         serializedVersion: 2
-        x: 71
-        y: 108
-        width: 17
-        height: 20
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -508,12 +521,12 @@ TextureImporter:
       name: Hellfire_3
       rect:
         serializedVersion: 2
-        x: 103
-        y: 108
-        width: 17
-        height: 20
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -530,12 +543,12 @@ TextureImporter:
       name: Hellfire_4
       rect:
         serializedVersion: 2
-        x: 138
-        y: 108
-        width: 19
-        height: 19
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -552,12 +565,12 @@ TextureImporter:
       name: Hellfire_5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 103
-        width: 21
-        height: 25
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -574,12 +587,12 @@ TextureImporter:
       name: Hellfire_6
       rect:
         serializedVersion: 2
-        x: 201
-        y: 94
-        width: 22
-        height: 34
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -596,12 +609,12 @@ TextureImporter:
       name: Hellfire_7
       rect:
         serializedVersion: 2
-        x: 215
-        y: 109
-        width: 7
-        height: 7
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -618,12 +631,12 @@ TextureImporter:
       name: Hellfire_8
       rect:
         serializedVersion: 2
-        x: 233
-        y: 108
-        width: 15
-        height: 13
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -640,12 +653,12 @@ TextureImporter:
       name: Hellfire_9
       rect:
         serializedVersion: 2
-        x: 247
-        y: 109
-        width: 7
-        height: 8
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -662,12 +675,12 @@ TextureImporter:
       name: Hellfire_10
       rect:
         serializedVersion: 2
-        x: 265
-        y: 108
-        width: 15
-        height: 13
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -684,12 +697,12 @@ TextureImporter:
       name: Hellfire_11
       rect:
         serializedVersion: 2
-        x: 279
-        y: 110
-        width: 9
-        height: 8
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -706,12 +719,12 @@ TextureImporter:
       name: Hellfire_12
       rect:
         serializedVersion: 2
-        x: 280
-        y: 103
-        width: 7
-        height: 8
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -728,12 +741,12 @@ TextureImporter:
       name: Hellfire_13
       rect:
         serializedVersion: 2
-        x: 297
-        y: 108
-        width: 15
-        height: 13
+        x: 416
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -750,12 +763,12 @@ TextureImporter:
       name: Hellfire_14
       rect:
         serializedVersion: 2
-        x: 310
-        y: 111
-        width: 9
-        height: 7
+        x: 448
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -772,12 +785,12 @@ TextureImporter:
       name: Hellfire_15
       rect:
         serializedVersion: 2
-        x: 312
-        y: 104
-        width: 9
-        height: 8
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -794,12 +807,12 @@ TextureImporter:
       name: Hellfire_16
       rect:
         serializedVersion: 2
-        x: 329
-        y: 108
-        width: 21
-        height: 13
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -816,12 +829,12 @@ TextureImporter:
       name: Hellfire_17
       rect:
         serializedVersion: 2
-        x: 343
-        y: 105
-        width: 9
-        height: 7
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -838,12 +851,12 @@ TextureImporter:
       name: Hellfire_18
       rect:
         serializedVersion: 2
-        x: 361
-        y: 108
-        width: 22
-        height: 13
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -860,12 +873,12 @@ TextureImporter:
       name: Hellfire_19
       rect:
         serializedVersion: 2
-        x: 393
-        y: 104
-        width: 18
-        height: 18
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -882,12 +895,12 @@ TextureImporter:
       name: Hellfire_20
       rect:
         serializedVersion: 2
-        x: 425
-        y: 103
-        width: 15
-        height: 19
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -904,12 +917,12 @@ TextureImporter:
       name: Hellfire_21
       rect:
         serializedVersion: 2
-        x: 457
-        y: 106
-        width: 15
-        height: 19
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -926,12 +939,12 @@ TextureImporter:
       name: Hellfire_22
       rect:
         serializedVersion: 2
-        x: 235
-        y: 98
-        width: 20
-        height: 12
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -948,12 +961,12 @@ TextureImporter:
       name: Hellfire_23
       rect:
         serializedVersion: 2
-        x: 266
-        y: 98
-        width: 15
-        height: 8
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -970,12 +983,12 @@ TextureImporter:
       name: Hellfire_24
       rect:
         serializedVersion: 2
-        x: 298
-        y: 98
-        width: 7
-        height: 7
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -992,12 +1005,12 @@ TextureImporter:
       name: Hellfire_25
       rect:
         serializedVersion: 2
-        x: 306
-        y: 99
-        width: 7
-        height: 8
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1014,12 +1027,12 @@ TextureImporter:
       name: Hellfire_26
       rect:
         serializedVersion: 2
-        x: 330
-        y: 98
-        width: 7
-        height: 8
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1036,12 +1049,12 @@ TextureImporter:
       name: Hellfire_27
       rect:
         serializedVersion: 2
-        x: 338
-        y: 100
-        width: 9
-        height: 8
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1058,12 +1071,12 @@ TextureImporter:
       name: Hellfire_28
       rect:
         serializedVersion: 2
-        x: 362
-        y: 99
-        width: 7
-        height: 8
+        x: 416
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1080,12 +1093,12 @@ TextureImporter:
       name: Hellfire_29
       rect:
         serializedVersion: 2
-        x: 368
-        y: 101
-        width: 10
-        height: 7
+        x: 448
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1102,12 +1115,12 @@ TextureImporter:
       name: Hellfire_30
       rect:
         serializedVersion: 2
-        x: 393
-        y: 100
-        width: 9
-        height: 7
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1124,12 +1137,12 @@ TextureImporter:
       name: Hellfire_31
       rect:
         serializedVersion: 2
-        x: 8
-        y: 76
-        width: 15
-        height: 19
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1146,12 +1159,12 @@ TextureImporter:
       name: Hellfire_32
       rect:
         serializedVersion: 2
-        x: 40
-        y: 76
-        width: 16
-        height: 21
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1168,12 +1181,12 @@ TextureImporter:
       name: Hellfire_33
       rect:
         serializedVersion: 2
-        x: 72
-        y: 76
-        width: 17
-        height: 21
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1190,12 +1203,12 @@ TextureImporter:
       name: Hellfire_34
       rect:
         serializedVersion: 2
-        x: 104
-        y: 76
-        width: 17
-        height: 21
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1212,12 +1225,12 @@ TextureImporter:
       name: Hellfire_35
       rect:
         serializedVersion: 2
-        x: 131
-        y: 76
-        width: 19
-        height: 19
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1234,12 +1247,12 @@ TextureImporter:
       name: Hellfire_36
       rect:
         serializedVersion: 2
-        x: 162
-        y: 71
-        width: 21
-        height: 25
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1256,12 +1269,12 @@ TextureImporter:
       name: Hellfire_37
       rect:
         serializedVersion: 2
-        x: 193
-        y: 62
-        width: 22
-        height: 27
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1278,12 +1291,12 @@ TextureImporter:
       name: Hellfire_38
       rect:
         serializedVersion: 2
-        x: 194
-        y: 77
-        width: 7
-        height: 7
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1300,12 +1313,12 @@ TextureImporter:
       name: Hellfire_39
       rect:
         serializedVersion: 2
-        x: 226
-        y: 77
-        width: 7
-        height: 8
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1322,12 +1335,12 @@ TextureImporter:
       name: Hellfire_40
       rect:
         serializedVersion: 2
-        x: 232
-        y: 76
-        width: 15
-        height: 13
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1344,12 +1357,12 @@ TextureImporter:
       name: Hellfire_41
       rect:
         serializedVersion: 2
-        x: 256
-        y: 78
-        width: 9
-        height: 8
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1366,12 +1379,12 @@ TextureImporter:
       name: Hellfire_42
       rect:
         serializedVersion: 2
-        x: 257
-        y: 71
-        width: 7
-        height: 8
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1388,12 +1401,12 @@ TextureImporter:
       name: Hellfire_43
       rect:
         serializedVersion: 2
-        x: 264
-        y: 76
-        width: 15
-        height: 13
+        x: 416
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1410,12 +1423,12 @@ TextureImporter:
       name: Hellfire_44
       rect:
         serializedVersion: 2
-        x: 287
-        y: 72
-        width: 9
-        height: 8
+        x: 448
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1432,12 +1445,12 @@ TextureImporter:
       name: Hellfire_45
       rect:
         serializedVersion: 2
-        x: 289
-        y: 79
-        width: 9
-        height: 7
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1454,12 +1467,12 @@ TextureImporter:
       name: Hellfire_46
       rect:
         serializedVersion: 2
-        x: 296
-        y: 76
-        width: 15
-        height: 13
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1476,12 +1489,12 @@ TextureImporter:
       name: Hellfire_47
       rect:
         serializedVersion: 2
-        x: 320
-        y: 73
-        width: 9
-        height: 7
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1498,12 +1511,12 @@ TextureImporter:
       name: Hellfire_48
       rect:
         serializedVersion: 2
-        x: 322
-        y: 76
-        width: 21
-        height: 13
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1520,12 +1533,12 @@ TextureImporter:
       name: Hellfire_49
       rect:
         serializedVersion: 2
-        x: 353
-        y: 76
-        width: 22
-        height: 13
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1542,12 +1555,12 @@ TextureImporter:
       name: Hellfire_50
       rect:
         serializedVersion: 2
-        x: 389
-        y: 72
-        width: 18
-        height: 18
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1564,12 +1577,12 @@ TextureImporter:
       name: Hellfire_51
       rect:
         serializedVersion: 2
-        x: 424
-        y: 71
-        width: 15
-        height: 19
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1586,12 +1599,12 @@ TextureImporter:
       name: Hellfire_52
       rect:
         serializedVersion: 2
-        x: 456
-        y: 74
-        width: 15
-        height: 19
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1608,12 +1621,12 @@ TextureImporter:
       name: Hellfire_53
       rect:
         serializedVersion: 2
-        x: 225
-        y: 66
-        width: 20
-        height: 12
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1630,12 +1643,12 @@ TextureImporter:
       name: Hellfire_54
       rect:
         serializedVersion: 2
-        x: 263
-        y: 66
-        width: 15
-        height: 8
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1652,12 +1665,12 @@ TextureImporter:
       name: Hellfire_55
       rect:
         serializedVersion: 2
-        x: 295
-        y: 67
-        width: 7
-        height: 8
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1674,12 +1687,12 @@ TextureImporter:
       name: Hellfire_56
       rect:
         serializedVersion: 2
-        x: 303
-        y: 66
-        width: 7
-        height: 7
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1696,12 +1709,12 @@ TextureImporter:
       name: Hellfire_57
       rect:
         serializedVersion: 2
-        x: 325
-        y: 68
-        width: 9
-        height: 8
+        x: 384
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1718,12 +1731,12 @@ TextureImporter:
       name: Hellfire_58
       rect:
         serializedVersion: 2
-        x: 335
-        y: 66
-        width: 7
-        height: 8
+        x: 416
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1740,12 +1753,12 @@ TextureImporter:
       name: Hellfire_59
       rect:
         serializedVersion: 2
-        x: 358
-        y: 69
-        width: 10
-        height: 7
+        x: 448
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1758,1199 +1771,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hellfire_60
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 67
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16f9bd5baf1f3adb0800000000000000
-      internalID: -4781712320242147487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_61
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 68
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6bb85c709bf6934b0800000000000000
-      internalID: -5460210232719995978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_62
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 44
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19f10f37870398100800000000000000
-      internalID: 110672959746613137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_63
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 44
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8a56e149569101f0800000000000000
-      internalID: -1080417125490337141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_64
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 44
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac901c94804b38360800000000000000
-      internalID: 7170772979394087370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_65
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 44
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c038225331928f170800000000000000
-      internalID: 8212359082982671116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_66
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 41
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a307e8f9d1b2edab0800000000000000
-      internalID: -4981496731594231750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_67
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 41
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e719a6dcd0ad48d50800000000000000
-      internalID: 6738750695268847998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_68
-      rect:
-        serializedVersion: 2
-        x: 202
-        y: 44
-        width: 21
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e2bb28c4937f6ac0800000000000000
-      internalID: -3859739272782564631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_69
-      rect:
-        serializedVersion: 2
-        x: 234
-        y: 44
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c6b9b32245980e00800000000000000
-      internalID: 1011222227644430017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_70
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 44
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ca34d257ea619f60800000000000000
-      internalID: 8039324351592676032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_71
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 48
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 583e7bca27f9f1680800000000000000
-      internalID: -8782125433476357243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_72
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 44
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e3e9ab225b651620800000000000000
-      internalID: 2744217548616229865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_73
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 48
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e48b034a718c0e300800000000000000
-      internalID: 279443180761430094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_74
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 55
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a6d7e6c140ea3a60800000000000000
-      internalID: 7654677089784157860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_75
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 43
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 056caefdbc075e110800000000000000
-      internalID: 1289560889248892496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_76
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 49
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebf86f274c0b8f6c0800000000000000
-      internalID: -4109340302186737730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_77
-      rect:
-        serializedVersion: 2
-        x: 362
-        y: 44
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ea857c280dc35390800000000000000
-      internalID: -7830689892077827353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_78
-      rect:
-        serializedVersion: 2
-        x: 362
-        y: 55
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d525033e6d7014d0800000000000000
-      internalID: -3165892625785608746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_79
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 56
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2fd82255b24bd490800000000000000
-      internalID: -7720503789661659346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_80
-      rect:
-        serializedVersion: 2
-        x: 394
-        y: 44
-        width: 17
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd0a153fb17c39500800000000000000
-      internalID: 401883714626363615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_81
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 44
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d52b048ad2ec30120800000000000000
-      internalID: 2378971723673416285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_82
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 44
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94065b34c47824520800000000000000
-      internalID: 2684857089489461321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_83
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 41
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9e40e5d0fd0ff340800000000000000
-      internalID: 4899650247633948319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_84
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 48
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59cec9affb2d32940800000000000000
-      internalID: 5270287710938786965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_85
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 41
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 726c3d4445d9146f0800000000000000
-      internalID: -702107081635543513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_86
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 41
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8229de6cf04efd760800000000000000
-      internalID: 7484951862126154280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_87
-      rect:
-        serializedVersion: 2
-        x: 311
-        y: 42
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98a5f17fc8d9ec660800000000000000
-      internalID: 7408031665838054025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_88
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 12
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70ef223bc99a39010800000000000000
-      internalID: 1194484816668720647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_89
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 12
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1714e9a0de99da090800000000000000
-      internalID: -8021586117912542863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_90
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 12
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d0bf6b8c64046880800000000000000
-      internalID: -8618758922637954859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_91
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 12
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc5c1d5d73d020230800000000000000
-      internalID: 3603457185311475151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_92
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 9
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2aa28bbef70afe8b0800000000000000
-      internalID: -5120697780020958558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_93
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 9
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d54243160734dae0800000000000000
-      internalID: -1525533874539313707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_94
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 12
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f0ea7616cf47c300800000000000000
-      internalID: 272274014678474998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_95
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 12
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e26736b1bbc6e4db0800000000000000
-      internalID: -4805784201483553234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_96
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 16
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6692495b572ce9350800000000000000
-      internalID: 6025467162281650534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_97
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 12
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 390fc56ea6c0518e0800000000000000
-      internalID: -1723457629128429421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_98
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 16
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09e4da102472e0000800000000000000
-      internalID: 3983814123409040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_99
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 12
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5311b6bd34429d780800000000000000
-      internalID: -8657848934780432075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_100
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 11
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6e58b0169a784310800000000000000
-      internalID: 1389495269987999342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_101
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 17
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a3d3355e0f642840800000000000000
-      internalID: 5198401977242080168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_102
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 23
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5114ef995b4db520800000000000000
-      internalID: 2719412598308344155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_103
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 12
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4a25431473198660800000000000000
-      internalID: 7388458052938443342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_104
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 23
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2d47773ee65aa550800000000000000
-      internalID: 6172841820397456683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_105
-      rect:
-        serializedVersion: 2
-        x: 389
-        y: 12
-        width: 17
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa56816c8d0586fc0800000000000000
-      internalID: -3501459818313914966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_106
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 24
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 511eefbe7eac0e910800000000000000
-      internalID: 1864713343176990997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_107
-      rect:
-        serializedVersion: 2
-        x: 424
-        y: 12
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b88316cad51e3a650800000000000000
-      internalID: 6243081300905900171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_108
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 12
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 934b0d9f37157b3f0800000000000000
-      internalID: -885149243200719815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_109
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 9
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c3694cfeda68f5f0800000000000000
-      internalID: -722710234245012544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_110
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 16
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99a000a8848169430800000000000000
-      internalID: 3789242836310821529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_111
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 9
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 129008c7e50763560800000000000000
-      internalID: 7293140197691099425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_112
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 9
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2a47051e51f5de50800000000000000
-      internalID: 6833633395986614826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hellfire_113
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 10
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be51610ba626d4760800000000000000
-      internalID: 7443713969473590763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 69f40ccba40f8744eab461bce82824f2
     internalID: 0
     vertices: []
     indices: 
@@ -2958,26 +1783,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":28.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Hellfire_0: -1983434036056564680
       Hellfire_1: -1306004534457479558
       Hellfire_10: -7836112837574106658
-      Hellfire_100: 1389495269987999342
-      Hellfire_101: 5198401977242080168
-      Hellfire_102: 2719412598308344155
-      Hellfire_103: 7388458052938443342
-      Hellfire_104: 6172841820397456683
-      Hellfire_105: -3501459818313914966
-      Hellfire_106: 1864713343176990997
-      Hellfire_107: 6243081300905900171
-      Hellfire_108: -885149243200719815
-      Hellfire_109: -722710234245012544
       Hellfire_11: 8980671671034549250
-      Hellfire_110: 3789242836310821529
-      Hellfire_111: 7293140197691099425
-      Hellfire_112: 6833633395986614826
-      Hellfire_113: 7443713969473590763
       Hellfire_12: 2981632458345543570
       Hellfire_13: 5877274073847199102
       Hellfire_14: -8306018761935444397
@@ -3031,49 +1844,9 @@ TextureImporter:
       Hellfire_58: -1472595078012301369
       Hellfire_59: 5358443047996147959
       Hellfire_6: 4284193084541023780
-      Hellfire_60: -4781712320242147487
-      Hellfire_61: -5460210232719995978
-      Hellfire_62: 110672959746613137
-      Hellfire_63: -1080417125490337141
-      Hellfire_64: 7170772979394087370
-      Hellfire_65: 8212359082982671116
-      Hellfire_66: -4981496731594231750
-      Hellfire_67: 6738750695268847998
-      Hellfire_68: -3859739272782564631
-      Hellfire_69: 1011222227644430017
       Hellfire_7: 3116206022147324438
-      Hellfire_70: 8039324351592676032
-      Hellfire_71: -8782125433476357243
-      Hellfire_72: 2744217548616229865
-      Hellfire_73: 279443180761430094
-      Hellfire_74: 7654677089784157860
-      Hellfire_75: 1289560889248892496
-      Hellfire_76: -4109340302186737730
-      Hellfire_77: -7830689892077827353
-      Hellfire_78: -3165892625785608746
-      Hellfire_79: -7720503789661659346
       Hellfire_8: -6547529655641304321
-      Hellfire_80: 401883714626363615
-      Hellfire_81: 2378971723673416285
-      Hellfire_82: 2684857089489461321
-      Hellfire_83: 4899650247633948319
-      Hellfire_84: 5270287710938786965
-      Hellfire_85: -702107081635543513
-      Hellfire_86: 7484951862126154280
-      Hellfire_87: 7408031665838054025
-      Hellfire_88: 1194484816668720647
-      Hellfire_89: -8021586117912542863
       Hellfire_9: 5087719592461735539
-      Hellfire_90: -8618758922637954859
-      Hellfire_91: 3603457185311475151
-      Hellfire_92: -5120697780020958558
-      Hellfire_93: -1525533874539313707
-      Hellfire_94: 272274014678474998
-      Hellfire_95: -4805784201483553234
-      Hellfire_96: 6025467162281650534
-      Hellfire_97: -1723457629128429421
-      Hellfire_98: 3983814123409040
-      Hellfire_99: -8657848934780432075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

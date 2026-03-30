@@ -274,7 +274,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -288,7 +288,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -333,6 +333,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -340,12 +353,12 @@ TextureImporter:
       name: Hell_Breach_Spell_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 98
-        width: 151
-        height: 129
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +375,12 @@ TextureImporter:
       name: Hell_Breach_Spell_1
       rect:
         serializedVersion: 2
-        x: 214
-        y: 217
-        width: 35
-        height: 10
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +397,12 @@ TextureImporter:
       name: Hell_Breach_Spell_2
       rect:
         serializedVersion: 2
-        x: 277
-        y: 217
-        width: 42
-        height: 10
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +419,12 @@ TextureImporter:
       name: Hell_Breach_Spell_3
       rect:
         serializedVersion: 2
-        x: 340
-        y: 217
-        width: 43
-        height: 13
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +441,12 @@ TextureImporter:
       name: Hell_Breach_Spell_4
       rect:
         serializedVersion: 2
-        x: 404
-        y: 214
-        width: 47
-        height: 17
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +463,12 @@ TextureImporter:
       name: Hell_Breach_Spell_5
       rect:
         serializedVersion: 2
-        x: 468
-        y: 213
-        width: 45
-        height: 19
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +485,12 @@ TextureImporter:
       name: Hell_Breach_Spell_6
       rect:
         serializedVersion: 2
-        x: 532
-        y: 213
-        width: 45
-        height: 19
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +507,12 @@ TextureImporter:
       name: Hell_Breach_Spell_7
       rect:
         serializedVersion: 2
-        x: 597
-        y: 212
-        width: 43
-        height: 24
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +529,12 @@ TextureImporter:
       name: Hell_Breach_Spell_8
       rect:
         serializedVersion: 2
-        x: 660
-        y: 211
-        width: 45
-        height: 28
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +551,12 @@ TextureImporter:
       name: Hell_Breach_Spell_9
       rect:
         serializedVersion: 2
-        x: 724
-        y: 210
-        width: 45
-        height: 33
+        x: 576
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,12 +573,12 @@ TextureImporter:
       name: Hell_Breach_Spell_10
       rect:
         serializedVersion: 2
-        x: 790
-        y: 213
-        width: 43
-        height: 28
+        x: 640
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +595,12 @@ TextureImporter:
       name: Hell_Breach_Spell_11
       rect:
         serializedVersion: 2
-        x: 854
-        y: 220
-        width: 19
-        height: 17
+        x: 704
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +617,12 @@ TextureImporter:
       name: Hell_Breach_Spell_12
       rect:
         serializedVersion: 2
-        x: 869
-        y: 225
-        width: 21
-        height: 16
+        x: 768
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +639,12 @@ TextureImporter:
       name: Hell_Breach_Spell_13
       rect:
         serializedVersion: 2
-        x: 870
-        y: 213
-        width: 27
-        height: 18
+        x: 832
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,12 +661,12 @@ TextureImporter:
       name: Hell_Breach_Spell_14
       rect:
         serializedVersion: 2
-        x: 919
-        y: 223
-        width: 14
-        height: 16
+        x: 896
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,12 +683,12 @@ TextureImporter:
       name: Hell_Breach_Spell_15
       rect:
         serializedVersion: 2
-        x: 929
-        y: 215
-        width: 21
-        height: 13
+        x: 960
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,12 +705,12 @@ TextureImporter:
       name: Hell_Breach_Spell_16
       rect:
         serializedVersion: 2
-        x: 931
-        y: 225
-        width: 12
-        height: 13
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,12 +727,12 @@ TextureImporter:
       name: Hell_Breach_Spell_17
       rect:
         serializedVersion: 2
-        x: 941
-        y: 227
-        width: 17
-        height: 12
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -736,12 +749,12 @@ TextureImporter:
       name: Hell_Breach_Spell_18
       rect:
         serializedVersion: 2
-        x: 945
-        y: 219
-        width: 12
-        height: 11
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -758,12 +771,12 @@ TextureImporter:
       name: Hell_Breach_Spell_19
       rect:
         serializedVersion: 2
-        x: 966
-        y: 50
-        width: 112
-        height: 198
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -780,12 +793,12 @@ TextureImporter:
       name: Hell_Breach_Spell_20
       rect:
         serializedVersion: 2
-        x: 864
-        y: 217
-        width: 9
-        height: 9
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -802,12 +815,12 @@ TextureImporter:
       name: Hell_Breach_Spell_21
       rect:
         serializedVersion: 2
-        x: 147
-        y: 154
-        width: 23
-        height: 9
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -824,12 +837,12 @@ TextureImporter:
       name: Hell_Breach_Spell_22
       rect:
         serializedVersion: 2
-        x: 199
-        y: 153
-        width: 35
-        height: 10
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -846,12 +859,12 @@ TextureImporter:
       name: Hell_Breach_Spell_23
       rect:
         serializedVersion: 2
-        x: 257
-        y: 153
-        width: 42
-        height: 10
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -868,12 +881,12 @@ TextureImporter:
       name: Hell_Breach_Spell_24
       rect:
         serializedVersion: 2
-        x: 321
-        y: 153
-        width: 43
-        height: 13
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -890,12 +903,12 @@ TextureImporter:
       name: Hell_Breach_Spell_25
       rect:
         serializedVersion: 2
-        x: 383
-        y: 150
-        width: 45
-        height: 17
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -912,12 +925,12 @@ TextureImporter:
       name: Hell_Breach_Spell_26
       rect:
         serializedVersion: 2
-        x: 447
-        y: 149
-        width: 45
-        height: 19
+        x: 576
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -934,12 +947,12 @@ TextureImporter:
       name: Hell_Breach_Spell_27
       rect:
         serializedVersion: 2
-        x: 509
-        y: 149
-        width: 47
-        height: 19
+        x: 640
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -956,12 +969,12 @@ TextureImporter:
       name: Hell_Breach_Spell_28
       rect:
         serializedVersion: 2
-        x: 576
-        y: 148
-        width: 43
-        height: 24
+        x: 704
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -978,12 +991,12 @@ TextureImporter:
       name: Hell_Breach_Spell_29
       rect:
         serializedVersion: 2
-        x: 639
-        y: 147
-        width: 45
-        height: 28
+        x: 768
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1000,12 +1013,12 @@ TextureImporter:
       name: Hell_Breach_Spell_30
       rect:
         serializedVersion: 2
-        x: 703
-        y: 146
-        width: 45
-        height: 33
+        x: 832
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1022,12 +1035,12 @@ TextureImporter:
       name: Hell_Breach_Spell_31
       rect:
         serializedVersion: 2
-        x: 767
-        y: 149
-        width: 43
-        height: 28
+        x: 896
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1044,12 +1057,12 @@ TextureImporter:
       name: Hell_Breach_Spell_32
       rect:
         serializedVersion: 2
-        x: 831
-        y: 149
-        width: 27
-        height: 18
+        x: 960
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1066,12 +1079,12 @@ TextureImporter:
       name: Hell_Breach_Spell_33
       rect:
         serializedVersion: 2
-        x: 838
-        y: 161
-        width: 21
-        height: 16
+        x: 1024
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1088,12 +1101,12 @@ TextureImporter:
       name: Hell_Breach_Spell_34
       rect:
         serializedVersion: 2
-        x: 855
-        y: 156
-        width: 19
-        height: 17
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1110,12 +1123,12 @@ TextureImporter:
       name: Hell_Breach_Spell_35
       rect:
         serializedVersion: 2
-        x: 898
-        y: 163
-        width: 17
-        height: 12
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1132,12 +1145,12 @@ TextureImporter:
       name: Hell_Breach_Spell_36
       rect:
         serializedVersion: 2
-        x: 899
-        y: 155
-        width: 12
-        height: 11
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1154,12 +1167,12 @@ TextureImporter:
       name: Hell_Breach_Spell_37
       rect:
         serializedVersion: 2
-        x: 906
-        y: 151
-        width: 21
-        height: 13
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1176,12 +1189,12 @@ TextureImporter:
       name: Hell_Breach_Spell_38
       rect:
         serializedVersion: 2
-        x: 913
-        y: 161
-        width: 12
-        height: 13
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1198,12 +1211,12 @@ TextureImporter:
       name: Hell_Breach_Spell_39
       rect:
         serializedVersion: 2
-        x: 923
-        y: 159
-        width: 14
-        height: 16
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1220,12 +1233,12 @@ TextureImporter:
       name: Hell_Breach_Spell_40
       rect:
         serializedVersion: 2
-        x: 970
-        y: 155
-        width: 15
-        height: 8
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1242,12 +1255,12 @@ TextureImporter:
       name: Hell_Breach_Spell_41
       rect:
         serializedVersion: 2
-        x: 855
-        y: 153
-        width: 9
-        height: 9
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1264,12 +1277,12 @@ TextureImporter:
       name: Hell_Breach_Spell_42
       rect:
         serializedVersion: 2
-        x: 157
-        y: 86
-        width: 9
-        height: 23
+        x: 512
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1286,12 +1299,12 @@ TextureImporter:
       name: Hell_Breach_Spell_43
       rect:
         serializedVersion: 2
-        x: 221
-        y: 74
-        width: 10
-        height: 35
+        x: 576
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1308,12 +1321,12 @@ TextureImporter:
       name: Hell_Breach_Spell_44
       rect:
         serializedVersion: 2
-        x: 285
-        y: 68
-        width: 10
-        height: 41
+        x: 640
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1330,12 +1343,12 @@ TextureImporter:
       name: Hell_Breach_Spell_45
       rect:
         serializedVersion: 2
-        x: 348
-        y: 68
-        width: 11
-        height: 43
+        x: 704
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1352,12 +1365,12 @@ TextureImporter:
       name: Hell_Breach_Spell_46
       rect:
         serializedVersion: 2
-        x: 409
-        y: 67
-        width: 17
-        height: 45
+        x: 768
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1374,12 +1387,12 @@ TextureImporter:
       name: Hell_Breach_Spell_47
       rect:
         serializedVersion: 2
-        x: 472
-        y: 68
-        width: 19
-        height: 45
+        x: 832
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1396,12 +1409,12 @@ TextureImporter:
       name: Hell_Breach_Spell_48
       rect:
         serializedVersion: 2
-        x: 536
-        y: 68
-        width: 19
-        height: 46
+        x: 896
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1418,12 +1431,12 @@ TextureImporter:
       name: Hell_Breach_Spell_49
       rect:
         serializedVersion: 2
-        x: 599
-        y: 67
-        width: 21
-        height: 49
+        x: 960
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1440,12 +1453,12 @@ TextureImporter:
       name: Hell_Breach_Spell_50
       rect:
         serializedVersion: 2
-        x: 662
-        y: 66
-        width: 23
-        height: 58
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1462,12 +1475,12 @@ TextureImporter:
       name: Hell_Breach_Spell_51
       rect:
         serializedVersion: 2
-        x: 725
-        y: 66
-        width: 25
-        height: 50
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1484,12 +1497,12 @@ TextureImporter:
       name: Hell_Breach_Spell_52
       rect:
         serializedVersion: 2
-        x: 789
-        y: 70
-        width: 24
-        height: 36
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1506,12 +1519,12 @@ TextureImporter:
       name: Hell_Breach_Spell_53
       rect:
         serializedVersion: 2
-        x: 854
-        y: 96
-        width: 10
-        height: 11
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1528,12 +1541,12 @@ TextureImporter:
       name: Hell_Breach_Spell_54
       rect:
         serializedVersion: 2
-        x: 863
-        y: 73
-        width: 15
-        height: 32
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1550,12 +1563,12 @@ TextureImporter:
       name: Hell_Breach_Spell_55
       rect:
         serializedVersion: 2
-        x: 917
-        y: 84
-        width: 13
-        height: 16
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1572,12 +1585,12 @@ TextureImporter:
       name: Hell_Breach_Spell_56
       rect:
         serializedVersion: 2
-        x: 919
-        y: 100
-        width: 15
-        height: 13
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1594,12 +1607,12 @@ TextureImporter:
       name: Hell_Breach_Spell_57
       rect:
         serializedVersion: 2
-        x: 929
-        y: 77
-        width: 13
-        height: 27
+        x: 384
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1616,12 +1629,12 @@ TextureImporter:
       name: Hell_Breach_Spell_58
       rect:
         serializedVersion: 2
-        x: 982
-        y: 90
-        width: 19
-        height: 27
+        x: 448
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1638,12 +1651,12 @@ TextureImporter:
       name: Hell_Breach_Spell_59
       rect:
         serializedVersion: 2
-        x: 997
-        y: 91
-        width: 6
-        height: 9
+        x: 512
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1660,12 +1673,12 @@ TextureImporter:
       name: Hell_Breach_Spell_60
       rect:
         serializedVersion: 2
-        x: 853
-        y: 80
-        width: 14
-        height: 17
+        x: 576
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1682,12 +1695,12 @@ TextureImporter:
       name: Hell_Breach_Spell_61
       rect:
         serializedVersion: 2
-        x: 995
-        y: 82
-        width: 10
-        height: 10
+        x: 640
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1704,12 +1717,12 @@ TextureImporter:
       name: Hell_Breach_Spell_62
       rect:
         serializedVersion: 2
-        x: 217
-        y: 22
-        width: 10
-        height: 35
+        x: 704
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1726,12 +1739,12 @@ TextureImporter:
       name: Hell_Breach_Spell_63
       rect:
         serializedVersion: 2
-        x: 280
-        y: 22
-        width: 11
-        height: 41
+        x: 768
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1748,12 +1761,12 @@ TextureImporter:
       name: Hell_Breach_Spell_64
       rect:
         serializedVersion: 2
-        x: 343
-        y: 22
-        width: 13
-        height: 41
+        x: 832
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1770,12 +1783,12 @@ TextureImporter:
       name: Hell_Breach_Spell_65
       rect:
         serializedVersion: 2
-        x: 406
-        y: 22
-        width: 17
-        height: 42
+        x: 896
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1792,12 +1805,12 @@ TextureImporter:
       name: Hell_Breach_Spell_66
       rect:
         serializedVersion: 2
-        x: 469
-        y: 22
-        width: 19
-        height: 43
+        x: 960
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1814,12 +1827,12 @@ TextureImporter:
       name: Hell_Breach_Spell_67
       rect:
         serializedVersion: 2
-        x: 533
-        y: 22
-        width: 19
-        height: 43
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1832,275 +1845,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_68
-      rect:
-        serializedVersion: 2
-        x: 596
-        y: 21
-        width: 21
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 171ed11b55d0291f0800000000000000
-      internalID: -1039753902274256527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_69
-      rect:
-        serializedVersion: 2
-        x: 659
-        y: 20
-        width: 23
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5dd55268e8aa7490800000000000000
-      internalID: -7747694492901843619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_70
-      rect:
-        serializedVersion: 2
-        x: 722
-        y: 20
-        width: 24
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: acdc2f4e3dc51a360800000000000000
-      internalID: 7179121346154253770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_71
-      rect:
-        serializedVersion: 2
-        x: 786
-        y: 30
-        width: 24
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1586508d6088ab430800000000000000
-      internalID: 3799498798615849041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_72
-      rect:
-        serializedVersion: 2
-        x: 850
-        y: 32
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2122bc2776872e020800000000000000
-      internalID: 2369588739653181970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_73
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 41
-        width: 12
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65a836ae37ba42950800000000000000
-      internalID: 6423447482879150678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_74
-      rect:
-        serializedVersion: 2
-        x: 924
-        y: 36
-        width: 15
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec016be84c75d7820800000000000000
-      internalID: 2917584635325452494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_75
-      rect:
-        serializedVersion: 2
-        x: 979
-        y: 54
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8172be9ef86461b10800000000000000
-      internalID: 1951825072430458648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_76
-      rect:
-        serializedVersion: 2
-        x: 979
-        y: 45
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49dec47e3bb822990800000000000000
-      internalID: -7412208431902429804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_77
-      rect:
-        serializedVersion: 2
-        x: 991
-        y: 48
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c373630b91e297ff0800000000000000
-      internalID: -37948433990535364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_78
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 20
-        width: 135
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b09d6041b7a5245c0800000000000000
-      internalID: -4232721215111374581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hell_Breach_Spell_79
-      rect:
-        serializedVersion: 2
-        x: 990
-        y: 42
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36fbae000b1259bf0800000000000000
-      internalID: -318311158846406813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 67c3c80d1db89054eb270e31e895f018
     internalID: 0
     vertices: []
     indices: 
@@ -2108,7 +1857,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":28.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Hell_Breach_Spell_0: -1714497957563242822
       Hell_Breach_Spell_1: -923368266435157355
@@ -2175,19 +1926,7 @@ TextureImporter:
       Hell_Breach_Spell_65: 386178817230055508
       Hell_Breach_Spell_66: 256442249827653489
       Hell_Breach_Spell_67: 6301349511785098486
-      Hell_Breach_Spell_68: -1039753902274256527
-      Hell_Breach_Spell_69: -7747694492901843619
       Hell_Breach_Spell_7: 2848587424326821364
-      Hell_Breach_Spell_70: 7179121346154253770
-      Hell_Breach_Spell_71: 3799498798615849041
-      Hell_Breach_Spell_72: 2369588739653181970
-      Hell_Breach_Spell_73: 6423447482879150678
-      Hell_Breach_Spell_74: 2917584635325452494
-      Hell_Breach_Spell_75: 1951825072430458648
-      Hell_Breach_Spell_76: -7412208431902429804
-      Hell_Breach_Spell_77: -37948433990535364
-      Hell_Breach_Spell_78: -4232721215111374581
-      Hell_Breach_Spell_79: -318311158846406813
       Hell_Breach_Spell_8: 3202291504521224852
       Hell_Breach_Spell_9: 3001197628388413070
   mipmapLimitGroupName: 
